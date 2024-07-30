@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+    <ShortName>rustacean.info</ShortName>
+    <Description>rustacean.info</Description>
+    <Image type="image/png">https://rustacean.info/assets/ferris.png</Image>
+    <Url type="text/html" method="get" template="https://rustacean.info/search?q={searchTerms}"/>
+</OpenSearchDescription>
