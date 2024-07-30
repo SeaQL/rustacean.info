@@ -1,0 +1,38 @@
+[
+  {
+    "title": "This Month in Rust OSDev: July 2022 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2022-07/"
+  },
+  {
+    "title": "Why Not Rust?",
+    "link": "https://matklad.github.io//2020/09/20/why-not-rust.html"
+  },
+  {
+    "title": "Ferrocene Update  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/sealed-rust-the-plan/"
+  },
+  {
+    "title": "Unsafe as a Human-Assisted Type System",
+    "link": "https://matklad.github.io/2019/07/25/unsafe-as-a-type-system.html"
+  },
+  {
+    "title": "Rust and the Case of the Redundant Comparison",
+    "link": "https://blog.dend.ro/rust-and-the-case-of-the-redundant-comparison/"
+  },
+  {
+    "title": "How to speed up the Rust compiler in 2018 – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2018/04/30/how-to-speed-up-the-rust-compiler-in-2018/"
+  },
+  {
+    "title": "How to speed up the Rust compiler – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2016/10/14/how-to-speed-up-the-rust-compiler/"
+  },
+  {
+    "title": "Rust: Systems Programming for Everyone",
+    "link": "https://pnkfelix.github.io/presentations/qcon-london2016-deploy/qcon-london2016.html"
+  },
+  {
+    "title": "Rust, Lifetimes, and Collections",
+    "link": "http://cglab.ca/~abeinges/blah/rust-lifetimes-and-collections/"
+  }
+]

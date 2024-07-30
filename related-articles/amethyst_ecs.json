@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Specs and Legion, two very different approaches to ECS",
+    "link": "https://csherratt.github.io/blog/posts/specs-and-legion/"
+  },
+  {
+    "title": "How to Become a Rust Super-developer - Hashnode",
+    "link": "https://hashnode.com/post/how-to-become-a-rust-super-developer-cjpv1ee7e000buhs2aqrdw2ym"
+  },
+  {
+    "title": "Rust And Game Development | Alexandru Ene blog",
+    "link": "https://alexene.github.io/2018/11/15/Rust-and-game-development.html"
+  },
+  {
+    "title": "This Year in Gfx-rs - 2017 - gfx-rs nuts and bolts",
+    "link": "http://gfx-rs.github.io/2017/12/30/this-year.html"
+  }
+]

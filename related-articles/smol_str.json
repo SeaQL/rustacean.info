@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Choosing a more optimal `String` type",
+    "link": "https://swatinem.de/blog/optimized-strings/"
+  },
+  {
+    "title": "parsing baseball files in Rust instead of Python for an 8x speedup! – Greg's Blog",
+    "link": "https://gregstoll.wordpress.com/2021/01/10/parsing-baseball-files-in-rust-instead-of-python-for-an-8x-speedup/"
+  },
+  {
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  },
+  {
+    "title": "Geometric Constraint Solvers Part 1: Algebraic Expressions · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/?utm_source=reddit&utm_medium=social&utm_campaign=constraint-solver-1-expression-trees"
+  },
+  {
+    "title": "Geometric Constraint Solvers Part 1: Algebraic Expressions · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/"
+  },
+  {
+    "title": "Small strings in Rust",
+    "link": "https://fasterthanli.me/articles/small-strings-in-rust"
+  }
+]

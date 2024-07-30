@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Using Rust, SQLx and Rocket for Oso Cloud",
+    "link": "https://www.osohq.com/post/rust-rocket-sqlx"
+  },
+  {
+    "title": "Jobs | Oso Careers",
+    "link": "https://www.osohq.com/company/jobs"
+  },
+  {
+    "title": "How we built a VS Code extension with Rust, WebAssembly, and TypeScript",
+    "link": "https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript"
+  },
+  {
+    "title": "How We Built a Cross-Platform Library with Rust",
+    "link": "https://www.osohq.com/post/cross-platform-rust-libraries"
+  },
+  {
+    "title": "404 Page not found - Oso Library Documentation",
+    "link": "https://docs.osohq.com/rust/guides/roles/getting-started.html"
+  },
+  {
+    "title": "Building a runtime reflection system for Rust 🦀️ (Part 3)",
+    "link": "https://www.osohq.com/post/runtime-reflection-pt-3"
+  },
+  {
+    "title": "Demo: 🦀️ Building a runtime reflection system for Rust",
+    "link": "https://www.osohq.com/post/demo-building-runtime-reflection-system-for-rust"
+  },
+  {
+    "title": "Build a runtime reflection system for Rust Pt. 2 –&nbsp;oso",
+    "link": "https://www.osohq.com/post/runtime-reflection-pt-2"
+  },
+  {
+    "title": "Build a runtime reflection system for Rust Pt. 1 –&nbsp;oso",
+    "link": "https://www.osohq.com/post/rust-reflection-pt-1"
+  },
+  {
+    "title": "Oso: Authorization as a Service",
+    "link": "https://www.osohq.com/"
+  }
+]

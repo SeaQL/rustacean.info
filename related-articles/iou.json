@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Notes on io-uring",
+    "link": "https://boats.gitlab.io/blog/post/io-uring/"
+  },
+  {
+    "title": "Async interviews: my take thus far · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/04/30/async-interviews-my-take-thus-far/"
+  },
+  {
+    "title": "iou: Rust bindings for liburing",
+    "link": "https://boats.gitlab.io/blog/post/iou/"
+  }
+]

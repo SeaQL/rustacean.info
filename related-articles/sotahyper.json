@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Writing a GPT Plugin in Rust, and Lost Gems | Ideas Reifying",
+    "link": "https://ideas.reify.ing/en/blog/gpt-plugin-rust-and-lost-gems/"
+  },
+  {
+    "title": "Oxy is Cloudflare's Rust-based next generation proxy framework",
+    "link": "https://blog.cloudflare.com/introducing-oxy/"
+  },
+  {
+    "title": "Astra: A Blocking HTTP Server Built on Top of Hyper",
+    "link": "https://ibraheem.ca/posts/announcing-astra/"
+  },
+  {
+    "title": "Running Zola on WebAssembly - Dylan Staley",
+    "link": "https://dstaley.com/posts/running-zola-on-wasm/"
+  },
+  {
+    "title": "Hyper vs Rocket - Low Level vs Batteries included",
+    "link": "https://www.shuttle.rs/blog/2022/06/01/hyper-vs-rocket"
+  },
+  {
+    "title": "Hyper with Sean McArthur :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/045-sean-arthur/"
+  },
+  {
+    "title": "Announcing tokio-uring: io-uring support for Tokio | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-07-tokio-uring"
+  },
+  {
+    "title": "The Tokio Upgrade from 0.2 to 1.x · The Fly Blog",
+    "link": "https://fly.io/blog/the-tokio-1-x-upgrade/"
+  },
+  {
+    "title": "Rust at CNCF | CNCF",
+    "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
+  },
+  {
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "title": "Async-Awaitifying a Rust CLI App - zupzup",
+    "link": "https://zupzup.org/async-awaitify-rust-cli/"
+  },
+  {
+    "title": "Tonic: gRPC has come to async/await!",
+    "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
+  },
+  {
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
+    "title": "Intro to Web Development with Rust for NodeJS Developers | by Bastian Gruber | Level Up Coding",
+    "link": "https://medium.com/@gruberbastian/intro-to-web-programming-in-rust-for-nodejs-developers-1a9c048c4de1"
+  },
+  {
+    "title": "Adventures in Rust: Futures and Tokio · Bryan Gilbert's Blog",
+    "link": "http://bryangilbert.com/post/code/rust/adventures-futures-tokio-rust/"
+  },
+  {
+    "title": "Rust and the Case of the Redundant Comparison",
+    "link": "https://blog.dend.ro/rust-and-the-case-of-the-redundant-comparison/"
+  },
+  {
+    "title": "This Week in Redox 24 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-24/"
+  },
+  {
+    "title": "Rusoto codegen, part two · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-codegen-part-two/"
+  },
+  {
+    "title": "Rust: A Scala Engineer's Perspective - BeachApe.",
+    "link": "https://beachape.com/blog/2017/05/24/rust-from-scala/"
+  },
+  {
+    "title": "Creating Expedient Microservices in Rust and Diesel | Cloudbees Blog",
+    "link": "https://blog.codeship.com/creating-expedient-microservices-in-rust-and-diesel/"
+  },
+  {
+    "title": "The relationship between async libraries in Rust | \nJimmy Cuadra",
+    "link": "https://www.jimmycuadra.com/posts/the-relationship-between-async-libraries-in-rust/"
+  },
+  {
+    "title": "Writing GStreamer Elements in Rust (Part 2): Don’t panic, we have better assertions now – and other updates – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2016/09/writing-gstreamer-elements-in-rust-part-2-dont-panic-we-have-better-assertions-now-and-other-updates/"
+  },
+  {
+    "title": "show_notes::bonus::_7 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_7/"
+  },
+  {
+    "title": "Futures in Rust",
+    "link": "http://www.ishbir.com/post/2016-08-14-futures-in-rust/"
+  },
+  {
+    "title": "Maniagnosis - Reimplementing ashurbanipal.web in Rust",
+    "link": "http://maniagnosis.crsr.net/2015/07/reimplementing-ashurbanipalweb-in-rust.html"
+  },
+  {
+    "title": "A Rusting Rubyist III. Rust HTTP Requests in a Ruby Module | by Mike Piccolo | Medium",
+    "link": "https://medium.com/@mfpiccolo/a-rusting-rubyist-iii-5db9915e3269"
+  },
+  {
+    "title": "Rustlog : Worklog 2015-03-06",
+    "link": "https://lifthrasiir.github.io/rustlog/worklog-2015-03-06.html"
+  },
+  {
+    "title": "Rust, an Anti-Sloppy Programming Language",
+    "link": "http://arthurtw.github.io/2014/12/21/rust-anti-sloppy-programming-language.html"
+  },
+  {
+    "title": "24 days of Rust - hyper | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-hyper/"
+  }
+]

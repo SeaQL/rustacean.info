@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Why Rust is the most admired language among developers - The GitHub Blog",
+    "link": "https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/"
+  },
+  {
+    "title": "Interview with Rust and operating system Developer Andy Python - Rust.Careers Rust Blog",
+    "link": "https://blog.rust.careers/post/andy-python-interview/"
+  },
+  {
+    "title": "Rust programming language - what is rust used for and why is so popular? - CodiLime",
+    "link": "https://codilime.com/blog/why-is-rust-programming-language-so-popular/"
+  },
+  {
+    "title": "This Month in Rust OSDev: October 2022 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2022-10/"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
+  },
+  {
+    "title": "Redox OS: Ein Betriebssystem, geschrieben in Rust | heise online",
+    "link": "https://www.heise.de/news/Redox-OS-Ein-Betriebssystem-geschrieben-in-Rust-7071974.html"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/mnemos-initial-release/"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Another Rust-y OS: Theseus joins Redox in pursuit of safer, more resilient systems • The Register",
+    "link": "https://www.theregister.com/2021/01/14/rust_os_theseus/"
+  },
+  {
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
+  },
+  {
+    "title": "The case for using Rust for Automotive software | by Sojan James | Medium",
+    "link": "https://medium.com/@sojan.james/the-case-for-using-rust-for-automotive-software-19400779f126"
+  },
+  {
+    "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
+    "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
+  },
+  {
+    "title": "https://fosdem.org/2019/schedule/event/microkernel_written_in_rust/attachments/slides/3258/export/events/attachments/microkernel_written_in_rust/slides/3258/FOSDEM_2019___A_microkernel_written_in_Rust.pdf",
+    "link": "https://fosdem.org/2019/schedule/event/microkernel_written_in_rust/attachments/slides/3258/export/events/attachments/microkernel_written_in_rust/slides/3258/FOSDEM_2019___A_microkernel_written_in_Rust.pdf"
+  },
+  {
+    "title": "How to Become a Rust Super-developer - Hashnode",
+    "link": "https://hashnode.com/post/how-to-become-a-rust-super-developer-cjpv1ee7e000buhs2aqrdw2ym"
+  },
+  {
+    "title": "https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-rust.pdf",
+    "link": "https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-rust.pdf"
+  },
+  {
+    "title": "Sponsor work on Rust! · Aaron Turon",
+    "link": "https://aturon.github.io/sponsor/"
+  },
+  {
+    "title": "Building a secure Operating System (Redox OS) with Rust featuring Jeremy Soller (Changelog Interviews #280)",
+    "link": "https://changelog.com/podcast/280"
+  },
+  {
+    "title": "This Week in Redox 34 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-34/"
+  },
+  {
+    "title": "This Week in Redox 33 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-33/"
+  },
+  {
+    "title": "This Week in Redox 32 - Redox - Your Next(Gen) OS",
+    "link": "https://www.redox-os.org/news/this-week-in-redox-32/"
+  },
+  {
+    "title": "This Week in Redox 30 - Redox - Your Next(Gen) OS",
+    "link": "https://www.redox-os.org/news/this-week-in-redox-30/"
+  },
+  {
+    "title": "This Week in Redox 29 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-29/"
+  },
+  {
+    "title": "This Week in Redox 28 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-28/"
+  },
+  {
+    "title": "This Week in Redox 27 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-27/"
+  },
+  {
+    "title": "This Week in Redox 26 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-26/"
+  },
+  {
+    "title": "This Week in Redox 25 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-25/"
+  },
+  {
+    "title": "This Week in Redox 24 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-24/"
+  },
+  {
+    "title": "This Week in Redox 23 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-23/"
+  },
+  {
+    "title": "This Week in Redox 22 - Redox - Your Next(Gen) OS",
+    "link": "https://www.redox-os.org/news/this-week-in-redox-22/"
+  },
+  {
+    "title": "This Week in Redox 21 - Redox - Your Next(Gen) OS",
+    "link": "https://www.redox-os.org/news/this-week-in-redox-21/"
+  },
+  {
+    "title": "This Week in Redox 20 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-20/"
+  },
+  {
+    "title": "24 days of Rust - built with Rust | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-built-rust-2016/"
+  },
+  {
+    "title": "Using unsafe tricks to examine Rust data structure layout",
+    "link": "http://pramode.in/2016/09/13/using-unsafe-tricks-in-rust/"
+  },
+  {
+    "title": "This Week in Redox 14 - Redox - Your Next(Gen) OS",
+    "link": "http://www.redox-os.org/news/this-week-in-redox-14/"
+  },
+  {
+    "title": "This Week in Redox 13 - Redox - Your Next(Gen) OS",
+    "link": "http://www.redox-os.org/news/this-week-in-redox-13/"
+  },
+  {
+    "title": "This Week in Redox 12 - Redox - Your Next(Gen) OS",
+    "link": "http://www.redox-os.org/news/this-week-in-redox-12/"
+  }
+]

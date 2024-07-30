@@ -1,0 +1,22 @@
+[
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  },
+  {
+    "title": "\"The Expressive C++17 Coding Challenge (in Rust)\" revisited",
+    "link": "http://words.steveklabnik.com/the-expressive-c-17-coding-challenge-in-rust-revisited"
+  },
+  {
+    "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
+    "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
+  },
+  {
+    "title": "Rust and CSV parsing - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/csv/"
+  },
+  {
+    "title": "24 days of Rust - csv | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-csv/"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "3348-c-str-literal - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3348-c-str-literal.html"
+  },
+  {
+    "title": "Run Rust RISC-V Firmware with BL602 IoT SDK",
+    "link": "https://lupyuen.github.io/articles/rust"
+  }
+]

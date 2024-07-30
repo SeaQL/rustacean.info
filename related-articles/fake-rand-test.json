@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
+    "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"
+  },
+  {
+    "title": "On Dependency Usage in Rust | lander's posts",
+    "link": "https://landaire.net/on-dependency-usage-in-rust/"
+  },
+  {
+    "title": "Youmu | Finding Nice MD5s Using Rust",
+    "link": "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
+  },
+  {
+    "title": "Zero-dependency random number generation in Rust - Orhun's Blog",
+    "link": "https://blog.orhun.dev/zero-deps-random-in-rust"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
+    "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
+  },
+  {
+    "title": "How not to learn Rust",
+    "link": "https://dystroy.org/blog/how-not-to-learn-rust/"
+  },
+  {
+    "title": "How I Implemented /dev/printerfact in Rust - Xe Iaso",
+    "link": "https://christine.website/blog/dev-printerfact-2021-04-17"
+  },
+  {
+    "title": "Python cryptography, Rust, and Gentoo [LWN.net]",
+    "link": "https://lwn.net/Articles/845535/"
+  },
+  {
+    "title": "Smerity.com: Zero dependency images (of chaos) in Rust",
+    "link": "https://state.smerity.com/smerity/state/01EYB6YQ5T2KFSC1PF55A3B8DG"
+  },
+  {
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 2) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt2/"
+  },
+  {
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  },
+  {
+    "title": "Three things I wish I’d known learning Rust · Graham King",
+    "link": "https://www.darkcoding.net/software/three-things-i-wish-id-known-learning-rust/"
+  },
+  {
+    "title": "Rust from a Gopher - Lesson 2 - LevPaul88's Place",
+    "link": "https://levpaul.com/posts/rust-lesson-2/"
+  },
+  {
+    "title": "Let's Build Snake with Rust",
+    "link": "https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html"
+  },
+  {
+    "title": "Clear explanation of Rust’s module system",
+    "link": "http://www.sheshbabu.com/posts/rust-module-system/"
+  },
+  {
+    "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
+    "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
+  },
+  {
+    "title": "Plugins in Rust · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/plugins-in-rust/"
+  },
+  {
+    "title": "Thoughts on Rust bloat | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
+  },
+  {
+    "title": "Understanding Rust Through AVL Trees",
+    "link": "https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/"
+  },
+  {
+    "title": "Rust 2019 — let us pursue composability | by Pyry Kontio | Medium",
+    "link": "https://medium.com/@GolDDranks/rust-2019-let-us-pursue-composability-70f1eb2238c3"
+  },
+  {
+    "title": "#Rust2018 — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
+  },
+  {
+    "title": "Dose Response ported to WebAssembly! — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/"
+  },
+  {
+    "title": "Writing a CHIP-8 emulator with Rust and WebAssembly",
+    "link": "http://blog.scottlogic.com/2017/12/13/chip8-emulator-webassembly-rust.html"
+  },
+  {
+    "title": "ZeroMQ Communication Between Python And Rust — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2017/03/18/zeromq-communication-between-python-and-rust/"
+  },
+  {
+    "title": "How Rust Do?",
+    "link": "http://blog.jfo.click/how-rust-do/"
+  }
+]

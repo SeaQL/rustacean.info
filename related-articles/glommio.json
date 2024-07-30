@@ -1,0 +1,22 @@
+[
+  {
+    "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/async/"
+  },
+  {
+    "title": "Local Async Executors and Why They Should be the Default",
+    "link": "https://maciej.codes/2022-06-09-local-async.html"
+  },
+  {
+    "title": "Async IO with completion-model IO systems",
+    "link": "https://www.ncameron.org/blog/async-io-with-completion-model-io-systems/"
+  },
+  {
+    "title": "What is an async runtime?",
+    "link": "https://ncameron.org/blog/what-is-an-async-runtime/"
+  },
+  {
+    "title": "Scalable server design in Rust with Tokio | by FUJITA Tomonori | Medium",
+    "link": "https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c81a5f350a3"
+  }
+]

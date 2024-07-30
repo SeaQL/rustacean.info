@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Speeding up incremental Rust compilation with dylibs | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/"
+  },
+  {
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  }
+]

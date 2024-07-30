@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
+  },
+  {
+    "title": "Rust Tooling: 8 tools that will increase your productivity",
+    "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
+  },
+  {
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
+  },
+  {
+    "title": "How I speeded up my Rust builds on GitHub ~30 times | Ectobit",
+    "link": "https://ectobit.com/blog/speed-up-github-actions-rust-pipelines/"
+  },
+  {
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
+  },
+  {
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
+    "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
+  }
+]

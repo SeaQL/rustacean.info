@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "title": "Rust verification tools (2020) – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-verification-tools/"
+  }
+]

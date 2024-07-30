@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Best Rust Web Frameworks to Use in 2023",
+    "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+  },
+  {
+    "title": "The Case for Rust on the Web | Mainmatter",
+    "link": "https://mainmatter.com/blog/2023/08/14/the-case-for-rust-on-the-web/"
+  },
+  {
+    "title": "Fossil Data Platform Rewritten in Rust 🦀",
+    "link": "https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html"
+  },
+  {
+    "title": "Observe your Rust application with Quickwit, Jaeger and Grafana | Quickwit",
+    "link": "https://quickwit.io/blog/observing-rust-app-with-quickwit-jaeger-grafana"
+  },
+  {
+    "title": "Taking Rust to the Cloud: Blazingly Fast File Sharing - Orhun's Blog",
+    "link": "https://blog.orhun.dev/blazingly-fast-file-sharing/"
+  },
+  {
+    "title": "From PHP to Rust: Migrating a REST API between these two languages. (Part I)",
+    "link": "https://blog.equationlabs.io/from-php-to-rust-migrating-a-rest-api-between-these-two-languages-part-i"
+  }
+]

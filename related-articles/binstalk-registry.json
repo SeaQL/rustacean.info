@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Why does everyone install crates globally?",
+    "link": "https://dustinblackman.com/posts/why-does-everyone-install-crates-globally/"
+  },
+  {
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "title": "Taking Rust to the Cloud: Blazingly Fast File Sharing - Orhun's Blog",
+    "link": "https://blog.orhun.dev/blazingly-fast-file-sharing/"
+  },
+  {
+    "title": "axo blog - Release Engineering Is Exhausting So Here's cargo-dist",
+    "link": "https://blog.axo.dev/2023/02/cargo-dist"
+  }
+]

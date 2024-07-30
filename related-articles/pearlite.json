@@ -1,0 +1,18 @@
+[
+  {
+    "title": "How Open Source Projects are Using Kani to Write Better Software in Rust | AWS Open Source Blog",
+    "link": "https://aws.amazon.com/blogs/opensource/how-open-source-projects-are-using-kani-to-write-better-software-in-rust/"
+  },
+  {
+    "title": "Using the Kani Rust Verifier on a Rust Standard Library CVE | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2022/06/01/using-the-kani-rust-verifier-on-a-rust-standard-library-cve.html"
+  },
+  {
+    "title": "Announcing the Kani Rust Verifier Project | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2022/05/04/announcing-the-kani-rust-verifier-project.html"
+  },
+  {
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  }
+]

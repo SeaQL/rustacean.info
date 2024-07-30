@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Data-driven performance optimization with Rust and Miri | by Keaton Brandt | Source and Buggy | Medium",
+    "link": "https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35"
+  },
+  {
+    "title": "When rustc explodes",
+    "link": "https://fasterthanli.me/articles/when-rustc-explodes"
+  },
+  {
+    "title": "Why is my Rust build so slow?",
+    "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
+  },
+  {
+    "title": "Wiki - WhereRustcSpendsItsTime",
+    "link": "https://wiki.alopex.li/WhereRustcSpendsItsTime"
+  }
+]

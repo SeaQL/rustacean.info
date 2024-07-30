@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Using Tauri to build a cross-platform security app",
+    "link": "https://www.firezone.dev/blog/using-tauri"
+  },
+  {
+    "title": "Xilem 2024 plans - Linebender",
+    "link": "https://linebender.org/blog/xilem-2024/"
+  },
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "Console #154 - An Interview with Giuliano of Sniffnet - Rust app to easily monitor network traffic",
+    "link": "https://console.substack.com/p/console-154#§sniffnet"
+  },
+  {
+    "title": "Why is building a UI in Rust so hard?",
+    "link": "https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard"
+  },
+  {
+    "title": "Catch 22! Rust in Review — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2022/12/11/catch22.html"
+  },
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  }
+]

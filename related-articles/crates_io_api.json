@@ -1,0 +1,10 @@
+[
+  {
+    "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  }
+]

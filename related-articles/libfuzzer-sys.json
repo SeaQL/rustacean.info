@@ -1,0 +1,14 @@
+[
+  {
+    "title": "From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html"
+  },
+  {
+    "title": "Bytecode Alliance — Security and Correctness in Wasmtime",
+    "link": "https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime"
+  },
+  {
+    "title": "Writing a Test Case Generator for a Programming Language",
+    "link": "https://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
+  }
+]

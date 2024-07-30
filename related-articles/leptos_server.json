@@ -1,0 +1,30 @@
+[
+  {
+    "title": "AMP with Carter Schultz - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e02-amp/"
+  },
+  {
+    "title": "Xilem 2024 plans - Linebender",
+    "link": "https://linebender.org/blog/xilem-2024/"
+  },
+  {
+    "title": "Introducing Gooey: My take on a Rusty GUI framework",
+    "link": "https://ecton.dev/introducing-gooey/"
+  },
+  {
+    "title": "Writing an AI Chatbot in Rust and Solid.js – The Tech Trailblazer",
+    "link": "https://thetechtrailblazer.blog/2023/07/18/writing-an-ai-chatbot-in-rust-and-solid-js/"
+  },
+  {
+    "title": "Episode 5: Putting Lipstick on a Pig - The Way of the Crab",
+    "link": "https://wayofthecrab.com/episodes/005/"
+  },
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "Introducing Kobold",
+    "link": "https://maciej.codes/2023-03-23-kobold.html"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "impl Future { }",
+    "link": "https://implfuture.dev/blog/rewriting-the-modern-web-in-rust"
+  },
+  {
+    "title": "Rust: A Critical Retrospective «  bunnie's blog",
+    "link": "https://www.bunniestudios.com/blog/?p=6375"
+  },
+  {
+    "title": "Notes on cross-compiling Rust",
+    "link": "https://john-millikin.com/notes-on-cross-compiling-rust"
+  },
+  {
+    "title": "Rust 2021 - Nikhil's blog",
+    "link": "https://nikhilism.com/post/2020/rust-2021/"
+  },
+  {
+    "title": "A Bazel Persistent Worker for Rust - Nikhil's blog",
+    "link": "https://nikhilism.com/post/2020/bazel-persistent-worker-rust/"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
+    "title": "Renato Athaydes",
+    "link": "https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html"
+  },
+  {
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
+    "title": "Is Rust a Functional Programming Language? | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2021-02-03_is-rust-fp/"
+  },
+  {
+    "title": "Arc More Atomic | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2018/06/24/arc-more-atomic.html"
+  }
+]

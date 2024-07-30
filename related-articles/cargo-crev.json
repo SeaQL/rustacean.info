@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Rust without crates.io",
+    "link": "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html"
+  },
+  {
+    "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
+    "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
+  },
+  {
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
+  },
+  {
+    "title": "web.crev.dev cargo-crev",
+    "link": "https://web.crev.dev/rust-reviews/"
+  },
+  {
+    "title": "Code and Bitters",
+    "link": "https://codeandbitters.com/published-crate-analysis/"
+  },
+  {
+    "title": "How I structure my apps (in Rust and other languages)",
+    "link": "https://dpc.pw/how-i-structure-my-apps-in-rust-and-other-languages"
+  }
+]

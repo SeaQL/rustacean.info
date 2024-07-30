@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Building Agentic RAG with Rust, Qdrant &amp; OpenAI",
+    "link": "https://www.shuttle.rs/blog/2024/05/23/building-agentic-rag-rust-qdrant"
+  },
+  {
+    "title": "Make Illegal States Unrepresentable | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/illegal-state/"
+  },
+  {
+    "title": "Rails developers write some Rust: a review of Axum 0.6",
+    "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
+  },
+  {
+    "title": "Validating JSON input in Rust web services | Vinted Engineering",
+    "link": "https://vinted.engineering/2021/02/15/validating-json-input-in-rust-web-services/"
+  },
+  {
+    "title": "Building a REST and Web Socket API with Actix and Rust | AGM Projects",
+    "link": "https://agmprojects.com/blog/building-a-rest-and-web-socket-api-with-actix.html"
+  },
+  {
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Announcing Yew 0.21 | Yew",
+    "link": "https://yew.rs/blog/2023/09/23/release-0-21"
+  },
+  {
+    "title": "Releasing Yew 0.20 | Yew",
+    "link": "https://yew.rs/blog/2022/11/24/release-0-20"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "Rust on the Frontend and Backend - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/moonzoon"
+  },
+  {
+    "title": "Why building a front-end framework in Rust is hard",
+    "link": "https://lik.ai/blog/why-building-a-front-end-framework-in-rust-is-hard"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Written in Rust - What is the Rust language used for | Evrone",
+    "link": "https://evrone.com/rust-vs-c"
+  },
+  {
+    "title": "Are we web yet? Yes, and it's freaking fast!",
+    "link": "http://www.arewewebyet.org/"
+  },
+  {
+    "title": "The most exciting journey of 2020 | by Sergey Dubovyk | Medium",
+    "link": "https://medium.com/@knidarkness/the-most-exciting-journey-of-2020-6262d6c6f03"
+  },
+  {
+    "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"
+  },
+  {
+    "title": "Go vs Rust: Writing a CLI tool - cuchi.me",
+    "link": "https://cuchi.me/posts/go-vs-rust"
+  },
+  {
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "title": "Building TodoMVC With vgtk : Bodil dot lol",
+    "link": "https://bodil.lol/vgtk/"
+  },
+  {
+    "title": "Rust for Java Devs",
+    "link": "https://leshow.github.io/post/rust_for_java_devs/"
+  },
+  {
+    "title": "Review of “Everything in Rust” of COSCUP 2019 | by Liu An Chi (tigercosmos) | Coding Neutrino | Medium",
+    "link": "https://medium.com/coding-neutrino-blog/review-of-everything-in-rust-of-coscup-2019-54152467d1c6"
+  }
+]

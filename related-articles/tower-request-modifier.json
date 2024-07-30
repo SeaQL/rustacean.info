@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Composing an observable Rust application - LogRocket Blog",
+    "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
+  },
+  {
+    "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
+  }
+]

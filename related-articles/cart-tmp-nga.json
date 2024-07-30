@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Computing image filters with wgpu-rs",
+    "link": "https://blog.redwarp.app/image-filters/"
+  },
+  {
+    "title": "Bevy 0.6",
+    "link": "https://bevyengine.org/news/bevy-0-6/"
+  },
+  {
+    "title": "This Year in Wgpu - 2021 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/12/25/this-year.html"
+  },
+  {
+    "title": "Release of wgpu v0.11 and naga v0.7 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/10/07/release-0.11.html"
+  },
+  {
+    "title": "wgpu alliance with Deno - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/09/16/deno-webgpu.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/025/"
+  },
+  {
+    "title": "Release of a Pure-Rust v0.10 and a Call For Testing - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/08/18/release-0.10.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/024/"
+  },
+  {
+    "title": "Release of v0.9 and the Future of wgpu - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/07/16/release-0.9-future.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #22 - May 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/022/"
+  },
+  {
+    "title": "Shader translation benchmark on Dota2/Metal - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/05/09/dota2-msl-compilation.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/021/"
+  },
+  {
+    "title": "Release of v0.8 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/04/30/release-0.8.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/020/"
+  },
+  {
+    "title": "Release of v0.7 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/02/02/release-0.7.html"
+  },
+  {
+    "title": "The Big Picture - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
+  },
+  {
+    "title": "A Taste of WebGPU in Firefox - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/"
+  }
+]

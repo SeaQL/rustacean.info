@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Integrating Rust and C++ in Firefox - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/"
+  },
+  {
+    "title": "The problem of safe FFI bindings in Rust - Abubalay",
+    "link": "https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust"
+  }
+]

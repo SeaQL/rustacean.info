@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
+    "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"
+  },
+  {
+    "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
+    "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
+  },
+  {
+    "title": "Touring a Fast, Safe, and Complete(ish) Web Service in Rust — brandur.org",
+    "link": "https://brandur.org/rust-web"
+  },
+  {
+    "title": "Redefining Failure",
+    "link": "https://epage.github.io/blog/2018/03/redefining-failure/"
+  },
+  {
+    "title": "show_notes::news::rust_1_21_1_22 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/rust_1_21_1_22/index.html"
+  },
+  {
+    "title": "Announcing Failure",
+    "link": "https://boats.gitlab.io/blog/post/2017-11-16-announcing-failure/"
+  },
+  {
+    "title": "24 days of Rust - error_chain | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-error_chain/"
+  }
+]

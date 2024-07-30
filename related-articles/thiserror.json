@@ -1,0 +1,118 @@
+[
+  {
+    "title": "Practical guide to Error Handling in Rust ::\n— A blog about programming, distributed systems and others",
+    "link": "https://dev-state.com/posts/error_handling/"
+  },
+  {
+    "title": "How we built the Grafbase local development experience in Rust",
+    "link": "https://grafbase.com/blog/how-we-built-the-grafbase-cli-in-rust"
+  },
+  {
+    "title": "BlogWerx: Improving build times for derive macros by 3x or more",
+    "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
+  },
+  {
+    "title": "Zero To Production in Rust book review",
+    "link": "https://rusty-ferris.pages.dev/blog/zero-to-production-book-review/"
+  },
+  {
+    "title": "Parsing TFTP in Rust",
+    "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/"
+  },
+  {
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "title": "More than you've ever wanted to know about errors in Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/30/error-handling"
+  },
+  {
+    "title": "Announcing error-stack – HASH Developer Blog",
+    "link": "https://hash.dev/blog/announcing-error-stack"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "title": "Rust Turbofish: Closure Return Type | Dan Aloni",
+    "link": "https://blog.aloni.org/posts/rust-turbofish-closure-return-type/"
+  },
+  {
+    "title": "Rust Error Handling",
+    "link": "https://www.unwoundstack.com/blog/rust-error-handling.html"
+  },
+  {
+    "title": "butido - a Linux Package Building Tool in Rust — musicmatzes blog",
+    "link": "https://beyermatthias.de/butido-a-linux-package-building-tool-in-rust"
+  },
+  {
+    "title": "Error Handling In Rust - A Deep Dive | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/error-handling-rust/"
+  },
+  {
+    "title": "What's in the box?",
+    "link": "https://fasterthanli.me/articles/whats-in-the-box"
+  },
+  {
+    "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
+    "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"
+  },
+  {
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 2) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt2/"
+  },
+  {
+    "title": "Wrapping errors in Rust",
+    "link": "https://edgarluque.com/blog/wrapping-errors-in-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Building a Recipe Manager - Part 3 - Parsing and more Druid | bheisler.github.io",
+    "link": "https://bheisler.github.io/post/recipe-manager-part-3-parsing-and-more-druid/"
+  },
+  {
+    "title": "Beginner's guide to Error Handling in Rust",
+    "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
+  },
+  {
+    "title": "Errors in Rust: A Deep Dive :: the halcyon blog",
+    "link": "https://www.halcyon.hr/posts/error-handling-in-rust/"
+  },
+  {
+    "title": "What's New in Rust 1.42 and 1.43 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/014-rust-1.42-1.43/"
+  },
+  {
+    "title": "Rust: Structuring and handling errors in 2020 - Nick's Blog and Digital Garden",
+    "link": "https://nick.groenen.me/posts/rust-error-handling/"
+  },
+  {
+    "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
+    "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
+  },
+  {
+    "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
+  },
+  {
+    "title": "How I Reverse Engineered the LastPass CLI Tool · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/lastpass/"
+  },
+  {
+    "title": "Async-Awaitifying a Rust CLI App - zupzup",
+    "link": "https://zupzup.org/async-awaitify-rust-cli/"
+  },
+  {
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  }
+]

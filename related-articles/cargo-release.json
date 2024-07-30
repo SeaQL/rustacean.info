@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Fully Automated Releases for Rust Projects - Orhun's Blog",
+    "link": "https://blog.orhun.dev/automated-rust-releases/"
+  },
+  {
+    "title": "axo blog - Release Engineering Is Exhausting So Here's cargo-dist",
+    "link": "https://blog.axo.dev/2023/02/cargo-dist"
+  },
+  {
+    "title": "Release-plz: release Rust packages from CI • Marco Ieni",
+    "link": "https://www.marcoieni.com/2022/06/release-plz-release-rust-packages-from-ci/"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "A JVM in Rust part 5 - Executing instructions · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/"
+  },
+  {
+    "title": "Mapping my walks with OSRM and Rust",
+    "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
+  },
+  {
+    "title": "usethe.computer - XMHell: Handling 38GB of UTF-16 XML with Rust",
+    "link": "http://usethe.computer/posts/14-xmhell.html"
+  },
+  {
+    "title": "24 days of Rust - zip and lzma compression | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-zip-and-lzma-compression/"
+  }
+]

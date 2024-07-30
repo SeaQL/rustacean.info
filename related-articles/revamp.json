@@ -1,0 +1,46 @@
+[
+  {
+    "title": "SemVer in Rust: Tooling, Breakage, and Edge Cases — FOSDEM 2024",
+    "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
+  },
+  {
+    "title": "Rustdoc JSON in 2023  ❧ Alona Enraght-Moony",
+    "link": "https://alona.page/posts/rustdoc-json-2023/"
+  },
+  {
+    "title": "Checking semver in the presence of doc(hidden) items",
+    "link": "https://predr.ag/blog/checking-semver-for-doc-hidden-items/"
+  },
+  {
+    "title": "Looking for Bad Apples in Rust Dependency Trees Using GraphQL and Trustfall | by Emil Jonathan Eriksson | Volvo Cars Engineering | Medium",
+    "link": "https://medium.com/volvo-cars-engineering/looking-for-bad-apples-in-rust-dependency-trees-using-graphql-and-trustfall-cb88b835f652"
+  },
+  {
+    "title": "🎙️ Trustfall and cargo-semver-checks with Predrag Gruevski - RustShip • Marco Ieni",
+    "link": "https://ieni.dev/2023/09/%EF%B8%8F-trustfall-and-cargo-semver-checks-with-predrag-gruevski-rustship/"
+  },
+  {
+    "title": "RustShip: a new Rust podcast • Marco Ieni",
+    "link": "https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/"
+  },
+  {
+    "title": "Breaking semver in Rust by adding a private type, or by adding an import",
+    "link": "https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/"
+  },
+  {
+    "title": "Speeding up Rust semver-checking by over 2000x",
+    "link": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/"
+  },
+  {
+    "title": "Moving and re-exporting a Rust type can be a major breaking change",
+    "link": "https://predr.ag/blog/moving-and-reexporting-rust-type-can-be-major-breaking-change/"
+  },
+  {
+    "title": "cargo-semver-checks today and in 2023",
+    "link": "https://predr.ag/blog/cargo-semver-checks-today-and-in-2023/"
+  },
+  {
+    "title": "Toward fearless cargo update",
+    "link": "https://predr.ag/blog/toward-fearless-cargo-update/"
+  }
+]

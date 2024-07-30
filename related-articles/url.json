@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "title": "Rust on the Frontend and Backend - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/moonzoon"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  },
+  {
+    "title": "Writing fast and safe native Node.js modules with Rust - RisingStack Engineering",
+    "link": "https://blog.risingstack.com/node-js-native-modules-with-rust/"
+  },
+  {
+    "title": "Writing GStreamer plugins and elements in Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2016/05/writing-gstreamer-plugins-and-elements-in-rust/"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "BlogWerx: Improving build times for derive macros by 3x or more",
+    "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
+  },
+  {
+    "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"
+  },
+  {
+    "title": "xi-editor retrospective | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
+  },
+  {
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  }
+]

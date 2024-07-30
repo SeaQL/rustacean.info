@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Let's build a Load Balancer in Rust - Part 1 | Marco Bacis",
+    "link": "https://marcobacis.com/blog/load-balancer-rust-1/"
+  },
+  {
+    "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
+  },
+  {
+    "title": "release-plz with Marco Ieni :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/marco-ieni/"
+  },
+  {
+    "title": "SemVer in Rust: Tooling, Breakage, and Edge Cases — FOSDEM 2024",
+    "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
+  },
+  {
+    "title": "🎙️ Rust in Art with Lisa Passing - RustShip 6 • Marco Ieni",
+    "link": "https://ieni.dev/2024/03/%EF%B8%8F-rust-in-art-with-lisa-passing-rustship-6/"
+  },
+  {
+    "title": "What's new in 1.3.0? | git-cliff",
+    "link": "https://git-cliff.org/blog/1.3.0/"
+  },
+  {
+    "title": "RustLab | The International Conference on Rust in Florence",
+    "link": "https://rustlab.it/"
+  },
+  {
+    "title": "Release-plz: release Rust packages from CI • Marco Ieni",
+    "link": "https://www.marcoieni.com/2022/06/release-plz-release-rust-packages-from-ci/"
+  },
+  {
+    "title": "RustLab | The International Conference on Rust in Florence",
+    "link": "https://www.rustlab.it/"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Where Does the Time Go? Rust's Problem with Slow Compiles - The New Stack",
+    "link": "https://thenewstack.io/where-does-the-time-go-rusts-problem-with-slow-compiles/"
+  },
+  {
+    "title": "This Week in Rust - Issue 444 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/twir-444/"
+  },
+  {
+    "title": "Okno's blog",
+    "link": "https://oknozor.github.io/blog/optimize-rust-binary-size/"
+  },
+  {
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  },
+  {
+    "title": "Colin Woodbury - Software Development Languages: Rust",
+    "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
+  },
+  {
+    "title": "Managing Rust bloat with Github Actions",
+    "link": "https://tomforb.es/managing-rust-bloat-with-github-actions/"
+  },
+  {
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "title": "BlogWerx: The Rust compiler isn't slow; we are.",
+    "link": "https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html"
+  },
+  {
+    "title": "Reducing the size of a Rust GStreamer plugin",
+    "link": "https://www.collabora.com/news-and-blog/blog/2020/04/28/reducing-size-rust-gstreamer-plugin/"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/fmt-unreasonably-expensive/"
+  },
+  {
+    "title": "Thoughts on Rust bloat | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
+  },
+  {
+    "title": "Migrating to Actix Web from Rocket for Stability",
+    "link": "https://nbsoftsolutions.com/blog/migrating-to-actix-web-from-rocket-for-stability"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Bevy 0.14-rc.2, Powerglove, and Soup!",
+    "link": "https://thisweekinbevy.com/issue/2024-06-10-bevy-014-rc2-powerglove-and-soup"
+  },
+  {
+    "title": "High performance vector graphic video games | Spencer C. Imbleau’s blog",
+    "link": "https://simbleau.github.io/rust/graphics/2023/11/20/using-vello-for-video-games.html"
+  },
+  {
+    "title": "Eight million pixels and counting\n– Custom allocators in Rust",
+    "link": "https://nical.github.io/posts/rust-custom-allocators.html"
+  },
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "title": "Eight million pixels and counting\n– Lyon 1.0",
+    "link": "https://nical.github.io/posts/lyon-1-0.html"
+  },
+  {
+    "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
+    "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
+  },
+  {
+    "title": "Efficient custom shapes in QtQuick with Rust",
+    "link": "https://carlschwan.eu/2021/01/20/efficient-custom-shapes-in-qtquick-with-rust/"
+  },
+  {
+    "title": "Nannou Update - WebGPU, capturing frames and more! | Nannou",
+    "link": "https://nannou.cc/posts/nannou_v0.13"
+  },
+  {
+    "title": "Eight million pixels and counting\n– A new tessellator",
+    "link": "https://nical.github.io/posts/new-tessellator.html"
+  },
+  {
+    "title": "Nannou Update - Vulkan, LASERs and more! | Nannou",
+    "link": "https://nannou.cc/posts/nannou_v0.9"
+  },
+  {
+    "title": "Eight million pixels and counting\n– 2d graphics in Rust discussion - A look at GPU memory management",
+    "link": "https://nical.github.io/posts/rust-2d-graphics-02.html"
+  },
+  {
+    "title": "Eight million pixels and counting\n– Introduction to lyon: 2D vector graphics rendering on the GPU in rust",
+    "link": "https://nical.github.io/posts/lyon-intro.html"
+  }
+]

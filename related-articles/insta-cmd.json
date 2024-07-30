@@ -1,0 +1,18 @@
+[
+  {
+    "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
+    "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
+  },
+  {
+    "title": "The birth of a package manager | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
+  },
+  {
+    "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
+  },
+  {
+    "title": "Insta Snapshots",
+    "link": "https://insta.rs/"
+  }
+]

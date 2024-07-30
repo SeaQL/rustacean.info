@@ -1,0 +1,6 @@
+[
+  {
+    "title": "Avoiding allocations in Rust to shrink Wasm modules",
+    "link": "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
+  }
+]

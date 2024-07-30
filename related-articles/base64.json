@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "title": "gpg",
+    "link": "https://andrewhalle.github.io/build-your-own/gpg"
+  },
+  {
+    "title": "Building devserver: An Ultra-Tiny Rust Server",
+    "link": "https://ianjk.com/devserver/"
+  },
+  {
+    "title": "Writing Rust NIFs for Elixir With Rustler | Mainmatter",
+    "link": "https://simplabs.com/blog/2020/06/25/writing-rust-nifs-for-elixir-with-rustler/"
+  }
+]

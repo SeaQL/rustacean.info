@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Learning Rust - after one month",
+    "link": "https://szabgab.com/learning-rust-after-one-month.html"
+  },
+  {
+    "title": "Song search in Rust using OpenAI",
+    "link": "https://gigapotential.dev/blog/song-search-in-rust-using-openai/"
+  },
+  {
+    "title": "Mapping my walks with OSRM and Rust",
+    "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
+  },
+  {
+    "title": "Learn Rust With Benford's Law&nbsp;–&nbsp;gliderkite.io",
+    "link": "https://gliderkite.github.io/posts/learn-rust-with-benford/"
+  },
+  {
+    "title": "Recommending books (with Rust) - Mostly Engineering",
+    "link": "https://maciejkula.github.io/2018/07/27/recommending-books-with-rust/"
+  },
+  {
+    "title": "Rust and CSV parsing - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/csv/"
+  },
+  {
+    "title": "Error Handling in Rust - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/rust-error-handling/"
+  },
+  {
+    "title": "Announcing Rust 1.0 Alpha | Hacker News",
+    "link": "https://news.ycombinator.com/item?id=8863451"
+  },
+  {
+    "title": "24 days of Rust - csv | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-csv/"
+  }
+]

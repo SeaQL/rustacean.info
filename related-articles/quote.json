@@ -1,0 +1,46 @@
+[
+  {
+    "title": "How We Generate JavaScript and Python SDKs From Our Canonical Rust SDK – PostgresML",
+    "link": "https://postgresml.org/blog/how-we-generate-javascript-and-python-sdks-from-our-canonical-rust-sdk"
+  },
+  {
+    "title": "Fathomable Rust Macros - GeekLaunch",
+    "link": "https://geeklaunch.net/blog/fathomable-rust-macros/"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "title": "Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume",
+    "link": "https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/"
+  },
+  {
+    "title": "Introducing usb-ids.rs",
+    "link": "https://blog.yossarian.net/2021/01/21/Introducing-usb-ids-rs"
+  },
+  {
+    "title": "Building Canrun: A statically typed logic programming library for Rust",
+    "link": "https://esimmler.com/building-canrun-part-1/"
+  },
+  {
+    "title": "Writing Python inside your Rust code — Part 1 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-1/"
+  },
+  {
+    "title": "proc-macro-rules",
+    "link": "https://www.ncameron.org/blog/proc-macro-rules/"
+  },
+  {
+    "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
+    "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
+  },
+  {
+    "title": "An overview of macros in Rust",
+    "link": "http://words.steveklabnik.com/an-overview-of-macros-in-rust"
+  }
+]

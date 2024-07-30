@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "A look back at asynchronous Rust. In 2013, I discovered the Rust… | by tomaka | Medium",
+    "link": "https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "title": "My Pure Rust Wishlist - GBurghoorn",
+    "link": "https://gburghoorn.com/posts/pure-rust-wishlist/"
+  },
+  {
+    "title": "Why Not Rust Crypto?",
+    "link": "https://briansmith.org/why-not-rustcrypto"
+  },
+  {
+    "title": "Leveraging Rust in our high-performance Java database",
+    "link": "https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/"
+  },
+  {
+    "title": "Rustls 0.21.0 Released With Exciting New Features - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rustls-new-features/"
+  },
+  {
+    "title": "How to speed up the Rust compiler in April 2022 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2022/04/12/how-to-speed-up-the-rust-compiler-in-april-2022.html"
+  },
+  {
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Memory Safe ‘curl’ for a More Secure Internet -  Internet Security Research Group",
+    "link": "https://www.abetterinternet.org/post/memory-safe-curl/"
+  },
+  {
+    "title": "Using Rust for Kentik’s New Synthetic Monitoring Agent | Kentik Blog",
+    "link": "https://www.kentik.com/blog/using-rust-for-kentiks-new-synthetic-network-monitoring-agent/"
+  },
+  {
+    "title": "Shipping Linux binaries that don’t break with Rust | William Saar’s dev blog",
+    "link": "https://saarw.github.io/dev/2020/06/18/shipping-linux-binaries-that-dont-break-with-rust.html"
+  },
+  {
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
+  },
+  {
+    "title": "Migrating to Actix Web from Rocket for Stability",
+    "link": "https://nbsoftsolutions.com/blog/migrating-to-actix-web-from-rocket-for-stability"
+  },
+  {
+    "title": "Rustls and Servo",
+    "link": "https://simrangujral.github.io/Rustls&Servo"
+  },
+  {
+    "title": "The highs and lows of Rust (2017) | \nJimmy Cuadra",
+    "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust-2017/"
+  },
+  {
+    "title": "show_notes::bonus::_6 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_6/"
+  },
+  {
+    "title": "The highs and lows of Rust | \nJimmy Cuadra",
+    "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust/"
+  }
+]

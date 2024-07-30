@@ -1,0 +1,10 @@
+[
+  {
+    "title": "When rustc explodes",
+    "link": "https://fasterthanli.me/articles/when-rustc-explodes"
+  },
+  {
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  }
+]

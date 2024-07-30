@@ -1,0 +1,34 @@
+[
+  {
+    "title": "The Embedded Rustacean Issue #15",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"
+  },
+  {
+    "title": "esp-rs Quarterly Planning: Q1 2024 | Beta7",
+    "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q1-2024/"
+  },
+  {
+    "title": "esp-rs Quarterly Planning: Q4 2023 | Beta7",
+    "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q4-2023/"
+  },
+  {
+    "title": "esp-rs Quarterly Planning: Q3 2023 | Beta7",
+    "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q3-2023/"
+  },
+  {
+    "title": "Unlocking Possibilities: 4 Reasons Why ESP32 and Rust Make a Winning Combination",
+    "link": "https://apollolabsblog.hashnode.dev/unlocking-possibilities-4-reasons-why-esp32-and-rust-make-a-winning-combination"
+  },
+  {
+    "title": "ESP32 MQTT Publish with Rust. Here at IOTICS, we are in the habit of… | by Mihai Dinculescu | IOTICS | Medium",
+    "link": "https://medium.com/iotics/esp32-mqtt-publish-with-rust-678d1068ee2"
+  },
+  {
+    "title": "Rust on Espressif chips - 18-10-2021",
+    "link": "https://mabez.dev/blog/posts/esp-rust-18-10-2021/"
+  },
+  {
+    "title": "Rust on the ESP32 &amp; ESP8266 - Building an ecosystem",
+    "link": "https://mabez.dev/blog/posts/esp-rust-ecosystem/"
+  }
+]

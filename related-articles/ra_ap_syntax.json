@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Next Rust Compiler",
+    "link": "https://matklad.github.io/2023/01/25/next-rust-compiler.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #37 - August 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/037/"
+  },
+  {
+    "title": "Proc macro support in rust-analyzer for nightly rustc versions",
+    "link": "https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions"
+  },
+  {
+    "title": "Changelog #125",
+    "link": "https://rust-analyzer.github.io/thisweek/2022/04/18/changelog-125.html"
+  }
+]

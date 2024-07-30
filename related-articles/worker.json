@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Latency at the Edge with Rust/WebAssembly and Postgres: Part 1 | Exograph",
+    "link": "https://exograph.dev/blog/wasm-pg-explorations-1"
+  },
+  {
+    "title": "A Simple CRUD API in Rust with Cloudflare Workers, Cloudflare KV, and the Rust Router | by Damian Esteban | Medium",
+    "link": "https://medium.com/@estebanrules/a-simple-crud-api-in-rust-with-cloudflare-workers-cloudflare-kv-and-the-rust-router-cbc1b9015e7b"
+  },
+  {
+    "title": "Sending Emails from the Edge with Rust | Mainmatter",
+    "link": "https://mainmatter.com/blog/2022/12/09/sending-emails-from-the-edge-with-rust/"
+  },
+  {
+    "title": "Logan Keenan - A Rust app in a Cloudflare Worker",
+    "link": "https://logankeenan.com/posts/running-a-rust-server-in-a-cloudflare-worker/"
+  },
+  {
+    "title": "Reality check for Cloudflare Wasm Workers and Rust",
+    "link": "https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust"
+  }
+]

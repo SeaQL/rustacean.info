@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
+  },
+  {
+    "title": "Three things I wish I’d known learning Rust · Graham King",
+    "link": "https://www.darkcoding.net/software/three-things-i-wish-id-known-learning-rust/"
+  },
+  {
+    "title": "What I Learned: Porting Dateutil Parser to Rust",
+    "link": "https://speice.io/2018/06/dateutil-parser-to-rust.html"
+  },
+  {
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  },
+  {
+    "title": "Dose Response ported to WebAssembly! — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/"
+  },
+  {
+    "title": "My adventures in Rust webdev. People who know me in the Rust… | by tomaka | Medium",
+    "link": "https://medium.com/@tomaka/my-adventures-in-rust-webdev-850c67be6c40"
+  },
+  {
+    "title": "omnomnom - Parsing ISO8601 dates using nom",
+    "link": "https://fnordig.de/2015/07/16/omnomnom-parsing-iso8601-dates-using-nom/"
+  }
+]

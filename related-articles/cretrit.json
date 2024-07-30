@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Brane Dump: dev-dependencies and Rust's unused_crate_dependencies lint",
+    "link": "https://www.hezmatt.org/~mpalmer/blog/2023/04/30/dev-dependencies-and-rusts-unused_crate_dependencies.html"
+  },
+  {
+    "title": "Brane Dump: Rutie and Magnus, Two Good Ways to Build Ruby Extensions in Rust",
+    "link": "https://www.hezmatt.org/~mpalmer/blog/2023/04/18/rutie-magnus-rust-extensions-for-ruby.html"
+  }
+]

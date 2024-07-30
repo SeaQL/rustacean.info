@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "title": "Announcing Tokio Console 0.1 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-12-announcing-tokio-console"
+  }
+]

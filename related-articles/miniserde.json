@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"
+  },
+  {
+    "title": "xi-editor retrospective | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
+  },
+  {
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "title": "Thoughts on Rust bloat | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
+  }
+]

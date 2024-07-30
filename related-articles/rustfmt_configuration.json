@@ -1,0 +1,94 @@
+[
+  {
+    "title": "How We Migrated Our Static Analyzer From Java to Rust | Datadog",
+    "link": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"
+  },
+  {
+    "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
+  },
+  {
+    "title": "Rust Digger: More than 14% of crates configure rustfmt. 35 have both rustfmt.toml and .rustfmt.toml",
+    "link": "https://rust-digger.code-maven.com/news/rustfmt-stats"
+  },
+  {
+    "title": "A JVM in Rust part 8 - Retrospective · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2023/11/a-jvm-in-rust-part-8-retrospective/"
+  },
+  {
+    "title": "Proc macro support in rust-analyzer for nightly rustc versions",
+    "link": "https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions"
+  },
+  {
+    "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
+    "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
+  },
+  {
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs/"
+  },
+  {
+    "title": "Rust Programming Language Tutorial – How to Build a To-Do List App",
+    "link": "https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/"
+  },
+  {
+    "title": "Beyond R and Python: Rust for Science - scie.nz",
+    "link": "https://scie.nz/rust/"
+  },
+  {
+    "title": "Learn Rust With Benford's Law&nbsp;–&nbsp;gliderkite.io",
+    "link": "https://gliderkite.github.io/posts/learn-rust-with-benford/"
+  },
+  {
+    "title": "IntelliJ Rust Changelog #132",
+    "link": "https://intellij-rust.github.io/2020/10/05/changelog-132.html"
+  },
+  {
+    "title": "Create an amazing Rust GitHub project in no time • Marco Ieni",
+    "link": "https://www.marcoieni.com/2020/09/create-an-amazing-rust-github-project-in-no-time/"
+  },
+  {
+    "title": "Go vs Rust: Writing a CLI tool - cuchi.me",
+    "link": "https://cuchi.me/posts/go-vs-rust"
+  },
+  {
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "title": "Setup - Toolchain, IDEs, CI | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/"
+  },
+  {
+    "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
+    "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
+  },
+  {
+    "title": "Rust lang Tips and&nbsp;Tricks - Mudit Gupta's Blog",
+    "link": "https://mudit.blog/rust-tips-and-tricks/"
+  },
+  {
+    "title": "What is Rust and why is it so popular? - Stack Overflow",
+    "link": "https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/"
+  },
+  {
+    "title": "Inside Rust at Embark 🦀. A peek inside our day-to-day work with… | by Ari V | Embark Studios | Medium",
+    "link": "https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4"
+  },
+  {
+    "title": "⚙ D22963 support Rust LSP server auto-detect some useful root path based on location of Cargo.toml",
+    "link": "https://phabricator.kde.org/D22963"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs"
+  }
+]

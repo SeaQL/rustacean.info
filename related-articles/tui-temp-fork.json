@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Why stdout is faster than stderr? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/stdout-vs-stderr/"
+  },
+  {
+    "title": "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs - Orhun's Blog",
+    "link": "https://blog.orhun.dev/ratatui-0-23-0/"
+  },
+  {
+    "title": "Projectable: A Command-Line Project Manager - dzfrias",
+    "link": "https://dzfrias.dev/blog/projectable"
+  },
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
+  },
+  {
+    "title": "Porting North Korean Dictionaries with Rust – Digital NK",
+    "link": "https://digitalnk.com/blog/2020/05/08/porting-north-korean-dictionaries-with-rust/"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/case-study/diesel/"
+  },
+  {
+    "title": "Rust impact on engineering management | by Bastien Vigneron | Medium",
+    "link": "https://bastienvigneron.medium.com/rust-impact-on-engineering-management-59647e5d0265"
+  },
+  {
+    "title": "Arroyo with Micah Wylde - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s01e04-arroyo"
+  },
+  {
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/async/"
+  },
+  {
+    "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
+    "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
+  },
+  {
+    "title": "Announcing SeaORM 0.12 🐚 | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2023-08-12-announcing-seaorm-0.12/"
+  },
+  {
+    "title": "Introduction - Rust Full Stack Workshop",
+    "link": "https://bcnrust.github.io/devbcn-workshop/"
+  },
+  {
+    "title": "Fossil Data Platform Rewritten in Rust 🦀",
+    "link": "https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html"
+  },
+  {
+    "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part02"
+  },
+  {
+    "title": "Rails developers write some Rust: a review of Axum 0.6",
+    "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
+  },
+  {
+    "title": "What's new in SeaQuery 0.27.0 | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2022-10-31-whats-new-in-seaquery-0.27.0/"
+  },
+  {
+    "title": "What's new in SeaORM 0.9.0 | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-07-17-whats-new-in-0.9.0/"
+  },
+  {
+    "title": "Minimalist Guide to Axum",
+    "link": "https://tech.marksblogg.com/axum-rust-web-framework.html"
+  },
+  {
+    "title": "Rust on Nails | Cloak",
+    "link": "https://cloak.software/blog/rust-on-nails/"
+  },
+  {
+    "title": "Lishwist (beta) | Polaris64's blog",
+    "link": "https://blog.polaris64.net/post/lishwist-beta/"
+  },
+  {
+    "title": "Rust Web Development with Bastian Gruber :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/043-bastian-gruber/"
+  },
+  {
+    "title": "Implementing the Health Check API Pattern with Rust | by TJ Maynes | ITNEXT",
+    "link": "https://itnext.io/implementing-the-health-check-api-pattern-with-rust-eaef04cb4d2d"
+  },
+  {
+    "title": "Rocket: A Web Framework for Rust",
+    "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "Implementing a Job queue with SQLx and Postgres",
+    "link": "https://cetra3.github.io/blog/implementing-a-jobq-sqlx/"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "EtherCrab 0.4: Distributed Clocks, `io_uring`, Derives, Oh My",
+    "link": "https://wapl.es/ethercrab-0-4-io-uring-derives-ethercat-distributed-clocks/"
+  },
+  {
+    "title": "Announcing EtherCrab: The 100% Rust EtherCAT controller",
+    "link": "https://wapl.es/announcing-ethercrab-the-rust-ethercat-controller/"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "title": "A const builder pattern in Rust",
+    "link": "https://wapl.es/rust/2022/07/03/const-builder-pattern.html"
+  }
+]

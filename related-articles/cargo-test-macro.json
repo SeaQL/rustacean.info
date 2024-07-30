@@ -1,0 +1,58 @@
+[
+  {
+    "title": "uv: Python packaging in Rust",
+    "link": "https://astral.sh/blog/uv"
+  },
+  {
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "title": "Notes on cross-compiling Rust",
+    "link": "https://john-millikin.com/notes-on-cross-compiling-rust"
+  },
+  {
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "title": "Create a blazingly fast REST API in Rust (Part 1/2) | Qovery",
+    "link": "https://docs.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/"
+  },
+  {
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
+    "title": "Hello wasm-pack! - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2018/04/hello-wasm-pack/"
+  },
+  {
+    "title": "📦 Parcel v1.5.0 released: Source Maps, WebAssembly, Rust, and more! 🚀 | by devongovett | Medium",
+    "link": "https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95"
+  },
+  {
+    "title": "The Rise of Rust in DevOps | D2iQ",
+    "link": "https://mesosphere.com/blog/rust-devops/"
+  },
+  {
+    "title": "Alternative Registries",
+    "link": "https://boats.gitlab.io/blog/post/2017-10-28-alternative-registries/"
+  },
+  {
+    "title": "How Rust is tested",
+    "link": "https://brson.github.io/2017/07/10/how-rust-is-tested"
+  },
+  {
+    "title": "Rapid prototyping C applications with Rust – Rust Leipzig",
+    "link": "https://rust-leipzig.github.io/cargo/2016/11/13/rapid-prototyping-c-applications/"
+  },
+  {
+    "title": "Bare Minimum Crates.io Mirror Plus One",
+    "link": "http://integer32.com/2016/10/08/bare-minimum-crates-io-mirror-plus-one.html"
+  },
+  {
+    "title": "https://fnordig.de/2016/03/29/releasing-rust-projects-the-automatic-way/",
+    "link": "https://fnordig.de/2016/03/29/releasing-rust-projects-the-automatic-way/"
+  }
+]

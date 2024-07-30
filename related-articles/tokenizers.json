@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Speeding up data analysis with Rayon and Rust | The Data Quarry",
+    "link": "https://thedataquarry.com/posts/intro-to-rayon/"
+  },
+  {
+    "title": "Preprocessing trillions of tokens with Rust | Work | Mainmatter",
+    "link": "https://mainmatter.com/cases/aleph-alpha/"
+  },
+  {
+    "title": "Home – NAPI-RS",
+    "link": "https://napi.rs"
+  },
+  {
+    "title": "A Rust SentencePiece implementation | Rust NLP tales",
+    "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
+  }
+]

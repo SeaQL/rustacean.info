@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/"
+  },
+  {
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/index.html"
+  },
+  {
+    "title": "Measuring the overhead of HashMaps in Rust | nicole@web",
+    "link": "https://ntietz.com/blog/rust-hashmap-overhead/"
+  },
+  {
+    "title": "Avoiding allocations in Rust to shrink Wasm modules",
+    "link": "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
+  },
+  {
+    "title": "Rust programs written entirely in Rust · sunfishcode's blog",
+    "link": "https://blog.sunfishcode.online/rust-programs-entirely-in-rust/"
+  },
+  {
+    "title": "A Tiny, Static, Full-Text Search Engine using Rust and WebAssembly | Matthias Endler",
+    "link": "https://endler.dev/2019/tinysearch/"
+  },
+  {
+    "title": "show_notes::news::rust_1_28 - Rust",
+    "link": "https://newrustacean.com/show_notes/news/rust_1_28/"
+  },
+  {
+    "title": "Our Vision for Rust and WebAssembly | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html"
+  },
+  {
+    "title": "Small WebAssembly Binaries with Rust + Emscripten",
+    "link": "https://kripken.github.io/blog/binaryen/2018/04/18/rust-emscripten.html"
+  }
+]

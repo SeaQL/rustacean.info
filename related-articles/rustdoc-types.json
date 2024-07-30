@@ -1,0 +1,18 @@
+[
+  {
+    "title": "I ported h2spec to Rust (also: codegen!)",
+    "link": "https://fasterthanli.me/videos/h2spec-to-rust"
+  },
+  {
+    "title": "Rustdoc JSON in 2023  ❧ Alona Enraght-Moony",
+    "link": "https://alona.page/posts/rustdoc-json-2023/"
+  },
+  {
+    "title": "A taste of pavex, an upcoming Rust web framework | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/"
+  },
+  {
+    "title": "rustdoc_types - Rust",
+    "link": "https://docs.rs/rustdoc-types"
+  }
+]

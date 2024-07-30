@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
+    "link": "https://thewolfsound.com/talk016/"
+  },
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/043/"
+  },
+  {
+    "title": "Tauri vs Iced vs egui: Rust GUI framework performance comparison (including startup time, input lag, resize tests) · Lukasʼ Blog",
+    "link": "https://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html"
+  },
+  {
+    "title": "axo blog - Release Engineering Is Exhausting So Here's cargo-dist",
+    "link": "https://blog.axo.dev/2023/02/cargo-dist"
+  },
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "Fornjot - Progress Report - 2022-11",
+    "link": "https://www.fornjot.app/blog/progress-report-2022-11/"
+  },
+  {
+    "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
+    "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
+  },
+  {
+    "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/035/"
+  },
+  {
+    "title": "egui with Emil Ernerfeldt :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/emil-ernerfeldt/"
+  },
+  {
+    "title": "This Week in Rust - Issue 443 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/twir-443/"
+  },
+  {
+    "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #32 - March 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/032/"
+  },
+  {
+    "title": "This Month in Rust GameDev #31 - February 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/031/"
+  },
+  {
+    "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/030/"
+  },
+  {
+    "title": "How Prime Video updates its app for more than 8,000 device types - Amazon Science",
+    "link": "https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types"
+  },
+  {
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/025/"
+  },
+  {
+    "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/024/"
+  },
+  {
+    "title": "Franzplot: a teaching software (re)written in Rust | wgpu user stories",
+    "link": "https://gfx-rs.github.io/stories/franzplot.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "This Month in Rust GameDev #22 - May 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/022/"
+  },
+  {
+    "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/021/"
+  },
+  {
+    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/020/"
+  }
+]

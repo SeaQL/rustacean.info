@@ -1,0 +1,114 @@
+[
+  {
+    "title": "Fast Development In Rust, Part 2",
+    "link": "https://blog.sdf.com/p/fast-development-in-rust-part-2"
+  },
+  {
+    "title": "Speeding up data analysis with Rayon and Rust | The Data Quarry",
+    "link": "https://thedataquarry.com/posts/intro-to-rayon/"
+  },
+  {
+    "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/async/"
+  },
+  {
+    "title": "Plugins for Rust",
+    "link": "https://reorchestrate.com/posts/plugins-for-rust/"
+  },
+  {
+    "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/041/"
+  },
+  {
+    "title": "Running Zola on WebAssembly - Dylan Staley",
+    "link": "https://dstaley.com/posts/running-zola-on-wasm/"
+  },
+  {
+    "title": "Nope-correctness, a.k.a. fearless concurrency | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/fearless-concurrency-a-practical-win-ae59e613c7ab"
+  },
+  {
+    "title": "This Month in Rust GameDev #38 - September 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/038/"
+  },
+  {
+    "title": "Using Rustlang's Async Tokio Runtime for CPU-Bound Tasks - The New Stack",
+    "link": "https://thenewstack.io/using-rustlangs-async-tokio-runtime-for-cpu-bound-tasks/"
+  },
+  {
+    "title": "The joy of building a ray tracer, for fun, in Rust. // flurries of latent creativity",
+    "link": "https://blog.singleton.io/posts/2022-01-02-raytracing-with-rust/"
+  },
+  {
+    "title": "How not to learn Rust",
+    "link": "https://dystroy.org/blog/how-not-to-learn-rust/"
+  },
+  {
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 4) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt4/"
+  },
+  {
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  },
+  {
+    "title": "Using Rust for Scientific Numerical applications: Learning from Past Experiences | by Felipe | Netherlands eScience Center",
+    "link": "https://blog.esciencecenter.nl/using-rust-for-scientific-numerical-applications-learning-from-past-experiences-798665d9f9f0"
+  },
+  {
+    "title": "parsing baseball files in Rust instead of Python for an 8x speedup! – Greg's Blog",
+    "link": "https://gregstoll.wordpress.com/2021/01/10/parsing-baseball-files-in-rust-instead-of-python-for-an-8x-speedup/"
+  },
+  {
+    "title": "clue solver now in Rust with more accurate simulations! – Greg's Blog",
+    "link": "https://gregstoll.wordpress.com/2020/10/22/clue-solver-now-in-rust-with-more-accurate-simulations/"
+  },
+  {
+    "title": "No, C++ still isn't cutting it.",
+    "link": "https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html"
+  },
+  {
+    "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
+    "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
+  },
+  {
+    "title": "Async Interview #6: Eliza Weisman · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/02/11/async-interview-6-eliza-weisman/"
+  },
+  {
+    "title": "AWS’ sponsorship of the Rust project | AWS Open Source Blog",
+    "link": "https://aws.amazon.com/blogs/opensource/aws-sponsorship-of-the-rust-project/"
+  },
+  {
+    "title": "The State of Machine Learning in Rust - Ehsan's Blog",
+    "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
+  },
+  {
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
+    "title": "Implementing tile encoding in rav1e · ~rom1v/blog",
+    "link": "https://blog.rom1v.com/2019/04/implementing-tile-encoding-in-rav1e/"
+  },
+  {
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "title": "Rust and WebAssembly in 2019",
+    "link": "http://fitzgeraldnick.com/2018/12/14/rust-and-webassembly-in-2019.html"
+  },
+  {
+    "title": "Parsing logs 230x faster with Rust",
+    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
+  },
+  {
+    "title": "Multithreading Rust and Wasm | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html"
+  },
+  {
+    "title": "Towards fearless SIMD | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Exploring technologies at Weborama: The Rust language | by Eric Mercier | Weborama | Medium",
+    "link": "https://medium.com/weborama/introduction-to-the-rust-programming-language-4dbf8f3016de"
+  },
+  {
+    "title": "Cross compiling Windows binaries from Linux",
+    "link": "https://jake-shadle.github.io/xwin/"
+  },
+  {
+    "title": "Turning rusty tech into Rust ~ When you need to FTP but don’t want to",
+    "link": "https://blog.abstractinvoke.com/05-07-unftp.html"
+  },
+  {
+    "title": "Continuous Deployment For Rust Applications | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-11-01-zero-to-production-5-how-to-deploy-a-rust-application/"
+  }
+]

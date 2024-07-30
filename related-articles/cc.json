@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Highlights from “I spent 6 years developing a game in Rust and it just shipped, AMA” | Games by Mason",
+    "link": "https://gamesbymason.com/2024/06/01/wor-ama/"
+  },
+  {
+    "title": "Using build.rs to integrate rust applications with system libraries like a pro | The NeoSmart Files",
+    "link": "https://neosmart.net/blog/using-build-rs-to-integrate-rust-applications-with-system-libraries-like-a-pro/"
+  },
+  {
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "12 Rust Tips and Tricks you might not know yet - Federico Terzi - A Software Engineering Journey",
+    "link": "https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/"
+  },
+  {
+    "title": "Rust and Tinyverse - by Michael-F-Bryan - tinyVerse",
+    "link": "https://tinyverse.substack.com/p/rust-and-tinyverse"
+  },
+  {
+    "title": "Dark Side Of Posix Apis | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html"
+  },
+  {
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – Porting Details – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust-porting-details/"
+  },
+  {
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
+  },
+  {
+    "title": "Shipping Linux binaries that don’t break with Rust | William Saar’s dev blog",
+    "link": "https://saarw.github.io/dev/2020/06/18/shipping-linux-binaries-that-dont-break-with-rust.html"
+  },
+  {
+    "title": "A Pragmatic Approach To Global State · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/pragmatic-global-state/"
+  },
+  {
+    "title": "How to RiiR · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/how-to-riir/index.html"
+  },
+  {
+    "title": "Rust as the new C: building and combining native libs into C API · Victor Baybekov",
+    "link": "http://hotforknowledge.com/2019/07/14/6-rust-the-new-c/"
+  },
+  {
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  }
+]

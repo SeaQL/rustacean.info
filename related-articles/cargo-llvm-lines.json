@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Where Does the Time Go? Rust's Problem with Slow Compiles - The New Stack",
+    "link": "https://thenewstack.io/where-does-the-time-go-rusts-problem-with-slow-compiles/"
+  },
+  {
+    "title": "Investigating crazy compile times",
+    "link": "https://blog.adamchalmers.com/crazy-compile-time/"
+  },
+  {
+    "title": "SQLx Compile Time Woes - Cosmic Horror",
+    "link": "https://cosmichorror.dev/posts/speeding-up-sqlx-compile-times/"
+  },
+  {
+    "title": "Why is my Rust build so slow?",
+    "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
+  },
+  {
+    "title": "Fast Rust Builds",
+    "link": "https://matklad.github.io/2021/09/04/fast-rust-builds.html"
+  },
+  {
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  }
+]

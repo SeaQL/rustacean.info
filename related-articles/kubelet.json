@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/introducing-krator/"
+  },
+  {
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/still-rusting-one-year-later/"
+  },
+  {
+    "title": "WebAssembly on the Server with Krustlet :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/030-krustlet/"
+  },
+  {
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/a-heaping-helping-of-stacks/"
+  },
+  {
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/kubernetes-a-rusty-friendship/"
+  }
+]

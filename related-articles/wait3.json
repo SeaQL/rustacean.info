@@ -1,0 +1,22 @@
+[
+  {
+    "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
+  },
+  {
+    "title": "Is coding in Rust as bad as in C++?",
+    "link": "https://quick-lint-js.com/blog/cpp-vs-rust-build-times/"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "title": "Get Started with Rust, WebAssembly, and Webpack | by Ian J Sikes | Medium",
+    "link": "https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635"
+  }
+]

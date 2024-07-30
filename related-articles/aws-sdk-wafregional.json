@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Highlights of 2023 for cargo-semver-checks",
+    "link": "https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/"
+  },
+  {
+    "title": "Improving Python S3 Client Performance with Rust | by Joshua Robinson | Medium",
+    "link": "https://joshua-robinson.medium.com/improving-python-s3-client-performance-with-rust-e9639359072f"
+  },
+  {
+    "title": "AWS SDK for Rust (Developer Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-rust-developer-preview/"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "A New AWS SDK for Rust – Alpha Launch | AWS Developer Tools Blog",
+    "link": "https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/"
+  }
+]

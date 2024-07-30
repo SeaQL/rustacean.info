@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Write a Toy VPN in Rust",
+    "link": "https://write.yiransheng.com/vpn"
+  },
+  {
+    "title": "BoringTun, a userspace WireGuard implementation in Rust",
+    "link": "https://blog.cloudflare.com/boringtun-userspace-wireguard-rust/"
+  }
+]

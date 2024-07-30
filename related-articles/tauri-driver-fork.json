@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Long-running backend async tasks in tauri v2 - sneaky crow",
+    "link": "https://sneakycrow.dev/blog/2024-05-12-running-async-tasks-in-tauri-v2"
+  },
+  {
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "title": "Announcing the Tauri v2 Beta Release | Tauri",
+    "link": "https://beta.tauri.app/blog/tauri-2-0-0-beta/"
+  },
+  {
+    "title": "Eurorust reflections · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2023/10/14/eurorust-reflections/"
+  },
+  {
+    "title": "Roadmap to Tauri 2.0 | Tauri",
+    "link": "https://beta.tauri.app/blog/roadmap-to-tauri-2-0/"
+  },
+  {
+    "title": "This Month in Rust GameDev #46 - May 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/046/"
+  },
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "Through the looking glass • Create a launchbar app w/ Tauri",
+    "link": "https://blog.spyglass.fyi/posts/2023/creating-a-launcher-in-tauri/"
+  },
+  {
+    "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
+    "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "Tauri with Daniel Thompson-Yvetot :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/daniel-thompson/"
+  },
+  {
+    "title": "Dioxus | An elegant GUI library for Rust",
+    "link": "https://dioxuslabs.com/blog/introducing-dioxus/"
+  },
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "title": "Tauri with Standard Svelte or SvelteKit | by Dan Casler | Medium",
+    "link": "https://medium.com/@cazanator/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  }
+]

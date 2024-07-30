@@ -1,0 +1,246 @@
+[
+  {
+    "title": "Building Agentic RAG with Rust, Qdrant &amp; OpenAI",
+    "link": "https://www.shuttle.rs/blog/2024/05/23/building-agentic-rag-rust-qdrant"
+  },
+  {
+    "title": "Event driven Microservices using Kafka and Rust",
+    "link": "https://www.shuttle.rs/blog/2024/04/25/event-driven-services-using-kafka-rust"
+  },
+  {
+    "title": "Building with AWS S3 using Rust",
+    "link": "https://www.shuttle.rs/blog/2024/04/17/using-aws-s3-rust"
+  },
+  {
+    "title": "Working with OpenAPI using Rust",
+    "link": "https://www.shuttle.rs/blog/2024/04/04/using-openapi-rust"
+  },
+  {
+    "title": "Everything you need to know about testing in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"
+  },
+  {
+    "title": "Building a Notification Service in Rust with AWS SNS",
+    "link": "https://www.shuttle.rs/blog/2024/03/20/notification-service-rust"
+  },
+  {
+    "title": "Using PostHog with Rust",
+    "link": "https://www.shuttle.rs/blog/2024/03/14/using-posthog-rust"
+  },
+  {
+    "title": "Using Stripe Payments with Rust",
+    "link": "https://www.shuttle.rs/blog/2024/03/07/stripe-payments-rust"
+  },
+  {
+    "title": "A Full Stack SaaS Template with Loco",
+    "link": "https://www.shuttle.rs/blog/2024/02/29/fullstack-loco-rust"
+  },
+  {
+    "title": "Async Rust in a Nutshell",
+    "link": "https://www.shuttle.rs/blog/2024/02/29/async-rust"
+  },
+  {
+    "title": "Implementing API Rate Limiting in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/02/22/api-rate-limiting-rust"
+  },
+  {
+    "title": "Implementing JWT Authentication in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/02/21/using-jwt-auth-rust"
+  },
+  {
+    "title": "Rust Tooling: 8 tools that will increase your productivity",
+    "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
+  },
+  {
+    "title": "Building an Uptime Monitor in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/02/08/uptime-monitoring-rust"
+  },
+  {
+    "title": "Writing a REST API in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/31/write-a-rest-api-rust"
+  },
+  {
+    "title": "Writing Cronjobs in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/24/writing-cronjobs-rust"
+  },
+  {
+    "title": "Using Serde in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/23/using-serde-rust"
+  },
+  {
+    "title": "Parsing JSON in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/18/parsing-json-rust"
+  },
+  {
+    "title": "A Guide to Rust ORMs in 2024",
+    "link": "https://www.shuttle.rs/blog/2024/01/16/best-orm-rust"
+  },
+  {
+    "title": "Getting Started with Tracing in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/09/getting-started-tracing-rust"
+  },
+  {
+    "title": "Getting Started with Loco in Rust: Part 1",
+    "link": "https://www.shuttle.rs/blog/2023/12/28/using-loco-rust-rails"
+  },
+  {
+    "title": "Introducing Loco: The Rails of Rust",
+    "link": "https://www.shuttle.rs/blog/2023/12/20/loco-rust-rails"
+  },
+  {
+    "title": "Getting Started with Actix Web in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/12/15/using-actix-rust"
+  },
+  {
+    "title": "Getting Started with Rocket in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/12/13/using-rocket-rust"
+  },
+  {
+    "title": "Writing a CLI Tool in Rust with Clap",
+    "link": "https://www.shuttle.rs/blog/2023/12/08/clap-rust"
+  },
+  {
+    "title": "Getting Started with Axum - Rust's Most Popular Web Framework",
+    "link": "https://www.shuttle.rs/blog/2023/12/06/using-axum-rust"
+  },
+  {
+    "title": "Why Type Safety is Important",
+    "link": "https://www.shuttle.rs/blog/2023/11/29/type-safety"
+  },
+  {
+    "title": "Why Enums in Rust feel so much better",
+    "link": "https://www.shuttle.rs/blog/2023/11/23/enums-in-rust"
+  },
+  {
+    "title": "Building and Deploying A Static Site Generator",
+    "link": "https://www.shuttle.rs/blog/2023/11/15/ssg-in-rust"
+  },
+  {
+    "title": "Rust for JavaScript Developers: An Overview of Testing",
+    "link": "https://www.shuttle.rs/blog/2023/11/08/testing-in-rust"
+  },
+  {
+    "title": "htmx, Rust &amp; Shuttle: A New Rapid Prototyping Stack",
+    "link": "https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust"
+  },
+  {
+    "title": "Issue #10: Serving HTML",
+    "link": "https://www.shuttle.rs/launchpad/issues/2023-10-17-issue-10-Serving-HTML"
+  },
+  {
+    "title": "Using GraphQL in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/10/16/graphql-in-rust"
+  },
+  {
+    "title": "Raw SQL in Rust with SQLx",
+    "link": "https://www.shuttle.rs/blog/2023/10/04/sql-in-rust"
+  },
+  {
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "title": "Logging in Rust - How to Get Started",
+    "link": "https://www.shuttle.rs/blog/2023/09/20/logging-in-rust"
+  },
+  {
+    "title": "Writing a Web Scraper in Rust using Reqwest",
+    "link": "https://www.shuttle.rs/blog/2023/09/13/web-scraping-rust-reqwest"
+  },
+  {
+    "title": "Semantic Search with Qdrant, OpenAI and Shuttle",
+    "link": "https://www.shuttle.rs/blog/2023/09/08/building-semantic-search-in-rust"
+  },
+  {
+    "title": "How to Implement OAuth in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/08/30/using-oauth-with-axum"
+  },
+  {
+    "title": "Best Rust Web Frameworks to Use in 2023",
+    "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+  },
+  {
+    "title": "Issue #6: A little CRUD",
+    "link": "https://www.shuttle.rs/launchpad/issues/2023-11-08-issue-06-CRUD-Postgres"
+  },
+  {
+    "title": "Issue #5: Traits &amp; image processing",
+    "link": "https://www.shuttle.rs/launchpad/issues/2023-28-07-issue-05-Traits-Image-Processing"
+  },
+  {
+    "title": "Issue #3: Ownership &amp; Error Handling",
+    "link": "https://www.shuttle.rs/launchpad/issues/2023-03-07-issue-03-Ownership-Error-Handling"
+  },
+  {
+    "title": "Welcome to Shuttle's Docs - Start Building Backends Fast - Shuttle",
+    "link": "https://docs.shuttle.rs/tutorials/rest-http-service-with-axum"
+  },
+  {
+    "title": "Issue #2: Structs and Enums",
+    "link": "https://www.shuttle.rs/launchpad/issues/2023-06-16-issue-02-Structs-and-Enums"
+  },
+  {
+    "title": "Launchpad by Shuttle - Learn Rust in Bite-Sized Chunks",
+    "link": "https://www.shuttle.rs/launchpad"
+  },
+  {
+    "title": "Introducing Shuttle Batch 2.0",
+    "link": "https://www.shuttle.rs/blog/2023/04/14/Shuttle-Batch-2"
+  },
+  {
+    "title": "Getting Started with Rust &amp; GPT-3",
+    "link": "https://www.shuttle.rs/blog/2023/03/01/getting-started-with-rust-and-gpt"
+  },
+  {
+    "title": "Learn how to build and deploy a down detector Telegram bot in Rust.",
+    "link": "https://joshmo.hashnode.dev/building-deploying-a-down-detector-telegram-bot-in-rust"
+  },
+  {
+    "title": "zerocal - A Serverless Calendar App in Rust Running on shuttle.rs | Matthias Endler",
+    "link": "https://endler.dev/2022/zerocal/"
+  },
+  {
+    "title": "Building an authentication system in Rust using session tokens",
+    "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
+  },
+  {
+    "title": "Build Backends. Fast.",
+    "link": "https://www.shuttle.rs/blog/2022/08/04/middleware"
+  },
+  {
+    "title": "Patterns with Rust types",
+    "link": "https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types"
+  },
+  {
+    "title": "More than you've ever wanted to know about errors in Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/30/error-handling"
+  },
+  {
+    "title": "Generative metatag images in Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/23/generative-metatag-images"
+  },
+  {
+    "title": "Getting started with Async Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/16/a-short-introduction-to-async-rust"
+  },
+  {
+    "title": "Hyper vs Rocket - Low Level vs Batteries included",
+    "link": "https://www.shuttle.rs/blog/2022/06/01/hyper-vs-rocket"
+  },
+  {
+    "title": "Building a startup with Rust",
+    "link": "https://www.shuttle.rs/blog/2021/10/08/building-a-startup-with-rust"
+  },
+  {
+    "title": "Shuttle - Build Backends Fast",
+    "link": "https://shuttle.rs"
+  },
+  {
+    "title": "DevLog[0]: Building a serverless platform for Rust in 4 weeks",
+    "link": "https://www.shuttle.rs/blog/2022/04/22/dev-log-0"
+  },
+  {
+    "title": "Building and Deploying a URL shortener with Rust in 10 minutes or less",
+    "link": "https://www.shuttle.rs/blog/2022/03/13/url-shortener"
+  }
+]

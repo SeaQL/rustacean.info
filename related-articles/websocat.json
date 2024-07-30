@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Synchronizing state with Websockets and JSON Patch",
+    "link": "https://cetra3.github.io/blog/synchronising-with-websocket/"
+  },
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  },
+  {
+    "title": "How to build a WebSocket server with Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-build-a-websocket-server-with-rust/"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
+    "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/transducers/"
+  },
+  {
+    "title": "Rust on the Frontend and Backend - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/moonzoon"
+  },
+  {
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
+    "title": "Levenshtein Heuristic in Poi | advancedresearch.github.io",
+    "link": "https://advancedresearch.github.io/blog/2020-11-21-levenshtein-heuristic-in-poi"
+  },
+  {
+    "title": "Rust Analyzer in 2018 and 2019  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-analyzer-2019/"
+  },
+  {
+    "title": "Rust Sucks If I Fail To Write X — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2017/02/15/sucks.html"
+  },
+  {
+    "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/transducers/"
+  }
+]

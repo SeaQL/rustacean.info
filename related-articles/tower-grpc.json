@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Benchmarking gRPC in Rust &amp; Go. Some background | by Rustler | Medium",
+    "link": "https://medium.com/@Rustling_gopher/benchmarking-grpc-in-rust-go-184545e7688a"
+  },
+  {
+    "title": "Tonic: gRPC has come to async/await!",
+    "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
+  },
+  {
+    "title": "Announcing Tower — A library for writing robust network services with Rust. | by Carl Lerche | Medium",
+    "link": "https://medium.com/@carllerche/announcing-tower-a-library-for-writing-robust-network-services-with-rust-67273f052c40"
+  }
+]

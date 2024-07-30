@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Regex engine internals as a library - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/regex-internals/"
+  },
+  {
+    "title": "BStr — Rust text processing library // Lib.rs",
+    "link": "https://lib.rs/crates/bstr"
+  }
+]

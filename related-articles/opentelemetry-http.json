@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Distributed Tracing in Rust, Episode 3: inter-service tracing",
+    "link": "https://heikoseeberger.de/2023-08-28-dist-tracing-3/"
+  },
+  {
+    "title": "OpenTelemetry Distributed Tracing in Rust | Aspecto",
+    "link": "https://www.aspecto.io/blog/distributed-tracing-with-opentelemetry-rust/"
+  }
+]

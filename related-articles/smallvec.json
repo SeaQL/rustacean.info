@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Modern Telecom Network Tracing - OXIO",
+    "link": "https://oxio.com/blog/modern-telecom-network-tracing/"
+  },
+  {
+    "title": "Crate of the Week second chance list – Brian Kung",
+    "link": "https://briankung.dev/2022/01/07/crate-of-the-week-second-chance-list/"
+  },
+  {
+    "title": "Renato Athaydes",
+    "link": "https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html"
+  },
+  {
+    "title": "parsing baseball files in Rust instead of Python for an 8x speedup! – Greg's Blog",
+    "link": "https://gregstoll.wordpress.com/2021/01/10/parsing-baseball-files-in-rust-instead-of-python-for-an-8x-speedup/"
+  },
+  {
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
+  },
+  {
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "title": "Request For Explanation #1 - Constermash",
+    "link": "https://request-for-explanation.github.io/podcast/ep1-constermash/index.html"
+  },
+  {
+    "title": "Rust Optimization.md · GitHub",
+    "link": "https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1"
+  }
+]

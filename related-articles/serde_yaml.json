@@ -1,0 +1,26 @@
+[
+  {
+    "title": "libyaml-safer",
+    "link": "https://simonask.github.io/libyaml-safer/"
+  },
+  {
+    "title": "Read arbitrary YAML files in Rust",
+    "link": "https://rust.code-maven.com/read-arbitrary-yaml"
+  },
+  {
+    "title": "Why Rust enums are so cool",
+    "link": "https://hashrust.com/blog/why-rust-enums-are-so-cool/"
+  },
+  {
+    "title": "Configuration envy. How software is configured has always… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/configuration-envy-a09584386705"
+  },
+  {
+    "title": "24 days of Rust - serde | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-serde/"
+  },
+  {
+    "title": "Overview · Serde",
+    "link": "https://serde.rs/"
+  }
+]

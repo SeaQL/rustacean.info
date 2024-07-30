@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Eyra is an interesting Rust project – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/eyra/"
+  },
+  {
+    "title": "More than you've ever wanted to know about errors in Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/30/error-handling"
+  },
+  {
+    "title": "Announcing error-stack – HASH Developer Blog",
+    "link": "https://hash.dev/blog/announcing-error-stack"
+  },
+  {
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "title": "TL;DR Rust - Xe Iaso",
+    "link": "https://christine.website/blog/TLDR-rust-2020-09-19"
+  },
+  {
+    "title": "What's New in Rust 1.42 and 1.43 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/014-rust-1.42-1.43/"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
+    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
+  },
+  {
+    "title": "Synchronizing state with Websockets and JSON Patch",
+    "link": "https://cetra3.github.io/blog/synchronising-with-websocket/"
+  },
+  {
+    "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
+    "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
+  },
+  {
+    "title": "Update-informer v0.5.0 – Mikhail Grachev's blog",
+    "link": "https://www.mgrachev.com/2022/08/29/update-informer-v050/"
+  },
+  {
+    "title": "Update-informer: a highly customizable Rust library for CLI apps by Evrone",
+    "link": "https://evrone.com/update-informer"
+  },
+  {
+    "title": "Validating JSON input in Rust web services | Vinted Engineering",
+    "link": "https://vinted.engineering/2021/02/15/validating-json-input-in-rust-web-services/"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "Rust: Beware of Escape Sequences \\n | by Dominic E. | Medium",
+    "link": "https://d3lm.medium.com/rust-beware-of-escape-sequences-85ec90e9e243#ee0e-58229fc84d02"
+  },
+  {
+    "title": "Parsing real-world data with Rust: introducing the alias_all attribute in Serde · deaddabe",
+    "link": "https://deaddabe.fr/blog/2021/01/27/parsing-real-world-data-with-rust-introducing-the-alias_all-attribute-in-serde/"
+  },
+  {
+    "title": "Type-directed metaprogramming in Rust | Will Crichton",
+    "link": "https://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
+  },
+  {
+    "title": "Rust at OneSignal",
+    "link": "https://onesignal.com/blog/rust-at-onesignal/"
+  },
+  {
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/kubernetes-a-rusty-friendship/"
+  },
+  {
+    "title": "Face Detection with Tensorflow Rust",
+    "link": "https://cetra3.github.io/blog/face-detection-with-tensorflow-rust/"
+  },
+  {
+    "title": "pest. The Elegant Parser",
+    "link": "https://pest.rs"
+  },
+  {
+    "title": "Migrating to Actix Web from Rocket for Stability",
+    "link": "https://nbsoftsolutions.com/blog/migrating-to-actix-web-from-rocket-for-stability"
+  },
+  {
+    "title": "Type-directed metaprogramming in Rust | Will Crichton",
+    "link": "http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
+  },
+  {
+    "title": "Replacing Elasticsearch with Rust and SQLite",
+    "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"
+  },
+  {
+    "title": "Rust and Vala – Daniel Espinosa",
+    "link": "https://blogs.gnome.org/despinosa/2016/11/01/rust-and-vala/"
+  },
+  {
+    "title": "Overview · Serde",
+    "link": "https://serde.rs/"
+  },
+  {
+    "title": "show_notes::bonus::_7 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_7/"
+  },
+  {
+    "title": "Things you could do with the Rust AST",
+    "link": "http://kamalmarhubi.com/blog/2016/06/02/playing-with-the-rust-ast/"
+  },
+  {
+    "title": "The highs and lows of Rust | \nJimmy Cuadra",
+    "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust/"
+  },
+  {
+    "title": "Serde 0.7 - Chasing Rabbits",
+    "link": "https://erickt.github.io/blog/2016/02/26/serde-0-dot-7/"
+  },
+  {
+    "title": "Serde 0.5.0 - Many Many Changes - Chasing Rabbits",
+    "link": "https://erickt.github.io/blog/2015/08/07/serde-0-dot-5-0-many-many-changes/"
+  }
+]

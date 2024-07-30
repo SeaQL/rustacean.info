@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Native Reflection in Rust",
+    "link": "https://jack.wrenn.fyi/blog/deflect/"
+  },
+  {
+    "title": "Structural Typing in Rust - BeachApe.",
+    "link": "https://beachape.com/blog/2021/05/25/structural-typing-in-rust/"
+  },
+  {
+    "title": "Rust: A Scala Engineer's Perspective - BeachApe.",
+    "link": "https://beachape.com/blog/2017/05/24/rust-from-scala/"
+  },
+  {
+    "title": "Boilerplate-free Struct Transforms in Rust. - BeachApe.",
+    "link": "https://beachape.com/blog/2017/04/12/boilerplate-free-struct-transforms-in-rust/"
+  },
+  {
+    "title": "Gentle Intro to Type-level Recursion in Rust: From Zero to HList Sculpting. - BeachApe.",
+    "link": "https://beachape.com/blog/2017/03/12/gentle-intro-to-type-level-recursion-in-Rust-from-zero-to-frunk-hlist-sculpting/"
+  },
+  {
+    "title": "LabelledGeneric in Rust: What, Why, How? - BeachApe.",
+    "link": "https://beachape.com/blog/2017/03/04/labelledgeneric-in-rust-what-why-how/"
+  },
+  {
+    "title": "Rust Generic (Not Generics) - BeachApe.",
+    "link": "https://beachape.com/blog/2017/02/04/rust-generic-not-generics/"
+  }
+]

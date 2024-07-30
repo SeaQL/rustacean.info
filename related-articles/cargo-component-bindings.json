@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Plugins with Rust and WASI Preview 2",
+    "link": "https://benw.is/posts/plugins-with-rust-and-wasi"
+  },
+  {
+    "title": "Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer – Fission",
+    "link": "https://fission.codes/blog/functions-everywhere-only-once/"
+  },
+  {
+    "title": "Compiling Rust to WASI",
+    "link": "https://benw.is/posts/compiling-rust-to-wasi"
+  },
+  {
+    "title": "Designing an Async Runtime for WASI 0.2",
+    "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"
+  },
+  {
+    "title": "Bytecode Alliance — Announcing Jco 1.0",
+    "link": "https://bytecodealliance.org/articles/jco-1.0"
+  }
+]

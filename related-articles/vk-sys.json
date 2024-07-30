@@ -1,0 +1,18 @@
+[
+  {
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "title": "Making Generative Art with Rust - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/making-generative-art-with-rust"
+  },
+  {
+    "title": "The State of GPGPU in Rust | bheisler.github.io",
+    "link": "https://bheisler.github.io/post/state-of-gpgpu-in-rust/"
+  },
+  {
+    "title": "Prototyping a new 3D API for the Web",
+    "link": "https://kvark.github.io/3d/api/2016/12/17/webmetal.html"
+  }
+]

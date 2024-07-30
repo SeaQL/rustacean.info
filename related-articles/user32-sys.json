@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Microsoft Opens Up Old Win32 APIs to C# and Rust, More Languages to Come -- Visual Studio Magazine",
+    "link": "https://visualstudiomagazine.com/articles/2021/01/21/win32-apis.aspx"
+  },
+  {
+    "title": "The Big Picture - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
+  },
+  {
+    "title": "Changelog #34",
+    "link": "https://rust-analyzer.github.io/thisweek/2020/07/20/changelog-34.html"
+  },
+  {
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  },
+  {
+    "title": "Sponsor work on Rust! · Aaron Turon",
+    "link": "https://aturon.github.io/sponsor/"
+  },
+  {
+    "title": "winapi 0.3 – WindowsBunny – The bunny that nibbles on Windows",
+    "link": "https://retep998.github.io/blog/winapi-0.3/"
+  },
+  {
+    "title": "Hello World MesssageBox example in Rust",
+    "link": "https://wesleywiser.github.io/post/rust-windows-messagebox-hello-world/"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Felix Prasanna",
+    "link": "https://fprasx.github.io/articles/type-system-arithmetic/"
+  },
+  {
+    "title": "Rust's Type System is Turing-Complete – Recursive Descent into Madness – A countable set of sanities and insanities, by Shea Leffler.",
+    "link": "https://sdleffler.github.io/RustTypeSystemTuringComplete/"
+  },
+  {
+    "title": "Rust in 2021: Leveraging the Type System for Infallible Message Buffers",
+    "link": "https://christian.amsuess.com/blog/website/2020-09-24_rust_2021/"
+  },
+  {
+    "title": "The State of Machine Learning in Rust - Ehsan's Blog",
+    "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
+  },
+  {
+    "title": "Rust 2019 -- The Road Ahead — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/12/08/rust.html"
+  },
+  {
+    "title": "Solving the Generalized Streaming Iterator Problem without GATs · Lukasʼ Blog",
+    "link": "https://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html"
+  },
+  {
+    "title": "Request For Explanation #1 - Constermash",
+    "link": "https://request-for-explanation.github.io/podcast/ep1-constermash/index.html"
+  },
+  {
+    "title": "Hidden treasures of the Rust ecosystem - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html"
+  },
+  {
+    "title": "Type-Level Shenanigans — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2015/12/12/types.html"
+  }
+]

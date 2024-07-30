@@ -1,0 +1,18 @@
+[
+  {
+    "title": "How to rewrite a C++ codebase successfully",
+    "link": "https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html"
+  },
+  {
+    "title": "Giving Rust a chance for in-kernel codecs [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/"
+  },
+  {
+    "title": "Rust/C++ Interop Part 1 - Just the Basics |",
+    "link": "https://tylerjw.dev/posts/rust-cpp-interop/"
+  },
+  {
+    "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
+    "link": "https://thewolfsound.com/talk016/"
+  }
+]

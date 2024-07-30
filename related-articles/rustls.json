@@ -1,0 +1,78 @@
+[
+  {
+    "title": "curl with Daniel Stenberg - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e01-curl/"
+  },
+  {
+    "title": "Rustls: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/case-study/rustls/"
+  },
+  {
+    "title": "Allocation-free decoding with traits and high-ranked trait bounds  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rustls-borrow-checker-p2/"
+  },
+  {
+    "title": "Using `mem::take` to reduce heap allocations  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rustls-borrow-checker-p1/"
+  },
+  {
+    "title": "Securing the Web: Rustls on track to outperform OpenSSL - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rustls-performance/"
+  },
+  {
+    "title": "Continuous benchmarking for rustls | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/continuous-benchmarking-for-rustls/"
+  },
+  {
+    "title": "Exploring the AWS Lambda SDK in Rust | Bradford Hovinen's blog",
+    "link": "https://gruebelinchen.wordpress.com/2023/12/07/exploring-the-aws-lambda-sdk-in-rust/"
+  },
+  {
+    "title": "Becoming a contractor | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/becoming-a-contractor/"
+  },
+  {
+    "title": "Leveraging Rust in our high-performance Java database",
+    "link": "https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/"
+  },
+  {
+    "title": "Rustls 0.21.0 Released With Exciting New Features - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rustls-new-features/"
+  },
+  {
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "title": "Minimalist Guide to Axum",
+    "link": "https://tech.marksblogg.com/axum-rust-web-framework.html"
+  },
+  {
+    "title": "That vendored OpenSSL 🦀 most of us rely on probably needs a patch .. | by MissMissM (she/her) | Rustaceans 🦀 Security | Medium",
+    "link": "https://medium.com/rust-secure-code/that-vendored-openssl-most-of-us-rely-on-probably-needs-a-patch-aae8fea5160f"
+  },
+  {
+    "title": "Futures Nostalgia",
+    "link": "https://fasterthanli.me/articles/futures-nostalgia"
+  },
+  {
+    "title": "Arti 0.0.4 is released: Refactoring, rustls, and more! | The Tor Project",
+    "link": "https://blog.torproject.org/arti_004_released/"
+  },
+  {
+    "title": "curl with rust | daniel.haxx.se",
+    "link": "https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/"
+  },
+  {
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "title": "Shipping Linux binaries that don’t break with Rust | William Saar’s dev blog",
+    "link": "https://saarw.github.io/dev/2020/06/18/shipping-linux-binaries-that-dont-break-with-rust.html"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "title": "Intro to LLVM and MLIR with Rust and Melior",
+    "link": "https://edgarluque.com/blog/mlir-with-rust/"
+  },
+  {
+    "title": "Introduction - Create Your Own Programming Language with Rust",
+    "link": "https://createlang.rs/"
+  }
+]

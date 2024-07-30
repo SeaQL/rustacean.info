@@ -1,0 +1,30 @@
+[
+  {
+    "title": "The dark side of inlining and monomorphization",
+    "link": "https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/"
+  },
+  {
+    "title": "Boost Rust Code 7x with SIMD: Key Rules | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-simd-acceleration-of-your-rust-code-part-1-c16fe639ce21"
+  },
+  {
+    "title": "cargo-show-asm — Cargo add-on // Lib.rs",
+    "link": "https://lib.rs/crates/cargo-show-asm"
+  },
+  {
+    "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
+  },
+  {
+    "title": "Bringing runtime checks to compile time in Rust · Kai Kaufman's tech blog",
+    "link": "https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/"
+  },
+  {
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "title": "Avoiding allocations in Rust to shrink Wasm modules",
+    "link": "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
+  }
+]

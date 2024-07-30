@@ -1,0 +1,106 @@
+[
+  {
+    "title": "biscotti, a new crate for HTTP cookies | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/biscotti-http-cookies-in-rust/"
+  },
+  {
+    "title": "Building a Better Foundation for Rocket's Future - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/"
+  },
+  {
+    "title": "Rocket - Simple, Fast, Type-Safe Web Framework for Rust",
+    "link": "https://rocket.rs"
+  },
+  {
+    "title": "Best Rust Web Frameworks to Use in 2023",
+    "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+  },
+  {
+    "title": "Writing Better Integration Tests with RAII",
+    "link": "https://notado.substack.com/p/writing-better-integration-tests"
+  },
+  {
+    "title": "Creating a minimal RESTful song request API using Rocket",
+    "link": "https://imajindevon.hashnode.dev/rust-rocket-song-request-api"
+  },
+  {
+    "title": "Magical handler functions in Rust | Lunatic",
+    "link": "https://lunatic.solutions/blog/magic-handler-functions-in-rust/"
+  },
+  {
+    "title": "How to build a (simple) blog using Rust",
+    "link": "https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/61/an-experimental-diesel-based-crud-for-rocket"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "First impressions of Rust programming on Solana",
+    "link": "https://brson.github.io/2021/06/08/rust-on-solana"
+  },
+  {
+    "title": "My journey to understand rust-lang | by David Shawley | Medium",
+    "link": "https://daveshawley.medium.com/my-journey-to-understand-rust-lang-28e4cf808b12"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Trisiel Progress: Rewritten in Rust - Xe Iaso",
+    "link": "https://christine.website/blog/wasmcloud-progress-domains-2020-10-31"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/rust-traits-privacy"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/on-owning-borrowing-pub-interface"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/glsl-quasiquoting"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/on-rust-impl-block"
+  },
+  {
+    "title": "Wicked Fast Web Servers in Rust. An introduction to writing a simple web… | by Pete Mertz | Medium",
+    "link": "https://medium.com/@MertzAlertz/wicked-fast-web-servers-in-rust-4947688426bc"
+  },
+  {
+    "title": "Writing a Microservice in Rust – Peter Goldsborough",
+    "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "http://phaazon.net/blog/spectra_plugins"
+  },
+  {
+    "title": "show_notes::cysk::rocket - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/rocket/"
+  },
+  {
+    "title": "Rusoto RDS walkthrough · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-walkthrough/"
+  },
+  {
+    "title": "show_notes::news::_2 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/_2/index.html"
+  }
+]

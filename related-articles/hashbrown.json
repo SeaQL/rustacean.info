@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Introducing FireDBG for Rust | FireDBG - 🔥 Time Travel Visual Debugger for Rust",
+    "link": "https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/"
+  },
+  {
+    "title": "A close encounter with false sharing | More Stina Blog!",
+    "link": "https://morestina.net/blog/1976/a-close-encounter-with-false-sharing"
+  },
+  {
+    "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
+  },
+  {
+    "title": "The stable HashMap trap | More Stina Blog!",
+    "link": "https://morestina.net/blog/1843/the-stable-hashmap-trap"
+  },
+  {
+    "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-impl/"
+  },
+  {
+    "title": "How to Deal with Out-of-memory Conditions in Rust | CrowdStrike",
+    "link": "https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/"
+  },
+  {
+    "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
+    "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs/"
+  },
+  {
+    "title": "A Rust SentencePiece implementation | Rust NLP tales",
+    "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
+  },
+  {
+    "title": "Announcing Rustacean Station and Rust 1.36 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/000-rust-1.36.0/"
+  },
+  {
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs"
+  }
+]

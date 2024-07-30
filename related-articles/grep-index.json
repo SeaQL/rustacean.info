@@ -1,0 +1,114 @@
+[
+  {
+    "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
+  },
+  {
+    "title": "Open Source Applications written in Rust",
+    "link": "https://rust.code-maven.com/applications"
+  },
+  {
+    "title": "Building a Rust workspace with Bazel - Tweag",
+    "link": "https://www.tweag.io/blog/2023-07-27-building-rust-workspace-with-bazel/"
+  },
+  {
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
+  },
+  {
+    "title": "Rust and Neovim - A Thorough Guide and Walkthrough | the trait",
+    "link": "https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/"
+  },
+  {
+    "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
+    "link": "https://tinkering.xyz/fmo-optimization-story/"
+  },
+  {
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  },
+  {
+    "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
+  },
+  {
+    "title": "Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust",
+    "link": "https://benhoyt.com/writings/count-words/"
+  },
+  {
+    "title": "Rust is a hard way to make a web API - macwright.com",
+    "link": "https://macwright.com/2021/01/15/rust.html"
+  },
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  },
+  {
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  },
+  {
+    "title": "Rust for a Pythonista #1: Why and when?",
+    "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
+  },
+  {
+    "title": "Using Rust to Delete Gitignored Cruft - ForrestTheWoods",
+    "link": "https://www.forrestthewoods.com/blog/using-rust-to-delete-gitignored-cruft/"
+  },
+  {
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "title": "Rust: Structuring and handling errors in 2020 - Nick's Blog and Digital Garden",
+    "link": "https://nick.groenen.me/posts/rust-error-handling/"
+  },
+  {
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
+    "title": "Cargo's next few years",
+    "link": "https://www.ncameron.org/blog/cargos-next-few-years/"
+  },
+  {
+    "title": "Debian -- Details of package ripgrep in sid",
+    "link": "https://packages.debian.org/sid/ripgrep"
+  },
+  {
+    "title": "Oxidizing Fedora: Try Rust and its applications today - Fedora Magazine",
+    "link": "https://fedoramagazine.org/oxidizing-fedora-try-rust-applications-today/"
+  },
+  {
+    "title": "Why Rust? A Two Year Retrospective",
+    "link": "http://way-cooler.org/blog/2018/01/09/way-cooler-turns-two.html"
+  },
+  {
+    "title": "show_notes::interview::irr_2017::anna_liao - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/irr_2017/anna_liao/index.html"
+  },
+  {
+    "title": "What's a reference in Rust?",
+    "link": "https://jvns.ca/blog/2017/11/27/rust-ref/"
+  },
+  {
+    "title": "Visual Studio Code March 2017",
+    "link": "https://code.visualstudio.com/updates/v1_11#_text-search-improvements"
+  },
+  {
+    "title": "Rust severely disappoints me – Armed and Dangerous",
+    "link": "http://esr.ibiblio.org/?p=7294"
+  },
+  {
+    "title": "24 days of Rust - built with Rust | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-built-rust-2016/"
+  },
+  {
+    "title": "Even quicker byte count — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/09/27/count.html"
+  },
+  {
+    "title": "ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/ripgrep/"
+  }
+]

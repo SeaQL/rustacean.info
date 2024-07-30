@@ -1,0 +1,22 @@
+[
+  {
+    "title": "404 Page not found - Oso Library Documentation",
+    "link": "https://docs.osohq.com/rust/guides/roles/getting-started.html"
+  },
+  {
+    "title": "Console Newsletter - The best tools for developers",
+    "link": "https://console.dev/qa/oso-sam-scott/"
+  },
+  {
+    "title": "oso - Rust",
+    "link": "https://docs.rs/oso/0.7.1/oso/"
+  },
+  {
+    "title": "oso - Rust",
+    "link": "https://docs.rs/oso/0.7.0/oso/"
+  },
+  {
+    "title": "Oso: Authorization as a Service",
+    "link": "https://www.osohq.com/"
+  }
+]

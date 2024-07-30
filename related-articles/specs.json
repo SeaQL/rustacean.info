@@ -1,0 +1,22 @@
+[
+  {
+    "title": "A Thought Experiment: Using the ECS Pattern Outside of Game Engines · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/ecs-outside-of-games/"
+  },
+  {
+    "title": "#Rust2018 — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
+  },
+  {
+    "title": "Building a parallel ECS in Rust",
+    "link": "https://kvark.github.io/ecs/rust/2017/03/08/specs.html"
+  },
+  {
+    "title": "These weeks in PlanetKit #5: bits and bobs – Jeff Parsons",
+    "link": "https://jeffparsons.github.io/2016/11/18/twipk-5/"
+  },
+  {
+    "title": "Programming Model - gfx-rs nuts and bolts",
+    "link": "http://gfx-rs.github.io/2016/09/14/programming-model.html"
+  }
+]

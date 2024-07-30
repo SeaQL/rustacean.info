@@ -1,0 +1,14 @@
+[
+  {
+    "title": "STM32F4 Embedded Rust at the PAC: svd2rust",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-svd2rust"
+  },
+  {
+    "title": "Jitter | Electronic Design and Consultancy",
+    "link": "https://jitter.company/blog/2020/11/23/bootstrapping-support-for-the-stm32wle-with-the-embedded-rust-ecosystem/"
+  },
+  {
+    "title": "Embedded Rust Experiments - Flipping some bits high on STM32VLDISCOVERY board",
+    "link": "https://nercury.github.io/rust/embedded/experiments/2018/04/29/rust-embedded-01-discovery-vl-flipping-bits.html"
+  }
+]

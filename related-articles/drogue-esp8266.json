@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Introducing Drogue Device — Drogue IoT",
+    "link": "https://blog.drogue.io/introducing-drogue-device/"
+  },
+  {
+    "title": "Rust and Async (on embedded devices) — Drogue IoT",
+    "link": "https://blog.drogue.io/rust-and-async/"
+  },
+  {
+    "title": "Rust on the BBC micro:bit — Drogue IoT",
+    "link": "https://blog.drogue.io/rust-and-microbit/"
+  },
+  {
+    "title": "Down the Yak Hole of TLS — Drogue IoT",
+    "link": "https://blog.drogue.io/yak-hole-of-tls/"
+  },
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-25/"
+  }
+]

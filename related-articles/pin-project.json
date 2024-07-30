@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Overview: Safe Pinned Initialization | blog",
+    "link": "https://y86-dev.github.io/blog/safe-pinned-initialization/overview.html"
+  },
+  {
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "title": "Announcing Tokio-Compat | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-12-compat/"
+  },
+  {
+    "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
+    "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
+  }
+]

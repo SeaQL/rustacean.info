@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Introducing Avian Physics 0.1 - Joona Aalto",
+    "link": "https://joonaa.dev/blog/06/avian-0-1"
+  },
+  {
+    "title": "Bevy XPBD 0.4: Collider Agnosticism, Layer Rework, and Bevy 0.13 - Joona Aalto",
+    "link": "https://joonaa.dev/blog/05/bevy-xpbd-0-4-0"
+  },
+  {
+    "title": "The year 2021 in Dimforge and our objectives for 2022 | Dimforge",
+    "link": "https://dimforge.com/blog/2022/01/02/the-year-2021-in-dimforge/"
+  },
+  {
+    "title": "This month in Dimforge \\#3 (November 2020) | Dimforge",
+    "link": "https://www.dimforge.com/blog/2020/12/01/this-month-in-dimforge/"
+  },
+  {
+    "title": "This month in Dimforge \\#2 (October 2020) | Dimforge",
+    "link": "https://www.dimforge.com/blog/2020/11/01/this-month-in-dimforge/"
+  },
+  {
+    "title": "This month in Dimforge \\#1 (September 2020) | Dimforge",
+    "link": "https://www.dimforge.com/blog/2020/10/01/this-month-in-dimforge/"
+  },
+  {
+    "title": "Announcing the Rapier physics engine | Dimforge",
+    "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
+  },
+  {
+    "title": "Rustsim becomes Dimforge | Dimforge",
+    "link": "https://www.dimforge.com/blog/2020/08/18/rustsim-becomes-dimforge/"
+  }
+]

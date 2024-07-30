@@ -1,0 +1,14 @@
+[
+  {
+    "title": "IPC in Rust - a Ping Pong Comparison",
+    "link": "https://3tilley.github.io/posts/simple-ipc-ping-pong/"
+  },
+  {
+    "title": "performance optimization with flamegraph and divan - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/performance-optimization-flamegraph-divan/"
+  },
+  {
+    "title": "Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez",
+    "link": "https://nikolaivazquez.com/blog/divan/"
+  }
+]

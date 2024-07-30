@@ -1,0 +1,18 @@
+[
+  {
+    "title": "How we built the Grafbase local development experience in Rust",
+    "link": "https://grafbase.com/blog/how-we-built-the-grafbase-cli-in-rust"
+  },
+  {
+    "title": "Whichlang: A fast language detection library for Rust | Quickwit",
+    "link": "https://quickwit.io/blog/whichlang-language-detection-library"
+  },
+  {
+    "title": "Through the looking glass • Create a launchbar app w/ Tauri",
+    "link": "https://blog.spyglass.fyi/posts/2023/creating-a-launcher-in-tauri/"
+  },
+  {
+    "title": "Full-text search for DynamoDB using Lambda, EFS, Tantivy and Rust.",
+    "link": "https://jakejscott.com/full-text-search-for-dynamodb-using-lambda-efs-tantivy-and-rust"
+  }
+]

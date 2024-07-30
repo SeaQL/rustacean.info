@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Zero to Performance Hero: How to Benchmark and Profile Your eBPF Code in Rust - InfoQ",
+    "link": "https://www.infoq.com/articles/benchmark-profile-ebpf-code/"
+  },
+  {
+    "title": "IPC in Rust - a Ping Pong Comparison",
+    "link": "https://3tilley.github.io/posts/simple-ipc-ping-pong/"
+  },
+  {
+    "title": "Rust 1.78: Performance Impact of the 128-bit Memory Alignment Fix - CodSpeed",
+    "link": "https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix"
+  },
+  {
+    "title": "performance optimization with flamegraph and divan - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/performance-optimization-flamegraph-divan/"
+  },
+  {
+    "title": "Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez",
+    "link": "https://nikolaivazquez.com/blog/divan/"
+  },
+  {
+    "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
+  },
+  {
+    "title": "Check AI-Generated Code Perfectly and Automatically | by Carl M. Kadie | Medium",
+    "link": "https://medium.com/p/d5b61acff741"
+  },
+  {
+    "title": "How fast can you count to 16 in Rust? · bazhenov.me",
+    "link": "https://www.bazhenov.me/posts/counting-to-16-in-rust/"
+  },
+  {
+    "title": "Elegant and performant recursion in Rust -",
+    "link": "https://recursion.wtf/posts/rust_schemes/"
+  },
+  {
+    "title": "Improving Criterion.rs - Tweag",
+    "link": "https://www.tweag.io/blog/2022-03-03-criterion-rs/"
+  },
+  {
+    "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
+    "link": "https://nullderef.com/blog/web-api-client/"
+  },
+  {
+    "title": "Baseline implementations should be predictable - Paul Khuong: some Lisp",
+    "link": "https://pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/"
+  },
+  {
+    "title": "My second impression of Rust and why I think it's a great general-purpose language! | Technorage",
+    "link": "https://deepu.tech/my-second-impression-of-rust/"
+  },
+  {
+    "title": "Automatic Flamegraphs for Benchmarks in Rust · Jibbow's Blog (by Andreas Zimmerer)",
+    "link": "https://www.jibbow.com/posts/criterion-flamegraphs/"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs/"
+  },
+  {
+    "title": "The Slowest Quicksort",
+    "link": "https://chasewilson.dev/blog/slowest-quicksort/"
+  },
+  {
+    "title": "Always Bump Downwards",
+    "link": "https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs"
+  }
+]

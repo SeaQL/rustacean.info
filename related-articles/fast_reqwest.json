@@ -1,0 +1,70 @@
+[
+  {
+    "title": "Matic with Eric Seppanen - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e04-matic/"
+  },
+  {
+    "title": "Let futures be futures",
+    "link": "https://without.boats/blog/let-futures-be-futures/"
+  },
+  {
+    "title": "Fredrik Park | Making a secure Axum route",
+    "link": "https://blog.sedrik.se/posts/secure-axum"
+  },
+  {
+    "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/async/"
+  },
+  {
+    "title": "Hyper vs Rocket - Low Level vs Batteries included",
+    "link": "https://www.shuttle.rs/blog/2022/06/01/hyper-vs-rocket"
+  },
+  {
+    "title": "Tag1 Joins the Rust Foundation as the First Silver Member | Tag1 Consulting",
+    "link": "https://www.tag1consulting.com/blog/tag1-joins-rust-foundation-first-silver-member"
+  },
+  {
+    "title": "Hyper with Sean McArthur :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/045-sean-arthur/"
+  },
+  {
+    "title": "IntelliJ Rust Changelog #158",
+    "link": "https://intellij-rust.github.io/2021/10/25/changelog-158.html"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "The Tokio Upgrade from 0.2 to 1.x · The Fly Blog",
+    "link": "https://fly.io/blog/the-tokio-1-x-upgrade/"
+  },
+  {
+    "title": "What I Learnt from Benchmarking Http4k, Ktor (Kotlin) and Actix v2, v3 (Rust) Microservices – Matěj Laitl a.k.a. strohel – Technical Blog",
+    "link": "https://matej.laitl.cz/bench-rust-kotlin-microservices/"
+  },
+  {
+    "title": "Managing Rust bloat with Github Actions",
+    "link": "https://tomforb.es/managing-rust-bloat-with-github-actions/"
+  },
+  {
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "title": "Reducing the size of a Rust GStreamer plugin",
+    "link": "https://www.collabora.com/news-and-blog/blog/2020/04/28/reducing-size-rust-gstreamer-plugin/"
+  },
+  {
+    "title": "A Basic Web Application with Rust and Actix-web - zupzup",
+    "link": "https://zupzup.org/rust-webapp/"
+  },
+  {
+    "title": "Web Scraping With Rust. In this post I’m going to explore web… | by Kade Killary | codeburst",
+    "link": "https://codeburst.io/web-scraping-in-rust-881b534a60f7"
+  }
+]

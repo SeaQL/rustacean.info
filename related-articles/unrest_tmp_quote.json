@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume",
+    "link": "https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/"
+  },
+  {
+    "title": "Introducing usb-ids.rs",
+    "link": "https://blog.yossarian.net/2021/01/21/Introducing-usb-ids-rs"
+  },
+  {
+    "title": "Building Canrun: A statically typed logic programming library for Rust",
+    "link": "https://esimmler.com/building-canrun-part-1/"
+  },
+  {
+    "title": "proc-macro-rules",
+    "link": "https://www.ncameron.org/blog/proc-macro-rules/"
+  },
+  {
+    "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
+    "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
+  },
+  {
+    "title": "An overview of macros in Rust",
+    "link": "http://words.steveklabnik.com/an-overview-of-macros-in-rust"
+  }
+]

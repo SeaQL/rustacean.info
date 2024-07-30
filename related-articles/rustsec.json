@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
+  },
+  {
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
+    "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
+  },
+  {
+    "title": "Updated Thoughts on Trust Scaling | Armin Ronacher's Thoughts and Writings",
+    "link": "http://lucumr.pocoo.org/2019/7/29/dependency-scaling/"
+  }
+]

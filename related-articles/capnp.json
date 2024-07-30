@@ -1,0 +1,46 @@
+[
+  {
+    "title": "0.19 — ergonomic setters and faster reflection",
+    "link": "https://dwrensha.github.io/capnproto-rust/2024/01/14/0.19-release.html"
+  },
+  {
+    "title": "0.18 — lazy UTF-8 and no-alloc",
+    "link": "https://dwrensha.github.io/capnproto-rust/2023/09/04/0.18-release.html"
+  },
+  {
+    "title": "0.15 — GATs, CapabilityServerSet, and async packing",
+    "link": "https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html"
+  },
+  {
+    "title": "async generators",
+    "link": "https://dwrensha.github.io/capnproto-rust/2016/05/28/async-generators.html"
+  },
+  {
+    "title": "RPC system rewritten to use async I/O",
+    "link": "https://dwrensha.github.io/capnproto-rust/2016/01/11/async-rpc.html"
+  },
+  {
+    "title": "asynchronous I/O with promises",
+    "link": "http://dwrensha.github.io/capnproto-rust/2015/05/25/asynchronous-io-with-promises.html"
+  },
+  {
+    "title": "error handling revisited",
+    "link": "http://dwrensha.github.io/capnproto-rust/2015/03/21/error-handling-revisited.html"
+  },
+  {
+    "title": "custom mutable reference types",
+    "link": "http://dwrensha.github.io/capnproto-rust/2014/12/27/custom-mutable-references.html"
+  },
+  {
+    "title": "updated benchmark comparison to C++",
+    "link": "http://dwrensha.github.io/capnproto-rust/2014/01/15/benchmark-update.html"
+  },
+  {
+    "title": "benchmark comparison to C++",
+    "link": "http://dwrensha.github.io/capnproto-rust/2013/11/16/benchmark.html"
+  },
+  {
+    "title": "a data pipeline with zeromq",
+    "link": "http://dwrensha.github.io/capnproto-rust/2014/01/04/zmq-explorers.html"
+  }
+]

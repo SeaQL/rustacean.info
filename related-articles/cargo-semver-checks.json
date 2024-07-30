@@ -1,0 +1,66 @@
+[
+  {
+    "title": "I ported h2spec to Rust (also: codegen!)",
+    "link": "https://fasterthanli.me/videos/h2spec-to-rust"
+  },
+  {
+    "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
+  },
+  {
+    "title": "Pavex with Luca Palmieri :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/luca-palmieri-pavex/"
+  },
+  {
+    "title": "cargo-semver-checks with Predrag Gruevski :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/predrag-gruevski/"
+  },
+  {
+    "title": "SemVer in Rust: Tooling, Breakage, and Edge Cases — FOSDEM 2024",
+    "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
+  },
+  {
+    "title": "Rustconf 2023 recap",
+    "link": "https://blog.adamchalmers.com/rustconf-2023-recap/"
+  },
+  {
+    "title": "Semver violations are common, better tooling is the answer",
+    "link": "https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/"
+  },
+  {
+    "title": "🎙️ Trustfall and cargo-semver-checks with Predrag Gruevski - RustShip • Marco Ieni",
+    "link": "https://ieni.dev/2023/09/%EF%B8%8F-trustfall-and-cargo-semver-checks-with-predrag-gruevski-rustship/"
+  },
+  {
+    "title": "RustShip: a new Rust podcast • Marco Ieni",
+    "link": "https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/"
+  },
+  {
+    "title": "A definitive guide to sealed traits in Rust",
+    "link": "https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/"
+  },
+  {
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "title": "Speeding up Rust semver-checking by over 2000x",
+    "link": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/"
+  },
+  {
+    "title": "cargo-semver-checks today and in 2023",
+    "link": "https://predr.ag/blog/cargo-semver-checks-today-and-in-2023/"
+  },
+  {
+    "title": "Rust 2023 (by Yosh)",
+    "link": "https://blog.yoshuawuyts.com/rust-2023/#ambition"
+  },
+  {
+    "title": "Rust 2023 (by Yosh)",
+    "link": "https://blog.yoshuawuyts.com/rust-2023/"
+  },
+  {
+    "title": "Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use. | The Tor Project",
+    "link": "https://blog.torproject.org/arti_100_released/"
+  }
+]

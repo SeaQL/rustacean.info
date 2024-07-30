@@ -1,0 +1,18 @@
+[
+  {
+    "title": "What the HAL? The Quest for Finding a Suitable Embedded Rust HAL",
+    "link": "https://apollolabsblog.hashnode.dev/what-the-hal-the-quest-for-finding-a-suitable-embedded-rust-hal"
+  },
+  {
+    "title": "6 Things I Wish I Knew Starting with Embedded Rust",
+    "link": "https://apollolabsblog.hashnode.dev/6-things-i-wish-i-knew-starting-with-embedded-rust"
+  },
+  {
+    "title": "STM32F4 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-gpio-button-controlled-blinking"
+  },
+  {
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  }
+]

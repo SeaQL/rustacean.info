@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Rust Tooling: 8 tools that will increase your productivity",
+    "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
+  },
+  {
+    "title": "debugging tokio instrumentation - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/debugging-tokio-instrumentation/"
+  },
+  {
+    "title": "Common Mistakes with Rust Async",
+    "link": "https://www.qovery.com/blog/common-mistakes-with-rust-async/"
+  },
+  {
+    "title": "tracing tokio tasks - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/tracing-tokio-tasks/"
+  },
+  {
+    "title": "task scheduled time in console - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/task-scheduled-time-in-console/"
+  },
+  {
+    "title": "track caller - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/track-caller/"
+  },
+  {
+    "title": "Announcing async-backtrace | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2022-10-announcing-async-backtrace"
+  },
+  {
+    "title": "Why We’re Porting Our Database Drivers to Async Rust - The New Stack",
+    "link": "https://thenewstack.io/why-were-porting-our-database-drivers-to-async-rust/"
+  },
+  {
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "title": "Some mistakes Rust doesn't catch",
+    "link": "https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch"
+  },
+  {
+    "title": "Announcing Tokio Console 0.1 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-12-announcing-tokio-console"
+  },
+  {
+    "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-valuable"
+  }
+]

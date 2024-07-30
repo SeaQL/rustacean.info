@@ -1,0 +1,14 @@
+[
+  {
+    "title": "curl with Daniel Stenberg - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e01-curl/"
+  },
+  {
+    "title": "Rust and Rest | Armin Ronacher's Thoughts and Writings",
+    "link": "http://lucumr.pocoo.org/2016/7/10/rust-rest/"
+  },
+  {
+    "title": "Get Data From A URL In Rust",
+    "link": "http://hermanradtke.com/2015/09/21/get-data-from-a-url-rust.html"
+  }
+]

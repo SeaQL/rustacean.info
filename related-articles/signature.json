@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  }
+]

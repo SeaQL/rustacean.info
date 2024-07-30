@@ -1,0 +1,26 @@
+[
+  {
+    "title": "https://fosdem.org/2019/schedule/event/microkernel_written_in_rust/attachments/slides/3258/export/events/attachments/microkernel_written_in_rust/slides/3258/FOSDEM_2019___A_microkernel_written_in_Rust.pdf",
+    "link": "https://fosdem.org/2019/schedule/event/microkernel_written_in_rust/attachments/slides/3258/export/events/attachments/microkernel_written_in_rust/slides/3258/FOSDEM_2019___A_microkernel_written_in_Rust.pdf"
+  },
+  {
+    "title": "A Rust-based Unikernel - HermitCore",
+    "link": "https://hermitcore.org/2018/06/06/A-Rust-based-Unikernel/"
+  },
+  {
+    "title": "Building graphical applications to js in stable Rust by Greg Katz",
+    "link": "https://gregkatz.github.io/2017-05-20-rust-emscripten.html"
+  },
+  {
+    "title": "Rust and the limits of swarm design – Armed and Dangerous",
+    "link": "http://esr.ibiblio.org/?p=7303"
+  },
+  {
+    "title": "The Internet on Redox - Redox - Your Next(Gen) OS",
+    "link": "https://www.redox-os.org/news/the-internet-on-redox/"
+  },
+  {
+    "title": "This Week in Redox 12 - Redox - Your Next(Gen) OS",
+    "link": "http://www.redox-os.org/news/this-week-in-redox-12/"
+  }
+]

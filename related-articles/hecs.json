@@ -1,0 +1,38 @@
+[
+  {
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "title": "Tutorial: Writing a Tiny Rust Game Engine for Web",
+    "link": "https://ianjk.com/game-engine-in-rust/"
+  },
+  {
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "title": "IntelliJ Rust Changelog #159",
+    "link": "https://intellij-rust.github.io/2021/11/08/changelog-159.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/021/"
+  },
+  {
+    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/020/"
+  },
+  {
+    "title": "Bevy 0.5",
+    "link": "https://bevyengine.org/news/bevy-0-5/"
+  },
+  {
+    "title": "Tutorial: Writing a tiny Entity Component System in Rust",
+    "link": "https://ianjk.com/ecs-in-rust/"
+  }
+]

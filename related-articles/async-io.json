@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Designing an Async Runtime for WASI 0.2",
+    "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"
+  },
+  {
+    "title": "Eyra is an interesting Rust project – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/eyra/"
+  },
+  {
+    "title": "Why you might actually want async in your project – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/why-you-want-async/"
+  },
+  {
+    "title": "Local Async Executors and Why They Should be the Default",
+    "link": "https://maciej.codes/2022-06-09-local-async.html"
+  },
+  {
+    "title": "Ringbahn III: A deeper dive into drivers",
+    "link": "https://without.boats/blog/ringbahn-iii/"
+  }
+]

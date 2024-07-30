@@ -1,0 +1,10 @@
+[
+  {
+    "title": "A Tour of Safe Tracing GC Designs in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/"
+  },
+  {
+    "title": "Designing a GC in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/"
+  }
+]

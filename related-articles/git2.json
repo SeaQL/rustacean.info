@@ -1,0 +1,22 @@
+[
+  {
+    "title": "What's new in 1.3.0? | git-cliff",
+    "link": "https://git-cliff.org/blog/1.3.0/"
+  },
+  {
+    "title": "Why Turborepo is migrating from Go to Rust – Vercel",
+    "link": "https://vercel.com/blog/turborepo-migration-go-rust"
+  },
+  {
+    "title": "Polishing Rust. Temporary Value Dropped While Borrowed | by Tim Keating | Medium",
+    "link": "https://mrtact.medium.com/polishing-rust-42d9131d1c3"
+  },
+  {
+    "title": "Async-Awaitifying a Rust CLI App - zupzup",
+    "link": "https://zupzup.org/async-awaitify-rust-cli/"
+  },
+  {
+    "title": "24 days of Rust - git2 | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-git2/"
+  }
+]

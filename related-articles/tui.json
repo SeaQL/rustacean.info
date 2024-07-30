@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Why stdout is faster than stderr? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/stdout-vs-stderr/"
+  },
+  {
+    "title": "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs - Orhun's Blog",
+    "link": "https://blog.orhun.dev/ratatui-0-23-0/"
+  },
+  {
+    "title": "ratatui - Rust",
+    "link": "https://docs.rs/ratatui"
+  },
+  {
+    "title": "Projectable: A Command-Line Project Manager - dzfrias",
+    "link": "https://dzfrias.dev/blog/projectable"
+  },
+  {
+    "title": "Episode 1: Hello, World! - The Way of the Crab",
+    "link": "https://wayofthecrab.com/episodes/001/"
+  },
+  {
+    "title": "Rewriting the CLI in Rust: Was It Worth It?",
+    "link": "https://blog.railway.app/p/rust-cli-rewrite"
+  },
+  {
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
+  },
+  {
+    "title": "Fireworks for your terminal - Darrien's technical blog",
+    "link": "https://blog.darrien.dev/posts/fireworks-for-your-terminal/"
+  },
+  {
+    "title": "Porting North Korean Dictionaries with Rust – Digital NK",
+    "link": "https://digitalnk.com/blog/2020/05/08/porting-north-korean-dictionaries-with-rust/"
+  }
+]

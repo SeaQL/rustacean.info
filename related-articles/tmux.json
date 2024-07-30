@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Zellij 0.39.0: Session Resurrection, Cross-Language UI Components, load Plugins from the Web",
+    "link": "https://zellij.dev/news/session-resurrection-ui-components/"
+  },
+  {
+    "title": "Zellij 0.38.0: including a session-manager, plugin infrastructure improvements and an end to offensive session names",
+    "link": "https://zellij.dev/news/session-manager-protobuffs/"
+  },
+  {
+    "title": "Build Zellij WebAssembly (Rust) Plugins for your Terminal",
+    "link": "https://zellij.dev/news/new-plugin-system/"
+  },
+  {
+    "title": "Zellij 0.35.1 Stacked Panes and Swap Layouts",
+    "link": "https://zellij.dev/news/stacked-panes-swap-layouts/"
+  },
+  {
+    "title": "Zellij 0.32.0: YAML =&gt; KDL, Control Zellij through the CLI, Command Panes and a new Layout System",
+    "link": "https://zellij.dev/news/config-command-layouts/"
+  },
+  {
+    "title": "Zellij 0.31.0: Sixel support, search panes and custom status-bar keybindings",
+    "link": "https://zellij.dev/news/sixel-search-statusbar/"
+  },
+  {
+    "title": "Zellij 0.30.0: use your $EDITOR to search and save your scrollback",
+    "link": "https://zellij.dev/news/edit-scrollback-compact/"
+  },
+  {
+    "title": "Zellij 0.25.0: floating panes, tmux mode and more!",
+    "link": "https://zellij.dev/news/floating-panes-tmux-mode/"
+  },
+  {
+    "title": "Share your Terminal with Multiple Cursors",
+    "link": "https://zellij.dev/news/multiplayer-sessions/"
+  },
+  {
+    "title": "Plugins in Rust: Getting Started | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-start/"
+  },
+  {
+    "title": "Zellij 0.16.0: new UI, many bugfixes and more!",
+    "link": "https://zellij.dev/news/new-ui/"
+  },
+  {
+    "title": "Improving the Performance of our Rust app :: poor.dev",
+    "link": "https://www.poor.dev/blog/performance/"
+  },
+  {
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  },
+  {
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "title": "Zellij: a Rusty terminal workspace releases a beta",
+    "link": "https://zellij.dev/news/beta/"
+  }
+]

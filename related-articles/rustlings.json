@@ -1,0 +1,130 @@
+[
+  {
+    "title": "Berline.rs",
+    "link": "https://berline.rs/"
+  },
+  {
+    "title": "Rustlings Rewrite",
+    "link": "https://mo8it.com/blog/rustlings-rewrite/"
+  },
+  {
+    "title": "Rust for Lunch",
+    "link": "https://lunch.rs/"
+  },
+  {
+    "title": "Making Your First Real-World Rust Project a Success | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/successful-rust-business-adoption-checklist/"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2024/03/14/rust-hack-and-learn.html"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2024/02/29/rust-hack-and-learn.html"
+  },
+  {
+    "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
+    "link": "https://thewolfsound.com/talk016/"
+  },
+  {
+    "title": "My path to becoming a Rustacean | The Data Quarry",
+    "link": "https://thedataquarry.com/posts/path-to-becoming-a-rustacean/"
+  },
+  {
+    "title": "Adopting Rust: the missing playbook for managers and CTOs | Mainmatter",
+    "link": "https://mainmatter.com/blog/2023/12/13/rust-adoption-playbook-for-ctos-and-engineering-managers/"
+  },
+  {
+    "title": "Teaching Rust in 5 days",
+    "link": "https://mo8it.com/blog/teaching-rust/"
+  },
+  {
+    "title": "58 Rust Resources Every Learner Should Know in 2023",
+    "link": "https://apollolabsblog.hashnode.dev/58-rust-resources-every-learner-should-know-in-2023"
+  },
+  {
+    "title": "Berline.rs",
+    "link": "https://berline.rs"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2023/03/14/rust-hack-and-learn.html"
+  },
+  {
+    "title": "Rust in 2023 - GBurghoorn",
+    "link": "https://gburghoorn.com/posts/rust-in-2023/"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2022/12/20/rust-hack-and-learn.html"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2022/12/06/rust-hack-and-learn.html"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2022/11/22/rust-hack-and-learn.html"
+  },
+  {
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2022/09/27/rust-hack-and-learn.html"
+  },
+  {
+    "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2022/08/02/rust-hack-and-learn.html"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2022/06/21/rust-hack-and-learn.html"
+  },
+  {
+    "title": "Rustaceans at the border [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/889924/2f35f6746c3dd9b1/"
+  },
+  {
+    "title": "35 Rust Learning Resources Every Beginner Should Know in 2022",
+    "link": "https://apollolabsblog.hashnode.dev/35-rust-learning-resources-every-beginner-should-know-in-2022"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2022/03/29/rust-hack-and-learn.html"
+  },
+  {
+    "title": "002. 与黄光星畅聊 Rust、Redis 与新加坡 – RustTalk",
+    "link": "https://rusttalk.github.io/podcast/002/"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2021/12/07/rust-hack-and-learn.html"
+  },
+  {
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  },
+  {
+    "title": "Rust Hack and Learn - Berline.rs",
+    "link": "https://berline.rs/2021/05/13/rust-hack-and-learn.html"
+  },
+  {
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
+  },
+  {
+    "title": "Learning Rust by Working Through the Rustlings Exercises | egghead.io",
+    "link": "https://egghead.io/playlists/learning-rust-by-solving-the-rustlings-exercises-a722"
+  },
+  {
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  }
+]

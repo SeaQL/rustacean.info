@@ -1,0 +1,106 @@
+[
+  {
+    "title": "biscotti, a new crate for HTTP cookies | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/biscotti-http-cookies-in-rust/"
+  },
+  {
+    "title": "Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets, &amp; So Much More - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5/news/2023-11-17-version-0.5/"
+  },
+  {
+    "title": "Building a Better Foundation for Rocket's Future - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/"
+  },
+  {
+    "title": "Rocket - Simple, Fast, Type-Safe Web Framework for Rust",
+    "link": "https://rocket.rs"
+  },
+  {
+    "title": "Best Rust Web Frameworks to Use in 2023",
+    "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+  },
+  {
+    "title": "Writing Better Integration Tests with RAII",
+    "link": "https://notado.substack.com/p/writing-better-integration-tests"
+  },
+  {
+    "title": "Creating a minimal RESTful song request API using Rocket",
+    "link": "https://imajindevon.hashnode.dev/rust-rocket-song-request-api"
+  },
+  {
+    "title": "Magical handler functions in Rust | Lunatic",
+    "link": "https://lunatic.solutions/blog/magic-handler-functions-in-rust/"
+  },
+  {
+    "title": "IntelliJ Rust Changelog #168",
+    "link": "https://intellij-rust.github.io/2022/04/11/changelog-168.html"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "Rocket: A Web Framework for Rust",
+    "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/61/an-experimental-diesel-based-crud-for-rocket"
+  },
+  {
+    "title": "First impressions of Rust programming on Solana",
+    "link": "https://brson.github.io/2021/06/08/rust-on-solana"
+  },
+  {
+    "title": "My journey to understand rust-lang | by David Shawley | Medium",
+    "link": "https://daveshawley.medium.com/my-journey-to-understand-rust-lang-28e4cf808b12"
+  },
+  {
+    "title": "Trisiel Progress: Rewritten in Rust - Xe Iaso",
+    "link": "https://christine.website/blog/wasmcloud-progress-domains-2020-10-31"
+  },
+  {
+    "title": "Deploying a Rust HTTP server to DigitalOcean App Platform | (p)retired",
+    "link": "https://pretired.dazwilkin.com/posts/201008/"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/rust-traits-privacy"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/on-owning-borrowing-pub-interface"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/glsl-quasiquoting"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/on-rust-impl-block"
+  },
+  {
+    "title": "Writing a Microservice in Rust – Peter Goldsborough",
+    "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
+  },
+  {
+    "title": "strongly-typed-thoughts.net",
+    "link": "http://phaazon.net/blog/spectra_plugins"
+  },
+  {
+    "title": "Wiki - AnOpinionatedGuideToRustWebServers",
+    "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
+  },
+  {
+    "title": "show_notes::cysk::rocket - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/rocket/"
+  },
+  {
+    "title": "Launching a URL Shortener in Rust using Rocket | Matthias Endler",
+    "link": "https://matthias-endler.de/2017/rust-url-shortener"
+  },
+  {
+    "title": "show_notes::news::_2 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/_2/index.html"
+  }
+]

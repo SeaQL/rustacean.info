@@ -1,0 +1,10 @@
+[
+  {
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
+    "link": "https://nullderef.com/blog/web-api-client/"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "The ultimate guide to Rust newtypes",
+    "link": "https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes"
+  },
+  {
+    "title": "Polsim - a case study for small-scale scientific computing in Rust · Tinkering",
+    "link": "https://tinkering.xyz/polsim/"
+  },
+  {
+    "title": "Serde 0.7 - Chasing Rabbits",
+    "link": "https://erickt.github.io/blog/2016/02/26/serde-0-dot-7/"
+  }
+]

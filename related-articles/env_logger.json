@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Logging in Rust - How to Get Started",
+    "link": "https://www.shuttle.rs/blog/2023/09/20/logging-in-rust"
+  },
+  {
+    "title": "Knurling toolset v0.3 has been released!  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt-3/"
+  },
+  {
+    "title": "Hello: push button - Kas Tutorials",
+    "link": "https://kas-gui.github.io/tutorials/hello.html"
+  },
+  {
+    "title": "Diagnostics with Tracing | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-08-tracing/"
+  }
+]

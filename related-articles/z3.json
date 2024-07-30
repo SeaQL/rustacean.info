@@ -1,0 +1,10 @@
+[
+  {
+    "title": "An adventure with optimization, Rust and Z3 | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/an-adventure-with-optimization-rust-and-z3/"
+  },
+  {
+    "title": "Synthesizing Loop-Free Programs with Rust and Z3",
+    "link": "https://fitzgeraldnick.com/2020/01/13/synthesizing-loop-free-programs.html"
+  }
+]

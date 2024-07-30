@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Unsafe as a Human-Assisted Type System",
+    "link": "https://matklad.github.io/2019/07/25/unsafe-as-a-type-system.html"
+  },
+  {
+    "title": "After NLL: Moving from borrowed data and the sentinel pattern · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2018/11/10/after-nll-moving-from-borrowed-data-and-the-sentinel-pattern/"
+  },
+  {
+    "title": "Writing GStreamer Elements in Rust (Part 3): Parsing data from untrusted sources like it’s 2016 – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2016/11/writing-gstreamer-elements-in-rust-part-3-parsing-data-from-untrusted-sources-like-its-2016/"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "title": "June 2024 dev update",
+    "link": "https://godot-rust.github.io/dev/june-2024-update/"
+  },
+  {
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "title": "February 2024 dev update",
+    "link": "https://godot-rust.github.io/dev/february-2024-update/"
+  },
+  {
+    "title": "2023 in Review: Establishing Rust as a Godot 4 language",
+    "link": "https://godot-rust.github.io/dev/godot-rust-2023-review/"
+  },
+  {
+    "title": "FFI optimizations and benchmarking",
+    "link": "https://godot-rust.github.io/dev/ffi-optimizations-benchmarking/"
+  },
+  {
+    "title": "This Month in Rust GameDev #38 - September 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/038/"
+  },
+  {
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "title": "This Month in Rust GameDev #32 - March 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/032/"
+  },
+  {
+    "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/030/"
+  },
+  {
+    "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/029/"
+  },
+  {
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "title": "This Month in Rust GameDev #27 - October 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/027/"
+  },
+  {
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/025/"
+  },
+  {
+    "title": "Why Rust is the Future of Game Development | thefuntastic",
+    "link": "https://thefuntastic.com/blog/why-rust-is-the-future-game-dev"
+  },
+  {
+    "title": "CrabbyBird #0 Pierwsza przygoda z Rustem i Godotem – Postać normalna",
+    "link": "https://postacnormalna.pl/pierwsza-przygoda-z-rustem-i-godotem/"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Building a fast Electron app with Rust",
+    "link": "https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/"
+  },
+  {
+    "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
+    "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
+  },
+  {
+    "title": "Even quicker byte count — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/09/27/count.html"
+  },
+  {
+    "title": "Counting Newlines Really Fast — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/09/24/newline.html"
+  },
+  {
+    "title": "RustConf 2016 Travelogue | An Algorithmic Lucidity",
+    "link": "http://zackmdavis.net/blog/2016/09/rustconf-2016-travelogue/"
+  },
+  {
+    "title": "RustConf 2016 Talks",
+    "link": "http://alwayscoding.ca/momentos/2016/09/10/rustconf-2016-talks/"
+  },
+  {
+    "title": "show_notes::interview::_2::part_1 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/_2/part_1/index.html"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Flexible Tracing with Rust and OpenTelemetry OTLP",
+    "link": "https://broch.tech/posts/rust-tracing-opentelemetry/"
+  },
+  {
+    "title": "OpenTelemetry Distributed Tracing in Rust | Aspecto",
+    "link": "https://www.aspecto.io/blog/distributed-tracing-with-opentelemetry-rust/"
+  }
+]

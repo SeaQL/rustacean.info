@@ -1,0 +1,74 @@
+[
+  {
+    "title": "reqwest v0.12 - seanmonstar",
+    "link": "https://seanmonstar.com/blog/reqwest-v012/"
+  },
+  {
+    "title": "2023 in review - seanmonstar",
+    "link": "https://seanmonstar.com/blog/2023-in-review/"
+  },
+  {
+    "title": "tokio_graceful - Rust",
+    "link": "https://docs.rs/tokio-graceful"
+  },
+  {
+    "title": "hyper v1 - seanmonstar",
+    "link": "https://seanmonstar.com/blog/hyper-v1/"
+  },
+  {
+    "title": "Rust microservices in server-side WebAssembly - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-microservices-server-side-webassembly/"
+  },
+  {
+    "title": "BonsaiDb November update: Working towards alpha 1 - BonsaiDb - Khonsu Labs Community",
+    "link": "https://community.khonsulabs.com/t/bonsaidb-november-update-working-towards-alpha-1/86"
+  },
+  {
+    "title": "Combining Axum, Hyper, Tonic, and Tower for hybrid web/gRPC apps: Part 2",
+    "link": "https://www.fpcomplete.com/blog/axum-hyper-tonic-tower-part2"
+  },
+  {
+    "title": "Saving Some Allocations | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/01/31/saving-some-allocations.html"
+  },
+  {
+    "title": "Hyper Traps | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/04/13/hyper-traps.html"
+  },
+  {
+    "title": "Lessons learnt updating a library to std::future",
+    "link": "https://cetra3.github.io/blog/mpart-async-0-3-0/"
+  },
+  {
+    "title": "Announcing Tokio 0.2 and a Roadmap to 1.0 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-11-tokio-0-2/"
+  },
+  {
+    "title": "Rust In Avast | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/05/19/rust-in-avast.html"
+  },
+  {
+    "title": "A great 2018, an even better 2019 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2018-12-recap-2018/"
+  },
+  {
+    "title": "Experimental async / await support for Tokio | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2018-08-async-await/"
+  },
+  {
+    "title": "Writing a Microservice in Rust – Peter Goldsborough",
+    "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
+  },
+  {
+    "title": "Gotham web framework",
+    "link": "https://gotham.rs/blog"
+  },
+  {
+    "title": "show_notes::cysk::rocket - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/rocket/"
+  },
+  {
+    "title": "Karol Kuczmarski's Blog – Asynchronous Rust for fun &amp;&nbsp;profit",
+    "link": "http://xion.io/post/programming/rust-async-closer-look.html"
+  }
+]

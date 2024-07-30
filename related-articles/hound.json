@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Exceptional results: error handling with C# and Rust",
+    "link": "https://ruudvanasseldonk.com/2015/06/17/exceptional-results-error-handling-in-csharp-and-rust"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "How to build a (simple) blog using Rust",
+    "link": "https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust"
+  },
+  {
+    "title": "Learning Rust For Embedded Systems - Steve Branam",
+    "link": "https://www.embeddedrelated.com/showarticle/1432.php"
+  },
+  {
+    "title": "Implementing Raft's Leader Election in Rust – Lauro Caetano",
+    "link": "http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/"
+  },
+  {
+    "title": "Rust Programming Language Tutorial – How to Build a To-Do List App",
+    "link": "https://www.freecodecamp.org/news/how-to-build-a-to-do-app-with-rust/"
+  },
+  {
+    "title": "Rust from a Gopher - Lessons 3 &amp; 4 - LevPaul88's Place",
+    "link": "https://levpaul.com/posts/rust-lesson-3-and-4/"
+  }
+]

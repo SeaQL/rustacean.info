@@ -1,0 +1,10 @@
+[
+  {
+    "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
+    "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
+  },
+  {
+    "title": "Nextest - cargo-nextest",
+    "link": "https://nexte.st"
+  }
+]

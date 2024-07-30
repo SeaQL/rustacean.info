@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Latency at the Edge with Rust/WebAssembly and Postgres: Part 1 | Exograph",
+    "link": "https://exograph.dev/blog/wasm-pg-explorations-1"
+  },
+  {
+    "title": "Logan Keenan - A Rust app in a Cloudflare Worker",
+    "link": "https://logankeenan.com/posts/running-a-rust-server-in-a-cloudflare-worker/"
+  }
+]

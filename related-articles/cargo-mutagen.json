@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Can Rust prevent logic errors? | It's all about the bit",
+    "link": "https://itsallaboutthebit.com/logic-errors-in-rust/"
+  },
+  {
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "title": "The nightly elephant in the room | Synth",
+    "link": "https://www.getsynth.com/docs/blog/2021/10/11/nightly"
+  },
+  {
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "title": "Rust 2019 -- The Road Ahead — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/12/08/rust.html"
+  },
+  {
+    "title": "The Case For Macros — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/10/25/macros.html"
+  },
+  {
+    "title": "These Weeks in Dev-Tools, issue 4",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-4/"
+  },
+  {
+    "title": "A Shifty Riddle — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/04/11/shift.html"
+  },
+  {
+    "title": "Under Cover — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/03/25/cover.html"
+  },
+  {
+    "title": "Deciding if two types are equal — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/03/15/types.html"
+  },
+  {
+    "title": "Pattern Boldness — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/03/13/patterns.html"
+  },
+  {
+    "title": "Opportunistic Mutations — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/03/03/opportune.html"
+  },
+  {
+    "title": "Mutation Testing Rust in Earnest — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/02/14/mutagen.html"
+  }
+]

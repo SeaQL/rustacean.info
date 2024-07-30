@@ -1,0 +1,18 @@
+[
+  {
+    "title": "PostgresML is Moving to Rust for our 2.0 Release – PostgresML",
+    "link": "https://postgresml.org/blog/postgresml-is-moving-to-rust-for-our-2.0-release/"
+  },
+  {
+    "title": "Beyond R and Python: Rust for Science - scie.nz",
+    "link": "https://scie.nz/rust/"
+  },
+  {
+    "title": "Python vs Rust for Neural Networks | Nathan Goldbaum",
+    "link": "https://ngoldbaum.github.io/posts/python-vs-rust-nn/"
+  },
+  {
+    "title": "The State of Machine Learning in Rust - Ehsan's Blog",
+    "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
+  }
+]

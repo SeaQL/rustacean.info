@@ -1,0 +1,22 @@
+[
+  {
+    "title": "How does async Rust work | bertptrs.nl",
+    "link": "https://bertptrs.nl/2023/04/27/how-does-async-rust-work.html"
+  },
+  {
+    "title": "How to Build gRPC APIs with Rust  | Kong Inc.",
+    "link": "https://konghq.com/blog/building-grpc-apis-with-rust"
+  },
+  {
+    "title": "geekAbyte: A Neophyte's Introduction to the async/await landscape in Rust",
+    "link": "https://www.geekabyte.io/2022/05/a-neophytes-introduction-to-asyncawait.html"
+  },
+  {
+    "title": "What is an async runtime?",
+    "link": "https://ncameron.org/blog/what-is-an-async-runtime/"
+  },
+  {
+    "title": "Rewriting the heart of our sync engine - Dropbox",
+    "link": "https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine"
+  }
+]

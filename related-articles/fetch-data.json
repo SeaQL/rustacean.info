@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
+  },
+  {
+    "title": "Interview Question: Select a Random Line from a File (in Rust) | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/interview-question-select-a-random-line-from-a-file-in-rust-c0a8cddcddfb"
+  },
+  {
+    "title": "fetch_data - Rust",
+    "link": "https://docs.rs/fetch-data/latest/fetch_data/"
+  }
+]

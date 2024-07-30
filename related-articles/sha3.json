@@ -1,0 +1,14 @@
+[
+  {
+    "title": "One step forward, an easier interoperability between Rust and Haskell | IOG Engineering",
+    "link": "https://engineering.iog.io/2023-01-26-hs-bindgen-introduction/"
+  },
+  {
+    "title": "Rust 2021 Post · GitHub",
+    "link": "https://gist.github.com/pickfire/3bcceeacf0bae22dd9f03c5053a976e3"
+  },
+  {
+    "title": "Surviving Rust async interfaces",
+    "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
+  }
+]

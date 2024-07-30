@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
+  },
+  {
+    "title": "Build a simple template engine in &lt;100 lines of Rust code",
+    "link": "https://blog.spike.codes/build-a-template-engine"
+  },
+  {
+    "title": "ESP32 MQTT Publish with Rust. Here at IOTICS, we are in the habit of… | by Mihai Dinculescu | IOTICS | Medium",
+    "link": "https://medium.com/iotics/esp32-mqtt-publish-with-rust-678d1068ee2"
+  },
+  {
+    "title": "What is Rust and why is it so popular? - Stack Overflow",
+    "link": "https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/"
+  },
+  {
+    "title": "Replacing Elasticsearch with Rust and SQLite",
+    "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"
+  },
+  {
+    "title": "The Rise of Rust in DevOps | D2iQ",
+    "link": "https://mesosphere.com/blog/rust-devops/"
+  },
+  {
+    "title": "Rust and the limits of swarm design – Armed and Dangerous",
+    "link": "http://esr.ibiblio.org/?p=7303"
+  }
+]

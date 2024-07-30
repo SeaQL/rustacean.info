@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Rust for filesystems [LWN.net]",
+    "link": "https://lwn.net/Articles/978738/"
+  },
+  {
+    "title": "Rust/C++ Interop Part 1 - Just the Basics |",
+    "link": "https://tylerjw.dev/posts/rust-cpp-interop/"
+  },
+  {
+    "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
+    "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
+  },
+  {
+    "title": "ROFL with a LOL: rewriting an NGINX module in Rust",
+    "link": "https://blog.cloudflare.com/rust-nginx-module/"
+  },
+  {
+    "title": "Exploring Rust for Vulkan drivers, part 1",
+    "link": "https://www.collabora.com/news-and-blog/blog/2023/02/02/exploring-rust-for-vulkan-drivers-part-1/"
+  },
+  {
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  },
+  {
+    "title": "Learning Rust: Interfacing with C · Martin Pitt",
+    "link": "https://piware.de/post/2021-08-27-rust-and-c/"
+  },
+  {
+    "title": "Plugins in Rust: Getting Started | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-start/"
+  },
+  {
+    "title": "Create Your Own PineTime Watch Face in Rust... And Publish on crates.io",
+    "link": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/watchface"
+  },
+  {
+    "title": "Rust FFI - Building an ASN1 codec - A Different Tack",
+    "link": "https://sjames.github.io/articles/2020-04-26-rust-ffi-asn1-codec/"
+  }
+]

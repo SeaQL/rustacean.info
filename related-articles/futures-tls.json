@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Rust at OneSignal",
+    "link": "https://onesignal.com/blog/rust-at-onesignal/"
+  },
+  {
+    "title": "Writing a Microservice in Rust – Peter Goldsborough",
+    "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
+  },
+  {
+    "title": "Async, Futures, AMQP, pick three | Clever Cloud",
+    "link": "https://www.clever-cloud.com/blog/engineering/2017/03/28/lapin-new-rust-amqp-library/"
+  },
+  {
+    "title": "The Future With Futures",
+    "link": "http://asquera.de/blog/2017-03-01/the-future-with-futures/"
+  },
+  {
+    "title": "Parallelizing Enjarify in Go and Rust | by Robert Grosse | Medium",
+    "link": "https://medium.com/@robertgrosse/parallelizing-enjarify-in-go-and-rust-21055d64af7e"
+  },
+  {
+    "title": "show_notes::news::_2 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/_2/index.html"
+  },
+  {
+    "title": "Getting Started with Tokio",
+    "link": "https://lukesteensen.com/2016/12/getting-started-with-tokio/"
+  },
+  {
+    "title": "Using and_then and map combinators on the Rust Result Type",
+    "link": "http://hermanradtke.com/2016/09/12/rust-using-and_then-and-map-combinators-on-result-type.html"
+  },
+  {
+    "title": "The relationship between async libraries in Rust | \nJimmy Cuadra",
+    "link": "https://www.jimmycuadra.com/posts/the-relationship-between-async-libraries-in-rust/"
+  },
+  {
+    "title": "Designing futures for Rust · Aaron Turon",
+    "link": "https://aturon.github.io/blog/2016/09/07/futures-design/"
+  },
+  {
+    "title": "show_notes::bonus::_6 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_6/"
+  },
+  {
+    "title": "Zero-cost futures in Rust · Aaron Turon",
+    "link": "https://aturon.github.io/blog/2016/08/11/futures/"
+  },
+  {
+    "title": "Hidden treasures of the Rust ecosystem - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html"
+  }
+]

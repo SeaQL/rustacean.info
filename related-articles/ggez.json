@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Building a Web App in Rust - Dmitry Kudryavtsev",
+    "link": "https://www.yieldcode.blog/post/building-a-webapp-in-rust/"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/035/"
+  },
+  {
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Open Source Contribution – Avishay's Blog",
+    "link": "https://avishay.dev/2020/03/04/oss-contribution/"
+  },
+  {
+    "title": "5 Year Anniversary - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2019/06/12/anniversary-5.html"
+  },
+  {
+    "title": "Building a fast Electron app with Rust",
+    "link": "https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/"
+  },
+  {
+    "title": "Eight million pixels and counting\n– Introduction to lyon: 2D vector graphics rendering on the GPU in rust",
+    "link": "https://nical.github.io/posts/lyon-intro.html"
+  },
+  {
+    "title": "#Rust2018 — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
+  },
+  {
+    "title": "rust2018.md · GitHub",
+    "link": "https://gist.github.com/est31/c063704716b6880fd74ce2ba11b11298"
+  },
+  {
+    "title": "This Year in Gfx-rs - 2017 - gfx-rs nuts and bolts",
+    "link": "http://gfx-rs.github.io/2017/12/30/this-year.html"
+  },
+  {
+    "title": "ggez: Rust game thing",
+    "link": "http://ggez.rs/"
+  }
+]

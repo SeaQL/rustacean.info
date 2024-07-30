@@ -1,0 +1,10 @@
+[
+  {
+    "title": "uv: Python packaging in Rust",
+    "link": "https://astral.sh/blog/uv"
+  },
+  {
+    "title": "Using Long Paths in Windows and Rust",
+    "link": "https://gal.hagever.com/posts/windows-long-paths-in-rust/"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "A Tour of Safe Tracing GC Designs in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/"
+  },
+  {
+    "title": "Using the Borrow Checker to make Tic-Tac-Toe safer · Lukasʼ Blog",
+    "link": "https://lukaskalbertodt.github.io/2017/01/20/abusing-borrowck-to-make-tic-tac-toe-safer.html"
+  }
+]

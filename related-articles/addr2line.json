@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Memory Leak Diagnosing using Flame Graphs | Greptime",
+    "link": "https://www.greptime.com/blogs/2024-01-18-memory-leak"
+  },
+  {
+    "title": "(Possibly) Emulate PinePhone with Unicorn Emulator",
+    "link": "https://lupyuen.github.io/articles/unicorn"
+  },
+  {
+    "title": "Integrating fault injection in development workflows | Ledger",
+    "link": "https://blog.ledger.com/fault-injection-simulation/"
+  },
+  {
+    "title": "Demangling C++ Symbols",
+    "link": "http://fitzgeraldnick.com/2017/02/22/cpp-demangle.html"
+  }
+]

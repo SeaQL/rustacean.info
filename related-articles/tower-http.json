@@ -1,0 +1,22 @@
+[
+  {
+    "title": "hyper v1 - seanmonstar",
+    "link": "https://seanmonstar.com/blog/hyper-v1/"
+  },
+  {
+    "title": "Distributed Tracing in Rust, Episode 2: tracing basics",
+    "link": "https://heikoseeberger.de/2023-08-18-dist-tracing-2/"
+  },
+  {
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "title": "Composing an observable Rust application - LogRocket Blog",
+    "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
+  },
+  {
+    "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
+  }
+]

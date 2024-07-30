@@ -1,0 +1,22 @@
+[
+  {
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "title": "More than you've ever wanted to know about errors in Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/30/error-handling"
+  },
+  {
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "title": "Surviving Rust async interfaces",
+    "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
+  }
+]

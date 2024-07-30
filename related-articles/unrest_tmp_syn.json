@@ -1,0 +1,34 @@
+[
+  {
+    "title": "A better cargo-readme - Issue 0: Humble Beginning | S🦀sha's blog",
+    "link": "https://scrabsha.github.io/abcr-issue-0/"
+  },
+  {
+    "title": "Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume",
+    "link": "https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/"
+  },
+  {
+    "title": "postfix-macros.md · GitHub",
+    "link": "https://gist.github.com/est31/8d0465997ea920c5ba917cbbf80a822d"
+  },
+  {
+    "title": "Building Canrun: A statically typed logic programming library for Rust",
+    "link": "https://esimmler.com/building-canrun-part-1/"
+  },
+  {
+    "title": "proc-macro-rules",
+    "link": "https://www.ncameron.org/blog/proc-macro-rules/"
+  },
+  {
+    "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
+    "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
+  },
+  {
+    "title": "Why Rust Has Macros · Bloggedy blog",
+    "link": "https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/"
+  },
+  {
+    "title": "An overview of macros in Rust",
+    "link": "http://words.steveklabnik.com/an-overview-of-macros-in-rust"
+  }
+]

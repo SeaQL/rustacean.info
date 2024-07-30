@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "title": "Send the logs of your Shuttle-powered backend to Datadog | Roberto Huertas",
+    "link": "https://robertohuertas.com/2023/09/30/shuttle-datadog-logs/"
+  },
+  {
+    "title": "Auto-Generating &amp; Validating OpenAPI Docs in Rust: A Streamlined Approach with Utoipa and Schemathesis – Identeco",
+    "link": "https://identeco.de/en/blog/generating_and_validating_openapi_docs_in_rust/"
+  },
+  {
+    "title": "Rust visitor pattern and efficient DataFusion query federation | Splitgraph",
+    "link": "https://www.splitgraph.com/blog/datafusion-filter-expr-visitor"
+  },
+  {
+    "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
+  },
+  {
+    "title": "Full-stack Rust: A complete tutorial with examples - LogRocket Blog",
+    "link": "https://blog.logrocket.com/full-stack-rust-a-complete-tutorial-with-examples/"
+  },
+  {
+    "title": "Rust on the front-end",
+    "link": "https://blog.frankel.ch/start-rust/5/"
+  },
+  {
+    "title": "Building a REST and Web Socket API with Actix and Rust | AGM Projects",
+    "link": "https://agmprojects.com/blog/building-a-rest-and-web-socket-api-with-actix.html"
+  },
+  {
+    "title": "⚙️ Machine Learning: K-means clustering and visualization",
+    "link": "https://www.secondstate.io/articles/machine-learning/"
+  },
+  {
+    "title": "Serverless Rust with Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/"
+  },
+  {
+    "title": "Writing a Microservice in Rust – Peter Goldsborough",
+    "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
+  }
+]

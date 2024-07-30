@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Porting Rust's std to rustix · sunfishcode's blog",
+    "link": "https://blog.sunfishcode.online/port-std-to-rustix/"
+  },
+  {
+    "title": "Rust programs written entirely in Rust · sunfishcode's blog",
+    "link": "https://blog.sunfishcode.online/rust-programs-entirely-in-rust/"
+  },
+  {
+    "title": "The XDG base directory specification and Rust",
+    "link": "https://blog.liw.fi/posts/2021/02/14/xdg-base-dirs-rust/"
+  }
+]

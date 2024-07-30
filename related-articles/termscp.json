@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Implementing a generic range parser in Rust",
+    "link": "https://blog.veeso.dev/blog/en/implementing-a-generic-range-parser-in-rust/"
+  },
+  {
+    "title": "How to configure CPU cores to be used in a Tokio application with core_affinity",
+    "link": "https://blog.veeso.dev/blog/en/how-to-configure-cpu-cores-to-be-used-on-a-tokio-with-core--affinity/"
+  }
+]

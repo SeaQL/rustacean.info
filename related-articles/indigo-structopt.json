@@ -1,0 +1,42 @@
+[
+  {
+    "title": "clap 3.1: A step towards 4.0",
+    "link": "https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/"
+  },
+  {
+    "title": "Sibi - Rucredstash release &amp; Rust experience from a Haskeller",
+    "link": "https://psibi.in/posts/2021-05-22-credstash.html"
+  },
+  {
+    "title": "Kevin K's Blog - Diving into Rust with a CLI",
+    "link": "https://kbknapp.dev/rust-cli/"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "title": "ExpressJS vs Actix-Web. It is exactly what you think | by Maxim Vorobjov | Medium",
+    "link": "https://medium.com/@maxsparr0w/performance-of-node-js-compared-to-actix-web-37f20810fb1a"
+  },
+  {
+    "title": "Inside Rust at Embark 🦀. A peek inside our day-to-day work with… | by Ari V | Embark Studios | Medium",
+    "link": "https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4"
+  },
+  {
+    "title": "A Tiny, Static, Full-Text Search Engine using Rust and WebAssembly | Matthias Endler",
+    "link": "https://endler.dev/2019/tinysearch/"
+  },
+  {
+    "title": "Face Detection with Actix Web",
+    "link": "https://cetra3.github.io/blog/face-detection-with-actix-web/"
+  },
+  {
+    "title": "Face Detection with Tensorflow Rust",
+    "link": "https://cetra3.github.io/blog/face-detection-with-tensorflow-rust/"
+  }
+]

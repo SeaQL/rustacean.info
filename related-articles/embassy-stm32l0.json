@@ -1,0 +1,30 @@
+[
+  {
+    "title": "What I'd like to see for Async Rust in 2024 🎄 · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2024/01/03/async-rust-2024/"
+  },
+  {
+    "title": "Rust and ThreadX  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-and-threadx/"
+  },
+  {
+    "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/async/"
+  },
+  {
+    "title": "Dyn async traits, part 8: the soul of Rust · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/09/18/dyn-async-traits-part-8-the-soul-of-rust/"
+  },
+  {
+    "title": "What is an async runtime?",
+    "link": "https://ncameron.org/blog/what-is-an-async-runtime/"
+  },
+  {
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/58/async-and-asleep-designing-our-future-embedded-applications"
+  }
+]

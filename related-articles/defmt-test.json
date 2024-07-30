@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Testing Your Embedded Rust (feat. embedded-hal-mock and explosions) - Barrett's Club",
+    "link": "https://barretts.club/posts/embedded-tests/"
+  },
+  {
+    "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
+  },
+  {
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
+    "title": "Testing a Hardware Abstraction Layer (HAL)  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt-test-hal/"
+  },
+  {
+    "title": "Knurling-rs changelog #8  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-8/"
+  },
+  {
+    "title": "Knurling-rs changelog #7  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-7/"
+  },
+  {
+    "title": "Getting Started with the nRF52840 in Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Getting-Started-with-the-nRF52840-in-Rust/"
+  },
+  {
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  }
+]

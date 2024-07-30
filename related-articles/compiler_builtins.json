@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Tech Notes: Cross compiling Rust to win32",
+    "link": "https://neugierig.org/software/blog/2024/02/cross-compile.html"
+  },
+  {
+    "title": "A no_std Rust binary",
+    "link": "https://fasterthanli.me/blog/2020/a-no-std-rust-binary/"
+  }
+]

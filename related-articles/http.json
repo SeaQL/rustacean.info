@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Thunderbird with Brendan Abolivier - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e03-thunderbird/"
+  },
+  {
+    "title": "Programming ESP32 with Rust: OTA firmware update",
+    "link": "https://quan.hoabinh.vn/post/2024/3/programming-esp32-with-rust-ota-firmware-update"
+  },
+  {
+    "title": "Announcing smol-macros, smol-hyper and smol-axum – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/new-smol-rs-subcrates/"
+  },
+  {
+    "title": "A gentle introduction to IMAP",
+    "link": "https://duesee.dev/p/a-gentle-introduction-to-imap/"
+  },
+  {
+    "title": "Running Rust in AWS Lambda with SAM (Serverless App Model) — Part 1 | by B Shyam Sundar | Medium",
+    "link": "https://medium.com/@shyamsundarb/running-rust-in-aws-lambda-with-sam-part-1-2b7a6963a2ef"
+  },
+  {
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "title": "Let’s overtake go/fasthttp with rust/warp | by Gleb Pomykalov | Medium",
+    "link": "https://medium.com/@glebpomykalov/lets-overtake-go-fasthttp-with-rust-hyper-b2d1004914f"
+  },
+  {
+    "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
+  },
+  {
+    "title": "optimizing hashmaps even more",
+    "link": "https://blog.yoshuawuyts.com/optimizing-hashmaps-even-more/"
+  },
+  {
+    "title": "Image decay as a service",
+    "link": "https://fasterthanli.me/articles/image-decay-as-a-service"
+  },
+  {
+    "title": "Async HTTP",
+    "link": "https://blog.yoshuawuyts.com/async-http/"
+  },
+  {
+    "title": "Async Interview #6: Eliza Weisman · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/02/11/async-interview-6-eliza-weisman/"
+  },
+  {
+    "title": "Edge programming with Rust and WebAssembly | Fastly",
+    "link": "https://www.fastly.com/blog/edge-programming-rust-web-assembly"
+  },
+  {
+    "title": "Serverless HTTP. Throw down your main! Rustlang… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/serverless-http-9a58f9b2df60"
+  },
+  {
+    "title": "Serverless Rust. A brief introduction to Serverless… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/serverless-rust-318732a3596"
+  },
+  {
+    "title": "Gotham web framework",
+    "link": "https://gotham.rs/blog"
+  }
+]

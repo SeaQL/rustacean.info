@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Integrating QML and Rust: Creating a QMetaObject at Compile Time",
+    "link": "https://woboq.com/blog/qmetaobject-from-rust.html"
+  },
+  {
+    "title": "Rust Qt Binding Generator",
+    "link": "https://www.vandenoever.info/blog/2017/09/04/rust_qt_binding_generator.html"
+  },
+  {
+    "title": "A simple Rust GUI with QML",
+    "link": "https://www.vandenoever.info/blog/2017/02/17/a-simple-rust-gui-with-qml.html"
+  }
+]

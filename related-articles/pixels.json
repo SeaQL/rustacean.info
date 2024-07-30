@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Applying 5 million pixel updates per second with Rust &amp; wgpu",
+    "link": "https://maxisom.me/posts/applying-5-million-pixel-updates-per-second"
+  },
+  {
+    "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/029/"
+  },
+  {
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "title": "wgpu-rs on the web - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/04/21/wgpu-web.html"
+  }
+]

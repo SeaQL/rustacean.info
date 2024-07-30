@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Felix Prasanna",
+    "link": "https://fprasx.github.io/articles/type-system-arithmetic/"
+  },
+  {
+    "title": "Rust's Type System is Turing-Complete – Recursive Descent into Madness – A countable set of sanities and insanities, by Shea Leffler.",
+    "link": "https://sdleffler.github.io/RustTypeSystemTuringComplete/"
+  },
+  {
+    "title": "Type-Level Shenanigans — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2015/12/12/types.html"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "title": "Automotive Safety and Cybersecurity: Infineon's AURIX™ TC3xx, TC4x, TRAVEO™ T2G &amp; PSoC families of microcontrollers support Rust - Infineon Technologies",
+    "link": "https://www.infineon.com/cms/en/about-infineon/press/market-news/2023/INFATV202303-076.html"
+  },
+  {
+    "title": "no_std async/await - soon on stable  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/stable-async-on-embedded/"
+  }
+]

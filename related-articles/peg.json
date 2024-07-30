@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Writing and publishing a Python module in Rust",
+    "link": "https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust"
+  },
+  {
+    "title": "Wesley Aptekar-Cassels | Notes on Parsing in Rust",
+    "link": "https://blog.wesleyac.com/posts/rust-parsing"
+  },
+  {
+    "title": "Building fast interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
+  },
+  {
+    "title": "LALRPOP · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/"
+  }
+]

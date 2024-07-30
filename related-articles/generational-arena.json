@@ -1,0 +1,18 @@
+[
+  {
+    "title": "When Zig is safer and faster than Rust",
+    "link": "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
+  },
+  {
+    "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
+    "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
+  },
+  {
+    "title": "Data Modelling in Rust",
+    "link": "https://phazer99.blogspot.com/2021/05/data-modelling-in-rust.html"
+  },
+  {
+    "title": "Graph &amp; Tree Traversals in Rust | Sachan Ganesh",
+    "link": "https://sachanganesh.com/programming/graph-tree-traversals-in-rust/"
+  }
+]

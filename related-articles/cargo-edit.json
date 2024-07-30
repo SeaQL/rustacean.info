@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Catch 22! Rust in Review — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2022/12/11/catch22.html"
+  },
+  {
+    "title": "What's New in Rust 1.62, 1.63, and 1.64 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/rust-1.62-1.63-1.64/"
+  },
+  {
+    "title": "Getting started with Async Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/16/a-short-introduction-to-async-rust"
+  },
+  {
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "title": "C++ to Rust - or how to render your mindset :: Jakub Duchniewicz  — Personal space",
+    "link": "https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/#introduction"
+  },
+  {
+    "title": "C++ to Rust - or how to render your mindset :: Jakub Duchniewicz  — Personal space",
+    "link": "https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/"
+  },
+  {
+    "title": "Procedural Macros: A simple derive macro | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-simple-derive/"
+  },
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  },
+  {
+    "title": "So you want to live-reload Rust",
+    "link": "https://fasterthanli.me/articles/so-you-want-to-live-reload-rust"
+  },
+  {
+    "title": "Halite III Bot Development Kit in Rust",
+    "link": "https://sgolem.com/halite-iii-bot-development-kit-in-rust"
+  },
+  {
+    "title": "Kevin K's Blog - Diving into Rust with a CLI",
+    "link": "https://kbknapp.dev/rust-cli/"
+  },
+  {
+    "title": "WebAssembly as a Platform for Abstraction · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/"
+  },
+  {
+    "title": "How to start Rust Chat App. In this post, we will learn how to… | by Steadylearner | Medium",
+    "link": "https://medium.com/@steadylearner/how-to-start-rust-chat-app-499a194d0820"
+  },
+  {
+    "title": "Writing fast and safe native Node.js modules with Rust - RisingStack Engineering",
+    "link": "https://blog.risingstack.com/node-js-native-modules-with-rust/"
+  },
+  {
+    "title": "These Weeks in Dev-tools #1",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-1/"
+  },
+  {
+    "title": "Good Practices for Writing Rust Libraries – Pascal Hertleif",
+    "link": "https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/"
+  }
+]

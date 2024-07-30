@@ -1,0 +1,10 @@
+[
+  {
+    "title": "biscotti, a new crate for HTTP cookies | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/biscotti-http-cookies-in-rust/"
+  },
+  {
+    "title": "Migrating from warp to axum",
+    "link": "https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2"
+  }
+]

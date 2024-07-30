@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Recreating concurrent futures combinators in smol – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/futures-concurrency-in-smol/"
+  },
+  {
+    "title": "Observe your Rust application with Quickwit, Jaeger and Grafana | Quickwit",
+    "link": "https://quickwit.io/blog/observing-rust-app-with-quickwit-jaeger-grafana"
+  },
+  {
+    "title": "How to Build gRPC APIs with Rust  | Kong Inc.",
+    "link": "https://konghq.com/blog/building-grpc-apis-with-rust"
+  },
+  {
+    "title": "Asynchronous programming in Rust | Opensource.com",
+    "link": "https://opensource.com/article/22/10/asynchronous-programming-rust"
+  },
+  {
+    "title": "geekAbyte: A Neophyte's Introduction to the async/await landscape in Rust",
+    "link": "https://www.geekabyte.io/2022/05/a-neophytes-introduction-to-asyncawait.html"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "Futures Nostalgia",
+    "link": "https://fasterthanli.me/articles/futures-nostalgia"
+  },
+  {
+    "title": "What is an async runtime?",
+    "link": "https://ncameron.org/blog/what-is-an-async-runtime/"
+  },
+  {
+    "title": "2021-04-06: Interfacing a low-level actor system to Rust async/await, part 1 - Uazú blog",
+    "link": "https://uazu.github.io/blog/20210406.html"
+  },
+  {
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/a-heaping-helping-of-stacks/"
+  },
+  {
+    "title": "kitsu's blog",
+    "link": "https://kitsu.me/posts/2020_06_01_mutex_in_async_world"
+  },
+  {
+    "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
+    "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
+  },
+  {
+    "title": "Rewriting the heart of our sync engine - Dropbox",
+    "link": "https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine"
+  },
+  {
+    "title": "A primer to Rust Async | Omar Abid - Personal Blog",
+    "link": "https://omarabid.com/async-rust"
+  },
+  {
+    "title": "Are we async yet?",
+    "link": "https://areweasyncyet.rs/"
+  },
+  {
+    "title": "main is usually a function: A Rust view on Effective Modern C++",
+    "link": "https://mainisusuallyafunction.blogspot.in/2017/06/a-rust-view-on-effective-modern-c.html"
+  },
+  {
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  },
+  {
+    "title": "Announcing Tokio. A Finagle inspired network application… | by Carl Lerche | Medium",
+    "link": "https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Releasing v0.4.0 | Gloo",
+    "link": "https://gloo-rs.web.app/blog/release-0.4.0/"
+  },
+  {
+    "title": "Releasing v0.3.0 | Gloo",
+    "link": "https://gloo-rs.web.app/blog/release-0.3.0"
+  },
+  {
+    "title": "Building an OpenStreetMap app in Rust, Part VI | by Tor Hovland | Bekk",
+    "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-vi-8cfc8c3f7798"
+  },
+  {
+    "title": "Let’s Build Gloo Together | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2019/03/12/lets-build-gloo-together.html"
+  }
+]

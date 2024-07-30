@@ -1,0 +1,14 @@
+[
+  {
+    "title": "My thoughts on Rust in 2016",
+    "link": "http://www.ncameron.org/blog/my-thoughts-on-rust-in-2016/"
+  },
+  {
+    "title": "simple_parallel 0.3: Revisiting k-NN |  Huon on the internet",
+    "link": "https://huonw.github.io/blog/2015/10/simple_parallel-revisiting-knn/"
+  },
+  {
+    "title": "Some notes on Send and Sync |  Huon on the internet",
+    "link": "http://huonw.github.io/blog/2015/02/some-notes-on-send-and-sync/"
+  }
+]

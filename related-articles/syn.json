@@ -1,0 +1,90 @@
+[
+  {
+    "title": "I ported h2spec to Rust (also: codegen!)",
+    "link": "https://fasterthanli.me/videos/h2spec-to-rust"
+  },
+  {
+    "title": "Where Does the Time Go? Rust's Problem with Slow Compiles - The New Stack",
+    "link": "https://thenewstack.io/where-does-the-time-go-rusts-problem-with-slow-compiles/"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "title": "How We Generate JavaScript and Python SDKs From Our Canonical Rust SDK – PostgresML",
+    "link": "https://postgresml.org/blog/how-we-generate-javascript-and-python-sdks-from-our-canonical-rust-sdk"
+  },
+  {
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "title": "Fathomable Rust Macros - GeekLaunch",
+    "link": "https://geeklaunch.net/blog/fathomable-rust-macros/"
+  },
+  {
+    "title": "Overview: Safe Pinned Initialization | blog",
+    "link": "https://y86-dev.github.io/blog/safe-pinned-initialization/overview.html"
+  },
+  {
+    "title": "C2Rust is Back :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2022/06/back/"
+  },
+  {
+    "title": "What I learned from making a DNS client in Rust",
+    "link": "https://blog.adamchalmers.com/making-a-dns-client/"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
+    "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
+  },
+  {
+    "title": "A better cargo-readme - Issue 0: Humble Beginning | S🦀sha's blog",
+    "link": "https://scrabsha.github.io/abcr-issue-0/"
+  },
+  {
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "title": "Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume",
+    "link": "https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/"
+  },
+  {
+    "title": "Rust Notebooks with Evcxr - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/evcxr"
+  },
+  {
+    "title": "postfix-macros.md · GitHub",
+    "link": "https://gist.github.com/est31/8d0465997ea920c5ba917cbbf80a822d"
+  },
+  {
+    "title": "Objective-Rust // -dealloc",
+    "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+  },
+  {
+    "title": "Building Canrun: A statically typed logic programming library for Rust",
+    "link": "https://esimmler.com/building-canrun-part-1/"
+  },
+  {
+    "title": "proc-macro-rules",
+    "link": "https://www.ncameron.org/blog/proc-macro-rules/"
+  },
+  {
+    "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
+    "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
+  },
+  {
+    "title": "Why Rust Has Macros · Bloggedy blog",
+    "link": "https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/"
+  },
+  {
+    "title": "An overview of macros in Rust",
+    "link": "http://words.steveklabnik.com/an-overview-of-macros-in-rust"
+  }
+]

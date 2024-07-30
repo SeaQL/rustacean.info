@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-impl/"
+  },
+  {
+    "title": "Plugins in Rust: Reducing the Pain with Dependencies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-abi-stable/"
+  },
+  {
+    "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-dynload/"
+  },
+  {
+    "title": "Plugins in Rust: Getting Started | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-start/"
+  },
+  {
+    "title": "https://blaz.is/blog/post/cglue-012-and-the-road-ahead/",
+    "link": "https://blaz.is/blog/post/cglue-012-and-the-road-ahead/"
+  }
+]

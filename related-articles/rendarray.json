@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ndarray 0.11 — Jim Turner",
+    "link": "https://jim.turner.link/pages/ndarray-0.11/"
+  },
+  {
+    "title": "In-place Transposition in Rust",
+    "link": "https://athemathmo.github.io/2016/08/29/inplace-transpose.html"
+  },
+  {
+    "title": "gemm: a rabbit hole",
+    "link": "https://bluss.github.io/rust/2016/03/28/a-gemmed-rabbit-hole/"
+  },
+  {
+    "title": "Linear Algebra in Rust",
+    "link": "https://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html"
+  },
+  {
+    "title": "Machine Learning in Rust",
+    "link": "https://athemathmo.github.io/2016/03/07/rusty-machine.html"
+  },
+  {
+    "title": "Releasing ndarray 0.4",
+    "link": "http://bluss.github.io/rust/2016/03/06/ndarray-0.4/"
+  }
+]

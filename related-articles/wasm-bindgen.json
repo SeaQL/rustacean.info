@@ -1,0 +1,126 @@
+[
+  {
+    "title": "The Minimal Rust-Wasm Setup for 2024 - dzfrias",
+    "link": "https://dzfrias.dev/blog/rust-wasm-minimal-setup/"
+  },
+  {
+    "title": "Latency at the Edge with Rust/WebAssembly and Postgres: Part 1 | Exograph",
+    "link": "https://exograph.dev/blog/wasm-pg-explorations-1"
+  },
+  {
+    "title": "Running a Bevy game in SvelteKit - sneaky crow",
+    "link": "https://sneakycrow.dev/blog/2023-07-30-bevy-game-in-svelte-kit"
+  },
+  {
+    "title": "Logan Keenan - Client-Side Server with Rust: A New Approach to UI Development",
+    "link": "https://logankeenan.com/posts/client-side-server-with-rust-a-new-approach-to-ui-development/"
+  },
+  {
+    "title": "One step forward, an easier interoperability between Rust and Haskell | IOG Engineering",
+    "link": "https://engineering.iog.io/2023-01-26-hs-bindgen-introduction/"
+  },
+  {
+    "title": "Sending Emails from the Edge with Rust | Mainmatter",
+    "link": "https://mainmatter.com/blog/2022/12/09/sending-emails-from-the-edge-with-rust/"
+  },
+  {
+    "title": "Part 1: The life of an optimization barrier | Trail of Bits Blog",
+    "link": "https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/"
+  },
+  {
+    "title": "Tutorial: Writing a Tiny Rust Game Engine for Web",
+    "link": "https://ianjk.com/game-engine-in-rust/"
+  },
+  {
+    "title": "Announcing NAPI-RS v2 – NAPI-RS",
+    "link": "https://napi.rs/blog/announce-v2"
+  },
+  {
+    "title": "y|sndr - Rust as a platform for IoT",
+    "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
+  },
+  {
+    "title": "Rewriting my mobile game in Rust targeting WASM | by Luca Mattos Moller | Medium",
+    "link": "https://itnext.io/rewriting-my-mobile-game-in-rust-targeting-wasm-1f9f82751830"
+  },
+  {
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 4) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt4/"
+  },
+  {
+    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/020/"
+  },
+  {
+    "title": "First steps with WebAssembly in Rust",
+    "link": "https://aralroca.com/blog/first-steps-webassembly-rust"
+  },
+  {
+    "title": "Rust for a Pythonista #1: Why and when?",
+    "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
+  },
+  {
+    "title": "Moving from TypeScript to Rust / WebAssembly | nicolodavis.com",
+    "link": "https://nicolodavis.com/blog/typescript-to-rust/"
+  },
+  {
+    "title": "Rust and WebAssembly from Scratch: Hello World with Strings | Depth-First",
+    "link": "https://depth-first.com/articles/2020/07/07/rust-and-webassembly-from-scratch-hello-world-with-strings/"
+  },
+  {
+    "title": "Stubbing out WASI manually in Rust",
+    "link": "http://www.jakubkonka.com/2020/04/28/rust-wasi-from-scratch.html"
+  },
+  {
+    "title": "wgpu-rs on the web - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/04/21/wgpu-web.html"
+  },
+  {
+    "title": "Building fast interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
+  },
+  {
+    "title": "Exporting Serde types to TypeScript | Non-Recurring Engineering",
+    "link": "http://timryan.org/2019/01/22/exporting-serde-types-to-typescript.html"
+  },
+  {
+    "title": "Reflecting on Rust and WebAssembly in 2018 | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/12/06/reflecting-on-rust-and-wasm-in-2018.html"
+  },
+  {
+    "title": "wasm-bindgen — how does it work?!",
+    "link": "http://fitzgeraldnick.com/2018/12/02/wasm-bindgen-how-does-it-work.html"
+  },
+  {
+    "title": "Bringing Elm’s architecture to Rust and Webassembly | Some Words",
+    "link": "https://sindrejohansen.no/blog/willow/rust/elm/2018/11/16/willow-elm-in-rust.html"
+  },
+  {
+    "title": "Multithreading Rust and Wasm | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html"
+  },
+  {
+    "title": "Isomorphic Desktop Apps with Rust",
+    "link": "https://speice.io/2018/09/isomorphic-apps.html"
+  },
+  {
+    "title": "Our Vision for wasm-bindgen | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/07/02/vision-for-wasm-bindgen.html"
+  },
+  {
+    "title": "Our Vision for Rust and WebAssembly | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html"
+  },
+  {
+    "title": "show_notes::cysk::wasm - Rust",
+    "link": "https://newrustacean.com/show_notes/cysk/wasm/index.html"
+  },
+  {
+    "title": "Writing An NES Emulator with Rust and WebAssembly | by bokuweb | Medium",
+    "link": "https://medium.com/@bokuweb17/writing-an-nes-emulator-with-rust-and-webassembly-d64de101c49d"
+  },
+  {
+    "title": "JavaScript to Rust and Back Again: A wasm-bindgen Tale - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/"
+  }
+]

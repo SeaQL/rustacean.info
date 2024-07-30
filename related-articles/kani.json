@@ -1,0 +1,50 @@
+[
+  {
+    "title": "graydon2 | Some notes on Rust, mutable aliasing and formal verification",
+    "link": "https://graydon2.dreamwidth.org/312681.html"
+  },
+  {
+    "title": "How Open Source Projects are Using Kani to Write Better Software in Rust | AWS Open Source Blog",
+    "link": "https://aws.amazon.com/blogs/opensource/how-open-source-projects-are-using-kani-to-write-better-software-in-rust/"
+  },
+  {
+    "title": "Can Rust prevent logic errors? | It's all about the bit",
+    "link": "https://itsallaboutthebit.com/logic-errors-in-rust/"
+  },
+  {
+    "title": "My Pure Rust Wishlist - GBurghoorn",
+    "link": "https://gburghoorn.com/posts/pure-rust-wishlist/"
+  },
+  {
+    "title": "Using Kani to write and validate Rust code with ChatGPT - LogRocket Blog",
+    "link": "https://blog.logrocket.com/using-kani-write-validate-rust-code-chatgpt/"
+  },
+  {
+    "title": "Using Kani to Validate Security Boundaries in AWS Firecracker | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2023/08/31/using-kani-to-validate-security-boundaries-in-aws-firecracker.html"
+  },
+  {
+    "title": "Totality",
+    "link": "https://blog.yoshuawuyts.com/totality/"
+  },
+  {
+    "title": "Check AI-Generated Code Perfectly and Automatically | by Carl M. Kadie | Medium",
+    "link": "https://medium.com/p/d5b61acff741"
+  },
+  {
+    "title": "How Kani helped find bugs in Hifitime | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html"
+  },
+  {
+    "title": "Using the Kani Rust Verifier on Tokio Bytes | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2022/08/17/using-the-kani-rust-verifier-on-tokio-bytes.html"
+  },
+  {
+    "title": "Using the Kani Rust Verifier on a Firecracker Example | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2022/07/13/using-the-kani-rust-verifier-on-a-firecracker-example.html"
+  },
+  {
+    "title": "Using the Kani Rust Verifier on a Rust Standard Library CVE | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2022/06/01/using-the-kani-rust-verifier-on-a-rust-standard-library-cve.html"
+  }
+]

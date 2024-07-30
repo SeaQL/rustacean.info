@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Writing a HashMap in Rust without unsafe",
+    "link": "https://ecton.dev/writing-a-hashmap-without-unsafe/"
+  },
+  {
+    "title": "Building fast interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
+  }
+]

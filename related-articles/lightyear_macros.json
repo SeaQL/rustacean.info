@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Introducing Avian Physics 0.1 - Joona Aalto",
+    "link": "https://joonaa.dev/blog/06/avian-0-1"
+  },
+  {
+    "title": "This Month in Rust GameDev #50 - April 2024 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/050/"
+  },
+  {
+    "title": "Motion Blur, Visualizations, and beautiful renders",
+    "link": "https://thisweekinbevy.com/issue/2024-04-29-motion-blur-visualizations-and-beautiful-renders"
+  },
+  {
+    "title": "Bevy 0.13.2, Curves, Gizmos, and Games",
+    "link": "https://thisweekinbevy.com/issue/2024-04-08-bevy-0-13-2-curves-gizmos-and-games"
+  },
+  {
+    "title": "Foundations, Meetups, and more Bevy Cheatbook updates",
+    "link": "https://thisweekinbevy.com/issue/2024-03-18-foundations-meetups-and-more-bevy-cheatbook-updates"
+  }
+]

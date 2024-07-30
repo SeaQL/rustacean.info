@@ -1,0 +1,22 @@
+[
+  {
+    "title": "derive_more - Rust",
+    "link": "https://docs.rs/derive_more"
+  },
+  {
+    "title": "Universal domain types",
+    "link": "https://mmapped.blog/posts/25-domain-types.html"
+  },
+  {
+    "title": "Impl-tools: beyond derive - KAS blog",
+    "link": "https://kas-gui.github.io/blog/impl-tools.html"
+  },
+  {
+    "title": "The Newtype Pattern in Rust",
+    "link": "https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html"
+  },
+  {
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  }
+]

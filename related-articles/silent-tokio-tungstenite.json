@@ -1,0 +1,18 @@
+[
+  {
+    "title": "AMP with Carter Schultz - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e02-amp/"
+  },
+  {
+    "title": "Lambda on hard mode: Inside Modal's web infrastructure | Modal Blog",
+    "link": "https://modal.com/blog/serverless-http"
+  },
+  {
+    "title": "Synchronizing state with Websockets and JSON Patch",
+    "link": "https://cetra3.github.io/blog/synchronising-with-websocket/"
+  },
+  {
+    "title": "The Tokio Upgrade from 0.2 to 1.x · The Fly Blog",
+    "link": "https://fly.io/blog/the-tokio-1-x-upgrade/"
+  }
+]

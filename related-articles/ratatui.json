@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Rustlings Rewrite",
+    "link": "https://mo8it.com/blog/rustlings-rewrite/"
+  },
+  {
+    "title": "Rust for Lunch",
+    "link": "https://lunch.rs/"
+  },
+  {
+    "title": "v0.27.0 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v027/"
+  },
+  {
+    "title": "v0.26.3 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v0263/"
+  },
+  {
+    "title": "v0.26.2 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v0262/"
+  },
+  {
+    "title": "Ratatui Received Funding: What's Next? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/open-source-funding-with-ratatui/"
+  },
+  {
+    "title": "v0.26.0 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v026/"
+  },
+  {
+    "title": "Why stdout is faster than stderr? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/stdout-vs-stderr/"
+  },
+  {
+    "title": "v0.25.0 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v025/"
+  },
+  {
+    "title": "404 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v0.24.html"
+  },
+  {
+    "title": "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs - Orhun's Blog",
+    "link": "https://blog.orhun.dev/ratatui-0-23-0/"
+  },
+  {
+    "title": "ratatui - Rust",
+    "link": "https://docs.rs/ratatui"
+  },
+  {
+    "title": "Generating terminal user interfaces with Ratatui + ChatGPT - Orhun's Blog",
+    "link": "https://blog.orhun.dev/ratatui-0-22-0/"
+  },
+  {
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  }
+]

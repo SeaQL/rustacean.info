@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Goodbye Python, Hello Rust: Building a RAG CLI Application with Orca",
+    "link": "https://huggingface.co/blog/santiagomed/building-a-rag-cli-application-application"
+  },
+  {
+    "title": "Creating High Performance Asynchronous Backends With Burn-Compute",
+    "link": "https://burn.dev/blog/creating-high-performance-asynchronous-backends-with-burn-compute"
+  },
+  {
+    "title": "Candle: A New Machine Learning Framework for Rust - The New Stack",
+    "link": "https://thenewstack.io/candle-a-new-machine-learning-framework-for-rust/"
+  }
+]

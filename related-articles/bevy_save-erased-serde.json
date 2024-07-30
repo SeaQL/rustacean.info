@@ -1,0 +1,18 @@
+[
+  {
+    "title": "The dark side of inlining and monomorphization",
+    "link": "https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/"
+  },
+  {
+    "title": "Exploring Traits with Erased 'serde' :: The Coded Message",
+    "link": "https://www.thecodedmessage.com/posts/erased-serde/"
+  },
+  {
+    "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-valuable"
+  },
+  {
+    "title": "3 Things to Try When You Can't Make a Trait Object - Possible Rust",
+    "link": "https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object"
+  }
+]

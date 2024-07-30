@@ -1,0 +1,34 @@
+[
+  {
+    "title": "RiB Newsletter #16 – Secure Enclaves à la Crab - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-09-30-secure-enclaves-a-la-crab/"
+  },
+  {
+    "title": "RiB Newsletter #15 – Turbofish in the Blocksea - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-09-02-turbofish-in-the-blocksea/"
+  },
+  {
+    "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"
+  },
+  {
+    "title": "RiB Newsletter #13 – Stuck inside, hacking away - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-07-01-stuck-inside-hacking-away/"
+  },
+  {
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "title": "RiB Newsletter #12 – ZK-Rustups - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-06-03-zk-rustups/"
+  },
+  {
+    "title": "dtolnay::_03__soundness_bugs - Rust",
+    "link": "https://docs.rs/dtolnay/0.0.7/dtolnay/macro._03__soundness_bugs.html"
+  },
+  {
+    "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-08-alphas/"
+  }
+]

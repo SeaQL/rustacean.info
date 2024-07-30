@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Building a new graphics engine in Rust - Part 2 – Alex Dixon",
+    "link": "https://www.polymonster.co.uk/blog/bulding-new-engine-in-rust-2"
+  },
+  {
+    "title": "Release of v0.9 and the Future of wgpu - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/07/16/release-0.9-future.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "Shader translation benchmark on Dota2/Metal - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/05/09/dota2-msl-compilation.html"
+  },
+  {
+    "title": "Release of v0.8 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/04/30/release-0.8.html"
+  },
+  {
+    "title": "Release of v0.7 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/02/02/release-0.7.html"
+  },
+  {
+    "title": "The Big Picture - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
+  },
+  {
+    "title": "Wiki - WritingAWaylandCompositorInRust",
+    "link": "https://wiki.alopex.li/WritingAWaylandCompositorInRust"
+  },
+  {
+    "title": "wgpu-rs on the web - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/04/21/wgpu-web.html"
+  },
+  {
+    "title": "Project update - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2019/10/01/update.html"
+  },
+  {
+    "title": "Thoughts on Rust bloat | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
+  },
+  {
+    "title": "The rise of wgpu - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2019/03/06/wgpu.html"
+  },
+  {
+    "title": "Eight million pixels and counting\n– 2d graphics in Rust discussion - A look at GPU memory management",
+    "link": "https://nical.github.io/posts/rust-2d-graphics-02.html"
+  },
+  {
+    "title": "RPCS3 and Dolphin on macOS using gfx-portability - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2018/09/03/rpcs3-dolphin.html"
+  },
+  {
+    "title": "#Rust2018 — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
+  },
+  {
+    "title": "rust2018.md · GitHub",
+    "link": "https://gist.github.com/est31/c063704716b6880fd74ce2ba11b11298"
+  },
+  {
+    "title": "Building a parallel ECS in Rust",
+    "link": "https://kvark.github.io/ecs/rust/2017/03/08/specs.html"
+  },
+  {
+    "title": "This Week in Amethyst 3 | Amethyst",
+    "link": "https://thisweekinamethyst.wordpress.com/2016/02/01/twia-3/"
+  }
+]

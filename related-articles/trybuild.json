@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
+  },
+  {
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "title": "How to organize your Rust tests - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
+  }
+]

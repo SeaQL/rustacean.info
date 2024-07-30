@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "title": "What's new in SeaORM 0.9.0 | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-07-17-whats-new-in-0.9.0/"
+  },
+  {
+    "title": "Mapping my walks with OSRM and Rust",
+    "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
+  },
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "title": "Rust for Clojurists · GitHub",
+    "link": "https://gist.github.com/oakes/4af1023b6c5162c6f8f0"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Dose Response ported to WebAssembly! — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/"
+  }
+]

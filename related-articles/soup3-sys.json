@@ -1,0 +1,30 @@
+[
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "title": "Who talked about testing? – gtk-rs",
+    "link": "http://gtk-rs.org/blog/2018/05/02/who-talked-about-testing.html"
+  },
+  {
+    "title": "Rust+GNOME Hackfest in Berlin",
+    "link": "https://blog.guillaume-gomez.fr/articles/2017-11-18+Rust%2BGNOME+Hackfest+in+Berlin"
+  },
+  {
+    "title": "Exporting a GObject C API from Rust code and using it from C, Python, JavaScript and others – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2017/09/exporting-a-gobject-c-api-from-rust-code-and-using-it-from-c-python-javascript-and-others/"
+  },
+  {
+    "title": "Writing GStreamer Applications in Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2017/07/writing-gstreamer-applications-in-rust/"
+  },
+  {
+    "title": "The name is Gtk-rs. Update your git urls! – gtk-rs",
+    "link": "http://gtk-rs.org/blog/2015/09/06/the-name-is-gtk-rs.html"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The stable HashMap trap | More Stina Blog!",
+    "link": "https://morestina.net/blog/1843/the-stable-hashmap-trap"
+  },
+  {
+    "title": "A brutally effective hash function in Rust | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2021/12/08/a-brutally-effective-hash-function-in-rust.html"
+  },
+  {
+    "title": "Let’s overtake go/fasthttp with rust/warp | by Gleb Pomykalov | Medium",
+    "link": "https://medium.com/@glebpomykalov/lets-overtake-go-fasthttp-with-rust-hyper-b2d1004914f"
+  },
+  {
+    "title": "Word Segmentation with Rust | Instant Domains",
+    "link": "https://instantdomainsearch.com/engineering/instant-word-segmentation-with-rust"
+  },
+  {
+    "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
+    "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
+  },
+  {
+    "title": "How to speed up the Rust compiler in 2020 – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2020/04/24/how-to-speed-up-the-rust-compiler-in-2020/"
+  }
+]

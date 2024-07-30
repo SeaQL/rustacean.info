@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Procedural Macros: Parsing custom syntax | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-parsing/"
+  },
+  {
+    "title": "Procedural Macros: Error handling | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-error-handling/"
+  },
+  {
+    "title": "Procedural Macros: A simple derive macro | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-simple-derive/"
+  },
+  {
+    "title": "Procedural Macros: The Basics | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-basics/"
+  },
+  {
+    "title": "Advanced Cargo [features] Usage | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/cargo-features/"
+  },
+  {
+    "title": "This Week in Rust - Issue 345 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/020-twir-345/"
+  },
+  {
+    "title": "This Week in Rust - Issue 344 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/019-twir-344/"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Optimizing Rust code with Flamegraph and DHAT – a practical example with Dust DDS – S2E Software Systems",
+    "link": "https://www.s2e-systems.com/2024/06/13/optimizing_rust_code/"
+  },
+  {
+    "title": "Zero to Performance Hero: How to Benchmark and Profile Your eBPF Code in Rust - InfoQ",
+    "link": "https://www.infoq.com/articles/benchmark-profile-ebpf-code/"
+  },
+  {
+    "title": "Avoiding Over-Reliance on `mpsc` channels in Rust - Juxhin Dyrmishi Brigjaj | Digital Horror",
+    "link": "https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/"
+  },
+  {
+    "title": "Blazingly Fast Linked Lists",
+    "link": "https://dygalo.dev/blog/blazingly-fast-linked-lists/"
+  },
+  {
+    "title": "performance optimization with flamegraph and divan - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/performance-optimization-flamegraph-divan/"
+  },
+  {
+    "title": "Rust Tooling: 8 tools that will increase your productivity",
+    "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
+  },
+  {
+    "title": "Process spawning performance in Rust | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/2024/01/28/process-spawning-performance-in-rust.html"
+  },
+  {
+    "title": "Profiling Rust programs the easy way | nicole@web",
+    "link": "https://ntietz.com/blog/profiling-rust-programs-the-easy-way/"
+  },
+  {
+    "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
+  },
+  {
+    "title": "Applying 5 million pixel updates per second with Rust &amp; wgpu",
+    "link": "https://maxisom.me/posts/applying-5-million-pixel-updates-per-second"
+  },
+  {
+    "title": "Data-driven performance optimization with Rust and Miri | by Keaton Brandt | Source and Buggy | Medium",
+    "link": "https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35"
+  },
+  {
+    "title": "Making slow Rust code fast | patrickfreed's blog",
+    "link": "https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html"
+  },
+  {
+    "title": "Zenoh performance: a stroll in Rust async wonderland · Zenoh - pub/sub, geo distributed storage, query",
+    "link": "https://zenoh.io/blog/2021-07-13-zenoh-performance-async/"
+  },
+  {
+    "title": "GSoC 2021, GA4GH and htsget-rs | UMCCR Genomics Platform Group",
+    "link": "https://umccr.org/blog/htsget-rs/"
+  },
+  {
+    "title": "Renato Athaydes",
+    "link": "https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html"
+  },
+  {
+    "title": "Always-On Benchmarking In Rust. To kick-off this blog, we are going to… | by Leonardo Yvens | Edge &amp; Node Engineering | Medium",
+    "link": "https://medium.com/edge-node-engineering/always-on-benchmarking-in-rust-d23f2bac1c1d"
+  },
+  {
+    "title": "Automatic Flamegraphs for Benchmarks in Rust · Jibbow's Blog (by Andreas Zimmerer)",
+    "link": "https://www.jibbow.com/posts/criterion-flamegraphs/"
+  },
+  {
+    "title": "Optimizing Benchpress - nodebb",
+    "link": "https://blog.nodebb.org/optimizing-benchpress/"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "title": "Cheap tricks for high-performance Rust - Pascal’s Scribbles",
+    "link": "https://deterministic.space/high-performance-rust.html"
+  }
+]

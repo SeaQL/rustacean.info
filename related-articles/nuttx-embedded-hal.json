@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Rust talks I2C on Apache NuttX RTOS",
+    "link": "https://lupyuen.github.io/articles/rusti2c"
+  },
+  {
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  }
+]

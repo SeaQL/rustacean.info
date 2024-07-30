@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
+  },
+  {
+    "title": "Youmu | Finding Nice MD5s Using Rust",
+    "link": "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
+  },
+  {
+    "title": "How hard upgrading a Rust JWT library could be? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/upgrading-rust-jwt/"
+  },
+  {
+    "title": "OpenMLS v0.4 Release // OpenMLS",
+    "link": "https://openmls.tech/blog/2022-02-28-v0_4-release/"
+  },
+  {
+    "title": "An Introduction To Session-based Authentication In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/session-based-authentication-in-rust/"
+  },
+  {
+    "title": "Password auth in Rust, from scratch - Attacks and best practices | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/password-authentication-in-rust/"
+  },
+  {
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "How I Reverse Engineered the LastPass CLI Tool · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/lastpass/"
+  }
+]

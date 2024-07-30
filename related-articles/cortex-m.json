@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  },
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
+  }
+]

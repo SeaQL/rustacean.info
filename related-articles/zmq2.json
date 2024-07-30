@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Fanout | Blog » Rewriting Pushpin's connection manager in Rust",
+    "link": "https://blog.fanout.io/2020/08/11/rewriting-pushpins-connection-manager-in-rust/"
+  },
+  {
+    "title": "If You Use Unsafe, You Should Be Using Compiletest - Chasing Rabbits",
+    "link": "https://erickt.github.io/blog/2015/09/22/if-you-use-unsafe/"
+  },
+  {
+    "title": "24 days of Rust - zeromq | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-zeromq/"
+  }
+]

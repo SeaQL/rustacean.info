@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/case-study/diesel/"
+  },
+  {
+    "title": "Fang, async background processing for Rust - The software engineer oasis",
+    "link": "https://pxp9.github.io/rust/async-processing/"
+  },
+  {
+    "title": "Rocket: A Web Framework for Rust",
+    "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
+  },
+  {
+    "title": "Implementing a Job queue with SQLx and Postgres",
+    "link": "https://cetra3.github.io/blog/implementing-a-jobq-sqlx/"
+  }
+]

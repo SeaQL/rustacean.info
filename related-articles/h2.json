@@ -1,0 +1,18 @@
+[
+  {
+    "title": "hyper HTTP/2 Continuation Flood - seanmonstar",
+    "link": "https://seanmonstar.com/blog/hyper-http2-continuation-flood/"
+  },
+  {
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-08-alphas/"
+  }
+]

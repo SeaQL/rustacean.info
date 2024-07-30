@@ -1,0 +1,14 @@
+[
+  {
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  },
+  {
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "title": "Understanding Rust Through AVL Trees",
+    "link": "https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/"
+  }
+]

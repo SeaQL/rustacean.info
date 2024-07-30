@@ -1,0 +1,26 @@
+[
+  {
+    "title": "How to build a plugin system in Rust | Arroyo",
+    "link": "https://www.arroyo.dev/blog/rust-plugin-systems"
+  },
+  {
+    "title": "Improving Criterion.rs - Tweag",
+    "link": "https://www.tweag.io/blog/2022-03-03-criterion-rs/"
+  },
+  {
+    "title": "Rust Expert - Senior Software Engineer at Wasmer | Y Combinator",
+    "link": "https://www.ycombinator.com/companies/wasmer/jobs/lG79n4xvg-rust-expert-senior-software-engineer"
+  },
+  {
+    "title": "Wasmer 2.1 · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/wasmer-2.1"
+  },
+  {
+    "title": "Wasmer 2.0, It's a big deal! · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/wasmer-2.0"
+  },
+  {
+    "title": "Rust Expert - Senior Software Engineer at Wasmer | Y Combinator's Work at a Startup",
+    "link": "https://www.workatastartup.com/jobs/41643"
+  }
+]

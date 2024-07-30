@@ -1,0 +1,10 @@
+[
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "Zero-dependency random number generation in Rust - Orhun's Blog",
+    "link": "https://blog.orhun.dev/zero-deps-random-in-rust"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "A Thought Experiment: Using the ECS Pattern Outside of Game Engines · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/ecs-outside-of-games/"
+  },
+  {
+    "title": "This Week in Redox 32 - Redox - Your Next(Gen) OS",
+    "link": "https://www.redox-os.org/news/this-week-in-redox-32/"
+  },
+  {
+    "title": "This Week in Redox 12 - Redox - Your Next(Gen) OS",
+    "link": "http://www.redox-os.org/news/this-week-in-redox-12/"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/039/"
+  },
+  {
+    "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
+    "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
+  },
+  {
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "#Rust2018 — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
+  }
+]

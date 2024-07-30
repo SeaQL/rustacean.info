@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Bevy XPBD 0.4: Collider Agnosticism, Layer Rework, and Bevy 0.13 - Joona Aalto",
+    "link": "https://joonaa.dev/blog/05/bevy-xpbd-0-4-0"
+  },
+  {
+    "title": "Introducing posh: Type-Safe Graphics Programming with Functional Shaders in Rust | leod’s blog",
+    "link": "https://leod.github.io/rust/gamedev/posh/2023/06/04/posh.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/035/"
+  },
+  {
+    "title": "Yak shaving conditional compilation in Rust · shifting bits",
+    "link": "https://bitshifter.github.io/2020/05/07/conditional-compilation-in-rust/"
+  }
+]

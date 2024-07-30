@@ -1,0 +1,18 @@
+[
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
+  },
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  },
+  {
+    "title": "This Week in Rust - Issue 344 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/019-twir-344/"
+  }
+]

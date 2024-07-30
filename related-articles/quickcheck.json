@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Can Rust prevent logic errors? | It's all about the bit",
+    "link": "https://itsallaboutthebit.com/logic-errors-in-rust/"
+  },
+  {
+    "title": "Nine Rules to Formally Validate Rust Algorithms with&nbsp;Dafny by Carl Kadie &amp; Divyanshu Ranjan | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-to-formally-validate-rust-algorithms-with-dafny-part-1-5cb8c8a0bb92"
+  },
+  {
+    "title": "Check AI-Generated Code Perfectly and Automatically | by Carl M. Kadie | Medium",
+    "link": "https://medium.com/p/d5b61acff741"
+  },
+  {
+    "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
+  },
+  {
+    "title": "Mononym: Type-Level Named Values in Rust - Part 1: Demo and Implementation | MaybeVoid",
+    "link": "https://maybevoid.com/blog/mononym-part-1/"
+  },
+  {
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  },
+  {
+    "title": "Learning Rust through open source and live code reviews",
+    "link": "https://loige.co/learning-rust-through-open-source-and-live-code-reviews/"
+  },
+  {
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – Porting Details – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust-porting-details/"
+  },
+  {
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
+  },
+  {
+    "title": "Understanding Rust Through AVL Trees",
+    "link": "https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/"
+  },
+  {
+    "title": "Rust and WebAssembly in 2019",
+    "link": "http://fitzgeraldnick.com/2018/12/14/rust-and-webassembly-in-2019.html"
+  },
+  {
+    "title": "How Rust’s standard library was vulnerable for years and nobody noticed | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/how-rusts-standard-library-was-vulnerable-for-years-and-nobody-noticed-aebf0503c3d6"
+  },
+  {
+    "title": "im - Rust",
+    "link": "https://docs.rs/im"
+  },
+  {
+    "title": "Fuzz testing in Rust with Cargo-fuzz | by Seasoned Software | Medium",
+    "link": "https://medium.com/@seasoned_sw/fuzz-testing-in-rust-with-cargo-fuzz-13b89feecc30"
+  },
+  {
+    "title": "Rust: A Scala Engineer's Perspective - BeachApe.",
+    "link": "https://beachape.com/blog/2017/05/24/rust-from-scala/"
+  },
+  {
+    "title": "Hidden treasures of the Rust ecosystem - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html"
+  },
+  {
+    "title": "Another happy quickcheck customer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/07/29/quickcheck.html"
+  },
+  {
+    "title": "Quick check: does your code work?",
+    "link": "https://fnordig.de/2016/05/12/quickcheck-does-your-code-work/"
+  },
+  {
+    "title": "Myths and Legends about Integer Overflow in Rust |  Huon on the internet",
+    "link": "https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/"
+  },
+  {
+    "title": "QuickCheck - Wikipedia",
+    "link": "https://en.wikipedia.org/wiki/Quickcheck"
+  },
+  {
+    "title": "An Optimising BF Compiler – Wilfred Hughes::Blog",
+    "link": "http://www.wilfred.me.uk/blog/2015/08/29/an-optimising-bf-compiler/"
+  }
+]

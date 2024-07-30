@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Parse Prometheus Exposition format in Rust using PEG | by Mike Taghavi | Medium",
+    "link": "https://medium.com/@miltag/parse-prometheus-exposition-format-in-rust-using-peg-3921e9fc7d65"
+  },
+  {
+    "title": "Implementing a BLT parser by hand in Rust (vs pest and combine): OpenTally dev log",
+    "link": "https://yingtongli.me/blog/2021/07/30/blt-parser.html"
+  },
+  {
+    "title": "pest. The Elegant Parser",
+    "link": "https://pest.rs"
+  }
+]

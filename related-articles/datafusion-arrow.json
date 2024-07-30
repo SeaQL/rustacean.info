@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Apache Arrow DataFusion 8.0.0 Release | Apache Arrow",
+    "link": "https://arrow.apache.org/blog/2022/05/16/datafusion-8.0.0/"
+  },
+  {
+    "title": "Apache Arrow DataFusion 5.0.0 Release | Apache Arrow",
+    "link": "https://arrow.apache.org/blog/2021/08/18/datafusion-5.0.0/"
+  },
+  {
+    "title": "Apache Arrow Ballista 0.5.0 Release | Apache Arrow",
+    "link": "https://arrow.apache.org/blog/2021/08/18/ballista-0.5.0/"
+  },
+  {
+    "title": "Data Manipulation: Polars vs Rust",
+    "link": "https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8"
+  },
+  {
+    "title": "Overview - ROAPI Documentation",
+    "link": "https://roapi.github.io/docs/index.html"
+  },
+  {
+    "title": "Apache Arrow 2.0.0 Rust Highlights | Apache Arrow",
+    "link": "https://arrow.apache.org/blog/2020/10/27/rust-2.0.0-release/"
+  }
+]

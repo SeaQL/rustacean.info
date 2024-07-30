@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Episode 5: Putting Lipstick on a Pig - The Way of the Crab",
+    "link": "https://wayofthecrab.com/episodes/005/"
+  },
+  {
+    "title": "Make your own make",
+    "link": "https://matklad.github.io/2018/01/03/make-your-own-make.html"
+  },
+  {
+    "title": "WebRender capture infrastructure",
+    "link": "https://kvark.github.io/webrender/debug/ron/2018/01/23/wr-capture-infra.html"
+  },
+  {
+    "title": "This Year in Gfx-rs - 2017 - gfx-rs nuts and bolts",
+    "link": "http://gfx-rs.github.io/2017/12/30/this-year.html"
+  },
+  {
+    "title": "Rusty Object Notation",
+    "link": "https://kvark.github.io/format/data/json/2017/08/09/rusty-object-notation.html"
+  },
+  {
+    "title": "Overview · Serde",
+    "link": "https://serde.rs/"
+  }
+]

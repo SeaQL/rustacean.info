@@ -1,0 +1,22 @@
+[
+  {
+    "title": "When Rust hurts",
+    "link": "https://mmapped.blog/posts/15-when-rust-hurts.html"
+  },
+  {
+    "title": "Bytecode Alliance — Cranelift Progress Report: A Look Back at 2021",
+    "link": "https://bytecodealliance.org/articles/cranelift-progress-2021"
+  },
+  {
+    "title": "y|sndr - Rust as a platform for IoT",
+    "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
+  },
+  {
+    "title": "Paul Butler – Calling WebAssembly from Rust",
+    "link": "https://paulbutler.org/2021/calling-webassembly-from-rust/"
+  },
+  {
+    "title": "WebAssembly as a Platform for Abstraction · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/"
+  }
+]

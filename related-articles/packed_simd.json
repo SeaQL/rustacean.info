@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Tony's Blog",
+    "link": "https://antoniosbarotsis.github.io/posts/simple_rust_macros/"
+  },
+  {
+    "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
+    "link": "https://tinkering.xyz/fmo-optimization-story/"
+  },
+  {
+    "title": "SIMD usage in C++, C# and Rust | vkSegfault",
+    "link": "https://vksegfault.github.io/posts/simd-usage-cpp-csharp-rust/"
+  },
+  {
+    "title": "Const Generic Slipstreem | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/03/28/const-generic-slipstreem.html"
+  },
+  {
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  },
+  {
+    "title": "Rust 2021",
+    "link": "https://hsivonen.fi/rust2021/"
+  },
+  {
+    "title": "Simd Library Plans | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/05/08/simd-library-plans.html"
+  }
+]

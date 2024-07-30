@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Using Tauri to build a cross-platform security app",
+    "link": "https://www.firezone.dev/blog/using-tauri"
+  },
+  {
+    "title": "Cyberpunk UI, Minecraft simulation, and volumetric destruction",
+    "link": "https://thisweekinbevy.com/issue/2024-05-27-cyberpunk-ui-minecraft-simulation-and-volumetric-destruction"
+  },
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
+    "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
+  },
+  {
+    "title": "Tauri with Standard Svelte or SvelteKit | by Dan Casler | Medium",
+    "link": "https://medium.com/@cazanator/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7"
+  }
+]

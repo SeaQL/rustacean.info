@@ -1,0 +1,14 @@
+[
+  {
+    "title": "To do a Rust GUI",
+    "link": "https://www.vandenoever.info/blog/2018/06/09/to-do-a-rust-gui.html"
+  },
+  {
+    "title": "Integrating QML and Rust: Creating a QMetaObject at Compile Time",
+    "link": "https://woboq.com/blog/qmetaobject-from-rust.html"
+  },
+  {
+    "title": "Rust and QML: a timely example",
+    "link": "https://www.vandenoever.info/blog/2017/09/10/time_for_rust_and_qml.html"
+  }
+]

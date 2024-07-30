@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Welcome - 100 Exercises To Learn Rust",
+    "link": "https://rust-exercises.com/"
+  },
+  {
+    "title": "This month in Pavex, #10 | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/this-month-in-pavex-10/"
+  },
+  {
+    "title": "biscotti, a new crate for HTTP cookies | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/biscotti-http-cookies-in-rust/"
+  },
+  {
+    "title": "This month in Pavex, #9 | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/this-month-in-pavex-09/"
+  },
+  {
+    "title": "Rust web frameworks have subpar error reporting | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/rust-web-frameworks-have-subpar-error-reporting/"
+  },
+  {
+    "title": "Pavex DevLog #6: designing safe and ergonomic middlewares | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-06/"
+  },
+  {
+    "title": "Best Rust Web Frameworks to Use in 2023",
+    "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+  },
+  {
+    "title": "Pavex DevLog #5: redesigning our runtime types | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-05/"
+  },
+  {
+    "title": "Pavex, progress report #4: performance is a feature | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-04/"
+  },
+  {
+    "title": "Going beyond build.rs: introducing cargo-px | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/cargo-px/"
+  },
+  {
+    "title": "Pavex, progress report #3: nested routes and borrow checking | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-03/"
+  },
+  {
+    "title": "Pavex, progress report #2: route all the things | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-02/"
+  },
+  {
+    "title": "Pavex, progress report #1: laying the foundations | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-01/"
+  },
+  {
+    "title": "A taste of pavex, an upcoming Rust web framework | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/"
+  }
+]

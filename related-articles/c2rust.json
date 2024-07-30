@@ -1,0 +1,34 @@
+[
+  {
+    "title": "libyaml-safer",
+    "link": "https://simonask.github.io/libyaml-safer/"
+  },
+  {
+    "title": "Precursor - Bringing Up TLS on Precursor | Crowd Supply",
+    "link": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/bringing-up-tls-on-precursor"
+  },
+  {
+    "title": "Rust is more portable than C for pngquant/libimagequant",
+    "link": "https://pngquant.org/rust.html"
+  },
+  {
+    "title": "Using Rust for kernel development [LWN.net]",
+    "link": "https://lwn.net/Articles/870555/"
+  },
+  {
+    "title": "Translating Quake 3 into Rust :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2020/01/quake3/"
+  },
+  {
+    "title": "Source Code Linking: Merging C Headers into Rust Modules :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2019/12/header_merging/"
+  },
+  {
+    "title": "Rust 2020: Lessons learned by transpiling C to Rust :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2019/11/rust2020/"
+  },
+  {
+    "title": "Introduction to C2Rust :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2019/08/introduction-to-c2rust/"
+  }
+]

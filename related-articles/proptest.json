@@ -1,0 +1,22 @@
+[
+  {
+    "title": "argmin_testfunctions 0.2.0 and argmin-testfunctions-py v0.0.1 released | argmin",
+    "link": "https://argmin-rs.org/blog/argmin-testfunctions-v0-2-0/"
+  },
+  {
+    "title": "Tomáš Zemanovič : State machine testing with Proptest",
+    "link": "https://tzemanovic.gitlab.io/posts/state-machine-testing-with-proptest/"
+  },
+  {
+    "title": "When Rust hurts",
+    "link": "https://mmapped.blog/posts/15-when-rust-hurts.html"
+  },
+  {
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  },
+  {
+    "title": "im - Rust",
+    "link": "https://docs.rs/im"
+  }
+]

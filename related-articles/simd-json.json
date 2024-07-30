@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Parsing JSON in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/18/parsing-json-rust"
+  },
+  {
+    "title": "Surprises in the Rust JSON Ecosystem",
+    "link": "https://ecton.dev/rust-json-ecosystem/"
+  },
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  }
+]

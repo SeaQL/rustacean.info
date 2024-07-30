@@ -1,0 +1,62 @@
+[
+  {
+    "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
+  },
+  {
+    "title": "How I Improved My Rust Compile Times by 75%",
+    "link": "https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent"
+  },
+  {
+    "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
+    "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
+  },
+  {
+    "title": "Pavex, progress report #4: performance is a feature | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-04/"
+  },
+  {
+    "title": "BlogWerx: Improving build times for derive macros by 3x or more",
+    "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
+  },
+  {
+    "title": "(Re)writing an interpreter in Rust - Danny van Kooten",
+    "link": "https://www.dannyvankooten.com/blog/2022-12-rewriting-interpreter-rust/"
+  },
+  {
+    "title": "Brute forcing protected ZIP archives in Rust",
+    "link": "https://agourlay.github.io/brute-forcing-protected-zip-rust/"
+  },
+  {
+    "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
+    "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
+  },
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "title": "Using SIMD in rust to `tac` at breakneck speeds",
+    "link": "https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/"
+  },
+  {
+    "title": "Improving the Performance of our Rust app :: poor.dev",
+    "link": "https://www.poor.dev/blog/performance/"
+  },
+  {
+    "title": "Knurling-rs changelog #28  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-28/"
+  },
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  },
+  {
+    "title": "Rust for a Pythonista #1: Why and when?",
+    "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
+  },
+  {
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  }
+]

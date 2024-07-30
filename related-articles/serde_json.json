@@ -1,0 +1,82 @@
+[
+  {
+    "title": "How to build a Custom Benchmarking Harness in Rust | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/benchmarking/rust/custom-harness/"
+  },
+  {
+    "title": "A Simple CRUD API in Rust with Cloudflare Workers, Cloudflare KV, and the Rust Router | by Damian Esteban | Medium",
+    "link": "https://medium.com/@estebanrules/a-simple-crud-api-in-rust-with-cloudflare-workers-cloudflare-kv-and-the-rust-router-cbc1b9015e7b"
+  },
+  {
+    "title": "Surprises in the Rust JSON Ecosystem",
+    "link": "https://ecton.dev/rust-json-ecosystem/"
+  },
+  {
+    "title": "Building a Command-Line Application in Rust | www.joshfinnie.com",
+    "link": "https://www.joshfinnie.com/blog/a-command-line-application-in-rust/"
+  },
+  {
+    "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
+    "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
+  },
+  {
+    "title": "Fathomable Rust Macros - GeekLaunch",
+    "link": "https://geeklaunch.net/blog/fathomable-rust-macros/"
+  },
+  {
+    "title": "Speeding up incremental Rust compilation with dylibs | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "Compilation Of Active Directory Logs Using Rust. - Knoldus Blogs",
+    "link": "https://blog.knoldus.com/compilation-of-active-directory-logs-using-rust/"
+  },
+  {
+    "title": "Collecting Data from an API - David MacEachern",
+    "link": "https://davidmaceachern.com/posts/collecting-data-from-an-api"
+  },
+  {
+    "title": "Small strings in Rust",
+    "link": "https://fasterthanli.me/articles/small-strings-in-rust"
+  },
+  {
+    "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
+    "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
+  },
+  {
+    "title": "Configuration envy. How software is configured has always… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/configuration-envy-a09584386705"
+  },
+  {
+    "title": "Serde Deserialize This or That into u64",
+    "link": "https://noyez.gitlab.io/post/2018-08-28-serilize-this-or-that-into-u64/"
+  },
+  {
+    "title": "show_notes::cysk::serde - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/serde/"
+  },
+  {
+    "title": "Overview · Serde",
+    "link": "https://serde.rs/"
+  },
+  {
+    "title": "Why I’m dropping Rust. When I saw that there was a new systems… | by Michael de Lang | HackerNoon.com | Medium",
+    "link": "https://medium.com/@kingoipo/why-im-dropping-rust-fd1c32986c88"
+  },
+  {
+    "title": "Connecting a webservice to a database in Rust",
+    "link": "http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html"
+  },
+  {
+    "title": "Get Data From A URL In Rust",
+    "link": "http://hermanradtke.com/2015/09/21/get-data-from-a-url-rust.html"
+  },
+  {
+    "title": "Serde 0.5.0 - Many Many Changes - Chasing Rabbits",
+    "link": "https://erickt.github.io/blog/2015/08/07/serde-0-dot-5-0-many-many-changes/"
+  }
+]

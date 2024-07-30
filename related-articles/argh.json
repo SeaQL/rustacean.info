@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Using Clap in Rust for command line (CLI) argument parsing - LogRocket Blog",
+    "link": "https://blog.logrocket.com/command-line-argument-parsing-rust-using-clap/"
+  },
+  {
+    "title": "Surviving Rust async interfaces",
+    "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
+  }
+]

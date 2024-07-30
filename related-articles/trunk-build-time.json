@@ -1,0 +1,26 @@
+[
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
+  },
+  {
+    "title": "Full-stack Rust: A complete tutorial with examples - LogRocket Blog",
+    "link": "https://blog.logrocket.com/full-stack-rust-a-complete-tutorial-with-examples/"
+  },
+  {
+    "title": "Rust on the Frontend and Backend - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/moonzoon"
+  },
+  {
+    "title": "Building an OpenStreetMap app in Rust, Part II | by Tor Hovland | Bekk",
+    "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-ii-933ca8d0c48a"
+  },
+  {
+    "title": "reacty_yew: Generating Yew components from React components via Typescript type definitions | hobofan's lil' website",
+    "link": "https://www.hobofan.com/blog/2020-11-10-reacty_yew/"
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "title": "34 Must Know Terms for Embedded Rust Newbies",
+    "link": "https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies"
+  },
+  {
+    "title": "Call for applications: Knurling-rs Summer of Code 2022 🦀  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-summer-of-code/"
+  },
+  {
+    "title": "Knurling-rs changelog #34  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-34/"
+  },
+  {
+    "title": "Knurling-rs changelog #33  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-33/"
+  },
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
+  },
+  {
+    "title": "y|sndr - Rust as a platform for IoT",
+    "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
+  },
+  {
+    "title": "Knurling toolset v0.3 has been released!  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt-3/"
+  },
+  {
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "title": "Knurling-rs changelog #32  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-32/"
+  },
+  {
+    "title": "Knurling-rs changelog #30  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-30/"
+  },
+  {
+    "title": "Knurling-rs changelog #28  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-28/"
+  },
+  {
+    "title": "Knurling-rs changelog #24  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-24/"
+  },
+  {
+    "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
+  },
+  {
+    "title": "Rust Notebooks with Evcxr - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/evcxr"
+  },
+  {
+    "title": "Knurling-rs changelog #23  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-23/"
+  },
+  {
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
+    "title": "Knurling Financial Update  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-financial-update/"
+  },
+  {
+    "title": "Testing a driver crate  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-driver-crate/"
+  },
+  {
+    "title": "Knurling-rs changelog #18  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-18/"
+  },
+  {
+    "title": "Knurling-rs changelog #17  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-17/"
+  },
+  {
+    "title": "Testing a Hardware Abstraction Layer (HAL)  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt-test-hal/"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/podcast/006-bryan/"
+  },
+  {
+    "title": "Knurling-rs changelog #13  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-13/"
+  },
+  {
+    "title": "Knurling-rs changelog #12  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-12/"
+  },
+  {
+    "title": "Knurling-rs changelog #9  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-9/"
+  },
+  {
+    "title": "Knurling-rs changelog #11  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-11/"
+  },
+  {
+    "title": "Knurling-rs changelog #8  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-8/"
+  },
+  {
+    "title": "Knurling-rs changelog #10  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-10/"
+  },
+  {
+    "title": "Knurling-rs changelog #7  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-7/"
+  },
+  {
+    "title": "Knurling-rs changelog #6  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-6/"
+  },
+  {
+    "title": "Knurling-rs changelog #3  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-3/"
+  },
+  {
+    "title": "Getting Started with the nRF52840 in Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Getting-Started-with-the-nRF52840-in-Rust/"
+  },
+  {
+    "title": "Learning Embedded Rust with Knurling-rs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-sessions-introduction/"
+  },
+  {
+    "title": "Knurling-rs changelog #2  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-2/"
+  },
+  {
+    "title": "Knurling-rs changelog #1  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-1/"
+  },
+  {
+    "title": "Using `cargo test` for embedded testing with `panic-probe`  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/cargo-test-with-panic-probe/"
+  },
+  {
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  },
+  {
+    "title": "Knurling-rs Announcement  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-rs/"
+  },
+  {
+    "title": "Embedded Rust tooling for the 21st century  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/21st-century-embedded-tooling/"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "title": "Xilem 2024 plans - Linebender",
+    "link": "https://linebender.org/blog/xilem-2024/"
+  },
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "title": "Catch 22! Rust in Review — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2022/12/11/catch22.html"
+  },
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "WCT | HexoSynth 2022 - Devlog #5 - Signal Monitors and HexoTK Bugfixing",
+    "link": "https://m8geil.de/posts/hexosynth-5/"
+  },
+  {
+    "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+  },
+  {
+    "title": "rust_wishlist_better_cfg.md · GitHub",
+    "link": "https://gist.github.com/PoignardAzur/8038f5ed7dc8d00e3e9472aca57fb35c"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Rust 2021: GUI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html"
+  },
+  {
+    "title": "Towards principled reactive UI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html"
+  },
+  {
+    "title": "xi-editor retrospective | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
+  }
+]

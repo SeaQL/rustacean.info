@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "title": "Getting Started with Actix Web in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/12/15/using-actix-rust"
+  },
+  {
+    "title": "Getting Started with Axum - Rust's Most Popular Web Framework",
+    "link": "https://www.shuttle.rs/blog/2023/12/06/using-axum-rust"
+  },
+  {
+    "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
+  },
+  {
+    "title": "Minimalist Guide to Axum",
+    "link": "https://tech.marksblogg.com/axum-rust-web-framework.html"
+  },
+  {
+    "title": "An Introduction To Session-based Authentication In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/session-based-authentication-in-rust/"
+  },
+  {
+    "title": "05 - Basic CRUD with rust using tide - front-end with tera - Javier's personal blog",
+    "link": "https://javierviola.com/post/05-basic-crud-with-rust-using-tide-front-end-with-tera/"
+  },
+  {
+    "title": "Late Night Confessions — Building a Website Using Rust, Rocket, Diesel, and Askama — Part 1 | by Johnny Tordgeman | PerimeterX | Medium",
+    "link": "https://medium.com/perimeterx/late-night-confessions-building-a-website-using-rust-rocket-diesel-and-askama-part-1-aeccade43252"
+  },
+  {
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
+    "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
+  }
+]

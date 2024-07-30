@@ -1,0 +1,18 @@
+[
+  {
+    "title": "v0.26.3 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v0263/"
+  },
+  {
+    "title": "Everything you need to know about testing in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"
+  },
+  {
+    "title": "Iterating on Testing in Rust",
+    "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
+  },
+  {
+    "title": "The birth of a package manager | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
+  }
+]

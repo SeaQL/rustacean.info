@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
+  },
+  {
+    "title": "Pavex with Luca Palmieri :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/luca-palmieri-pavex/"
+  },
+  {
+    "title": "SemVer in Rust: Tooling, Breakage, and Edge Cases — FOSDEM 2024",
+    "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
+  },
+  {
+    "title": "Semver violations are common, better tooling is the answer",
+    "link": "https://predr.ag/blog/semver-violations-are-common-better-tooling-is-the-answer/"
+  },
+  {
+    "title": "🎙️ Trustfall and cargo-semver-checks with Predrag Gruevski - RustShip • Marco Ieni",
+    "link": "https://ieni.dev/2023/09/%EF%B8%8F-trustfall-and-cargo-semver-checks-with-predrag-gruevski-rustship/"
+  },
+  {
+    "title": "RustShip: a new Rust podcast • Marco Ieni",
+    "link": "https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/"
+  },
+  {
+    "title": "Rust 2023 (by Yosh)",
+    "link": "https://blog.yoshuawuyts.com/rust-2023/#ambition"
+  },
+  {
+    "title": "Rust 2023 (by Yosh)",
+    "link": "https://blog.yoshuawuyts.com/rust-2023/"
+  }
+]

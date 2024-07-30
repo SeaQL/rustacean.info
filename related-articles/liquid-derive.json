@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Generative metatag images in Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/23/generative-metatag-images"
+  },
+  {
+    "title": "Using liquid-rust with serde",
+    "link": "https://madsravn.dk/posts/using-liquid-rust-with-serde"
+  },
+  {
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "title": "Redefining Failure",
+    "link": "https://epage.github.io/blog/2018/03/redefining-failure/"
+  }
+]

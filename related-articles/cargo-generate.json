@@ -1,0 +1,30 @@
+[
+  {
+    "title": "v0.25.0 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v025/"
+  },
+  {
+    "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
+    "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
+  },
+  {
+    "title": "20th of September to 26th of September 2021 — This week in Slint",
+    "link": "https://sixtyfps.io/thisweek/2021-09-27.html"
+  },
+  {
+    "title": "Rust on the front-end",
+    "link": "https://blog.frankel.ch/start-rust/5/"
+  },
+  {
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  },
+  {
+    "title": "How to RiiR · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/how-to-riir/index.html"
+  },
+  {
+    "title": "Implementing ArrayVec Using Const Generics · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/const-arrayvec/"
+  }
+]

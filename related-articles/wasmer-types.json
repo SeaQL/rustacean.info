@@ -1,0 +1,90 @@
+[
+  {
+    "title": "Why WebAssembly came to the Backend (Wasm in the wild part 3) | Technology blog",
+    "link": "https://www.jakobmeier.ch/wasm-road-2"
+  },
+  {
+    "title": "Wasmi's New Execution Engine - Faster Than Ever | Wasmi Labs",
+    "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/"
+  },
+  {
+    "title": "Wasmer with Syrus Akbary :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/syrus-akbary/"
+  },
+  {
+    "title": "How Rust and Wasm power Cloudflare's 1.1.1.1",
+    "link": "https://blog.cloudflare.com/big-pineapple-intro/"
+  },
+  {
+    "title": "Rust in 2023 - GBurghoorn",
+    "link": "https://gburghoorn.com/posts/rust-in-2023/"
+  },
+  {
+    "title": "Building a WebAssembly-powered serverless platform",
+    "link": "https://blog.scottlogic.com/2022/04/16/wasm-faas.html"
+  },
+  {
+    "title": "Wasmer 2.2: Major Singlepass Improvements · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/wasmer-2.2"
+  },
+  {
+    "title": "Rust Expert - Senior Software Engineer at Wasmer | Y Combinator",
+    "link": "https://www.ycombinator.com/companies/wasmer/jobs/lG79n4xvg-rust-expert-senior-software-engineer"
+  },
+  {
+    "title": "y|sndr - Rust as a platform for IoT",
+    "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
+  },
+  {
+    "title": "Wasmer 2.1 · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/wasmer-2.1"
+  },
+  {
+    "title": "Plugins in Rust: Getting Started | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-start/"
+  },
+  {
+    "title": "Paul Butler – Calling WebAssembly from Rust",
+    "link": "https://paulbutler.org/2021/calling-webassembly-from-rust/"
+  },
+  {
+    "title": "Novel way to Develop, Test and Document C libraries from Rust · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust"
+  },
+  {
+    "title": "Rust and Tinyverse - by Michael-F-Bryan - tinyVerse",
+    "link": "https://tinyverse.substack.com/p/rust-and-tinyverse"
+  },
+  {
+    "title": "Wasmer 2.0, It's a big deal! · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/wasmer-2.0"
+  },
+  {
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "title": "A primer on code generation in Cranelift by Benjamin Bouvier",
+    "link": "https://blog.benj.me/2021/02/17/cranelift-codegen-primer/"
+  },
+  {
+    "title": "Rust Expert - Senior Software Engineer at Wasmer | Y Combinator's Work at a Startup",
+    "link": "https://www.workatastartup.com/jobs/41643"
+  },
+  {
+    "title": "Trisiel Progress: Rewritten in Rust - Xe Iaso",
+    "link": "https://christine.website/blog/wasmcloud-progress-domains-2020-10-31"
+  },
+  {
+    "title": "Announcing and Unpacking the New Holochain | by Arthur Brock | Holochain | Medium",
+    "link": "https://medium.com/holochain/unpacking-the-new-holochain-f54da3ca99b7"
+  },
+  {
+    "title": "WebAssembly as a Platform for Abstraction · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/"
+  },
+  {
+    "title": "Embedding WebAssembly in your Rust application | by Brandon Fish | Wasmer | Medium",
+    "link": "https://medium.com/wasmer/executing-webassembly-in-your-rust-application-d5cd32e8ce46"
+  }
+]

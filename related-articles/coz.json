@@ -1,0 +1,14 @@
+[
+  {
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  },
+  {
+    "title": "How to write CRaP Rust code - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
+  },
+  {
+    "title": "Causal Profiling Rust Code — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2019/09/25/coz.html"
+  }
+]

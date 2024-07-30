@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Write a Toy VPN in Rust",
+    "link": "https://write.yiransheng.com/vpn"
+  },
+  {
+    "title": "Using Modern Linux Sockets",
+    "link": "https://devork.be/blog/2023/11/modern-linux-sockets/"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "title": "3128-io-safety - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3128-io-safety.html"
+  }
+]

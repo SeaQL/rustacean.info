@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Practical guide to Error Handling in Rust ::\n— A blog about programming, distributed systems and others",
+    "link": "https://dev-state.com/posts/error_handling/"
+  },
+  {
+    "title": "Nine Rules for Accessing Cloud Files from Your Rust Code | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-accessing-cloud-files-from-your-rust-code-d456c1e2ceb4"
+  },
+  {
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "title": "Rust error handling with anyhow - AntoineRR's blog",
+    "link": "https://antoinerr.github.io/blog-website/2023/01/28/rust-anyhow.html"
+  },
+  {
+    "title": "Zero To Production in Rust book review",
+    "link": "https://rusty-ferris.pages.dev/blog/zero-to-production-book-review/"
+  },
+  {
+    "title": "Building a Command-Line Application in Rust | www.joshfinnie.com",
+    "link": "https://www.joshfinnie.com/blog/a-command-line-application-in-rust/"
+  },
+  {
+    "title": "More than you've ever wanted to know about errors in Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/30/error-handling"
+  },
+  {
+    "title": "Announcing error-stack – HASH Developer Blog",
+    "link": "https://hash.dev/blog/announcing-error-stack"
+  },
+  {
+    "title": "Downcasting in Rust | Y. Santos Personal Page",
+    "link": "https://ysantos.com/blog/downcast-rust"
+  },
+  {
+    "title": "Mapping my walks with OSRM and Rust",
+    "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
+  },
+  {
+    "title": "12 Rust Tips and Tricks you might not know yet - Federico Terzi - A Software Engineering Journey",
+    "link": "https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/"
+  },
+  {
+    "title": "Rust Error Handling",
+    "link": "https://www.unwoundstack.com/blog/rust-error-handling.html"
+  },
+  {
+    "title": "Rust Option and Result",
+    "link": "https://saidvandeklundert.net/learn/2021-09-01-rust-option-and-result/"
+  },
+  {
+    "title": "Error Handling In Rust - A Deep Dive | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/error-handling-rust/"
+  },
+  {
+    "title": "Running Rust on Android – suve's ramblings",
+    "link": "https://blog.svgames.pl/article/running-rust-on-android"
+  },
+  {
+    "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
+    "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"
+  },
+  {
+    "title": "Wrapping errors in Rust",
+    "link": "https://edgarluque.com/blog/wrapping-errors-in-rust"
+  },
+  {
+    "title": "parsing baseball files in Rust instead of Python for an 8x speedup! – Greg's Blog",
+    "link": "https://gregstoll.wordpress.com/2021/01/10/parsing-baseball-files-in-rust-instead-of-python-for-an-8x-speedup/"
+  },
+  {
+    "title": "Error handling is hard",
+    "link": "https://www.fpcomplete.com/blog/error-handling-is-hard/"
+  },
+  {
+    "title": "gpg",
+    "link": "https://andrewhalle.github.io/build-your-own/gpg"
+  },
+  {
+    "title": "Marcus' Blog",
+    "link": "https://mbuffett.com/posts/rust-less-error-handling/"
+  },
+  {
+    "title": "Collecting Data from an API - David MacEachern",
+    "link": "https://davidmaceachern.com/posts/collecting-data-from-an-api"
+  },
+  {
+    "title": "Beginner's guide to Error Handling in Rust",
+    "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
+  },
+  {
+    "title": "A practical guide to async in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/a-practical-guide-to-async-in-rust/"
+  },
+  {
+    "title": "Kevin K's Blog - Diving into Rust with a CLI",
+    "link": "https://kbknapp.dev/rust-cli/"
+  },
+  {
+    "title": "Errors in Rust: A Deep Dive :: the halcyon blog",
+    "link": "https://www.halcyon.hr/posts/error-handling-in-rust/"
+  },
+  {
+    "title": "What's New in Rust 1.42 and 1.43 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/014-rust-1.42-1.43/"
+  },
+  {
+    "title": "Rust: Structuring and handling errors in 2020 - Nick's Blog and Digital Garden",
+    "link": "https://nick.groenen.me/posts/rust-error-handling/"
+  },
+  {
+    "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
+    "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
+  },
+  {
+    "title": "Filtering Duplicates on the Command Line: 30x Faster than sort|uniq | by Karolin Varner | Adobe Tech Blog",
+    "link": "https://medium.com/adobetech/filtering-duplicates-on-the-command-line-30x-faster-than-sort-uniq-96ca5f7b4277"
+  },
+  {
+    "title": "Thoughts on Error Handling in Rust · Lukasʼ Blog",
+    "link": "https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html"
+  },
+  {
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  },
+  {
+    "title": "Error Handling in Rust - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/rust-error-handling/"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Xilem 2024 plans - Linebender",
+    "link": "https://linebender.org/blog/xilem-2024/"
+  },
+  {
+    "title": "Announcing smol-macros, smol-hyper and smol-axum – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/new-smol-rs-subcrates/"
+  },
+  {
+    "title": "Introducing Gooey: My take on a Rusty GUI framework",
+    "link": "https://ecton.dev/introducing-gooey/"
+  },
+  {
+    "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/039/"
+  },
+  {
+    "title": "Tauri vs. Electron for Tray Apps. Build a desktop tray starter app using… | by Dotan Nahum | Better Programming",
+    "link": "https://betterprogramming.pub/tauri-vs-electron-for-tray-apps-ed15974f35ce"
+  },
+  {
+    "title": "Advice for the next dozen Rust GUIs | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
+  },
+  {
+    "title": "Fornjot - Fornjot 0.7",
+    "link": "https://www.fornjot.app/blog/fornjot-0.7/"
+  },
+  {
+    "title": "Tutorial: Writing a Tiny Rust Game Engine for Web",
+    "link": "https://ianjk.com/game-engine-in-rust/"
+  },
+  {
+    "title": "How to Overriding (Patch) Cargo Dependencies - by YJ Park",
+    "link": "https://edger.substack.com/p/how-to-overriding-patch-cargo-dependencies"
+  },
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
+    "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
+  },
+  {
+    "title": "The smooth resize test | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2019/06/21/smooth-resize-test.html"
+  },
+  {
+    "title": "Code Slow: Tiny Windows executable in Rust",
+    "link": "https://www.codeslow.com/2019/12/tiny-windows-executable-in-rust.html"
+  },
+  {
+    "title": "#Rust2018 — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
+  }
+]

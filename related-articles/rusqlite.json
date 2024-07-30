@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Diesel Async 0.5 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"
+  },
+  {
+    "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/case-study/diesel/"
+  },
+  {
+    "title": "Building a Web App in Rust - Dmitry Kudryavtsev",
+    "link": "https://www.yieldcode.blog/post/building-a-webapp-in-rust/"
+  },
+  {
+    "title": "Rocket: A Web Framework for Rust",
+    "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
+  },
+  {
+    "title": "Running Rust on Android – suve's ramblings",
+    "link": "https://blog.svgames.pl/article/running-rust-on-android"
+  },
+  {
+    "title": "Porting North Korean Dictionaries with Rust – Digital NK",
+    "link": "https://digitalnk.com/blog/2020/05/08/porting-north-korean-dictionaries-with-rust/"
+  }
+]

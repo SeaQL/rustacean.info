@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "title": "Rust 2019 -- The Road Ahead — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/12/08/rust.html"
+  },
+  {
+    "title": "proc_macro_attribute Revisited — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/11/10/proc-macro.html"
+  },
+  {
+    "title": "Opportunistic Mutations — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/03/03/opportune.html"
+  },
+  {
+    "title": "Another happy quickcheck customer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/07/29/quickcheck.html"
+  },
+  {
+    "title": "Announcing Overflower — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/06/24/overflower.html"
+  },
+  {
+    "title": "Procedural Macros vs. Macros — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/06/11/expand.html"
+  }
+]

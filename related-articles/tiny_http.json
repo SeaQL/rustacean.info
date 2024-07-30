@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Getting started with Tiny HTTP building a web application in Rust",
+    "link": "https://rust.code-maven.com/tiny-http"
+  },
+  {
+    "title": "Getting in and out of trouble with Rust futures",
+    "link": "https://fasterthanli.me/articles/getting-in-and-out-of-trouble-with-rust-futures"
+  },
+  {
+    "title": "Intro to Web Development with Rust for NodeJS Developers | by Bastian Gruber | Level Up Coding",
+    "link": "https://medium.com/@gruberbastian/intro-to-web-programming-in-rust-for-nodejs-developers-1a9c048c4de1"
+  }
+]

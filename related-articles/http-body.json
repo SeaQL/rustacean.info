@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Announcing axum 0.7.0 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2023-11-27-announcing-axum-0-7-0"
+  },
+  {
+    "title": "How Linkerd retries HTTP requests with bodies | Linkerd",
+    "link": "https://linkerd.io/2021/10/26/how-linkerd-retries-http-requests-with-bodies/"
+  },
+  {
+    "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
+  }
+]

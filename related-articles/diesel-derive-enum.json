@@ -1,0 +1,14 @@
+[
+  {
+    "title": "kitsu's blog",
+    "link": "https://kitsu.me/posts/2020_05_24_custom_types_in_diesel"
+  },
+  {
+    "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+    "link": "https://diesel.rs"
+  },
+  {
+    "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+    "link": "http://diesel.rs/"
+  }
+]

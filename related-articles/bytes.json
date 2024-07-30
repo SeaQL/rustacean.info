@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Iggy.rs - building message streaming in Rust",
+    "link": "https://blog.iggy.rs/posts/building-message-streaming-in-rust/"
+  },
+  {
+    "title": "Parsing TFTP in Rust",
+    "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/"
+  },
+  {
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "title": "Using the Kani Rust Verifier on Tokio Bytes | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2022/08/17/using-the-kani-rust-verifier-on-tokio-bytes.html"
+  },
+  {
+    "title": "How Linkerd retries HTTP requests with bodies | Linkerd",
+    "link": "https://linkerd.io/2021/10/26/how-linkerd-retries-http-requests-with-bodies/"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-08-alphas/"
+  },
+  {
+    "title": "Creating A Multi-echo Server using Rust and mio",
+    "link": "http://hermanradtke.com/2015/07/22/creating-a-multi-echo-server-using-rust-and-mio.html"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Boost Rust Code 7x with SIMD: Key Rules | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-simd-acceleration-of-your-rust-code-part-1-c16fe639ce21"
+  },
+  {
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  }
+]

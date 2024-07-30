@@ -1,0 +1,18 @@
+[
+  {
+    "title": "The Embedded Rustacean Issue #15",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"
+  },
+  {
+    "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
+  },
+  {
+    "title": "Knurling-rs changelog #3  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-3/"
+  },
+  {
+    "title": "Knurling-rs changelog #1  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-1/"
+  }
+]

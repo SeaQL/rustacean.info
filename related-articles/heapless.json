@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "title": "Using std in embedded Rust",
+    "link": "https://timmmm.github.io/std-embedded-rust/index.html"
+  },
+  {
+    "title": "Run Rust RISC-V Firmware with BL602 IoT SDK",
+    "link": "https://lupyuen.github.io/articles/rust"
+  },
+  {
+    "title": "Testing Hardware Using Rust",
+    "link": "https://www.jaredwolff.com/testing-hardware-using-rust/"
+  },
+  {
+    "title": "Embedded Rust pattern - Zero Sized References  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/zero-sized-references/"
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Playing guitar tablatures in Rust",
+    "link": "https://agourlay.github.io/ruxguitar-tablature-player/"
+  },
+  {
+    "title": "Build with Naz : Markdown parser in Rust and nom from r3bl_tui | developerlife.com",
+    "link": "https://developerlife.com/2024/06/28/md-parser-rust-from-r3bl-tui/"
+  },
+  {
+    "title": "Build with Naz : Comprehensive guide to nom parsing | developerlife.com",
+    "link": "https://developerlife.com/2023/02/20/guide-to-nom-parsing/"
+  },
+  {
+    "title": "I ported h2spec to Rust (also: codegen!)",
+    "link": "https://fasterthanli.me/videos/h2spec-to-rust"
+  },
+  {
+    "title": "Playing with Nom and parser combinators · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2024/01/playing-with-nom-and-parser-combinators/"
+  },
+  {
+    "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
+  },
+  {
+    "title": "A JVM in Rust part 3 - Parsing class files · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2023/07/a-jvm-in-rust-part-3-parsing-class-files/"
+  },
+  {
+    "title": "Tony's Blog",
+    "link": "https://antoniosbarotsis.github.io/posts/python_package_written_in_rust/"
+  },
+  {
+    "title": "winnow = toml_edit + combine + nom",
+    "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"
+  },
+  {
+    "title": "Parsing TFTP in Rust",
+    "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/"
+  },
+  {
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "title": "println!(\"Hello, World!\")",
+    "link": "https://www.printlnhello.world/blog/publishing-to-crates-io/"
+  },
+  {
+    "title": "My ideal Rust workflow",
+    "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
+  },
+  {
+    "title": "Implementing a BLT parser by hand in Rust (vs pest and combine): OpenTally dev log",
+    "link": "https://yingtongli.me/blog/2021/07/30/blt-parser.html"
+  },
+  {
+    "title": "Rust - Writing Parsers With nom Parser Combinator Framework",
+    "link": "https://iximiuz.com/en/posts/rust-writing-parsers-with-nom/"
+  },
+  {
+    "title": "Deserializing Binary Data Files in Rust · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/deserializing-binary-data-files/"
+  },
+  {
+    "title": "Introducing xd(1) | delan azabani",
+    "link": "https://www.azabani.com/2020/11/15/xd.html"
+  },
+  {
+    "title": "gpg",
+    "link": "https://andrewhalle.github.io/build-your-own/gpg"
+  },
+  {
+    "title": "What's in a Linux executable?",
+    "link": "https://fasterthanli.me/blog/2020/whats-in-a-linux-executable/"
+  },
+  {
+    "title": "Learning Parser Combinators With Rust : Bodil dot lol",
+    "link": "https://bodil.lol/parser-combinators/"
+  },
+  {
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  },
+  {
+    "title": "24 days of Rust - nom, part 1 | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-nom-part-1/"
+  },
+  {
+    "title": "nom 1.0 is here! REJOICE! | Clever Cloud",
+    "link": "https://www.clever-cloud.com/blog/engineering/2015/11/16/nom-1-0/"
+  },
+  {
+    "title": "LALRPOP · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/"
+  }
+]

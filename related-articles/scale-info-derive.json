@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Wasmi's New Execution Engine - Faster Than Ever | Wasmi Labs",
+    "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/"
+  },
+  {
+    "title": "Speed up Rust Builds with Cachepot",
+    "link": "https://kflansburg.com/posts/rust-cachepot/"
+  },
+  {
+    "title": "A look back at asynchronous Rust. In 2013, I discovered the Rust… | by tomaka | Medium",
+    "link": "https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c"
+  },
+  {
+    "title": "Written in Rust - What is the Rust language used for | Evrone",
+    "link": "https://evrone.com/rust-vs-c"
+  },
+  {
+    "title": "Changelog #31",
+    "link": "https://rust-analyzer.github.io/thisweek/2020/06/29/changelog-31.html"
+  },
+  {
+    "title": "Announcing Rust IPFS, and a call for contributors | IPFS Blog &amp; News",
+    "link": "https://blog.ipfs.io/2020-03-18-announcing-rust-ipfs/"
+  },
+  {
+    "title": "RustFest.eu - Barcelona 09.-12.11.2019",
+    "link": "https://barcelona.rustfest.eu/"
+  },
+  {
+    "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-08-alphas/"
+  },
+  {
+    "title": "RustFest.eu - Rome Nov., 24th-25th 2018",
+    "link": "https://rome.rustfest.eu"
+  },
+  {
+    "title": "RustFest.eu",
+    "link": "https://paris.rustfest.eu/"
+  },
+  {
+    "title": "Rust Meetup от разработчиков Exonum &amp; Parity / События на TimePad.ru",
+    "link": "https://bitfury.timepad.ru/event/665119/"
+  }
+]

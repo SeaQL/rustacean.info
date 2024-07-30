@@ -1,0 +1,14 @@
+[
+  {
+    "title": "I ported h2spec to Rust (also: codegen!)",
+    "link": "https://fasterthanli.me/videos/h2spec-to-rust"
+  },
+  {
+    "title": "Generating terminal user interfaces with Ratatui + ChatGPT - Orhun's Blog",
+    "link": "https://blog.orhun.dev/ratatui-0-22-0/"
+  },
+  {
+    "title": "Crate of the Week second chance list – Brian Kung",
+    "link": "https://briankung.dev/2022/01/07/crate-of-the-week-second-chance-list/"
+  }
+]

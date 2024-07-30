@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Fossil Data Platform Rewritten in Rust 🦀",
+    "link": "https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html"
+  },
+  {
+    "title": "First steps with NGenate - A dataflow and visual programming platform built with Rust | by Mark Mulligan",
+    "link": "https://codetrance.io/blog/1/rust-visual-programming-dataflow-ngenate-first-steps/"
+  },
+  {
+    "title": "Rust for Data-Intensive Computation",
+    "link": "https://materialize.io/rust-for-data-intensive-computation/"
+  }
+]

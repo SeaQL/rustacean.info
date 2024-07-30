@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/70/we-asked-5-people-why-they-like-embedded-rust"
+  },
+  {
+    "title": "Introducing Drogue Device — Drogue IoT",
+    "link": "https://blog.drogue.io/introducing-drogue-device/"
+  },
+  {
+    "title": "Rust and Async (on embedded devices) — Drogue IoT",
+    "link": "https://blog.drogue.io/rust-and-async/"
+  },
+  {
+    "title": "Rust on the BBC micro:bit — Drogue IoT",
+    "link": "https://blog.drogue.io/rust-and-microbit/"
+  },
+  {
+    "title": "Down the Yak Hole of TLS — Drogue IoT",
+    "link": "https://blog.drogue.io/yak-hole-of-tls/"
+  }
+]

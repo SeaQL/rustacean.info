@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Parsing Python ASTs 20x Faster with Rust",
+    "link": "https://www.gauge.sh/blog/parsing-python-asts-20x-faster-with-rust"
+  },
+  {
+    "title": "uv: Python packaging in Rust",
+    "link": "https://astral.sh/blog/uv"
+  }
+]

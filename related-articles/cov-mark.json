@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "title": "Coverage Marks  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/coverage-marks/"
+  },
+  {
+    "title": "A Trick For Test Maintenance",
+    "link": "https://matklad.github.io/2018/06/18/a-trick-for-test-maintenance.html"
+  }
+]

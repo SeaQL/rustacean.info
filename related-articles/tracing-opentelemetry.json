@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Distributed Tracing in Rust, Episode 3: inter-service tracing",
+    "link": "https://heikoseeberger.de/2023-08-28-dist-tracing-3/"
+  },
+  {
+    "title": "Flexible Tracing with Rust and OpenTelemetry OTLP",
+    "link": "https://broch.tech/posts/rust-tracing-opentelemetry/"
+  },
+  {
+    "title": "When rustc explodes",
+    "link": "https://fasterthanli.me/articles/when-rustc-explodes"
+  },
+  {
+    "title": "Announcing Tokio 1.0 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2020-12-tokio-1-0"
+  }
+]

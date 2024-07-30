@@ -1,0 +1,22 @@
+[
+  {
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "title": "Eyra is an interesting Rust project – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/eyra/"
+  },
+  {
+    "title": "My ideal Rust workflow",
+    "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
+  },
+  {
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "title": "Rust 2021",
+    "link": "https://swatinem.de/blog/rust-2021/"
+  }
+]

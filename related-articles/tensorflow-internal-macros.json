@@ -1,0 +1,18 @@
+[
+  {
+    "title": "PostgresML is Moving to Rust for our 2.0 Release – PostgresML",
+    "link": "https://postgresml.org/blog/postgresml-is-moving-to-rust-for-our-2.0-release/"
+  },
+  {
+    "title": "Python vs Rust for Neural Networks | Nathan Goldbaum",
+    "link": "https://ngoldbaum.github.io/posts/python-vs-rust-nn/"
+  },
+  {
+    "title": "The State of Machine Learning in Rust - Ehsan's Blog",
+    "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
+  },
+  {
+    "title": "Face Detection with Tensorflow Rust",
+    "link": "https://cetra3.github.io/blog/face-detection-with-tensorflow-rust/"
+  }
+]

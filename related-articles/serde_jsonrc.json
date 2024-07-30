@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Surprises in the Rust JSON Ecosystem",
+    "link": "https://ecton.dev/rust-json-ecosystem/"
+  },
+  {
+    "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
+    "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
+  },
+  {
+    "title": "Speeding up incremental Rust compilation with dylibs | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/"
+  },
+  {
+    "title": "Compilation Of Active Directory Logs Using Rust. - Knoldus Blogs",
+    "link": "https://blog.knoldus.com/compilation-of-active-directory-logs-using-rust/"
+  },
+  {
+    "title": "Configuration envy. How software is configured has always… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/configuration-envy-a09584386705"
+  },
+  {
+    "title": "Serde Deserialize This or That into u64",
+    "link": "https://noyez.gitlab.io/post/2018-08-28-serilize-this-or-that-into-u64/"
+  },
+  {
+    "title": "show_notes::cysk::serde - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/serde/"
+  },
+  {
+    "title": "Overview · Serde",
+    "link": "https://serde.rs/"
+  },
+  {
+    "title": "Why I’m dropping Rust. When I saw that there was a new systems… | by Michael de Lang | HackerNoon.com | Medium",
+    "link": "https://medium.com/@kingoipo/why-im-dropping-rust-fd1c32986c88"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/case-study/diesel/"
+  },
+  {
+    "title": "Introducing OkayWAL: A write-ahead log for Rust",
+    "link": "https://bonsaidb.io/blog/introducing-okaywal/"
+  },
+  {
+    "title": "Fang, async background processing for Rust - The software engineer oasis",
+    "link": "https://pxp9.github.io/rust/async-processing/"
+  },
+  {
+    "title": "Rocket: A Web Framework for Rust",
+    "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
+  },
+  {
+    "title": "Implementing a Job queue with SQLx and Postgres",
+    "link": "https://cetra3.github.io/blog/implementing-a-jobq-sqlx/"
+  },
+  {
+    "title": "This June in my Database project written in Rust",
+    "link": "https://alex-dukhno.github.io/2020-06-27-This-June-in-my-Database-project-written-in-rust/"
+  },
+  {
+    "title": "Postgres over TLS with postgres and r2d2_postgres · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/postgres-tls/"
+  },
+  {
+    "title": "My adventures in Rust webdev. People who know me in the Rust… | by tomaka | Medium",
+    "link": "https://medium.com/@tomaka/my-adventures-in-rust-webdev-850c67be6c40"
+  },
+  {
+    "title": "Connecting a webservice to a database in Rust",
+    "link": "http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html"
+  },
+  {
+    "title": "24 days of Rust - postgres | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-postgres/"
+  }
+]

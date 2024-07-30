@@ -1,0 +1,18 @@
+[
+  {
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "title": "Building Rust code for my OpenWrt Wi-Fi router",
+    "link": "https://blog.dend.ro/building-rust-for-routers/"
+  },
+  {
+    "title": "nonymous + bore(1): DNS toys for Rust | delan azabani",
+    "link": "https://www.azabani.com/2021/01/03/nonymous-bore.html"
+  },
+  {
+    "title": "TRust-DNS",
+    "link": "http://trust-dns.org/"
+  }
+]

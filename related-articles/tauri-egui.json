@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Long-running backend async tasks in tauri v2 - sneaky crow",
+    "link": "https://sneakycrow.dev/blog/2024-05-12-running-async-tasks-in-tauri-v2"
+  },
+  {
+    "title": "Announcing the Tauri v2 Beta Release | Tauri",
+    "link": "https://beta.tauri.app/blog/tauri-2-0-0-beta/"
+  },
+  {
+    "title": "Eurorust reflections · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2023/10/14/eurorust-reflections/"
+  },
+  {
+    "title": "Roadmap to Tauri 2.0 | Tauri",
+    "link": "https://beta.tauri.app/blog/roadmap-to-tauri-2-0/"
+  },
+  {
+    "title": "This Month in Rust GameDev #46 - May 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/046/"
+  },
+  {
+    "title": "Through the looking glass • Create a launchbar app w/ Tauri",
+    "link": "https://blog.spyglass.fyi/posts/2023/creating-a-launcher-in-tauri/"
+  },
+  {
+    "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
+    "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
+  }
+]

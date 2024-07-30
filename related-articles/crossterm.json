@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Ratatui Received Funding: What's Next? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/open-source-funding-with-ratatui/"
+  },
+  {
+    "title": "Why stdout is faster than stderr? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/stdout-vs-stderr/"
+  },
+  {
+    "title": "ratatui - Rust",
+    "link": "https://docs.rs/ratatui"
+  },
+  {
+    "title": "Episode 1: Hello, World! - The Way of the Crab",
+    "link": "https://wayofthecrab.com/episodes/001/"
+  },
+  {
+    "title": "Pretty Rust backtraces in raw terminal mode | Andy Hippo",
+    "link": "https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/"
+  },
+  {
+    "title": "Manage keybindings in a Rust terminal application",
+    "link": "https://dystroy.org/blog/keybindings/"
+  },
+  {
+    "title": "Uncovering a Blocking Syscall",
+    "link": "https://chrissardegna.com/blog/uncovering-a-blocking-syscall/"
+  },
+  {
+    "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
+    "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
+  },
+  {
+    "title": "Build Your Text Editor With Rust! | by Kofi Otuo | Medium",
+    "link": "https://medium.com/@otukof/build-your-text-editor-with-rust-678a463f968b"
+  },
+  {
+    "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
+  },
+  {
+    "title": "Unit-testing a console app (a text editor) - Julio Merino (jmmv.dev)",
+    "link": "https://jmmv.dev/2020/12/unit-testing-a-console-app.html"
+  },
+  {
+    "title": "Let's Build Snake with Rust",
+    "link": "https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html"
+  },
+  {
+    "title": "Rust Lifetimes and Iterators | Tidbits and Stuff",
+    "link": "https://blog.katona.me/2019/12/29/Rust-Lifetimes-and-Iterators/"
+  }
+]

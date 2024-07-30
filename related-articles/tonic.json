@@ -1,0 +1,66 @@
+[
+  {
+    "title": "Generated SDKs for Rust now available on the Buf Schema Registry - Buf",
+    "link": "https://buf.build/blog/bsr-generated-sdks-for-rust"
+  },
+  {
+    "title": "hyper v1 - seanmonstar",
+    "link": "https://seanmonstar.com/blog/hyper-v1/"
+  },
+  {
+    "title": "Distributed Tracing in Rust, Episode 3: inter-service tracing",
+    "link": "https://heikoseeberger.de/2023-08-28-dist-tracing-3/"
+  },
+  {
+    "title": "tower - Rust",
+    "link": "https://docs.rs/tower"
+  },
+  {
+    "title": "How to Build gRPC APIs with Rust  | Kong Inc.",
+    "link": "https://konghq.com/blog/building-grpc-apis-with-rust"
+  },
+  {
+    "title": "Hyper vs Rocket - Low Level vs Batteries included",
+    "link": "https://www.shuttle.rs/blog/2022/06/01/hyper-vs-rocket"
+  },
+  {
+    "title": "Scalable server design in Rust with Tokio | by FUJITA Tomonori | Medium",
+    "link": "https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c81a5f350a3"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "Announcing tokio-uring: io-uring support for Tokio | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-07-tokio-uring"
+  },
+  {
+    "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
+  },
+  {
+    "title": "Introduction to gRPC in Rust · Roman Kudryashov's tech blog",
+    "link": "https://romankudryashov.com/blog/2021/04/grpc-rust/"
+  },
+  {
+    "title": "Benchmarking gRPC in Rust &amp; Go. Some background | by Rustler | Medium",
+    "link": "https://medium.com/@Rustling_gopher/benchmarking-grpc-in-rust-go-184545e7688a"
+  },
+  {
+    "title": "Rust at CNCF | CNCF",
+    "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
+  },
+  {
+    "title": "Taking ML to production with Rust: a 25x speedup | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/"
+  },
+  {
+    "title": "Making the Tokio scheduler 10x faster | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-10-scheduler/"
+  },
+  {
+    "title": "Tonic: gRPC has come to async/await!",
+    "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
+  }
+]

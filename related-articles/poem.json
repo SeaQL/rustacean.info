@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Working with OpenAPI using Rust",
+    "link": "https://www.shuttle.rs/blog/2024/04/04/using-openapi-rust"
+  },
+  {
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "title": "Best Rust Web Frameworks to Use in 2023",
+    "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+  },
+  {
+    "title": "Issue 2",
+    "link": "https://rustmagazine.org/issue-2/"
+  },
+  {
+    "title": "Minimalist Guide to Poem",
+    "link": "https://tech.marksblogg.com/poem-rust-web-framework.html"
+  }
+]

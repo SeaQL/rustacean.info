@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Sentry with Arpad Borsos - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s01e06-sentry/"
+  },
+  {
+    "title": "A locking war story",
+    "link": "https://sentry.engineering/blog/locking-war-story"
+  },
+  {
+    "title": "Everything Is Broken: Shipping rust-minidump at Mozilla - Part 1 - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/"
+  },
+  {
+    "title": "Better stack fixing for Firefox – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2020/04/15/better-stack-fixing-for-firefox/"
+  },
+  {
+    "title": "Fixing Python Performance with Rust | Product Blog • Sentry",
+    "link": "https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html"
+  }
+]

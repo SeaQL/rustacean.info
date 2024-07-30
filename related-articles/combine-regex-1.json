@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Building fast interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
+  },
+  {
+    "title": "Writing GStreamer Elements in Rust (Part 3): Parsing data from untrusted sources like it’s 2016 – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2016/11/writing-gstreamer-elements-in-rust-part-3-parsing-data-from-untrusted-sources-like-its-2016/"
+  },
+  {
+    "title": "embed_lang - An embeddable language written in Rust",
+    "link": "https://marwes.github.io/2015/12/06/embed_lang-An-embeddable-language-written-in-Rust.html"
+  },
+  {
+    "title": "Combine 1.0.0 and a simple INI parser",
+    "link": "https://marwes.github.io/2015/08/28/combine-1.0.0.html"
+  }
+]

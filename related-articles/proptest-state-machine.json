@@ -1,0 +1,10 @@
+[
+  {
+    "title": "sans-IO: The secret to effective Rust for network services",
+    "link": "https://www.firezone.dev/blog/sans-io"
+  },
+  {
+    "title": "Tomáš Zemanovič : State machine testing with Proptest",
+    "link": "https://tzemanovic.gitlab.io/posts/state-machine-testing-with-proptest/"
+  }
+]

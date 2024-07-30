@@ -1,0 +1,134 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/123/mix-in-rust"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/128/rust-in-ten-years"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/126/tock-binary-size"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/115/sequential-storage-efficiently-store-data-in-flash"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/114/building-an-async-runtime-with-mio"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/113/rust-for-hardware-vendors"
+  },
+  {
+    "title": "Tweede Golf with Folkert de Vries - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s01e05-tweede-golf/"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/96/why-rust-is-a-great-fit-for-embedded-software-2023-update"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/88/data-oriented-design"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/86/introducing-mailcrab"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/85/trustzone-trials-tribulations"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/82/crash-and-now-what"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/80/rust-101-open-source-university-course"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/81/our-year-in-rust"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/79/sorting-with-simd"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/nl/blog/74/using-c-libraries-in-your-rust-project"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/71/introducing-rust-in-security-research"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/70/we-asked-5-people-why-they-like-embedded-rust"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/69/lorawan-applications-in-rust"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/63/async-on-embedded-present-and-future"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/61/an-experimental-diesel-based-crud-for-rocket"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/vacatures/2/lead-developer-embedded-rust"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/vacatures/11/medior-embedded-engineer"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/58/async-and-asleep-designing-our-future-embedded-applications"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/57/rise-and-shine-putting-the-nrf52840-to-sleep-and-waking-back-up"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/51/long-range-networking-with-lora-an-overview"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/50/build-your-own-async-primitive"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/42/potential-improvements-for-rust-embedded-abstractions"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/39/why-rust-is-a-great-fit-for-embedded-software"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/41/the-promise-of-rust-async-await-for-embedded"
+  }
+]

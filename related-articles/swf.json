@@ -1,0 +1,26 @@
+[
+  {
+    "title": "2023 in review - Ruffle",
+    "link": "https://ruffle.rs/blog/2024/01/14/2023-in-review"
+  },
+  {
+    "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/044/"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  }
+]

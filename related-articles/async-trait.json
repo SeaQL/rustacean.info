@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "title": "Trying out Rust's Async Functions in Traits",
+    "link": "https://broch.tech/posts/rust-async-fn-trait/"
+  },
+  {
+    "title": "Best Rust Web Frameworks to Use in 2023",
+    "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+  },
+  {
+    "title": "Guide to Rust procedural macros | developerlife.com",
+    "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"
+  },
+  {
+    "title": "Rust in 2023",
+    "link": "https://azdavis.net/posts/rust-2023/"
+  },
+  {
+    "title": "Rust 2024...the year of everywhere? · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/"
+  },
+  {
+    "title": "Dyn async traits, part 8: the soul of Rust · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/09/18/dyn-async-traits-part-8-the-soul-of-rust/"
+  },
+  {
+    "title": "Fang, async background processing for Rust - The software engineer oasis",
+    "link": "https://pxp9.github.io/rust/async-processing/"
+  },
+  {
+    "title": "The curse of strong typing",
+    "link": "https://fasterthanli.me/articles/the-curse-of-strong-typing"
+  },
+  {
+    "title": "How Async Functions in Traits could Work in Rustc",
+    "link": "https://blog.theincredibleholk.org/blog/2022/04/18/how-async-functions-in-traits-could-work-in-rustc/"
+  },
+  {
+    "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
+    "link": "https://nullderef.com/blog/web-api-client/"
+  },
+  {
+    "title": "Turning rusty tech into Rust ~ When you need to FTP but don’t want to",
+    "link": "https://blog.abstractinvoke.com/05-07-unftp.html"
+  },
+  {
+    "title": "Inventing the Service trait | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-14-inventing-the-service-trait"
+  },
+  {
+    "title": "Debugging async generator errors in Rust: Staying sane when Rust errors get worse than C++ errors | Meltware",
+    "link": "https://meltware.com/2020/10/21/rust-async-nonsense.html"
+  },
+  {
+    "title": "My Rust 2021 - Don't Repeat Yourself",
+    "link": "https://blog-dry.com/entry/2020/09/29/135738"
+  },
+  {
+    "title": "Surviving Rust async interfaces",
+    "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
+  },
+  {
+    "title": "Getting in and out of trouble with Rust futures",
+    "link": "https://fasterthanli.me/articles/getting-in-and-out-of-trouble-with-rust-futures"
+  },
+  {
+    "title": "why async fn in traits are hard · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/"
+  },
+  {
+    "title": "Tonic: gRPC has come to async/await!",
+    "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
+  },
+  {
+    "title": "Figthting The Async Fragmentation | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/09/29/figthting-the-async-fragmentation.html"
+  }
+]

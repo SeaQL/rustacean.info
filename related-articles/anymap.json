@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Building Canrun: A statically typed logic programming library for Rust",
+    "link": "https://esimmler.com/building-canrun-part-1/"
+  },
+  {
+    "title": "Dependency injection container - Learning the ropes in Rust",
+    "link": "http://nercury.github.io/rust/di/2015/01/02/dependency-injection-learning-rust.html"
+  },
+  {
+    "title": "24 days of Rust - anymap | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-anymap/"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "title": "Rust on the Frontend and Backend - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/moonzoon"
+  },
+  {
+    "title": "Remote Development and Debugging of Rust with CLion | by Maksym Zavershynskyi | NEAR Protocol | Medium",
+    "link": "https://medium.com/nearprotocol/remote-development-and-debugging-of-rust-with-clion-39c38ced7cc1"
+  },
+  {
+    "title": "Are we async yet?",
+    "link": "https://areweasyncyet.rs/"
+  },
+  {
+    "title": "Touring a Fast, Safe, and Complete(ish) Web Service in Rust — brandur.org",
+    "link": "https://brandur.org/rust-web"
+  }
+]

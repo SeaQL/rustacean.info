@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/113/rust-for-hardware-vendors"
+  },
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://blog.rust-embedded.org/embedded-hal-v1/"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/96/why-rust-is-a-great-fit-for-embedded-software-2023-update"
+  },
+  {
+    "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
+    "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
+  },
+  {
+    "title": "STM32F4 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-gpio-button-controlled-blinking"
+  },
+  {
+    "title": "Rust talks I2C on Apache NuttX RTOS",
+    "link": "https://lupyuen.github.io/articles/rusti2c"
+  },
+  {
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  },
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
+  },
+  {
+    "title": "Testing a driver crate  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-driver-crate/"
+  },
+  {
+    "title": "Introducing Rustybot (part 1 of n) | Object Disoriented",
+    "link": "https://objectdisoriented.evokewonder.com/posts/introducing-rustybot-part-1/"
+  },
+  {
+    "title": "Using Rust for a simple hardware project | tonari blog",
+    "link": "https://blog.tonari.no/rust-simple-hardware-project"
+  },
+  {
+    "title": "Writing an embedded display driver in Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Writing-an-embedded-display-driver-in-Rust/"
+  },
+  {
+    "title": "Rusty-PID: Porting the TSic sensor from C to Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Rusty-PID-Porting-the-TSic-sensor-from-C-to-Rust/"
+  },
+  {
+    "title": "Rust on the ESP32 &amp; ESP8266 - Building an ecosystem",
+    "link": "https://mabez.dev/blog/posts/esp-rust-ecosystem/"
+  },
+  {
+    "title": "CCS811 Indoor Air Quality Sensor Driver in Rust | Eldruin's blog",
+    "link": "https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/41/the-promise-of-rust-async-await-for-embedded"
+  },
+  {
+    "title": "VEML6030/VEML7700 Ambient Light Sensor Driver in Rust | Eldruin's blog",
+    "link": "https://blog.eldruin.com/veml6030-ambient-light-sensor-driver-in-rust/"
+  },
+  {
+    "title": "PCA9685 PWM LED/Servo Controller Driver in Rust | Eldruin's blog",
+    "link": "https://blog.eldruin.com/pca9685-pwm-led-servo-controller-driver-in-rust/"
+  },
+  {
+    "title": "Si4703 FM Radio Receiver Driver in Rust | Eldruin's blog",
+    "link": "https://blog.eldruin.com/si4703-fm-radio-receiver-driver-in-rust/"
+  }
+]

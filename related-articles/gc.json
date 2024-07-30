@@ -1,0 +1,18 @@
+[
+  {
+    "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
+    "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
+  },
+  {
+    "title": "Rust: The New LLVM | Will Crichton",
+    "link": "https://willcrichton.net/notes/rust-the-new-llvm/"
+  },
+  {
+    "title": "GC Support in Rust: API Design - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2016/08/18/gc-support-in-rust-api-design/"
+  },
+  {
+    "title": "Wrapper Types in Rust: Choosing Your Guarantees - In Pursuit of Laziness",
+    "link": "http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/"
+  }
+]

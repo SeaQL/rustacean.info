@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
+    "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
+  },
+  {
+    "title": "A web application completely in Rust | by Sascha Grunert | Medium",
+    "link": "https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471"
+  },
+  {
+    "title": "Touring a Fast, Safe, and Complete(ish) Web Service in Rust — brandur.org",
+    "link": "https://brandur.org/rust-web"
+  },
+  {
+    "title": "Connecting a webservice to a database in Rust",
+    "link": "http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html"
+  }
+]

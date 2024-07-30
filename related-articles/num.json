@@ -1,0 +1,34 @@
+[
+  {
+    "title": "The ultimate guide to Rust newtypes",
+    "link": "https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes"
+  },
+  {
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "title": "My Cryptography Final Project - The Codegito",
+    "link": "https://codegito.xyz/2021/12/05/cryptography-final-project/"
+  },
+  {
+    "title": "gpg",
+    "link": "https://andrewhalle.github.io/build-your-own/gpg"
+  },
+  {
+    "title": "Polsim - a case study for small-scale scientific computing in Rust · Tinkering",
+    "link": "https://tinkering.xyz/polsim/"
+  },
+  {
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  },
+  {
+    "title": "#Rust2018 — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
+  },
+  {
+    "title": "Serde 0.7 - Chasing Rabbits",
+    "link": "https://erickt.github.io/blog/2016/02/26/serde-0-dot-7/"
+  }
+]

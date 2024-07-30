@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
+  },
+  {
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "title": "How I speeded up my Rust builds on GitHub ~30 times | Ectobit",
+    "link": "https://ectobit.com/blog/speed-up-github-actions-rust-pipelines/"
+  },
+  {
+    "title": "Checking Unused Dependencies in a Rust Project with Github Actions",
+    "link": "https://erayerdin.com/checking-unused-dependencies-in-a-rust-project-with-github-actions-ckwm3yov901cwlvs1h48z54xi"
+  },
+  {
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "title": "Are we observable yet? An introduction to Rust telemetry | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "title": "udeps.md · GitHub",
+    "link": "https://gist.github.com/est31/3d9e880be746c3a443c699d9ff1888d2"
+  }
+]

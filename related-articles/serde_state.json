@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Easy Mode Rust — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2024/03/28/easy.html"
+  },
+  {
+    "title": "Maik Klein",
+    "link": "https://maikklein.github.io/unreal-rust-1/"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0/"
+  },
+  {
+    "title": "Rust is hard, yes, but does it matter? | Lobsters",
+    "link": "https://lobste.rs/s/ksj3ii/rust_is_hard_yes_does_it_matter"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/mnemos-initial-release/"
+  },
+  {
+    "title": "Taking Rust for a Test Drive  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-test-drive/"
+  },
+  {
+    "title": "How I Implemented /dev/printerfact in Rust - Xe Iaso",
+    "link": "https://christine.website/blog/dev-printerfact-2021-04-17"
+  },
+  {
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/still-rusting-one-year-later/"
+  },
+  {
+    "title": "TL;DR Rust - Xe Iaso",
+    "link": "https://christine.website/blog/TLDR-rust-2020-09-19"
+  },
+  {
+    "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"
+  },
+  {
+    "title": "Generic Newtypes: A way to work around the orphan rule | Thomas Eizinger",
+    "link": "https://blog.eizinger.io/8593/generic-newtypes-a-way-to-work-around-the-orphan-rule"
+  },
+  {
+    "title": "Runtime Configuration Reloading | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
+  },
+  {
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
+    "title": "Parsing logs 230x faster with Rust",
+    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
+  },
+  {
+    "title": "Serde Deserialize This or That into u64",
+    "link": "https://noyez.gitlab.io/post/2018-08-28-serilize-this-or-that-into-u64/"
+  },
+  {
+    "title": "The Secret Life of Cows - Pascal’s Scribbles",
+    "link": "https://deterministic.space/secret-life-of-cows.html"
+  },
+  {
+    "title": "show_notes::cysk::serde - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/serde/"
+  },
+  {
+    "title": "Karol Kuczmarski's Blog – Unfolding a Stream of paginated&nbsp;items",
+    "link": "http://xion.io/post/code/rust-unfold-pagination.html"
+  },
+  {
+    "title": "WebRender capture infrastructure",
+    "link": "https://kvark.github.io/webrender/debug/ron/2018/01/23/wr-capture-infra.html"
+  },
+  {
+    "title": "Portability concerns with Path · udoprog",
+    "link": "https://udoprog.github.io/rust/2017-11-05/portability-concerns-with-path.html"
+  },
+  {
+    "title": "Gotham web framework",
+    "link": "https://gotham.rs/blog"
+  },
+  {
+    "title": "Rust and CSV parsing - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/csv/"
+  }
+]

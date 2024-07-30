@@ -1,0 +1,26 @@
+[
+  {
+    "title": "gpg",
+    "link": "https://andrewhalle.github.io/build-your-own/gpg"
+  },
+  {
+    "title": "Wesley Aptekar-Cassels | Notes on Parsing in Rust",
+    "link": "https://blog.wesleyac.com/posts/rust-parsing"
+  },
+  {
+    "title": "How Rust Do?",
+    "link": "http://blog.jfo.click/how-rust-do/"
+  },
+  {
+    "title": "Porting a Raspberry Pi GPIO programming library from Python to Rust",
+    "link": "http://pramode.in/2016/08/31/rust-library-for-rpi-gpio-pgming/"
+  },
+  {
+    "title": "Language of the Month: Rust, the results - ClickedyClick",
+    "link": "https://gergely.imreh.net/blog/2015/12/lotm-rust-results/"
+  },
+  {
+    "title": "Will Usher",
+    "link": "http://www.willusher.io/2015/05/15/porting-a-ray-tracer-to-rust-part-3/"
+  }
+]

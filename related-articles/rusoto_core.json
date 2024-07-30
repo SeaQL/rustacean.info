@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Rust Async and the Terrible, Horrible, No Good, Very Bad Day | by Kevin Hoffman | Medium",
+    "link": "https://kevinhoffman.medium.com/rust-async-and-the-terrible-horrible-no-good-very-bad-day-348ebc836274"
+  },
+  {
+    "title": "Holmusk | Building a reliable and tRUSTworthy web service 🦀",
+    "link": "https://holmusk.dev/blog/2021-05-29-using-rust.html"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "Sibi - Rucredstash release &amp; Rust experience from a Haskeller",
+    "link": "https://psibi.in/posts/2021-05-22-credstash.html"
+  },
+  {
+    "title": "100ms delays with Rust on Lambda · Peakscale",
+    "link": "https://www.peakscale.com/100ms-gotcha/"
+  },
+  {
+    "title": "Microservices in Rust with Kafka. Microservices don’t always have to… | by Marco Amann | Digital Frontiers — Das Blog | Medium",
+    "link": "https://medium.com/digitalfrontiers/microservices-in-rust-with-kafka-2b671295b24e"
+  },
+  {
+    "title": "Rust Async and the Terrible, Horrible, No Good, Very Bad Day | by Kevin Hoffman | Medium",
+    "link": "https://medium.com/@KevinHoffman/rust-async-and-the-terrible-horrible-no-good-very-bad-day-348ebc836274"
+  },
+  {
+    "title": "AWS’ sponsorship of the Rust project | AWS Open Source Blog",
+    "link": "https://aws.amazon.com/blogs/opensource/aws-sponsorship-of-the-rust-project/"
+  },
+  {
+    "title": "Review of “Everything in Rust” of COSCUP 2019 | by Liu An Chi (tigercosmos) | Coding Neutrino | Medium",
+    "link": "https://medium.com/coding-neutrino-blog/review-of-everything-in-rust-of-coscup-2019-54152467d1c6"
+  },
+  {
+    "title": "Rusoto codegen · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-codegen/"
+  },
+  {
+    "title": "Rusoto codegen, part two · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-codegen-part-two/"
+  },
+  {
+    "title": "Rusoto RDS walkthrough · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-walkthrough/"
+  }
+]

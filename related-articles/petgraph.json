@@ -1,0 +1,18 @@
+[
+  {
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "title": "Understanding inheritance and other limitations in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/"
+  },
+  {
+    "title": "RaptorQ (RFC6330) and performance optimization in Rust",
+    "link": "https://www.cberner.com/2019/03/30/raptorq-rfc6330-rust-optimization/"
+  },
+  {
+    "title": "Rust Sucks If I Fail To Write X — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2017/02/15/sucks.html"
+  }
+]

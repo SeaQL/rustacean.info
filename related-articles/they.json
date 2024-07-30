@@ -1,0 +1,122 @@
+[
+  {
+    "title": "So Zero It's ... Negative? (Zero-Copy #3) - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/"
+  },
+  {
+    "title": "Zero-Copy All the Things! (Zero-Copy #2) - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-2-zero-copy-all-the-things/"
+  },
+  {
+    "title": "Not a Yoking Matter (Zero-Copy #1) - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-1-not-a-yoking-matter/"
+  },
+  {
+    "title": "A Tour of Safe Tracing GC Designs in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/"
+  },
+  {
+    "title": "Arenas in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/"
+  },
+  {
+    "title": "Integrating Rust and C++ in Firefox - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/"
+  },
+  {
+    "title": "The Future of Clippy - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2018/06/05/the-future-of-clippy-the-rust-linter/"
+  },
+  {
+    "title": "Down a Rusty Rabbit Hole - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2018/04/12/down-a-rusty-rabbit-hole/"
+  },
+  {
+    "title": "What Are Tokio and Async IO All About? - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about/"
+  },
+  {
+    "title": "Undefined vs Unsafe in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/12/24/undefined-vs-unsafe-in-rust/"
+  },
+  {
+    "title": "Rust: Not So Great for Codec Implementing «  Kostya's Boring Codec World",
+    "link": "https://codecs.multimedia.cx/?p=1246"
+  },
+  {
+    "title": "Mentally Modelling Modules - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/05/14/mentally-modelling-modules/"
+  },
+  {
+    "title": "Prolonging Temporaries in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/04/13/prolonging-temporaries-in-rust/"
+  },
+  {
+    "title": "What Are Sum, Product, and Pi Types? - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/"
+  },
+  {
+    "title": "Mitigating Underhandedness: Fuzzing Your Code - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/03/02/mitigating-underhandedness-fuzzing-your-code/"
+  },
+  {
+    "title": "Rust Tidbits: Box Is Special - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/01/10/rust-tidbits-box-is-special/"
+  },
+  {
+    "title": "Mitigating Underhandedness: Clippy! - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/01/21/mitigating-underhandedness-clippy/"
+  },
+  {
+    "title": "The struggle with Rust - Ayende @ Rahien",
+    "link": "https://ayende.com/blog/176801/the-struggle-with-rust"
+  },
+  {
+    "title": "Let's Stop Ascribing Meaning to Code Points - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/"
+  },
+  {
+    "title": "Rust Tidbits: What Is a Lang Item? - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/"
+  },
+  {
+    "title": "Reflections on Rusting Trust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2016/12/02/reflections-on-rusting-trust/"
+  },
+  {
+    "title": "GC Support in Rust: API Design - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2016/08/18/gc-support-in-rust-api-design/"
+  },
+  {
+    "title": "Comparing Rust and Java — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/02/28/java-rust.html"
+  },
+  {
+    "title": "Making Your Open Source Project Newcomer-friendly - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/"
+  },
+  {
+    "title": "Designing a GC in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/"
+  },
+  {
+    "title": "Clippy vs. Rust — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2015/09/06/clippy.html"
+  },
+  {
+    "title": "How Rust Achieves Thread Safety - In Pursuit of Laziness",
+    "link": "http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/"
+  },
+  {
+    "title": "Wrapper Types in Rust: Choosing Your Guarantees - In Pursuit of Laziness",
+    "link": "http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/"
+  },
+  {
+    "title": "The Problem With Single-threaded Shared Mutability - In Pursuit of Laziness",
+    "link": "http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/"
+  },
+  {
+    "title": "Where Rust Really Shines - In Pursuit of Laziness",
+    "link": "http://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/"
+  }
+]

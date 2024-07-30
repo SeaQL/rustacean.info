@@ -1,0 +1,158 @@
+[
+  {
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "title": "High performance vector graphic video games | Spencer C. Imbleau’s blog",
+    "link": "https://simbleau.github.io/rust/graphics/2023/11/20/using-vello-for-video-games.html"
+  },
+  {
+    "title": "Xilem 2024 plans - Linebender",
+    "link": "https://linebender.org/blog/xilem-2024/"
+  },
+  {
+    "title": "Introducing Gooey: My take on a Rusty GUI framework",
+    "link": "https://ecton.dev/introducing-gooey/"
+  },
+  {
+    "title": "Building a Web App in Rust - Dmitry Kudryavtsev",
+    "link": "https://www.yieldcode.blog/post/building-a-webapp-in-rust/"
+  },
+  {
+    "title": "Three years of Bevy",
+    "link": "https://trent.kiwi/bevy-three-years"
+  },
+  {
+    "title": "Bevy 0.11",
+    "link": "https://bevyengine.org/news/bevy-0-11/"
+  },
+  {
+    "title": "Introducing posh: Type-Safe Graphics Programming with Functional Shaders in Rust | leod’s blog",
+    "link": "https://leod.github.io/rust/gamedev/posh/2023/06/04/posh.html"
+  },
+  {
+    "title": "Bevy + WebGPU",
+    "link": "https://bevyengine.org/news/bevy-webgpu/"
+  },
+  {
+    "title": "Fun and Hackable Tensors in Rust, From Scratch - by Kurt",
+    "link": "https://getcode.substack.com/p/fun-and-hackable-tensors-in-rust"
+  },
+  {
+    "title": "Applying 5 million pixel updates per second with Rust &amp; wgpu",
+    "link": "https://maxisom.me/posts/applying-5-million-pixel-updates-per-second"
+  },
+  {
+    "title": "Bevy 0.10",
+    "link": "https://bevyengine.org/news/bevy-0-10/"
+  },
+  {
+    "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/041/"
+  },
+  {
+    "title": "Rust in 2023 - GBurghoorn",
+    "link": "https://gburghoorn.com/posts/rust-in-2023/"
+  },
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/035/"
+  },
+  {
+    "title": "Computing image filters with wgpu-rs",
+    "link": "https://blog.redwarp.app/image-filters/"
+  },
+  {
+    "title": "Sayonara, Mozilla",
+    "link": "https://kvark.github.io/mozilla/2022/02/02/leaving-mozilla.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/029/"
+  },
+  {
+    "title": "Bevy 0.6",
+    "link": "https://bevyengine.org/news/bevy-0-6/"
+  },
+  {
+    "title": "This Year in Wgpu - 2021 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/12/25/this-year.html"
+  },
+  {
+    "title": "Vange-rs: WebAssembly in Rust. Vangers  — one of the most… | by Alexander Guryanov (caiiiycuk) | Medium",
+    "link": "https://caiiiycuk.medium.com/vange-rs-webassembly-in-rust-498e2f960a04"
+  },
+  {
+    "title": "This Month in Rust GameDev #27 - October 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/027/"
+  },
+  {
+    "title": "Release of wgpu v0.11 and naga v0.7 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/10/07/release-0.11.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "title": "wgpu alliance with Deno - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/09/16/deno-webgpu.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/025/"
+  },
+  {
+    "title": "Release of a Pure-Rust v0.10 and a Call For Testing - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/08/18/release-0.10.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/024/"
+  },
+  {
+    "title": "Release of v0.9 and the Future of wgpu - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/07/16/release-0.9-future.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
+    "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
+  },
+  {
+    "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/021/"
+  },
+  {
+    "title": "Making Generative Art with Rust - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/making-generative-art-with-rust"
+  },
+  {
+    "title": "The Big Picture - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
+  },
+  {
+    "title": "A Taste of WebGPU in Firefox - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/"
+  },
+  {
+    "title": "Wiki - AGuideToRustGraphicsLibraries2019",
+    "link": "https://wiki.alopex.li/AGuideToRustGraphicsLibraries2019"
+  },
+  {
+    "title": "The rise of wgpu - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2019/03/06/wgpu.html"
+  },
+  {
+    "title": "This Year in Gfx-rs - 2018 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2018/12/27/this-year.html"
+  }
+]

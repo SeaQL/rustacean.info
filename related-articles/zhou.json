@@ -1,0 +1,250 @@
+[
+  {
+    "title": "AMP with Carter Schultz - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e02-amp/"
+  },
+  {
+    "title": "Fearless concurrency with Rust, cats, and a few Raspberry PIs - Manuel Bernhardt",
+    "link": "https://manuel.bernhardt.io/posts/2024-01-26-rust-fearless-concurrency-cats-raspberry-pi/"
+  },
+  {
+    "title": "Let's Make an Information Display Part 1: Backend",
+    "link": "https://blog.stillinbeta.com/2024-01-01-overengineered-household-display.html"
+  },
+  {
+    "title": "The dark side of inlining and monomorphization",
+    "link": "https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/"
+  },
+  {
+    "title": "~/arindas • Building Segmented Logs in Rust: From Theory to Production!",
+    "link": "https://arindas.github.io/blog/segmented-log-rust/"
+  },
+  {
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
+    "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
+  },
+  {
+    "title": "Tinkerer - Serde Errors When Deserializing Untagged Enums Are Bad - But Easy to Make Better",
+    "link": "https://www.gustavwengel.dk/serde-untagged-enum-errors-are-bad"
+  },
+  {
+    "title": "Fossil Data Platform Rewritten in Rust 🦀",
+    "link": "https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html"
+  },
+  {
+    "title": "Building a Classic Mac OS App in Rust - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/"
+  },
+  {
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "title": "Can Rust-wrapped C++ offer stability and performance benefits? | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/can-rust-wrapped-c-offer-stability-and-performance-benefits-e140b7ca1ba9"
+  },
+  {
+    "title": "A Rust web app with HTML templates | Willy's blog",
+    "link": "https://woile.dev/posts/web-app-with-template-in-rust/"
+  },
+  {
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
+  },
+  {
+    "title": "Exploring Traits with Erased 'serde' :: The Coded Message",
+    "link": "https://www.thecodedmessage.com/posts/erased-serde/"
+  },
+  {
+    "title": "Manage keybindings in a Rust terminal application",
+    "link": "https://dystroy.org/blog/keybindings/"
+  },
+  {
+    "title": "When serde_json::to_string() fails | Serhii Potapov (greyblake)",
+    "link": "https://www.greyblake.com/blog/when-serde-json-to-string-fails/"
+  },
+  {
+    "title": "Fluvio - This Week in Fluvio #35",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0035/"
+  },
+  {
+    "title": "Unlocking greater performance in the MongoDB Rust Driver via raw BSON and zero copy deserialization | patrickfreed's blog",
+    "link": "https://patrickfreed.github.io/rust/2022/04/27/unlocking-greater-performance-in-the-mongodb-rust-driver-via-raw-bson-and-zero-copy-deserialization.html"
+  },
+  {
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  },
+  {
+    "title": "How not to learn Rust",
+    "link": "https://dystroy.org/blog/how-not-to-learn-rust/"
+  },
+  {
+    "title": "Netbox to Netshot: how I used Rust for the first time | Scaleway",
+    "link": "https://blog.scaleway.com/i-used-rust-for-the-first-time-to-bridge-two-softwares-heres-how-it-went/"
+  },
+  {
+    "title": "Tag1 Joins the Rust Foundation as the First Silver Member | Tag1 Consulting",
+    "link": "https://www.tag1consulting.com/blog/tag1-joins-rust-foundation-first-silver-member"
+  },
+  {
+    "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
+  },
+  {
+    "title": "Rust on RISC-V BL602: Simulated with WebAssembly",
+    "link": "https://lupyuen.github.io/articles/rustsim"
+  },
+  {
+    "title": "Gradients #1: How Do Mina Nodes Communicate? | ChainSafe by Rahul Sharma | ChainSafe",
+    "link": "https://medium.com/chainsafe-systems/how-do-mina-nodes-communicate-5a10b80fa253"
+  },
+  {
+    "title": "Making My Website Part 1: Monitoring On A Raspberry Pi",
+    "link": "https://www.rotoclone.zone/blog/posts/raspberry-pi-monitoring"
+  },
+  {
+    "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-valuable"
+  },
+  {
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "title": "Writing a Postgres SQL Pretty Printer in Rust: Part 1 - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2021/03/14/writing-a-postgres-sql-pretty-printer-in-rust-part-1/"
+  },
+  {
+    "title": "Data Manipulation: Pandas vs Rust",
+    "link": "https://able.bio/haixuanTao/data-manipulation-pandas-vs-rust--1d70e7fc"
+  },
+  {
+    "title": "Examples of declarative style in Rust | by Radek Vít | Medium",
+    "link": "https://radekvit.medium.com/examples-of-declarative-style-in-rust-9fae89c0fea"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Rust is a hard way to make a web API - macwright.com",
+    "link": "https://macwright.com/2021/01/15/rust.html"
+  },
+  {
+    "title": "Generating a Config File Reference for a CLI Tool in Rust - tarquin-the-brave",
+    "link": "https://tarquin-the-brave.github.io/blog/posts/generating-config-reference-rust-cli/"
+  },
+  {
+    "title": "Writing a Modern HTTP(S) Tunnel in Rust. | by Eugene Retunsky | Medium",
+    "link": "https://medium.com/@xnuter/writing-a-modern-http-s-tunnel-in-rust-56e70d898700"
+  },
+  {
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "title": "Rust goodness case study",
+    "link": "https://www.linkedin.com/pulse/rust-goodness-case-study-matthew-sherborne"
+  },
+  {
+    "title": "Building web apps with Rust using the Rocket framework - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-web-apps-using-rocket-framework/"
+  },
+  {
+    "title": "Rust for a Pythonista #1: Why and when?",
+    "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
+  },
+  {
+    "title": "xi-editor retrospective | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
+  },
+  {
+    "title": "Pont",
+    "link": "http://www.mattkeeter.com/projects/pont/"
+  },
+  {
+    "title": "This Month in Rust OSDev (May 2020) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2020-05/"
+  },
+  {
+    "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
+    "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
+  },
+  {
+    "title": "Memory efficient serialization of tagged union",
+    "link": "https://robinmoussu.gitlab.io/blog/post/binary_serialisation_of_enum/"
+  },
+  {
+    "title": "How I Reverse Engineered the LastPass CLI Tool · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/lastpass/"
+  },
+  {
+    "title": "Writing AWS Lambda Functions in Rust | SilentByte",
+    "link": "https://silentbyte.com/writing-aws-lambda-functions-in-rust"
+  },
+  {
+    "title": "AWS’ sponsorship of the Rust project | AWS Open Source Blog",
+    "link": "https://aws.amazon.com/blogs/opensource/aws-sponsorship-of-the-rust-project/"
+  },
+  {
+    "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
+    "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
+  },
+  {
+    "title": "Configuration envy. How software is configured has always… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/configuration-envy-a09584386705"
+  },
+  {
+    "title": "Recommending books (with Rust) - Mostly Engineering",
+    "link": "https://maciejkula.github.io/2018/07/27/recommending-books-with-rust/"
+  },
+  {
+    "title": "Go: the Good, the Bad and the Ugly",
+    "link": "https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/"
+  },
+  {
+    "title": "Build a CRUD API with Rust. Since my initial Node/Rust REST… | by Sean Wragg | Sean’s Blog | Medium",
+    "link": "https://medium.com/sean3z/building-a-restful-crud-api-with-rust-1867308352d8"
+  },
+  {
+    "title": "Why Rust Has Macros · Bloggedy blog",
+    "link": "https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/"
+  },
+  {
+    "title": "Serializing awkward data with serde - \t\tScrewtape's Notepad",
+    "link": "http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html"
+  },
+  {
+    "title": "The highs and lows of Rust (2017) | \nJimmy Cuadra",
+    "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust-2017/"
+  },
+  {
+    "title": "Rust and CSV parsing - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/csv/"
+  },
+  {
+    "title": "Writing a GitHub webhook with Rust! Part 1: Rocket | by Chris | Medium",
+    "link": "https://medium.com/@aergonaut/writing-a-github-webhook-with-rust-part-1-rocket-4426dd06d45d"
+  },
+  {
+    "title": "Four years with Rust",
+    "link": "http://words.steveklabnik.com/four-years-with-rust"
+  },
+  {
+    "title": "24 days of Rust - serde | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-serde/"
+  },
+  {
+    "title": "Overview · Serde",
+    "link": "https://serde.rs/"
+  }
+]

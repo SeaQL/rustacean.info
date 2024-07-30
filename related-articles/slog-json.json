@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Introducing Foundations - our open source Rust service foundation library",
+    "link": "https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library"
+  },
+  {
+    "title": "Rotating log files in Rust, and reassembling them for inspection",
+    "link": "https://www.openanalytics.eu/blog/2022/02/15/log-files-in-rust/"
+  },
+  {
+    "title": "A Basic Web Application with Rust and Actix-web - zupzup",
+    "link": "https://zupzup.org/rust-webapp/"
+  }
+]

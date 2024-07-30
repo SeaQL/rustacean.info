@@ -1,0 +1,14 @@
+[
+  {
+    "title": "`toml` vs `toml_edit`",
+    "link": "https://epage.github.io/blog/2023/01/toml-vs-toml-edit/"
+  },
+  {
+    "title": "clap v4.1, a Rust CLI argument parser",
+    "link": "https://epage.github.io/blog/2023/01/clap-v4-1/"
+  },
+  {
+    "title": "toml::toml - Rust",
+    "link": "https://docs.rs/toml/0.4/toml/macro.toml.html"
+  }
+]

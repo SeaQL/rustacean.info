@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
+  },
+  {
+    "title": "3324-dyn-upcasting - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3324-dyn-upcasting.html"
+  },
+  {
+    "title": "What If LaTeX Had Instant Preview? | Laurenz's Blog",
+    "link": "https://laurmaedje.github.io/posts/comemo/"
+  },
+  {
+    "title": "Come contribute to Salsa 2022! · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/08/18/come-contribute-to-salsa-2022/"
+  },
+  {
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  },
+  {
+    "title": "For Complex Applications, Rust is as Productive as Kotlin  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-as-productive-as-kotlin/"
+  },
+  {
+    "title": "Three Architectures for a Responsive IDE",
+    "link": "https://rust-analyzer.github.io/blog/2020/07/20/three-architectures-for-responsive-ide.html"
+  },
+  {
+    "title": "Library-ification and analyzing Rust · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/04/09/libraryification/"
+  },
+  {
+    "title": "Status of rust-analyzer: Achievements and Open Collective  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-analyzer-status-opencollective/"
+  },
+  {
+    "title": "Salsa: Incremental recompilation · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2019/01/29/salsa-incremental-recompilation/"
+  },
+  {
+    "title": "Rust Analyzer in 2018 and 2019  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-analyzer-2019/"
+  },
+  {
+    "title": "MIR-based borrowck is almost here · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2018/10/31/mir-based-borrowck-is-almost-here/"
+  }
+]

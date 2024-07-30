@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Playing guitar tablatures in Rust",
+    "link": "https://agourlay.github.io/ruxguitar-tablature-player/"
+  },
+  {
+    "title": "A performance retrospective using Rust (part 3)",
+    "link": "https://agourlay.github.io/rust-performance-retrospective-part3/"
+  },
+  {
+    "title": "A performance retrospective using Rust (part 2)",
+    "link": "https://agourlay.github.io/rust-performance-retrospective-part2/"
+  }
+]

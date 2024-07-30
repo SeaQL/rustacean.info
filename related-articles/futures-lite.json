@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Explaining the internals of async-task from the ground up – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/async-task-explained-part1/"
+  },
+  {
+    "title": "Recreating concurrent futures combinators in smol – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/futures-concurrency-in-smol/"
+  },
+  {
+    "title": "2021-04-06: Interfacing a low-level actor system to Rust async/await, part 1 - Uazú blog",
+    "link": "https://uazu.github.io/blog/20210406.html"
+  }
+]

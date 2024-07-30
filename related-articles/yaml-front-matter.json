@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Building and Deploying A Static Site Generator",
+    "link": "https://www.shuttle.rs/blog/2023/11/15/ssg-in-rust"
+  },
+  {
+    "title": "Jonas Hietala: Rewriting my blog in Rust for fun and profit",
+    "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
+  }
+]

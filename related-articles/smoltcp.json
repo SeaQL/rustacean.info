@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "title": "This Month in Rust OSDev: November 2022 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2022-11/"
+  },
+  {
+    "title": "Knurling-rs changelog #34  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-34/"
+  },
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
+  },
+  {
+    "title": "Knurling-rs changelog #23  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-23/"
+  },
+  {
+    "title": "This Month in Rust OSDev (May 2020) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2020-05/"
+  }
+]

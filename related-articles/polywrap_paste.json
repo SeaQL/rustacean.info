@@ -1,0 +1,22 @@
+[
+  {
+    "title": "How I Use Declarative Macros in Rust | Flinect",
+    "link": "https://flinect.com/blog/quick-tips-rust-declarative-macros"
+  },
+  {
+    "title": "Tony's Blog",
+    "link": "https://antoniosbarotsis.github.io/posts/simple_rust_macros/"
+  },
+  {
+    "title": "The GPIO war: macro bunkers for typestate explosions (2) - cuervo",
+    "link": "https://www.ecorax.net/macro-bunker-2/"
+  },
+  {
+    "title": "Rust after the honeymoon – The Observation Deck",
+    "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
+  },
+  {
+    "title": "Serverless HTTP. Throw down your main! Rustlang… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/serverless-http-9a58f9b2df60"
+  }
+]

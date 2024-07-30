@@ -1,0 +1,34 @@
+[
+  {
+    "title": "The Minimal Rust-Wasm Setup for 2024 - dzfrias",
+    "link": "https://dzfrias.dev/blog/rust-wasm-minimal-setup/"
+  },
+  {
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/"
+  },
+  {
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/index.html"
+  },
+  {
+    "title": "Logan Keenan - A Rust Server App Compiled to WASM as an SPA",
+    "link": "https://logankeenan.com/posts/a-rust-server-app-compiled-to-wasm-as-an-spa/"
+  },
+  {
+    "title": "Building a WebAssembly-powered serverless platform",
+    "link": "https://blog.scottlogic.com/2022/04/16/wasm-faas.html"
+  },
+  {
+    "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
+    "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
+  },
+  {
+    "title": "Results of Authoring a JS Library with Rust and Wasm",
+    "link": "https://nickb.dev/blog/results-of-authoring-a-js-library-with-rust-and-wasm"
+  },
+  {
+    "title": "Preston Richey | Up and Running with React + Rust + Wasm",
+    "link": "https://prestonrichey.com/blog/react-rust-wasm/"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "A pair of Rust kernel modules [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/907685/75fc924f5ec91869/"
+  },
+  {
+    "title": "Writing eBPF tracing tools in Rust",
+    "link": "https://jvns.ca/blog/2018/02/05/rust-bcc/"
+  }
+]

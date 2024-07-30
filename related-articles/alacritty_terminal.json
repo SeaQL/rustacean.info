@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Why stdout is faster than stderr? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/stdout-vs-stderr/"
+  },
+  {
+    "title": "This Month in Rust OSDev: December 2022 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2022-12/"
+  },
+  {
+    "title": "Implementing the Health Check API Pattern with Rust | by TJ Maynes | ITNEXT",
+    "link": "https://itnext.io/implementing-the-health-check-api-pattern-with-rust-eaef04cb4d2d"
+  },
+  {
+    "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
+  },
+  {
+    "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
+  },
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  }
+]

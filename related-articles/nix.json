@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Announcing tuxedo-rs | Eberhardt blog",
+    "link": "https://aaronerhardt.github.io/blog/posts/announcing_tuxedo_rs/"
+  },
+  {
+    "title": "Time For Crab 🦀",
+    "link": "https://gatowololo.github.io/blog/cargo-patch/"
+  },
+  {
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  },
+  {
+    "title": "3128-io-safety - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3128-io-safety.html"
+  },
+  {
+    "title": "Linux System Call `fork()` in Rust - Knoldus Blogs",
+    "link": "https://blog.knoldus.com/linux-system-call-fork-in-rust/"
+  },
+  {
+    "title": "Dealing with process termination in Linux (with Rust examples)",
+    "link": "https://iximiuz.com/en/posts/dealing-with-processes-termination-in-Linux/"
+  },
+  {
+    "title": "Scheduling Timers on OS X with Rust and Kqueue – daschl writes. sometimes.",
+    "link": "http://nitschinger.at/Scheduling-Timers-on-OS-X-with-Rust-and-Kqueue/"
+  },
+  {
+    "title": "Rust + nix = easier unix systems programming &lt;3",
+    "link": "http://kamalmarhubi.com/blog/2016/04/13/rust-nix-easier-unix-systems-programming-3/"
+  }
+]

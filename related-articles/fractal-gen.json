@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Rust and Neovim - A Thorough Guide and Walkthrough | the trait",
+    "link": "https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/"
+  },
+  {
+    "title": "Colin Woodbury - Software Development Languages: Rust",
+    "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
+  },
+  {
+    "title": "Improving Node.js performance using Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-and-node-js-a-match-made-in-heaven/"
+  },
+  {
+    "title": "Four years with Rust",
+    "link": "http://words.steveklabnik.com/four-years-with-rust"
+  },
+  {
+    "title": "Running Rust on the Rumprun unikernel · gandro’s blog",
+    "link": "https://gandro.github.io/2015/09/27/rust-on-rumprun/"
+  }
+]

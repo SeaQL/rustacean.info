@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Writing eBPF Tracepoint Program with Rust Aya: Tips and Example – Yuki Nakamura's Blog",
+    "link": "https://yuki-nakamura.com/2024/07/06/writing-ebpf-tracepoint-program-with-rust-aya-tips-and-example/"
+  },
+  {
+    "title": "Zero to Performance Hero: How to Benchmark and Profile Your eBPF Code in Rust - InfoQ",
+    "link": "https://www.infoq.com/articles/benchmark-profile-ebpf-code/"
+  },
+  {
+    "title": "How to write an eBPF/XDP load-balancer in Rust  | Kong Inc.",
+    "link": "https://konghq.com/blog/writing-an-ebpf-xdp-load-balancer-in-rust"
+  },
+  {
+    "title": "Remote development with Rust on fly.io",
+    "link": "https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io"
+  },
+  {
+    "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-dynload/"
+  }
+]

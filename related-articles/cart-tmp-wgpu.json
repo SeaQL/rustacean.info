@@ -1,0 +1,34 @@
+[
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "Release of v0.8 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/04/30/release-0.8.html"
+  },
+  {
+    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/020/"
+  },
+  {
+    "title": "Release of v0.7 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/02/02/release-0.7.html"
+  },
+  {
+    "title": "The Big Picture - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
+  },
+  {
+    "title": "A Taste of WebGPU in Firefox - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/"
+  },
+  {
+    "title": "wgpu-rs on the web - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/04/21/wgpu-web.html"
+  },
+  {
+    "title": "Project update - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2019/10/01/update.html"
+  }
+]

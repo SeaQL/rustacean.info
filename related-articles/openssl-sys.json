@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Rust at OneSignal",
+    "link": "https://onesignal.com/blog/rust-at-onesignal/"
+  },
+  {
+    "title": "Tonic: gRPC has come to async/await!",
+    "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
+  },
+  {
+    "title": "Announcing Alacritty, a GPU-accelerated terminal emulator",
+    "link": "http://blog.jwilm.io/announcing-alacritty/"
+  }
+]

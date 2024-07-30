@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
+    "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
+  },
+  {
+    "title": "Using std in embedded Rust",
+    "link": "https://timmmm.github.io/std-embedded-rust/index.html"
+  },
+  {
+    "title": "This Month in Rust OSDev (December 2020) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2020-12/"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Global Registration",
+    "link": "https://donsz.nl/blog/global-registration/"
+  },
+  {
+    "title": "Looking for Bad Apples in Rust Dependency Trees Using GraphQL and Trustfall | by Emil Jonathan Eriksson | Volvo Cars Engineering | Medium",
+    "link": "https://medium.com/volvo-cars-engineering/looking-for-bad-apples-in-rust-dependency-trees-using-graphql-and-trustfall-cb88b835f652"
+  },
+  {
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "title": "rust_wishlist_better_cfg.md · GitHub",
+    "link": "https://gist.github.com/PoignardAzur/8038f5ed7dc8d00e3e9472aca57fb35c"
+  },
+  {
+    "title": "Articles - Stephen Coakley",
+    "link": "https://stephencoakley.com/2019/04/24/how-rust-solved-dependency-hell"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "GOSIM Conference 2024 - MAY 6, 2024 DELFT, THE NETHERLANDS",
+    "link": "https://europe2024.gosim.org/"
+  },
+  {
+    "title": "Incorporating JavaScript into a Rust app",
+    "link": "https://www.secondstate.io/articles/embed-javascript-in-rust/"
+  },
+  {
+    "title": "Manage WebAssembly Apps Using Container and Kubernetes Tools",
+    "link": "https://www.secondstate.io/articles/manage-webassembly-apps-in-wasmedge-using-docker-tools/"
+  },
+  {
+    "title": "🦕 Tutorial: Deno Apps with WebAssembly, Rust, and WASI",
+    "link": "https://www.secondstate.io/articles/deno-webassembly-rust-wasi/"
+  },
+  {
+    "title": "⚙️ Machine Learning: K-means clustering and visualization",
+    "link": "https://www.secondstate.io/articles/machine-learning/"
+  }
+]

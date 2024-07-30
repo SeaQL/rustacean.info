@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Wasmi's New Execution Engine - Faster Than Ever | Wasmi Labs",
+    "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/"
+  },
+  {
+    "title": "VS Code Extensions and WebAssembly",
+    "link": "https://code.visualstudio.com/blogs/2024/05/08/wasm"
+  },
+  {
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/"
+  },
+  {
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/index.html"
+  },
+  {
+    "title": "Avoiding allocations in Rust to shrink Wasm modules",
+    "link": "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
+  }
+]

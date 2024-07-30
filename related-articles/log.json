@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Arroyo with Micah Wylde - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s01e04-arroyo"
+  },
+  {
+    "title": "Logging in Rust - How to Get Started",
+    "link": "https://www.shuttle.rs/blog/2023/09/20/logging-in-rust"
+  },
+  {
+    "title": "Ferris Talk #12: Web-APIs mit Rust erstellen | heise online",
+    "link": "https://www.heise.de/hintergrund/Ferris-Talk-12-Web-APIs-mit-Rust-erstellen-7321340.html"
+  },
+  {
+    "title": "Better Java logging, inspired by Clojure and Rust",
+    "link": "https://mccue.dev/pages/9-25-22-better-java-logging"
+  },
+  {
+    "title": "Kernel Driver with Rust in 2022",
+    "link": "https://not-matthias.github.io/posts/kernel-driver-with-rust-2022/"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "Hello: push button - Kas Tutorials",
+    "link": "https://kas-gui.github.io/tutorials/hello.html"
+  },
+  {
+    "title": "Three things I wish I’d known learning Rust · Graham King",
+    "link": "https://www.darkcoding.net/software/three-things-i-wish-id-known-learning-rust/"
+  },
+  {
+    "title": "Async Interview #6: Eliza Weisman · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/02/11/async-interview-6-eliza-weisman/"
+  },
+  {
+    "title": "WebAssembly as a Platform for Abstraction · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/"
+  },
+  {
+    "title": "Diagnostics with Tracing | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-08-tracing/"
+  },
+  {
+    "title": "Runtime Configuration Reloading | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
+  },
+  {
+    "title": "6 useful Rust macros that you might not have seen before | by Ben | Medium",
+    "link": "https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5"
+  },
+  {
+    "title": "Rust 2019 — let us pursue composability | by Pyry Kontio | Medium",
+    "link": "https://medium.com/@GolDDranks/rust-2019-let-us-pursue-composability-70f1eb2238c3"
+  },
+  {
+    "title": "#Rust2018 : Don’t be the new Haskell | by Tibo Delor | HackerNoon.com | Medium",
+    "link": "https://medium.com/@tibotz/rust-2018-dont-be-the-new-haskell-a383dbd74481"
+  }
+]

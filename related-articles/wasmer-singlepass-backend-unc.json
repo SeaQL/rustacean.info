@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Wasmi's New Execution Engine - Faster Than Ever | Wasmi Labs",
+    "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/"
+  },
+  {
+    "title": "Wasmer 2.2: Major Singlepass Improvements · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/wasmer-2.2"
+  },
+  {
+    "title": "y|sndr - Rust as a platform for IoT",
+    "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
+  },
+  {
+    "title": "Wasmer 2.1 · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/wasmer-2.1"
+  },
+  {
+    "title": "Paul Butler – Calling WebAssembly from Rust",
+    "link": "https://paulbutler.org/2021/calling-webassembly-from-rust/"
+  },
+  {
+    "title": "Novel way to Develop, Test and Document C libraries from Rust · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust"
+  },
+  {
+    "title": "Wasmer 2.0, It's a big deal! · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/wasmer-2.0"
+  },
+  {
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "title": "WebAssembly as a Platform for Abstraction · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/"
+  },
+  {
+    "title": "Embedding WebAssembly in your Rust application | by Brandon Fish | Wasmer | Medium",
+    "link": "https://medium.com/wasmer/executing-webassembly-in-your-rust-application-d5cd32e8ce46"
+  }
+]

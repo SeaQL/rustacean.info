@@ -1,0 +1,22 @@
+[
+  {
+    "title": "SemVer in Rust: Tooling, Breakage, and Edge Cases — FOSDEM 2024",
+    "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
+  },
+  {
+    "title": "Preprocessing trillions of tokens with Rust | Work | Mainmatter",
+    "link": "https://mainmatter.com/cases/aleph-alpha/"
+  },
+  {
+    "title": "Highlights of 2023 for cargo-semver-checks",
+    "link": "https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/"
+  },
+  {
+    "title": "Checking semver in the presence of doc(hidden) items",
+    "link": "https://predr.ag/blog/checking-semver-for-doc-hidden-items/"
+  },
+  {
+    "title": "Why We’re Porting Our Database Drivers to Async Rust - The New Stack",
+    "link": "https://thenewstack.io/why-were-porting-our-database-drivers-to-async-rust/"
+  }
+]

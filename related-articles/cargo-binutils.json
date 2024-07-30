@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
+  },
+  {
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  }
+]

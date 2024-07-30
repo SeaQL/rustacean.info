@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Let futures be futures",
+    "link": "https://without.boats/blog/let-futures-be-futures/"
+  },
+  {
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "title": "Update-informer v0.5.0 – Mikhail Grachev's blog",
+    "link": "https://www.mgrachev.com/2022/08/29/update-informer-v050/"
+  },
+  {
+    "title": "fetch_data - Rust",
+    "link": "https://docs.rs/fetch-data/latest/fetch_data/"
+  },
+  {
+    "title": "Update-informer: a highly customizable Rust library for CLI apps by Evrone",
+    "link": "https://evrone.com/update-informer"
+  },
+  {
+    "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
+    "link": "https://nullderef.com/blog/web-api-client/"
+  },
+  {
+    "title": "diziet | Wanted: Rust sync web framework",
+    "link": "https://diziet.dreamwidth.org/9336.html"
+  },
+  {
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  }
+]

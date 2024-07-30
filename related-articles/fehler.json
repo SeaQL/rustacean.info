@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The registers of Rust",
+    "link": "https://without.boats/blog/the-registers-of-rust/"
+  },
+  {
+    "title": "diziet | Rust needs #[throws]",
+    "link": "https://diziet.dreamwidth.org/13657.html"
+  },
+  {
+    "title": "postfix-macros.md · GitHub",
+    "link": "https://gist.github.com/est31/8d0465997ea920c5ba917cbbf80a822d"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
+  },
+  {
+    "title": "Thoughts on Error Handling in Rust · Lukasʼ Blog",
+    "link": "https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html"
+  }
+]

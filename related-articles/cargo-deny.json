@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Rust impact on engineering management | by Bastien Vigneron | Medium",
+    "link": "https://bastienvigneron.medium.com/rust-impact-on-engineering-management-59647e5d0265"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "title": "Generating terminal user interfaces with Ratatui + ChatGPT - Orhun's Blog",
+    "link": "https://blog.orhun.dev/ratatui-0-22-0/"
+  },
+  {
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "title": "How I speeded up my Rust builds on GitHub ~30 times | Ectobit",
+    "link": "https://ectobit.com/blog/speed-up-github-actions-rust-pipelines/"
+  },
+  {
+    "title": "Crash reporting in Rust",
+    "link": "https://jake-shadle.github.io/crash-reporting/"
+  },
+  {
+    "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
+    "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
+  },
+  {
+    "title": "Bevy 0.6",
+    "link": "https://bevyengine.org/news/bevy-0-6/"
+  },
+  {
+    "title": "Colin Woodbury - Software Development Languages: Rust",
+    "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
+  },
+  {
+    "title": "Setup - Toolchain, IDEs, CI | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/"
+  }
+]

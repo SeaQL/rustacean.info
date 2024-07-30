@@ -1,0 +1,42 @@
+[
+  {
+    "title": "How we built the Grafbase local development experience in Rust",
+    "link": "https://grafbase.com/blog/how-we-built-the-grafbase-cli-in-rust"
+  },
+  {
+    "title": "More than you've ever wanted to know about errors in Rust",
+    "link": "https://www.shuttle.rs/blog/2022/06/30/error-handling"
+  },
+  {
+    "title": "Rust Error Handling",
+    "link": "https://www.unwoundstack.com/blog/rust-error-handling.html"
+  },
+  {
+    "title": "Error Handling In Rust - A Deep Dive | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/error-handling-rust/"
+  },
+  {
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 2) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt2/"
+  },
+  {
+    "title": "Wrapping errors in Rust",
+    "link": "https://edgarluque.com/blog/wrapping-errors-in-rust"
+  },
+  {
+    "title": "Building a Recipe Manager - Part 3 - Parsing and more Druid | bheisler.github.io",
+    "link": "https://bheisler.github.io/post/recipe-manager-part-3-parsing-and-more-druid/"
+  },
+  {
+    "title": "Beginner's guide to Error Handling in Rust",
+    "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
+  },
+  {
+    "title": "Errors in Rust: A Deep Dive :: the halcyon blog",
+    "link": "https://www.halcyon.hr/posts/error-handling-in-rust/"
+  },
+  {
+    "title": "Async-Awaitifying a Rust CLI App - zupzup",
+    "link": "https://zupzup.org/async-awaitify-rust-cli/"
+  }
+]

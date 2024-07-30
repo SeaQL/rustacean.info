@@ -1,0 +1,10 @@
+[
+  {
+    "title": "How I learned to stop worrying and love byte ordering · udoprog",
+    "link": "https://udoprog.github.io/rust/2023-10-28/stop-worrying.html"
+  },
+  {
+    "title": "A fresh look on incremental zero copy serialization · udoprog",
+    "link": "https://udoprog.github.io/rust/2023-10-19/musli-zerocopy.html"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "The Minimal Rust-Wasm Setup for 2024 - dzfrias",
+    "link": "https://dzfrias.dev/blog/rust-wasm-minimal-setup/"
+  },
+  {
+    "title": "Teaching Rust in 5 days",
+    "link": "https://mo8it.com/blog/teaching-rust/"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0/"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/podcast/006-bryan/"
+  },
+  {
+    "title": "Introduction - The Little Book of Rust Books",
+    "link": "https://lborb.github.io/book/title-page.html"
+  },
+  {
+    "title": "Introduction - The Little Book of Rust Macros",
+    "link": "https://veykril.github.io/tlborm/"
+  },
+  {
+    "title": "Learning Rust: OMG WTF RS – resources to help you get started with Rust  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/"
+  },
+  {
+    "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
+  }
+]

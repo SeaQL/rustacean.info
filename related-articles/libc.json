@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Using Modern Linux Sockets",
+    "link": "https://devork.be/blog/2023/11/modern-linux-sockets/"
+  },
+  {
+    "title": "Zero-dependency random number generation in Rust - Orhun's Blog",
+    "link": "https://blog.orhun.dev/zero-deps-random-in-rust"
+  },
+  {
+    "title": "What's New in Rust 1.62, 1.63, and 1.64 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/rust-1.62-1.63-1.64/"
+  },
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  },
+  {
+    "title": "sysinfo: version 0.22 and FreeBSD support",
+    "link": "https://blog.guillaume-gomez.fr/articles/2021-12-14+sysinfo%3A+version+0.22+and+FreeBSD+support"
+  },
+  {
+    "title": "Working with signals in Rust - some things that signal handlers can't handle",
+    "link": "https://www.jameselford.com/blog/working-with-signals-in-rust-pt1-whats-a-signal/"
+  },
+  {
+    "title": "Interacting with data from FFI in Rust",
+    "link": "https://blog.guillaume-gomez.fr/articles/2021-07-29+Interacting+with+data+from+FFI+in+Rust"
+  },
+  {
+    "title": "Executable PNGs - djhworld",
+    "link": "https://djharper.dev/post/2020/12/26/executable-pngs/"
+  },
+  {
+    "title": "Dealing with process termination in Linux (with Rust examples)",
+    "link": "https://iximiuz.com/en/posts/dealing-with-processes-termination-in-Linux/"
+  },
+  {
+    "title": "Rust as the new C: building and combining native libs into C API · Victor Baybekov",
+    "link": "http://hotforknowledge.com/2019/07/14/6-rust-the-new-c/"
+  },
+  {
+    "title": "A bot for Starcraft in Rust, C or any other language / Habr",
+    "link": "https://habr.com/en/post/436254/"
+  },
+  {
+    "title": "How Rust is tested",
+    "link": "https://brson.github.io/2017/07/10/how-rust-is-tested"
+  },
+  {
+    "title": "The Story of a Rust Bug :: Jon Gjengset",
+    "link": "https://thesquareplanet.com/blog/the-story-of-a-rust-bug/"
+  },
+  {
+    "title": "Rust on the WiFi Pineapple (and OpenWrt) – daschl writes. sometimes.",
+    "link": "http://nitschinger.at/Rust-on-the-Wifi-Pineapple-and-OpenWRT/"
+  },
+  {
+    "title": "Things you could do with the Rust AST",
+    "link": "http://kamalmarhubi.com/blog/2016/06/02/playing-with-the-rust-ast/"
+  },
+  {
+    "title": "Building an iOS App in Rust, Part 2: Passing Primitive Data Between Rust and iOS - Big Nerd Ranch",
+    "link": "https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-2/"
+  },
+  {
+    "title": "Easier libc in Rust | mobiarch",
+    "link": "https://mobiarch.wordpress.com/2015/07/03/easy-libc-in-rust/"
+  }
+]

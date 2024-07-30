@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Introducing Foundations - our open source Rust service foundation library",
+    "link": "https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library"
+  },
+  {
+    "title": "A Basic Web Application with Rust and Actix-web - zupzup",
+    "link": "https://zupzup.org/rust-webapp/"
+  },
+  {
+    "title": "24 days of Rust - structured logging | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-structured-logging/"
+  }
+]

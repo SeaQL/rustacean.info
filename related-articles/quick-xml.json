@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Thunderbird with Brendan Abolivier - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e03-thunderbird/"
+  },
+  {
+    "title": "Fluvio - This Week in Fluvio #35",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0035/"
+  },
+  {
+    "title": "Learning Rust - creating a full-text search engine – Rebeca Sarai – A collection of everything that goes in my head",
+    "link": "https://www.rsarai.xyz/learning-rust-by-creating-fts-db/"
+  },
+  {
+    "title": "XML parsing in Rust | Mainmatter",
+    "link": "https://simplabs.com/blog/2020/12/31/xml-and-rust/"
+  },
+  {
+    "title": "usethe.computer - XMHell: Handling 38GB of UTF-16 XML with Rust",
+    "link": "http://usethe.computer/posts/14-xmhell.html"
+  }
+]

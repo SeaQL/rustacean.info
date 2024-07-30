@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Rst Server",
+    "link": "https://vitiral.github.io/2016/11/30/rst-server.html"
+  },
+  {
+    "title": "Rust for Node.js developers - Part 3 - Crates, Modules and the web",
+    "link": "http://fredrik.anderzon.se/rust-for-node-js-developers-part-3-crates-modules-and-the-web/"
+  },
+  {
+    "title": "REST in Rust - Garrett's Blog",
+    "link": "https://gsquire.github.io/static/post/rest-in-rust/"
+  },
+  {
+    "title": "A web app with Nickel: From first line to Heroku deployment | Articles by thoughtram",
+    "link": "http://blog.thoughtram.io/rust/2015/07/29/a-web-app-with-nickel-from-first-line-to-heroku-deployment.html"
+  },
+  {
+    "title": "Maniagnosis - Reimplementing ashurbanipal.web in Rust",
+    "link": "http://maniagnosis.crsr.net/2015/07/reimplementing-ashurbanipalweb-in-rust.html"
+  }
+]

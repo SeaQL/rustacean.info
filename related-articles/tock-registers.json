@@ -1,0 +1,38 @@
+[
+  {
+    "title": "A Rustaceans tour of embedded world  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/a-rustacean-tour-of-embedded-world/"
+  },
+  {
+    "title": "Automatic Rust verification tools (2021) – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/automatic-rust-verification-tools-2021/"
+  },
+  {
+    "title": "Another Rust-y OS: Theseus joins Redox in pursuit of safer, more resilient systems • The Register",
+    "link": "https://www.theregister.com/2021/01/14/rust_os_theseus/"
+  },
+  {
+    "title": "Rust on the ESP32 &amp; ESP8266 - Building an ecosystem",
+    "link": "https://mabez.dev/blog/posts/esp-rust-ecosystem/"
+  },
+  {
+    "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
+    "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
+  },
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-23/"
+  },
+  {
+    "title": "How to Become a Rust Super-developer - Hashnode",
+    "link": "https://hashnode.com/post/how-to-become-a-rust-super-developer-cjpv1ee7e000buhs2aqrdw2ym"
+  },
+  {
+    "title": "Pun Intended: Bare Metal Attracts Rust | Hackaday",
+    "link": "https://hackaday.com/2018/09/08/pun-intended-bare-metal-attracts-rust/"
+  },
+  {
+    "title": "Rust on RTL8710 running FreeRTOS",
+    "link": "https://polyfractal.com/post/rustl8710/"
+  }
+]

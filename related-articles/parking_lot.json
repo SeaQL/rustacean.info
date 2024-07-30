@@ -1,0 +1,46 @@
+[
+  {
+    "title": "A close encounter with false sharing | More Stina Blog!",
+    "link": "https://morestina.net/blog/1976/a-close-encounter-with-false-sharing"
+  },
+  {
+    "title": "Pretty Rust backtraces in raw terminal mode | Andy Hippo",
+    "link": "https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/"
+  },
+  {
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-impl/"
+  },
+  {
+    "title": "Some mistakes Rust doesn't catch",
+    "link": "https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch"
+  },
+  {
+    "title": "Rust Any Part 1: Extension Maps in Rust | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2022/1/6/rust-extension-map/"
+  },
+  {
+    "title": "Upgradable parking_lot::RwLock might not be what you expect | More Stina Blog!",
+    "link": "https://morestina.net/blog/1739/upgradable-parking_lotrwlock-might-not-be-what-you-expect"
+  },
+  {
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  }
+]

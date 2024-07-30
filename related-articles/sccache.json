@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Why is my Rust build so slow?",
+    "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
+  },
+  {
+    "title": "How to alleviate the pain of Rust compile times",
+    "link": "https://vfoley.xyz/rust-compile-speed-tips/"
+  }
+]

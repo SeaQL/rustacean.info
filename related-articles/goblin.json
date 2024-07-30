@@ -1,0 +1,14 @@
+[
+  {
+    "title": "axo blog - System dependencies are hard (so we made them easier)",
+    "link": "https://blog.axo.dev/2023/10/dependencies"
+  },
+  {
+    "title": "Rust after the honeymoon – The Observation Deck",
+    "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
+  },
+  {
+    "title": "Better stack fixing for Firefox – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2020/04/15/better-stack-fixing-for-firefox/"
+  }
+]

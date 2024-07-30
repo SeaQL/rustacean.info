@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Programming ESP32 with Rust: OTA firmware update",
+    "link": "https://quan.hoabinh.vn/post/2024/3/programming-esp32-with-rust-ota-firmware-update"
+  },
+  {
+    "title": "What the HAL? The Quest for Finding a Suitable Embedded Rust HAL",
+    "link": "https://apollolabsblog.hashnode.dev/what-the-hal-the-quest-for-finding-a-suitable-embedded-rust-hal"
+  },
+  {
+    "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
+    "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
+  },
+  {
+    "title": "Rust on Espressif chips",
+    "link": "https://mabez.dev/blog/posts/esp-rust-espressif/"
+  },
+  {
+    "title": "Rust on RISC-V BL602: Is It Sunny?",
+    "link": "https://lupyuen.github.io/articles/adc"
+  }
+]

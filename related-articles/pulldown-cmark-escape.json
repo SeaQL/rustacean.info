@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Building and Deploying A Static Site Generator",
+    "link": "https://www.shuttle.rs/blog/2023/11/15/ssg-in-rust"
+  },
+  {
+    "title": "xi-editor retrospective | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
+  },
+  {
+    "title": "Towards a unified theory of reactive UI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html"
+  }
+]

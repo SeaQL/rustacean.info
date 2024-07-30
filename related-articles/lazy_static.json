@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "title": "So you want to live-reload Rust",
+    "link": "https://fasterthanli.me/articles/so-you-want-to-live-reload-rust"
+  },
+  {
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – Porting Details – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust-porting-details/"
+  },
+  {
+    "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
+    "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
+  },
+  {
+    "title": "A primer to Rust Async | Omar Abid - Personal Blog",
+    "link": "https://omarabid.com/async-rust"
+  },
+  {
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "title": "RaptorQ (RFC6330) and performance optimization in Rust",
+    "link": "https://www.cberner.com/2019/03/30/raptorq-rfc6330-rust-optimization/"
+  },
+  {
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "title": "Compile Time Feature Flags in Rust",
+    "link": "https://www.worthe-it.co.za/programming/2018/11/18/compile-time-feature-flags-in-rust.html"
+  },
+  {
+    "title": "Things Rust doesn’t let you do. A survey of things that Rust doesn’t… | by Pyry Kontio | Medium",
+    "link": "https://medium.com/@GolDDranks/things-rust-doesnt-let-you-do-draft-f596a3c740a5"
+  },
+  {
+    "title": "Writing a CHIP-8 emulator with Rust and WebAssembly",
+    "link": "http://blog.scottlogic.com/2017/12/13/chip8-emulator-webassembly-rust.html"
+  },
+  {
+    "title": "Rust: A Scala Engineer's Perspective - BeachApe.",
+    "link": "https://beachape.com/blog/2017/05/24/rust-from-scala/"
+  },
+  {
+    "title": "lazy_static - Rust",
+    "link": "https://docs.rs/lazy_static"
+  }
+]

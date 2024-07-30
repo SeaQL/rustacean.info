@@ -1,0 +1,14 @@
+[
+  {
+    "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
+    "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
+  },
+  {
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "title": "Nextest - cargo-nextest",
+    "link": "https://nexte.st"
+  }
+]

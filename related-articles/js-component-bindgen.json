@@ -1,0 +1,14 @@
+[
+  {
+    "title": "VS Code Extensions and WebAssembly",
+    "link": "https://code.visualstudio.com/blogs/2024/05/08/wasm"
+  },
+  {
+    "title": "Compiling Rust to WASI",
+    "link": "https://benw.is/posts/compiling-rust-to-wasi"
+  },
+  {
+    "title": "Bytecode Alliance — Announcing Jco 1.0",
+    "link": "https://bytecodealliance.org/articles/jco-1.0"
+  }
+]

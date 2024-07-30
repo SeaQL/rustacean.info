@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs/"
+  },
+  {
+    "title": "Migrating a crate from futures 0.1 to 0.3",
+    "link": "https://www.ncameron.org/blog/migrating-a-crate-from-futures-0-1-to-0-3/"
+  },
+  {
+    "title": "async-std - Announcing async-std",
+    "link": "https://async.rs/blog/announcing-async-std/"
+  },
+  {
+    "title": "The TiKV blog | Migrating the TiKV Rust client from futures 0.1 to 0.3",
+    "link": "https://tikv.org/blog/client-futures/"
+  },
+  {
+    "title": "Face Detection with Actix Web",
+    "link": "https://cetra3.github.io/blog/face-detection-with-actix-web/"
+  },
+  {
+    "title": "Intro to Web Development with Rust for NodeJS Developers | by Bastian Gruber | Level Up Coding",
+    "link": "https://medium.com/@gruberbastian/intro-to-web-programming-in-rust-for-nodejs-developers-1a9c048c4de1"
+  },
+  {
+    "title": "blag.nemo157.com - Inside Rust's Async Transform",
+    "link": "https://blag.nemo157.com/2018/12/09/inside-rusts-async-transform.html"
+  },
+  {
+    "title": "Serverless HTTP. Throw down your main! Rustlang… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/serverless-http-9a58f9b2df60"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs"
+  },
+  {
+    "title": "GLib/GIO async operations and Rust futures + async/await – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2018/04/glib-gio-async-operations-and-rust-futures-async-await/"
+  },
+  {
+    "title": "Tokio Reform is Shipped and the Road to 0.2 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2018-02-tokio-reform-shipped/"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
+    "link": "https://nullderef.com/blog/web-api-client/"
+  },
+  {
+    "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
+  },
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "title": "Using std in embedded Rust",
+    "link": "https://timmmm.github.io/std-embedded-rust/index.html"
+  },
+  {
+    "title": "Down the Yak Hole of TLS — Drogue IoT",
+    "link": "https://blog.drogue.io/yak-hole-of-tls/"
+  }
+]

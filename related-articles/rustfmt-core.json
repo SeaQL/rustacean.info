@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
+    "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
+  },
+  {
+    "title": "What the RLS can do",
+    "link": "https://www.ncameron.org/blog/what-the-rls-can-do/"
+  },
+  {
+    "title": "Rusoto codegen · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-codegen/"
+  },
+  {
+    "title": "Setting up a Rust Development Environment",
+    "link": "http://asquera.de/blog/2017-03-03/setting-up-a-rust-devenv/"
+  },
+  {
+    "title": "24 days of Rust - cargo subcommands | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-cargo-subcommands/"
+  },
+  {
+    "title": "Running rustfmt on Travis CI",
+    "link": "http://johannh.me/blog/rustfmt-ci.html"
+  },
+  {
+    "title": "Things you could do with the Rust AST",
+    "link": "http://kamalmarhubi.com/blog/2016/06/02/playing-with-the-rust-ast/"
+  },
+  {
+    "title": "The Path to Rust :: Jon Gjengset",
+    "link": "https://thesquareplanet.com/blog/the-path-to-rust/"
+  },
+  {
+    "title": "articles - fancy rust development with emacs",
+    "link": "http://julienblanchard.com/2016/fancy-rust-development-with-emacs/"
+  },
+  {
+    "title": "Are we (I)DE yet?",
+    "link": "http://areweideyet.com/"
+  }
+]

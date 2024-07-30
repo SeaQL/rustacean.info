@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Announcing tokio-uring: io-uring support for Tokio | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-07-tokio-uring"
+  },
+  {
+    "title": "Tokio special with Carl Lerche",
+    "link": "https://blog.firosolutions.com/2020/10/tokio_special_with_carl_lerche/"
+  }
+]

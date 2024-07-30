@@ -1,0 +1,82 @@
+[
+  {
+    "title": "When Is Parallelism Fearless and Zero-Cost with Rust? | Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures",
+    "link": "https://dl.acm.org/doi/10.1145/3626183.3659966"
+  },
+  {
+    "title": "Brute forcing protected ZIP archives in Rust",
+    "link": "https://agourlay.github.io/brute-forcing-protected-zip-rust/"
+  },
+  {
+    "title": "The curse of strong typing",
+    "link": "https://fasterthanli.me/articles/the-curse-of-strong-typing"
+  },
+  {
+    "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-impl/"
+  },
+  {
+    "title": "Some mistakes Rust doesn't catch",
+    "link": "https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch"
+  },
+  {
+    "title": "0xC45 - Digital Audio Synthesizer in Rust",
+    "link": "https://0xc45.com/blog/digital-audio-synthesizer-in-rust/"
+  },
+  {
+    "title": "12 Rust Tips and Tricks you might not know yet - Federico Terzi - A Software Engineering Journey",
+    "link": "https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/"
+  },
+  {
+    "title": "Eliminating Data Races in Firefox - A Technical Report - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/"
+  },
+  {
+    "title": "Frustrated? It's not you, it's Rust",
+    "link": "https://fasterthanli.me/articles/frustrated-its-not-you-its-rust"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
+    "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
+  },
+  {
+    "title": "Async/Await | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/async-await/"
+  },
+  {
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "title": "Announcing Mio 0.7-alpha.1 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-12-mio-v0.7-alpha.1/"
+  },
+  {
+    "title": "Making the Tokio scheduler 10x faster | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-10-scheduler/"
+  },
+  {
+    "title": "async-std - Announcing async-std",
+    "link": "https://async.rs/blog/announcing-async-std/"
+  },
+  {
+    "title": "Rust parallelism for non-C/C++ developers | by Maksym Zavershynskyi | NEAR Protocol | Medium",
+    "link": "https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56"
+  },
+  {
+    "title": "Atomics | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2018/03/25/Atomics.html"
+  },
+  {
+    "title": "simple_parallel 0.3: Revisiting k-NN |  Huon on the internet",
+    "link": "https://huonw.github.io/blog/2015/10/simple_parallel-revisiting-knn/"
+  }
+]

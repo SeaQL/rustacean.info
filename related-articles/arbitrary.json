@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Property-Based Testing in Rust with Arbitrary | Serhii Potapov (greyblake)",
+    "link": "https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/"
+  },
+  {
+    "title": "Tiemoko Ballo",
+    "link": "https://tiemoko.com/blog/diff-fuzz/"
+  },
+  {
+    "title": "Trail of Bits Blog",
+    "link": "https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy"
+  },
+  {
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  }
+]

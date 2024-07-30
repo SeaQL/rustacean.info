@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "title": "Procedural Macros vs. Macros — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/06/11/expand.html"
+  },
+  {
+    "title": "Writing a plugin to instrument code — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/05/17/flamer.html"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "title": "The curse of strong typing",
+    "link": "https://fasterthanli.me/articles/the-curse-of-strong-typing"
+  },
+  {
+    "title": "Announcing Hurl 1.6.0",
+    "link": "https://hurl.dev/blog/2022/02/11/announcing-hurl-1.6.0.html"
+  },
+  {
+    "title": "Aiming for correctness with types",
+    "link": "https://fasterthanli.me/articles/aiming-for-correctness-with-types"
+  },
+  {
+    "title": "Getting in and out of trouble with Rust futures",
+    "link": "https://fasterthanli.me/articles/getting-in-and-out-of-trouble-with-rust-futures"
+  },
+  {
+    "title": "Abstracting away correctness",
+    "link": "https://fasterthanli.me/articles/abstracting-away-correctness"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
+  },
+  {
+    "title": "The GPIO war: macro bunkers for typestate explosions - cuervo",
+    "link": "https://www.ecorax.net/macro-bunker-1/"
+  }
+]

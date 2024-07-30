@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Rust on Espressif chips - 12-04-2024",
+    "link": "https://mabez.dev/blog/posts/esp-rust-12-04-2024/"
+  },
+  {
+    "title": "esp-rs Quarterly Planning: Q1 2024 | Beta7",
+    "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q1-2024/"
+  },
+  {
+    "title": "Rust Code Coverage with Daniel McKenna :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/037-daniel-mckenna/"
+  },
+  {
+    "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
+  },
+  {
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
+    "title": "Using Rust for a simple hardware project | tonari blog",
+    "link": "https://blog.tonari.no/rust-simple-hardware-project"
+  },
+  {
+    "title": "Rust after the honeymoon – The Observation Deck",
+    "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
+  },
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-22/"
+  }
+]

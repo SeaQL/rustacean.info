@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Create a Lambda in Rust using Terraform - maahl.net",
+    "link": "https://maahl.net/blog/rust-aws-lambda/"
+  },
+  {
+    "title": "Running Rust in AWS Lambda with SAM (Serverless App Model) — Part 1 | by B Shyam Sundar | Medium",
+    "link": "https://medium.com/@shyamsundarb/running-rust-in-aws-lambda-with-sam-part-1-2b7a6963a2ef"
+  },
+  {
+    "title": "Running Rust on AWS Lambda on ARM64",
+    "link": "https://www.ballpointcarrot.net/posts/rust-arm-lambdas/"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "AWS Rust Lambdas and Bioinformatics | UMCCR Genomics Platform Group",
+    "link": "https://umccr.org/blog/aws-bioinformatics-rust/"
+  },
+  {
+    "title": "Rust Runtime for AWS Lambda | AWS Open Source Blog",
+    "link": "https://aws.amazon.com/blogs/opensource/rust-runtime-for-aws-lambda/"
+  }
+]

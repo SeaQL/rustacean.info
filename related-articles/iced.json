@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Using Tauri to build a cross-platform security app",
+    "link": "https://www.firezone.dev/blog/using-tauri"
+  },
+  {
+    "title": "Xilem 2024 plans - Linebender",
+    "link": "https://linebender.org/blog/xilem-2024/"
+  },
+  {
+    "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/048/"
+  },
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "Console #154 - An Interview with Giuliano of Sniffnet - Rust app to easily monitor network traffic",
+    "link": "https://console.substack.com/p/console-154#§sniffnet"
+  },
+  {
+    "title": "Why is building a UI in Rust so hard?",
+    "link": "https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard"
+  },
+  {
+    "title": "Catch 22! Rust in Review — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2022/12/11/catch22.html"
+  },
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "WCT | HexoSynth 2022 - Devlog #5 - Signal Monitors and HexoTK Bugfixing",
+    "link": "https://m8geil.de/posts/hexosynth-5/"
+  },
+  {
+    "title": "GUI in Rust with iced #2: Composable Layout – Gherman Nicolisin – Software Dev and Blockchain enthusiast",
+    "link": "https://nikolish.in/gs-with-iced-2"
+  },
+  {
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  }
+]

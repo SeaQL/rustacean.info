@@ -1,0 +1,34 @@
+[
+  {
+    "title": "This Month in Rust GameDev #40 - November 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/040/"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Rust 2021: GUI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html"
+  },
+  {
+    "title": "Towards principled reactive UI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html"
+  },
+  {
+    "title": "wgpu-rs on the web - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2020/04/21/wgpu-web.html"
+  }
+]

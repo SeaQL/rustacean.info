@@ -1,0 +1,106 @@
+[
+  {
+    "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/case-study/diesel/"
+  },
+  {
+    "title": "Why SQLite Performance Tuning made Bencher 1200x Faster | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/engineering/sqlite-performance-tuning/"
+  },
+  {
+    "title": "Why use Rust on the backend?",
+    "link": "https://blog.adamchalmers.com/why-rust-on-backend/"
+  },
+  {
+    "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
+    "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
+  },
+  {
+    "title": "Diesel 2.0.0",
+    "link": "https://diesel.rs/news/2_0_0_release.html"
+  },
+  {
+    "title": "Fang, async background processing for Rust - The software engineer oasis",
+    "link": "https://pxp9.github.io/rust/async-processing/"
+  },
+  {
+    "title": "IntelliJ Rust Changelog #159",
+    "link": "https://intellij-rust.github.io/2021/11/08/changelog-159.html"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/61/an-experimental-diesel-based-crud-for-rocket"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "Building a REST and Web Socket API with Actix and Rust | AGM Projects",
+    "link": "https://agmprojects.com/blog/building-a-rest-and-web-socket-api-with-actix.html"
+  },
+  {
+    "title": "GitHub Action for binary crates installation · svartalf",
+    "link": "https://svartalf.info/posts/2020-04-10-github-action-for-binary-crates-installation/"
+  },
+  {
+    "title": "Rust as a High Level Language — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2020/05/30/hi.html"
+  },
+  {
+    "title": "Lessons learned on writing web applications completely in Rust | by Sascha Grunert | Medium",
+    "link": "https://medium.com/@saschagrunert/lessons-learned-on-writing-web-applications-completely-in-rust-2080d0990287"
+  },
+  {
+    "title": "A web application completely in Rust | by Sascha Grunert | Medium",
+    "link": "https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471"
+  },
+  {
+    "title": "From ActiveRecord to Diesel - Pat Shaughnessy",
+    "link": "http://patshaughnessy.net/2018/6/9/from-activerecord-to-diesel"
+  },
+  {
+    "title": "Writing a Microservice in Rust – Peter Goldsborough",
+    "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
+  },
+  {
+    "title": "Announcing Diesel 1.0 — A Safe, Extensible Query Builder and ORM | by Sean Griffin | Medium",
+    "link": "https://medium.com/@sgrif/announcing-diesel-1-0-a-safe-extensible-query-builder-and-orm-15e6bd8a9ed0"
+  },
+  {
+    "title": "Gotham web framework",
+    "link": "https://gotham.rs/blog"
+  },
+  {
+    "title": "Grokking Diesel. Diesel (http://diesel.rs) is an ORM… | by Stephan Buys | HackerNoon.com | Medium",
+    "link": "https://medium.com/@Buys/grokking-diesel-652cb8886a63"
+  },
+  {
+    "title": "Rusoto RDS walkthrough · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-walkthrough/"
+  },
+  {
+    "title": "Karol Kuczmarski's Blog – Asynchronous Rust for fun &amp;&nbsp;profit",
+    "link": "http://xion.io/post/programming/rust-async-closer-look.html"
+  },
+  {
+    "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+    "link": "https://diesel.rs"
+  },
+  {
+    "title": "Coding with glee: My shot at RESTful Microservices in Rust - Part 2",
+    "link": "https://codingwithglee.blogspot.de/2017/03/my-shot-at-restful-microservices-in.html"
+  },
+  {
+    "title": "Comparing Diesel and rust-postgres | HackerNoon",
+    "link": "https://hackernoon.com/comparing-diesel-and-rust-postgres-97fd8c656fdd"
+  },
+  {
+    "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+    "link": "http://diesel.rs/"
+  },
+  {
+    "title": "Rust Community == Awesome! — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/04/23/awesome.html"
+  }
+]

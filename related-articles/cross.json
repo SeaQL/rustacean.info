@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Rust impact on engineering management | by Bastien Vigneron | Medium",
+    "link": "https://bastienvigneron.medium.com/rust-impact-on-engineering-management-59647e5d0265"
+  },
+  {
+    "title": "Cross-Compiling Your Project in Rust",
+    "link": "https://www.tangramvision.com/blog/cross-compiling-your-project-in-rust"
+  },
+  {
+    "title": "Cross-compiling Rust on Github Actions",
+    "link": "https://blog.timhutt.co.uk/cross-compiling-rust/"
+  },
+  {
+    "title": "Rust Cross-Compilation With GitHub Actions",
+    "link": "https://reemus.dev/tldr/rust-cross-compilation-github-actions"
+  },
+  {
+    "title": "Logan Keenan - Deploy Your Rust Project to Any Hosting Provider in Minutes",
+    "link": "https://logankeenan.com/posts/deploy-your-rust-project-to-any-hosting-provider-in-minutes/"
+  },
+  {
+    "title": "How to Deploy Rust Binaries with GitHub Actions - dzfrias",
+    "link": "https://dzfrias.dev/blog/deploy-rust-cross-platform-github-actions"
+  },
+  {
+    "title": "Rust Development for the Raspberry Pi on Apple Silicon - Manuel Bernhardt",
+    "link": "https://manuel.bernhardt.io/posts/2022-11-04-rust-development-for-the-raspberry-pi-on-apple-silicon/"
+  },
+  {
+    "title": "axo blog - Release Engineering Is Exhausting So Here's cargo-dist",
+    "link": "https://blog.axo.dev/2023/02/cargo-dist"
+  },
+  {
+    "title": "Cross compiling Rust with Drone | Jacob Kiers",
+    "link": "https://jacobkiers.net/post/rust-cross-compilation-on-drone/"
+  },
+  {
+    "title": "Rust, Lambda, and DynamoDB. Implementation of an AWS Lambda… | by Michael Hentges | Better Programming",
+    "link": "https://betterprogramming.pub/rust-lambda-and-dynamodb-bea841d47cca"
+  },
+  {
+    "title": "Adventures In Cross Compilation",
+    "link": "https://kentiklabs.com/blog/adventures-in-cross-compilation/"
+  },
+  {
+    "title": "Introducing Rustler Precompiled - Dashbit Blog",
+    "link": "https://dashbit.co/blog/rustler-precompiled"
+  }
+]

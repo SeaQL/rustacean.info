@@ -1,0 +1,94 @@
+[
+  {
+    "title": "Dioxus | An elegant GUI library for Rust",
+    "link": "https://dioxuslabs.com/blog/introducing-dioxus/"
+  },
+  {
+    "title": "apollo-rs: spec-compliant GraphQL tools in Rust | Apollo GraphQL Blog",
+    "link": "https://www.apollographql.com/blog/announcement/tooling/apollo-rs-graphql-tools-in-rust/?utm_campaign=2021-11-01_apollo-rs&utm_medium=social&utm_source=twitter"
+  },
+  {
+    "title": "Oxidizing Kraken: Improving Kraken Infrastructure Using Rust - Kraken Blog Kraken Blog",
+    "link": "https://blog.kraken.com/post/7964/oxidizing-kraken-improving-kraken-infrastructure-using-rust/"
+  },
+  {
+    "title": "Large Rust Workspaces",
+    "link": "https://matklad.github.io/2021/08/22/large-rust-workspaces.html"
+  },
+  {
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  },
+  {
+    "title": "Rust Notebooks with Evcxr - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/evcxr"
+  },
+  {
+    "title": "Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun",
+    "link": "https://kevinlynagh.com/rust-zig/"
+  },
+  {
+    "title": "Oxidizing Kraken: Improving Kraken Infrastructure Using Rust - Kraken Blog Kraken Blog",
+    "link": "https://blog.kraken.com/post/7964/oxidizing-kraken/"
+  },
+  {
+    "title": "For Complex Applications, Rust is as Productive as Kotlin  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-as-productive-as-kotlin/"
+  },
+  {
+    "title": "Sandbox Rust Development with Rust Analyzer - Grepular",
+    "link": "https://www.grepular.com/Sandbox_Rust_Development_with_Rust_Analyzer"
+  },
+  {
+    "title": "Assorted thoughts on zig (and rust)",
+    "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
+  },
+  {
+    "title": "8 Solutions for Troubleshooting Your Rust Build Times | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/8-steps-for-troubleshooting-your-rust-build-times-2ffc965fd13e"
+  },
+  {
+    "title": "Rust 2021 - Stability | Jack Huey’s blog",
+    "link": "https://jackh726.github.io/rust/2020/10/01/rust-2021.html"
+  },
+  {
+    "title": "Pure AST based linting sucks | RDambrosio",
+    "link": "https://rdambrosio016.github.io/rust/2020/09/18/pure-ast-based-linting-sucks.html"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/39/why-rust-is-a-great-fit-for-embedded-software"
+  },
+  {
+    "title": "A Few More Reasons Rust Compiles Slowly | PingCAP",
+    "link": "https://pingcap.com/blog/reasons-rust-compiles-slowly"
+  },
+  {
+    "title": "A practical guide to async in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/a-practical-guide-to-async-in-rust/"
+  },
+  {
+    "title": "Generics and Compile-Time in Rust | PingCAP",
+    "link": "https://pingcap.com/blog/generics-and-compile-time-in-rust/"
+  },
+  {
+    "title": "Rust lang Tips and&nbsp;Tricks - Mudit Gupta's Blog",
+    "link": "https://mudit.blog/rust-tips-and-tricks/"
+  },
+  {
+    "title": "Jason Williams - Debugging Rust in VSCode",
+    "link": "https://jason-williams.co.uk/debugging-rust-in-vscode"
+  },
+  {
+    "title": "Status of rust-analyzer: Achievements and Open Collective  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-analyzer-status-opencollective/"
+  },
+  {
+    "title": "Rust Analyzer in 2018 and 2019  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-analyzer-2019/"
+  },
+  {
+    "title": "More on RLS version numbering",
+    "link": "https://www.ncameron.org/blog/more-on-rls-version-numbering/"
+  }
+]

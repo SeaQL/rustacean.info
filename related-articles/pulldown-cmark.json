@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Building and Deploying A Static Site Generator",
+    "link": "https://www.shuttle.rs/blog/2023/11/15/ssg-in-rust"
+  },
+  {
+    "title": "Jonas Hietala: Rewriting my blog in Rust for fun and profit",
+    "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
+  },
+  {
+    "title": "Making My Website Part 2: The Webserver",
+    "link": "https://www.rotoclone.zone/blog/posts/webserver"
+  },
+  {
+    "title": "xi-editor retrospective | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
+  },
+  {
+    "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
+  },
+  {
+    "title": "I Made A Thing: Markedit · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/markedit/"
+  },
+  {
+    "title": "Towards a unified theory of reactive UI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html"
+  }
+]

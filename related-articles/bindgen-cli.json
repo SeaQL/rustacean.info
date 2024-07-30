@@ -1,0 +1,154 @@
+[
+  {
+    "title": "Rust for filesystems [LWN.net]",
+    "link": "https://lwn.net/Articles/978738/"
+  },
+  {
+    "title": "Mysqlclient-sys 0.3 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/mysqlclient-sys-03/"
+  },
+  {
+    "title": "Porting a cross-platform GUI application to Rust - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/"
+  },
+  {
+    "title": "Rust/C++ Interop Part 1 - Just the Basics |",
+    "link": "https://tylerjw.dev/posts/rust-cpp-interop/"
+  },
+  {
+    "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
+    "link": "https://thewolfsound.com/talk016/"
+  },
+  {
+    "title": "Rust and ThreadX  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-and-threadx/"
+  },
+  {
+    "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
+    "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
+  },
+  {
+    "title": "Our latest adventures with bindgen  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/bindgen/"
+  },
+  {
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "title": "Why Turborepo is migrating from Go to Rust – Vercel",
+    "link": "https://vercel.com/blog/turborepo-migration-go-rust"
+  },
+  {
+    "title": "ROFL with a LOL: rewriting an NGINX module in Rust",
+    "link": "https://blog.cloudflare.com/rust-nginx-module/"
+  },
+  {
+    "title": "Exploring Rust for Vulkan drivers, part 1",
+    "link": "https://www.collabora.com/news-and-blog/blog/2023/02/02/exploring-rust-for-vulkan-drivers-part-1/"
+  },
+  {
+    "title": "One step forward, an easier interoperability between Rust and Haskell | IOG Engineering",
+    "link": "https://engineering.iog.io/2023-01-26-hs-bindgen-introduction/"
+  },
+  {
+    "title": "Shopify Embraces Rust for Systems Programming",
+    "link": "https://shopify.engineering/shopify-rust-systems-programming"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/nl/blog/74/using-c-libraries-in-your-rust-project"
+  },
+  {
+    "title": "Writing FreeBSD Kernel Modules in Rust | NCC Group Research Blog | Making the world safer and more secure",
+    "link": "https://research.nccgroup.com/2022/08/31/writing-freebsd-kernel-modules-in-rust/"
+  },
+  {
+    "title": "Linux kernel development | JackOS",
+    "link": "https://www.jackos.io/rust-kernel/rust-for-linux.html"
+  },
+  {
+    "title": "Flavors of enums with Rust bindgen",
+    "link": "https://www.mdaverde.com/posts/rust-bindgen-enum/"
+  },
+  {
+    "title": "A Tour of the Rust and C++ interoperability ecosystem",
+    "link": "https://blog.tetrane.com/2022/Rust-Cxx-interop.html"
+  },
+  {
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  },
+  {
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "title": "Learning Rust: Interfacing with C · Martin Pitt",
+    "link": "https://piware.de/post/2021-08-27-rust-and-c/"
+  },
+  {
+    "title": "Plugins in Rust: Getting Started | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-start/"
+  },
+  {
+    "title": "Python cryptography, Rust, and Gentoo [LWN.net]",
+    "link": "https://lwn.net/Articles/845535/"
+  },
+  {
+    "title": "Unsafe Rust: How and when (not) to use it - LogRocket Blog",
+    "link": "https://blog.logrocket.com/unsafe-rust-how-and-when-not-to-use-it/"
+  },
+  {
+    "title": "Create Your Own PineTime Watch Face in Rust... And Publish on crates.io",
+    "link": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/watchface"
+  },
+  {
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – Porting Details – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust-porting-details/"
+  },
+  {
+    "title": "Supporting Linux kernel development in Rust [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
+  },
+  {
+    "title": "The problem of safe FFI bindings in Rust - Abubalay",
+    "link": "https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust"
+  },
+  {
+    "title": "Inbound &amp; Outbound FFI - Possible Rust",
+    "link": "https://www.possiblerust.com/guide/inbound-outbound-ffi"
+  },
+  {
+    "title": "Shipping Linux binaries that don’t break with Rust | William Saar’s dev blog",
+    "link": "https://saarw.github.io/dev/2020/06/18/shipping-linux-binaries-that-dont-break-with-rust.html"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "title": "Rust FFI - Building an ASN1 codec - A Different Tack",
+    "link": "https://sjames.github.io/articles/2020-04-26-rust-ffi-asn1-codec/"
+  },
+  {
+    "title": "FFI patterns #1 - Complex Rust data structures exposed seamlessly to C++ | Words",
+    "link": "https://crisal.io/words/2020/02/28/C++-rust-ffi-patterns-1-complex-data-structures.html"
+  },
+  {
+    "title": "A Pragmatic Approach To Global State · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/pragmatic-global-state/"
+  },
+  {
+    "title": "Bitfields Forever: Why we need a C-compatible Rust Crate :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2020/01/bitfields/"
+  },
+  {
+    "title": "How to make your C codebase rusty: rewriting keyboard firmware keymap in Rust · houqp",
+    "link": "https://about.houqp.me/posts/rusty-c/"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+  }
+]

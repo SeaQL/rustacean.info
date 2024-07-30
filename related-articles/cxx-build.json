@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Why Turborepo is migrating from Go to Rust – Vercel",
+    "link": "https://vercel.com/blog/turborepo-migration-go-rust"
+  },
+  {
+    "title": "One step forward, an easier interoperability between Rust and Haskell | IOG Engineering",
+    "link": "https://engineering.iog.io/2023-01-26-hs-bindgen-introduction/"
+  },
+  {
+    "title": "Shopify Embraces Rust for Systems Programming",
+    "link": "https://shopify.engineering/shopify-rust-systems-programming"
+  },
+  {
+    "title": "Are we reference yet? C++ references in Rust | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/are-we-reference-yet-c-references-in-rust-72c1c6c7015a"
+  },
+  {
+    "title": "Google Online Security Blog: Integrating Rust Into the Android Open Source Project",
+    "link": "https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html"
+  },
+  {
+    "title": "Integrating Rust and C++ in Firefox - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/"
+  },
+  {
+    "title": "Expose a Rust Library to Other Languages — Slint Blog",
+    "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
+  },
+  {
+    "title": "Safe Interoperability between Rust and C++ with CXX - InfoQ",
+    "link": "https://www.infoq.com/news/2020/12/cpp-rust-interop-cxx/"
+  },
+  {
+    "title": "Why Not Rust?",
+    "link": "https://matklad.github.io//2020/09/20/why-not-rust.html"
+  },
+  {
+    "title": "The CXX Debate",
+    "link": "https://steveklabnik.com/writing/the-cxx-debate"
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "title": "Turbofish ::&lt;&gt; 🐠",
+    "link": "https://rust.code-maven.com/turbofish"
+  },
+  {
+    "title": "A JVM in Rust part 8 - Retrospective · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2023/11/a-jvm-in-rust-part-8-retrospective/"
+  },
+  {
+    "title": "Faster Rust Serialization",
+    "link": "https://mo8it.com/blog/faster-rust-serialization/"
+  },
+  {
+    "title": "Three years of Bevy",
+    "link": "https://trent.kiwi/bevy-three-years"
+  },
+  {
+    "title": "How to improve Rust compiler’s CI in 2023 | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2023/07/30/optimizing-rust-ci-2023.html"
+  },
+  {
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "title": "Rust Analyzer with Lukas Wirth :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/lukas-wirth/"
+  },
+  {
+    "title": "The bottom emoji breaks rust-analyzer",
+    "link": "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer"
+  },
+  {
+    "title": "On Rust - Duarte O.Carmo",
+    "link": "https://duarteocarmo.com/blog/on-rust"
+  },
+  {
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "title": "Why Rust? — Rerun",
+    "link": "https://www.rerun.io/blog/why-rust"
+  },
+  {
+    "title": "Internship Projects 2022: Concrete Playback | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2022/09/22/internship-projects-2022-concrete-playback.html"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "Rust and Neovim - A Thorough Guide and Walkthrough | the trait",
+    "link": "https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/"
+  },
+  {
+    "title": "Hot Reloading Rust — for Fun and Faster Feedback Cycles | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/hot-reloading-rust/"
+  },
+  {
+    "title": "The curse of strong typing",
+    "link": "https://fasterthanli.me/articles/the-curse-of-strong-typing"
+  },
+  {
+    "title": "Mint tokens on Solana using the Rust SDK | by 0xksure | Medium",
+    "link": "https://kristohb.medium.com/mint-tokens-on-solana-using-the-rust-sdk-3b05b07ca842"
+  },
+  {
+    "title": "Dare to ask for more #rust2024 · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/02/09/dare-to-ask-for-more-rust2024/"
+  },
+  {
+    "title": "A Rust match made in hell",
+    "link": "https://fasterthanli.me/articles/a-rust-match-made-in-hell"
+  },
+  {
+    "title": "Dioxus | An elegant GUI library for Rust",
+    "link": "https://dioxuslabs.com/blog/introducing-dioxus/"
+  },
+  {
+    "title": "apollo-rs: spec-compliant GraphQL tools in Rust | Apollo GraphQL Blog",
+    "link": "https://www.apollographql.com/blog/announcement/tooling/apollo-rs-graphql-tools-in-rust/?utm_campaign=2021-11-01_apollo-rs&utm_medium=social&utm_source=twitter"
+  },
+  {
+    "title": "Writing a Linux-compatible kernel in Rust - seiya.me",
+    "link": "https://seiya.me/writing-linux-clone-in-rust"
+  },
+  {
+    "title": "My ideal Rust workflow",
+    "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
+  },
+  {
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "title": "Learnability of Rust",
+    "link": "https://epage.github.io/blog/2021/09/learning-rust/"
+  },
+  {
+    "title": "Oxidizing Kraken: Improving Kraken Infrastructure Using Rust - Kraken Blog Kraken Blog",
+    "link": "https://blog.kraken.com/post/7964/oxidizing-kraken-improving-kraken-infrastructure-using-rust/"
+  },
+  {
+    "title": "Large Rust Workspaces",
+    "link": "https://matklad.github.io/2021/08/22/large-rust-workspaces.html"
+  },
+  {
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  },
+  {
+    "title": "Automatic Rust verification tools (2021) – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/automatic-rust-verification-tools-2021/"
+  },
+  {
+    "title": "Routes to Discovering Rust - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/timclicks"
+  },
+  {
+    "title": "Google Online Security Blog: Integrating Rust Into the Android Open Source Project",
+    "link": "https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html"
+  },
+  {
+    "title": "My second impression of Rust and why I think it's a great general-purpose language! | Technorage",
+    "link": "https://deepu.tech/my-second-impression-of-rust/"
+  },
+  {
+    "title": "Rust Notebooks with Evcxr - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/evcxr"
+  },
+  {
+    "title": "Google Online Security Blog:  Rust in the Linux kernel",
+    "link": "https://security.googleblog.com/2021/04/rust-in-linux-kernel.html"
+  },
+  {
+    "title": "Pin and suffering",
+    "link": "https://fasterthanli.me/articles/pin-and-suffering"
+  },
+  {
+    "title": "Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun",
+    "link": "https://kevinlynagh.com/rust-zig/"
+  },
+  {
+    "title": "Oxidizing Kraken: Improving Kraken Infrastructure Using Rust - Kraken Blog Kraken Blog",
+    "link": "https://blog.kraken.com/post/7964/oxidizing-kraken/"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs/"
+  },
+  {
+    "title": "Aiming for correctness with types",
+    "link": "https://fasterthanli.me/articles/aiming-for-correctness-with-types"
+  },
+  {
+    "title": "For Complex Applications, Rust is as Productive as Kotlin  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-as-productive-as-kotlin/"
+  },
+  {
+    "title": "Sandbox Rust Development with Rust Analyzer - Grepular",
+    "link": "https://www.grepular.com/Sandbox_Rust_Development_with_Rust_Analyzer"
+  },
+  {
+    "title": "Fighting Rust's Expressive Type System | thefuntastic",
+    "link": "https://thefuntastic.com/blog/fighting-rusts-type-system"
+  },
+  {
+    "title": "Tokio special with Carl Lerche",
+    "link": "https://blog.firosolutions.com/2020/10/tokio_special_with_carl_lerche/"
+  },
+  {
+    "title": "Assorted thoughts on zig (and rust)",
+    "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
+  },
+  {
+    "title": "8 Solutions for Troubleshooting Your Rust Build Times | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/8-steps-for-troubleshooting-your-rust-build-times-2ffc965fd13e"
+  },
+  {
+    "title": "Rust 2021 | markentier.tech",
+    "link": "https://markentier.tech/posts/2020/10/rust-2021/"
+  },
+  {
+    "title": "Rust 2021 - Stability | Jack Huey’s blog",
+    "link": "https://jackh726.github.io/rust/2020/10/01/rust-2021.html"
+  },
+  {
+    "title": "Rust 2021",
+    "link": "https://swatinem.de/blog/rust-2021/"
+  },
+  {
+    "title": "Pure AST based linting sucks | RDambrosio",
+    "link": "https://rdambrosio016.github.io/rust/2020/09/18/pure-ast-based-linting-sucks.html"
+  },
+  {
+    "title": "Peeking inside a Rust enum",
+    "link": "https://fasterthanli.me/articles/peeking-inside-a-rust-enum"
+  },
+  {
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/39/why-rust-is-a-great-fit-for-embedded-software"
+  },
+  {
+    "title": "Surviving Rust async interfaces",
+    "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
+  },
+  {
+    "title": "A Few More Reasons Rust Compiles Slowly | PingCAP",
+    "link": "https://pingcap.com/blog/reasons-rust-compiles-slowly"
+  },
+  {
+    "title": "A practical guide to async in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/a-practical-guide-to-async-in-rust/"
+  },
+  {
+    "title": "Generics and Compile-Time in Rust | PingCAP",
+    "link": "https://pingcap.com/blog/generics-and-compile-time-in-rust/"
+  },
+  {
+    "title": "Setup - Toolchain, IDEs, CI | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/"
+  },
+  {
+    "title": "Coverage Marks  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/coverage-marks/"
+  },
+  {
+    "title": "Writing Python inside your Rust code — Part 3 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-3/"
+  },
+  {
+    "title": "Rust lang Tips and&nbsp;Tricks - Mudit Gupta's Blog",
+    "link": "https://mudit.blog/rust-tips-and-tricks/"
+  },
+  {
+    "title": "Jason Williams - Debugging Rust in VSCode",
+    "link": "https://jason-williams.co.uk/debugging-rust-in-vscode"
+  },
+  {
+    "title": "Inside Rust at Embark 🦀. A peek inside our day-to-day work with… | by Ari V | Embark Studios | Medium",
+    "link": "https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4"
+  },
+  {
+    "title": "Status of rust-analyzer: Achievements and Open Collective  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-analyzer-status-opencollective/"
+  },
+  {
+    "title": "Rust Analyzer in 2018 and 2019  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-analyzer-2019/"
+  },
+  {
+    "title": "More on RLS version numbering",
+    "link": "https://www.ncameron.org/blog/more-on-rls-version-numbering/"
+  },
+  {
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs"
+  }
+]

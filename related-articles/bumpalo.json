@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Eight million pixels and counting\n– Custom allocators in Rust",
+    "link": "https://nical.github.io/posts/rust-custom-allocators.html"
+  },
+  {
+    "title": "When Zig is safer and faster than Rust",
+    "link": "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
+  },
+  {
+    "title": "Measuring the overhead of HashMaps in Rust | nicole@web",
+    "link": "https://ntietz.com/blog/rust-hashmap-overhead/"
+  },
+  {
+    "title": "El malabarista - TreeFlat: Building a (possible) faster tree for Rust, inspired by APL",
+    "link": "https://www.elmalabarista.com/blog/2022-flat-tree/"
+  },
+  {
+    "title": "Assorted thoughts on zig (and rust)",
+    "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
+  },
+  {
+    "title": "Performance Cheating | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/09/03/performance-cheating.html"
+  },
+  {
+    "title": "Graph &amp; Tree Traversals in Rust | Sachan Ganesh",
+    "link": "https://sachanganesh.com/programming/graph-tree-traversals-in-rust/"
+  },
+  {
+    "title": "Always Bump Downwards",
+    "link": "https://fitzgeraldnick.com/2019/11/01/always-bump-downwards.html"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "title": "On Tech Debt: My Rust Library is now a CDO | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2024/3/26/rust-cdo/"
+  },
+  {
+    "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
+    "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
+  },
+  {
+    "title": "The birth of a package manager | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
+  },
+  {
+    "title": "How to Test",
+    "link": "https://matklad.github.io/2021/05/31/how-to-test.html"
+  },
+  {
+    "title": "Everything Is Broken: Shipping rust-minidump at Mozilla - Part 1 - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/"
+  },
+  {
+    "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
+  },
+  {
+    "title": "Release of v0.7 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/02/02/release-0.7.html"
+  },
+  {
+    "title": "insta snapshots - Visual Studio Marketplace",
+    "link": "https://marketplace.visualstudio.com/items?itemName=mitsuhiko.insta"
+  },
+  {
+    "title": "Insta Snapshots",
+    "link": "https://insta.rs/"
+  },
+  {
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "title": "Writing a Compiler in Rust - Tristan Hume",
+    "link": "http://thume.ca/2019/04/18/writing-a-compiler-in-rust/"
+  }
+]

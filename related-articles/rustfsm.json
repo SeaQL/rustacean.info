@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Integrating a large Tokio-based Rust library with Haskell - Ian Duncan",
+    "link": "https://www.iankduncan.com/articles/2023-08-30-integrating-haskell-and-tokio"
+  },
+  {
+    "title": "Why Rust powers Temporal’s new Core SDK | Temporal Technologies",
+    "link": "https://docs.temporal.io/blog/why-rust-powers-core-sdk/"
+  }
+]

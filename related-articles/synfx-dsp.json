@@ -1,0 +1,22 @@
+[
+  {
+    "title": "WCT | HexoSynth Modular Synthesizer in Rust - Devlog #12: Documentation for me and you",
+    "link": "https://m8geil.de/posts/hexosynth-12/"
+  },
+  {
+    "title": "WCT | HexoSynth Modular Synthesizer in Rust - Devlog #11: VST3/CLAP Plugin Integration",
+    "link": "https://m8geil.de/posts/hexosynth-11/"
+  },
+  {
+    "title": "WCT | HexoSynth Modular Synthesizer in Rust - Devlog #10: Alpha-1 Release",
+    "link": "https://m8geil.de/posts/hexosynth-10/"
+  },
+  {
+    "title": "WCT | HexoSynth 2022 - Devlog #9 - MIDI Note and CC Handling",
+    "link": "https://m8geil.de/posts/hexosynth-9/"
+  },
+  {
+    "title": "WCT | HexoSynth 2022 - Devlog #8 - A Visual DSP Programming Language",
+    "link": "https://m8geil.de/posts/hexosynth-8/"
+  }
+]

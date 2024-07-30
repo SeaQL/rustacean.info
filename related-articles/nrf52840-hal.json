@@ -1,0 +1,18 @@
+[
+  {
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "title": "Getting Started with the nRF52840 in Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Getting-Started-with-the-nRF52840-in-Rust/"
+  },
+  {
+    "title": "Rusty-PID: Porting the TSic sensor from C to Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Rusty-PID-Porting-the-TSic-sensor-from-C-to-Rust/"
+  },
+  {
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  }
+]

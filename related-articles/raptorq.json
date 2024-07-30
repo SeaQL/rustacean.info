@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Building the fastest RaptorQ (RFC6330) codec in Rust",
+    "link": "https://www.cberner.com/2020/10/12/building-fastest-raptorq-rfc6330-codec-rust/"
+  },
+  {
+    "title": "RaptorQ (RFC6330) and performance optimization in Rust",
+    "link": "https://www.cberner.com/2019/03/30/raptorq-rfc6330-rust-optimization/"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
+  },
+  {
+    "title": "Knurling-rs changelog #13  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-13/"
+  },
+  {
+    "title": "Knurling-rs changelog #8  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-8/"
+  },
+  {
+    "title": "Getting Started with the nRF52840 in Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Getting-Started-with-the-nRF52840-in-Rust/"
+  },
+  {
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  }
+]

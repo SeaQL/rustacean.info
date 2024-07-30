@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Pinned places",
+    "link": "https://without.boats/blog/pinned-places/"
+  },
+  {
+    "title": "Pin",
+    "link": "https://without.boats/blog/pin/"
+  },
+  {
+    "title": "Overview: Safe Pinned Initialization | blog",
+    "link": "https://y86-dev.github.io/blog/safe-pinned-initialization/overview.html"
+  },
+  {
+    "title": "Futures Nostalgia",
+    "link": "https://fasterthanli.me/articles/futures-nostalgia"
+  },
+  {
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "title": "Down and dirty with Future - Rust Crash Course lesson 8",
+    "link": "https://www.snoyman.com/blog/2019/12/rust-crash-course-08-down-dirty-future"
+  }
+]

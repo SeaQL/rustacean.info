@@ -1,0 +1,190 @@
+[
+  {
+    "title": "Easy Mode Rust — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2024/03/28/easy.html"
+  },
+  {
+    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
+    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
+  },
+  {
+    "title": "Synchronizing state with Websockets and JSON Patch",
+    "link": "https://cetra3.github.io/blog/synchronising-with-websocket/"
+  },
+  {
+    "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
+    "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
+  },
+  {
+    "title": "Maik Klein",
+    "link": "https://maikklein.github.io/unreal-rust-1/"
+  },
+  {
+    "title": "Update-informer v0.5.0 – Mikhail Grachev's blog",
+    "link": "https://www.mgrachev.com/2022/08/29/update-informer-v050/"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0/"
+  },
+  {
+    "title": "Rust is hard, yes, but does it matter? | Lobsters",
+    "link": "https://lobste.rs/s/ksj3ii/rust_is_hard_yes_does_it_matter"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/mnemos-initial-release/"
+  },
+  {
+    "title": "Update-informer: a highly customizable Rust library for CLI apps by Evrone",
+    "link": "https://evrone.com/update-informer"
+  },
+  {
+    "title": "Validating JSON input in Rust web services | Vinted Engineering",
+    "link": "https://vinted.engineering/2021/02/15/validating-json-input-in-rust-web-services/"
+  },
+  {
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "title": "Taking Rust for a Test Drive  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-test-drive/"
+  },
+  {
+    "title": "How I Implemented /dev/printerfact in Rust - Xe Iaso",
+    "link": "https://christine.website/blog/dev-printerfact-2021-04-17"
+  },
+  {
+    "title": "Rust: Beware of Escape Sequences \\n | by Dominic E. | Medium",
+    "link": "https://d3lm.medium.com/rust-beware-of-escape-sequences-85ec90e9e243#ee0e-58229fc84d02"
+  },
+  {
+    "title": "Parsing real-world data with Rust: introducing the alias_all attribute in Serde · deaddabe",
+    "link": "https://deaddabe.fr/blog/2021/01/27/parsing-real-world-data-with-rust-introducing-the-alias_all-attribute-in-serde/"
+  },
+  {
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/still-rusting-one-year-later/"
+  },
+  {
+    "title": "TL;DR Rust - Xe Iaso",
+    "link": "https://christine.website/blog/TLDR-rust-2020-09-19"
+  },
+  {
+    "title": "Type-directed metaprogramming in Rust | Will Crichton",
+    "link": "https://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
+  },
+  {
+    "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"
+  },
+  {
+    "title": "Rust at OneSignal",
+    "link": "https://onesignal.com/blog/rust-at-onesignal/"
+  },
+  {
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/kubernetes-a-rusty-friendship/"
+  },
+  {
+    "title": "Generic Newtypes: A way to work around the orphan rule | Thomas Eizinger",
+    "link": "https://blog.eizinger.io/8593/generic-newtypes-a-way-to-work-around-the-orphan-rule"
+  },
+  {
+    "title": "Runtime Configuration Reloading | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
+  },
+  {
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
+    "title": "Face Detection with Tensorflow Rust",
+    "link": "https://cetra3.github.io/blog/face-detection-with-tensorflow-rust/"
+  },
+  {
+    "title": "Parsing logs 230x faster with Rust",
+    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
+  },
+  {
+    "title": "pest. The Elegant Parser",
+    "link": "https://pest.rs"
+  },
+  {
+    "title": "Serde Deserialize This or That into u64",
+    "link": "https://noyez.gitlab.io/post/2018-08-28-serilize-this-or-that-into-u64/"
+  },
+  {
+    "title": "The Secret Life of Cows - Pascal’s Scribbles",
+    "link": "https://deterministic.space/secret-life-of-cows.html"
+  },
+  {
+    "title": "Migrating to Actix Web from Rocket for Stability",
+    "link": "https://nbsoftsolutions.com/blog/migrating-to-actix-web-from-rocket-for-stability"
+  },
+  {
+    "title": "Type-directed metaprogramming in Rust | Will Crichton",
+    "link": "http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
+  },
+  {
+    "title": "show_notes::cysk::serde - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/serde/"
+  },
+  {
+    "title": "Karol Kuczmarski's Blog – Unfolding a Stream of paginated&nbsp;items",
+    "link": "http://xion.io/post/code/rust-unfold-pagination.html"
+  },
+  {
+    "title": "WebRender capture infrastructure",
+    "link": "https://kvark.github.io/webrender/debug/ron/2018/01/23/wr-capture-infra.html"
+  },
+  {
+    "title": "Replacing Elasticsearch with Rust and SQLite",
+    "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"
+  },
+  {
+    "title": "Portability concerns with Path · udoprog",
+    "link": "https://udoprog.github.io/rust/2017-11-05/portability-concerns-with-path.html"
+  },
+  {
+    "title": "Gotham web framework",
+    "link": "https://gotham.rs/blog"
+  },
+  {
+    "title": "Rust and CSV parsing - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/csv/"
+  },
+  {
+    "title": "Rust and Vala – Daniel Espinosa",
+    "link": "https://blogs.gnome.org/despinosa/2016/11/01/rust-and-vala/"
+  },
+  {
+    "title": "Overview · Serde",
+    "link": "https://serde.rs/"
+  },
+  {
+    "title": "show_notes::bonus::_7 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_7/"
+  },
+  {
+    "title": "Things you could do with the Rust AST",
+    "link": "http://kamalmarhubi.com/blog/2016/06/02/playing-with-the-rust-ast/"
+  },
+  {
+    "title": "The highs and lows of Rust | \nJimmy Cuadra",
+    "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust/"
+  },
+  {
+    "title": "Serde 0.7 - Chasing Rabbits",
+    "link": "https://erickt.github.io/blog/2016/02/26/serde-0-dot-7/"
+  },
+  {
+    "title": "Serde 0.5.0 - Many Many Changes - Chasing Rabbits",
+    "link": "https://erickt.github.io/blog/2015/08/07/serde-0-dot-5-0-many-many-changes/"
+  }
+]

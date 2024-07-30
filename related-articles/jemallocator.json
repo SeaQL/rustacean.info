@@ -1,0 +1,26 @@
+[
+  {
+    "title": "What is in a Rust Allocator?",
+    "link": "https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/"
+  },
+  {
+    "title": "Securing the Web: Rustls on track to outperform OpenSSL - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rustls-performance/"
+  },
+  {
+    "title": "Let’s overtake go/fasthttp with rust/warp | by Gleb Pomykalov | Medium",
+    "link": "https://medium.com/@glebpomykalov/lets-overtake-go-fasthttp-with-rust-hyper-b2d1004914f"
+  },
+  {
+    "title": "How to Deal with Out-of-memory Conditions in Rust | CrowdStrike",
+    "link": "https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/"
+  },
+  {
+    "title": "Building Rust binaries in CI that work with older GLIBC | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/ci/2021/05/07/building-rust-binaries-in-ci-that-work-with-older-glibc.html"
+  },
+  {
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  }
+]

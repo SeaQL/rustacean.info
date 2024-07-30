@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Tony's Blog",
+    "link": "https://antoniosbarotsis.github.io/posts/simple_rust_macros/"
+  },
+  {
+    "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
+    "link": "https://tinkering.xyz/fmo-optimization-story/"
+  },
+  {
+    "title": "Rust 2021",
+    "link": "https://hsivonen.fi/rust2021/"
+  }
+]

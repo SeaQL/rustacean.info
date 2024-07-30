@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
+  },
+  {
+    "title": "tower - Rust",
+    "link": "https://docs.rs/tower"
+  },
+  {
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  }
+]

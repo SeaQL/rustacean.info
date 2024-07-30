@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Welcome - 100 Exercises To Learn Rust",
+    "link": "https://rust-exercises.com/"
+  },
+  {
+    "title": "Rust for JavaScript Developers: An Overview of Testing",
+    "link": "https://www.shuttle.rs/blog/2023/11/08/testing-in-rust"
+  },
+  {
+    "title": "Mocking in Rust: Mockall and alternatives - LogRocket Blog",
+    "link": "https://blog.logrocket.com/mocking-rust-mockall-alternatives"
+  }
+]

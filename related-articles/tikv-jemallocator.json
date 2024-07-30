@@ -1,0 +1,10 @@
+[
+  {
+    "title": "How to improve Rust compiler’s CI in 2023 | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2023/07/30/optimizing-rust-ci-2023.html"
+  },
+  {
+    "title": "Measuring the overhead of HashMaps in Rust | nicole@web",
+    "link": "https://ntietz.com/blog/rust-hashmap-overhead/"
+  }
+]

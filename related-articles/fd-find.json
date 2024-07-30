@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Rust and Neovim - A Thorough Guide and Walkthrough | the trait",
+    "link": "https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/"
+  },
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-dynload/"
+  },
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  },
+  {
+    "title": "Oxidizing Fedora: Try Rust and its applications today - Fedora Magazine",
+    "link": "https://fedoramagazine.org/oxidizing-fedora-try-rust-applications-today/"
+  },
+  {
+    "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
+    "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
+  }
+]

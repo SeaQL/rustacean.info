@@ -1,0 +1,18 @@
+[
+  {
+    "title": "dtolnay::_04__triage_scale - Rust",
+    "link": "https://docs.rs/dtolnay/0.0.8/dtolnay/macro._04__triage_scale.html"
+  },
+  {
+    "title": "dtolnay::_03__soundness_bugs - Rust",
+    "link": "https://docs.rs/dtolnay/0.0.7/dtolnay/macro._03__soundness_bugs.html"
+  },
+  {
+    "title": "dtolnay::_02__reference_types - Rust",
+    "link": "https://docs.rs/dtolnay/0.0.6/dtolnay/macro._02__reference_types.html"
+  },
+  {
+    "title": "dtolnay::_01__await_a_minute - Rust",
+    "link": "https://docs.rs/dtolnay/0.0.5/dtolnay/macro._01__await_a_minute.html"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "title": "Novel way to Develop, Test and Document C libraries from Rust · Blog · Wasmer",
+    "link": "https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust"
+  },
+  {
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
+  }
+]

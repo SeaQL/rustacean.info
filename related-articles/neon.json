@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Announcing NAPI-RS v2 – NAPI-RS",
+    "link": "https://napi.rs/blog/announce-v2"
+  },
+  {
+    "title": "Expose a Rust Library to Other Languages — Slint Blog",
+    "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
+  },
+  {
+    "title": "Home – NAPI-RS",
+    "link": "https://napi.rs"
+  },
+  {
+    "title": "Calling C# natively from Rust.. …or how CMake drove me to create an… | by Ronny Chan | Medium",
+    "link": "https://medium.com/@chyyran/calling-c-natively-from-rust-1f92c506289d"
+  },
+  {
+    "title": "Building a fast Electron app with Rust",
+    "link": "https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/"
+  },
+  {
+    "title": "Neon Wants Your Help!",
+    "link": "http://calculist.org/blog/2017/09/25/neon-wants-your-help/"
+  },
+  {
+    "title": "Speeding up crypto on Wire desktop apps | by Wire | Medium",
+    "link": "https://medium.com/@wireapp/speeding-up-crypto-on-wire-desktop-apps-3ff37fc98c3f"
+  }
+]

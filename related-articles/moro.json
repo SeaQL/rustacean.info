@@ -1,0 +1,18 @@
+[
+  {
+    "title": "FuturesUnordered and the order of futures",
+    "link": "https://without.boats/blog/futures-unordered/"
+  },
+  {
+    "title": "`for await` and the battle of buffered streams - Tyler Mandry",
+    "link": "https://tmandry.gitlab.io/blog/posts/for-await-buffered-streams/"
+  },
+  {
+    "title": "The Scoped Task trilemma",
+    "link": "https://without.boats/blog/the-scoped-task-trilemma/"
+  },
+  {
+    "title": "Rust 2024...the year of everywhere? · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/"
+  }
+]

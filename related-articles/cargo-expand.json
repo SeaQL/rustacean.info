@@ -1,0 +1,66 @@
+[
+  {
+    "title": "derive_more - Rust",
+    "link": "https://docs.rs/derive_more"
+  },
+  {
+    "title": "One step forward, an easier interoperability between Rust and Haskell | IOG Engineering",
+    "link": "https://engineering.iog.io/2023-01-26-hs-bindgen-introduction/"
+  },
+  {
+    "title": "Free Masen",
+    "link": "https://freemasen.com/blog/sqlite-parser-pt4/index.html"
+  },
+  {
+    "title": "Yet Another GitHub Profile Generator - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/"
+  },
+  {
+    "title": "lowering async await in rust - wiki",
+    "link": "https://wiki.cont.run/lowering-async-await-in-rust/"
+  },
+  {
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "title": "Understanding #[derive(Clone)] in Rust - Stegosaurus Dormant",
+    "link": "https://stegosaurusdormant.com/understanding-derive-clone/"
+  },
+  {
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 4) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt4/"
+  },
+  {
+    "title": "Rust after the honeymoon – The Observation Deck",
+    "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
+  },
+  {
+    "title": "Writing Non-Trivial Macros in Rust · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/non-trivial-macros/"
+  },
+  {
+    "title": "Understanding Serde",
+    "link": "https://www.joshmcguigan.com/blog/understanding-serde/"
+  },
+  {
+    "title": "Implementing a static stack usage analysis tool | Embedded in Rust",
+    "link": "https://blog.japaric.io/stack-analysis/"
+  },
+  {
+    "title": "Why Rust Has Macros · Bloggedy blog",
+    "link": "https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/"
+  },
+  {
+    "title": "RTFM v2: simpler, less overhead and more device support | Embedded in Rust",
+    "link": "http://blog.japaric.io/rtfm-v2/"
+  },
+  {
+    "title": "Debugging Rust's new Custom Derive system | Light Fiction",
+    "link": "https://quodlibetor.github.io/posts/debugging-rusts-new-custom-derive-system/"
+  }
+]

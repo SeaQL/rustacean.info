@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Building Your Own Error Type: Part 1 | New to Me Things",
+    "link": "https://yaah.dev/building-your-own-error-type"
+  },
+  {
+    "title": "What's New in Rust 1.42 and 1.43 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/014-rust-1.42-1.43/"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
+  },
+  {
+    "title": "Rust GraphQL webserver with Warp, Juniper and MongoDB",
+    "link": "http://alex.amiran.it/post/2018-08-16-rust-graphql-webserver-with-warp-juniper-and-mongodb.html"
+  },
+  {
+    "title": "The Rust Language and Special Cases — Infinite Negative Utility",
+    "link": "https://blog.infinitenegativeutility.com/2018/6/the-rust-language-and-special-cases"
+  },
+  {
+    "title": "#Rust2018 : Don’t be the new Haskell | by Tibo Delor | HackerNoon.com | Medium",
+    "link": "https://medium.com/@tibotz/rust-2018-dont-be-the-new-haskell-a383dbd74481"
+  },
+  {
+    "title": "Failure 0.1.1 released",
+    "link": "https://boats.gitlab.io/blog/post/2017-11-30-failure-0-1-1/"
+  },
+  {
+    "title": "Announcing Failure",
+    "link": "https://boats.gitlab.io/blog/post/2017-11-16-announcing-failure/"
+  },
+  {
+    "title": "Error Handling in Rust - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/rust-error-handling/"
+  }
+]

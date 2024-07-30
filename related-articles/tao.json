@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Using Tauri to build a cross-platform security app",
+    "link": "https://www.firezone.dev/blog/using-tauri"
+  },
+  {
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "title": "Tauri vs. Electron for Tray Apps. Build a desktop tray starter app using… | by Dotan Nahum | Better Programming",
+    "link": "https://betterprogramming.pub/tauri-vs-electron-for-tray-apps-ed15974f35ce"
+  },
+  {
+    "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
+    "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
+  },
+  {
+    "title": "Advice for the next dozen Rust GUIs | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
+  }
+]

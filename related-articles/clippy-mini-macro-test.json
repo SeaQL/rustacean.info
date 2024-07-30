@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Declarative Rust static analysis",
+    "link": "http://blog.lambdaverse.org/comacro"
+  },
+  {
+    "title": "The Future of Clippy - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2018/06/05/the-future-of-clippy-the-rust-linter/"
+  },
+  {
+    "title": "Unit Testing | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/unit-testing/"
+  },
+  {
+    "title": "Deciding if two types are equal — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/03/15/types.html"
+  },
+  {
+    "title": "Looking in on Rust in 2018 · Bloggedy blog",
+    "link": "https://kasma1990.gitlab.io/2018/01/07/looking-in-on-rust-in-2018/"
+  },
+  {
+    "title": "Make Docs Into Code — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2017/08/20/docs.html"
+  },
+  {
+    "title": "These Weeks in Dev-tools #1",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-1/"
+  },
+  {
+    "title": "A hundred lints — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/01/28/hundred-lints.html"
+  }
+]

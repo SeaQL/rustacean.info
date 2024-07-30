@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Billion-row challenge: Rust walkthrough | AmineDiro",
+    "link": "https://aminediro.com/posts/billion_row/"
+  },
+  {
+    "title": "Why stdout is faster than stderr? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/stdout-vs-stderr/"
+  },
+  {
+    "title": "Pavex, progress report #4: performance is a feature | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-04/"
+  },
+  {
+    "title": "How to speed up the Rust compiler in March 2023 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html"
+  },
+  {
+    "title": "Improving async Rust codegen",
+    "link": "https://swatinem.de/blog/improving-async-codegen/"
+  }
+]

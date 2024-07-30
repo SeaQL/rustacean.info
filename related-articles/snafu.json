@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Beginner's guide to Error Handling in Rust",
+    "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
+  },
+  {
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
+  },
+  {
+    "title": "Thoughts on Error Handling in Rust · Lukasʼ Blog",
+    "link": "https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html"
+  },
+  {
+    "title": "6 useful Rust macros that you might not have seen before | by Ben | Medium",
+    "link": "https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5"
+  }
+]

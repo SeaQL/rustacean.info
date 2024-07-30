@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Welcome to Shuttle's Docs - Start Building Backends Fast - Shuttle",
+    "link": "https://docs.shuttle.rs/tutorials/rest-http-service-with-axum"
+  },
+  {
+    "title": "Taking Rust to the Cloud: Blazingly Fast File Sharing - Orhun's Blog",
+    "link": "https://blog.orhun.dev/blazingly-fast-file-sharing/"
+  },
+  {
+    "title": "Is Rust a worthy contender for web development?",
+    "link": "https://joshmo.hashnode.dev/can-rust-beat-javascript-in-2023"
+  },
+  {
+    "title": "Getting Started with Rust &amp; GPT-3",
+    "link": "https://www.shuttle.rs/blog/2023/03/01/getting-started-with-rust-and-gpt"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Build with Naz : Box and Pin exploration in Rust | developerlife.com",
+    "link": "https://developerlife.com/2024/07/16/pin-box-dynamic-duo"
+  },
+  {
+    "title": "Build with Naz : Rust async in practice tokio::select!, actor pattern &amp; cancel safety | developerlife.com",
+    "link": "https://developerlife.com/2024/07/10/rust-async-cancellation-safety-tokio/"
+  },
+  {
+    "title": "Build with Naz : Markdown parser in Rust and nom from r3bl_tui | developerlife.com",
+    "link": "https://developerlife.com/2024/06/28/md-parser-rust-from-r3bl-tui/"
+  },
+  {
+    "title": "Build with Naz : Comprehensive guide to nom parsing | developerlife.com",
+    "link": "https://developerlife.com/2023/02/20/guide-to-nom-parsing/"
+  },
+  {
+    "title": "Build with Naz : Rust error handling with miette | developerlife.com",
+    "link": "https://developerlife.com/2024/06/10/rust-miette-error-handling/"
+  },
+  {
+    "title": "Build with Naz : Rust typestate pattern | developerlife.com",
+    "link": "https://developerlife.com/2024/05/28/typestate-pattern-rust/"
+  },
+  {
+    "title": "Build with Naz : Linux io_uring and tokio-uring exploration with Rust | developerlife.com",
+    "link": "https://developerlife.com/2024/05/25/tokio-uring-exploration-rust/"
+  },
+  {
+    "title": "Build with Naz : Rust async, non-blocking, concurrent, parallel, event loops, graceful shutdown | developerlife.com",
+    "link": "https://developerlife.com/2024/05/19/effective-async-rust/"
+  },
+  {
+    "title": "Build with Naz : Rust Polymorphism, dyn, impl, using existing traits, trait objects for testing and extensibility | developerlife.com",
+    "link": "https://developerlife.com/2024/04/28/rust-polymorphism-dyn-impl-trait-objects-for-testing-and-extensibiity/"
+  },
+  {
+    "title": "Build with Naz : Build interactive and non blocking CLI apps with ease in Rust using r3bl_terminal_async | developerlife.com",
+    "link": "https://developerlife.com/2024/04/21/build-async-interactive-cli-apps-in-rust/"
+  },
+  {
+    "title": "Write a simple TCP chat server in Rust | developerlife.com",
+    "link": "https://developerlife.com/2024/01/13/write-simple-chat-server-in-rust/"
+  },
+  {
+    "title": "Write a simple netcat client and server in Rust | developerlife.com",
+    "link": "https://developerlife.com/2024/01/13/write-simple-netcat-in-rust/"
+  },
+  {
+    "title": "tuify your clap CLI apps and make them more interactive | developerlife.com",
+    "link": "https://developerlife.com/2023/09/17/tuify-clap/"
+  },
+  {
+    "title": "Use just to manage project specific commands | developerlife.com",
+    "link": "https://developerlife.com/2023/08/28/justfile/"
+  },
+  {
+    "title": "Write a Redux library in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/12/rust-redux/"
+  },
+  {
+    "title": "Create a simple DSL for CSS like syntax for TUIs | developerlife.com",
+    "link": "https://developerlife.com/2022/08/04/rust-dsl-part-1/"
+  },
+  {
+    "title": "Build a grep CLI app in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/02/rust-grep-cli-app/"
+  },
+  {
+    "title": "Build a non-binary tree that is thread safe using Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/02/24/rust-non-binary-tree/"
+  },
+  {
+    "title": "Write code using async/await in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/12/rust-tokio/"
+  },
+  {
+    "title": "Guide to Rust procedural macros | developerlife.com",
+    "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "title": "smol with John Nunley :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/john-nunley/"
+  },
+  {
+    "title": "Building a new graphics engine in Rust - Part 2 – Alex Dixon",
+    "link": "https://www.polymonster.co.uk/blog/bulding-new-engine-in-rust-2"
+  },
+  {
+    "title": "Why we built a custom Rust library for Capture - Dropbox",
+    "link": "https://dropbox.tech/application/why-we-built-a-custom-rust-library-for-capture"
+  },
+  {
+    "title": "Microsoft Opens Up Old Win32 APIs to C# and Rust, More Languages to Come -- Visual Studio Magazine",
+    "link": "https://visualstudiomagazine.com/articles/2021/01/21/win32-apis.aspx"
+  }
+]

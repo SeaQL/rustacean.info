@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Xilem 2024 plans - Linebender",
+    "link": "https://linebender.org/blog/xilem-2024/"
+  },
+  {
+    "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+  },
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "title": "Announcing Relm4 v0.1 | Eberhardt blog",
+    "link": "https://aaronerhardt.github.io/blog/posts/announcing_relm4/"
+  },
+  {
+    "title": "Relm4 beta released 🎉 | Eberhardt blog",
+    "link": "https://aaronerhardt.github.io/blog/posts/relm_beta/"
+  },
+  {
+    "title": "A big release for relm",
+    "link": "https://relm.antoyo.xyz/big-release/"
+  },
+  {
+    "title": "Towards principled reactive UI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html"
+  },
+  {
+    "title": "Tutorial",
+    "link": "https://relm.antoyo.xyz/documentation/tutorial/"
+  },
+  {
+    "title": "Rust vs GUI",
+    "link": "https://turbomack.github.io/posts/2019-07-28-rust-vs-gui.html"
+  },
+  {
+    "title": "Entity-Component-System architecture for UI in Rust | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/personal/2018/05/08/ecs-ui.html"
+  }
+]

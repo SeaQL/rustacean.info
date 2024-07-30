@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Why Static Languages Suffer From Complexity",
+    "link": "https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity"
+  },
+  {
+    "title": "Rust's Type System is Turing-Complete – Recursive Descent into Madness – A countable set of sanities and insanities, by Shea Leffler.",
+    "link": "https://sdleffler.github.io/RustTypeSystemTuringComplete/"
+  },
+  {
+    "title": "Type-level Programming in Rust | Will Crichton",
+    "link": "https://willcrichton.net/notes/type-level-programming/"
+  },
+  {
+    "title": "Type-level Programming in Rust | Will Crichton",
+    "link": "http://willcrichton.net/notes/type-level-programming/"
+  }
+]

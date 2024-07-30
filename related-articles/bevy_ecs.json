@@ -1,0 +1,210 @@
+[
+  {
+    "title": "Bevy 0.14",
+    "link": "https://bevyengine.org/news/bevy-0-14/"
+  },
+  {
+    "title": "Virtual Geometry in Bevy 0.14",
+    "link": "https://jms55.github.io/posts/2024-06-09-virtual-geometry-bevy-0-14/"
+  },
+  {
+    "title": "BD103: \"@Corax42@mastodon.social The window is 512x512, b…\" - Hachyderm.io",
+    "link": "https://hachyderm.io/@bd103/112318610927827520"
+  },
+  {
+    "title": "Bevy Foundation",
+    "link": "https://bevyengine.org/news/bevy-foundation/"
+  },
+  {
+    "title": "Bevy 0.13",
+    "link": "https://bevyengine.org/news/bevy-0-13/"
+  },
+  {
+    "title": "Bevy Engine",
+    "link": "https://bevyengine.org"
+  },
+  {
+    "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/048/"
+  },
+  {
+    "title": "Running a Bevy game in SvelteKit - sneaky crow",
+    "link": "https://sneakycrow.dev/blog/2023-07-30-bevy-game-in-svelte-kit"
+  },
+  {
+    "title": "This Month in Rust GameDev #47 - June 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/047/"
+  },
+  {
+    "title": "Bevy 0.11",
+    "link": "https://bevyengine.org/news/bevy-0-11/"
+  },
+  {
+    "title": "Bevy XPBD: A physics engine for the Bevy game engine - Joona Aalto",
+    "link": "https://joonaa.dev/blog/02/bevy-xpbd-0-1-0"
+  },
+  {
+    "title": "This Month in Rust GameDev #46 - May 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/046/"
+  },
+  {
+    "title": "Bevy + WebGPU",
+    "link": "https://bevyengine.org/news/bevy-webgpu/"
+  },
+  {
+    "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/044/"
+  },
+  {
+    "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/043/"
+  },
+  {
+    "title": "Bevy 0.10",
+    "link": "https://bevyengine.org/news/bevy-0-10/"
+  },
+  {
+    "title": "This Month in Rust GameDev #42 - January 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/042/"
+  },
+  {
+    "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/041/"
+  },
+  {
+    "title": "This Month in Rust GameDev #40 - November 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/040/"
+  },
+  {
+    "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/039/"
+  },
+  {
+    "title": "Bevy 0.9",
+    "link": "https://bevyengine.org/news/bevy-0-9/"
+  },
+  {
+    "title": "Magical handler functions in Rust | Lunatic",
+    "link": "https://lunatic.solutions/blog/magic-handler-functions-in-rust/"
+  },
+  {
+    "title": "This Month in Rust GameDev #38 - September 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/038/"
+  },
+  {
+    "title": "This Month in Rust GameDev #37 - August 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/037/"
+  },
+  {
+    "title": "Rust Bevy Entity Component System - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-bevy-entity-component-system/"
+  },
+  {
+    "title": "Get Started with Rust: Structs",
+    "link": "https://serokell.io/blog/structs-in-rust"
+  },
+  {
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "title": "Bevy 0.8",
+    "link": "https://bevyengine.org/news/bevy-0-8/"
+  },
+  {
+    "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/035/"
+  },
+  {
+    "title": "This Month in Rust GameDev #33 - April 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/033/"
+  },
+  {
+    "title": "Bevy 0.7",
+    "link": "https://bevyengine.org/news/bevy-0-7/"
+  },
+  {
+    "title": "This Month in Rust GameDev #31 - February 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/031/"
+  },
+  {
+    "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/030/"
+  },
+  {
+    "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/029/"
+  },
+  {
+    "title": "Tutorial: Writing a Tiny Rust Game Engine for Web",
+    "link": "https://ianjk.com/game-engine-in-rust/"
+  },
+  {
+    "title": "Bevy 0.6",
+    "link": "https://bevyengine.org/news/bevy-0-6/"
+  },
+  {
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "title": "This Month in Rust GameDev #27 - October 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/027/"
+  },
+  {
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/025/"
+  },
+  {
+    "title": "Bevy's First Birthday",
+    "link": "https://bevyengine.org/news/bevys-first-birthday/"
+  },
+  {
+    "title": "This Month in Rust GameDev #22 - May 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/022/"
+  },
+  {
+    "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/021/"
+  },
+  {
+    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/020/"
+  },
+  {
+    "title": "Bevy 0.5",
+    "link": "https://bevyengine.org/news/bevy-0-5/"
+  },
+  {
+    "title": "Tutorial: Writing a tiny Entity Component System in Rust",
+    "link": "https://ianjk.com/ecs-in-rust/"
+  },
+  {
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "title": "Bevy 0.4",
+    "link": "https://bevyengine.org/news/bevy-0-4/"
+  },
+  {
+    "title": "Announcing the Rapier physics engine | Dimforge",
+    "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
+  },
+  {
+    "title": "Scaling Bevy",
+    "link": "https://bevyengine.org/news/scaling-bevy/"
+  }
+]

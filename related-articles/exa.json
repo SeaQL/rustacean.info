@@ -1,0 +1,46 @@
+[
+  {
+    "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
+  },
+  {
+    "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
+  },
+  {
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
+    "title": "Testing a driver crate  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-driver-crate/"
+  },
+  {
+    "title": "Testing a Hardware Abstraction Layer (HAL)  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt-test-hal/"
+  },
+  {
+    "title": "Rust is a hard way to make a web API - macwright.com",
+    "link": "https://macwright.com/2021/01/15/rust.html"
+  },
+  {
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  },
+  {
+    "title": "Oxidizing Fedora: Try Rust and its applications today - Fedora Magazine",
+    "link": "https://fedoramagazine.org/oxidizing-fedora-try-rust-applications-today/"
+  },
+  {
+    "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
+    "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
+  },
+  {
+    "title": "This Week in Redox 32 - Redox - Your Next(Gen) OS",
+    "link": "https://www.redox-os.org/news/this-week-in-redox-32/"
+  },
+  {
+    "title": "exa · a modern replacement for ls",
+    "link": "https://the.exa.website"
+  }
+]
