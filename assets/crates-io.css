@@ -1164,15 +1164,15 @@ noscript {
     --search-form-focus-shadow: 0 0 0 var(--space-3xs) var(--yellow500);
 
     border: none;
-    --csstools-light-dark-toggle--21: var(--csstools-color-scheme--dark) black;
-    color: var(--csstools-light-dark-toggle--21, var(--main-color));
-    --csstools-light-dark-toggle--22: var(--csstools-color-scheme--dark) white;
-    background: var(--csstools-light-dark-toggle--22, hsl(0, 1%, 19%));
+    --csstools-light-dark-toggle--22: var(--csstools-color-scheme--dark) black;
+    color: var(--csstools-light-dark-toggle--22, var(--main-color));
+    --csstools-light-dark-toggle--23: var(--csstools-color-scheme--dark) white;
+    background: var(--csstools-light-dark-toggle--23, hsl(0, 1%, 19%));
     width: 100%;
     padding: var(--input-padding) var(--input-padding-right) var(--input-padding) var(--input-padding-left);
     border-radius: var(--border-radius);
-    --csstools-light-dark-toggle--23: var(--csstools-color-scheme--dark) var(--green900);
-    box-shadow: 1px 2px 4px 0 var(--csstools-light-dark-toggle--23, hsl(111, 10%, 8%));
+    --csstools-light-dark-toggle--24: var(--csstools-color-scheme--dark) var(--green900);
+    box-shadow: 1px 2px 4px 0 var(--csstools-light-dark-toggle--24, hsl(111, 10%, 8%));
     transition: box-shadow var(--transition-fast);
 }
 
@@ -1254,8 +1254,8 @@ noscript {
     list-style: none;
     border-radius: var(--space-3xs);
     background-color: var(--header-bg-color);
-    --csstools-light-dark-toggle--24: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--24, #232321);
+    --csstools-light-dark-toggle--25: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--25, #232321);
 }
 
 ._token-list_p8odmp > * {
@@ -1263,8 +1263,8 @@ noscript {
     }
 
 ._token-list_p8odmp > * + * {
-        --csstools-light-dark-toggle--25: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--25, #424242);
+        --csstools-light-dark-toggle--26: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--26, #424242);
     }
 
 ._name_p8odmp {
@@ -1353,8 +1353,8 @@ noscript {
 }
 
 ._copy-button_p8odmp:hover {
-        --csstools-light-dark-toggle--26: var(--csstools-color-scheme--dark) #ddd8b2;
-        color: var(--csstools-light-dark-toggle--26, #65655e);
+        --csstools-light-dark-toggle--27: var(--csstools-color-scheme--dark) #ddd8b2;
+        color: var(--csstools-light-dark-toggle--27, #65655e);
     }
 
 ._copy-button-label_p8odmp {
@@ -1502,8 +1502,8 @@ noscript {
 ._list_3a7a8o {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--27: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--27, #232321);
+    --csstools-light-dark-toggle--28: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--28, #232321);
     margin-bottom: var(--space-s);
 }
 
@@ -1512,8 +1512,8 @@ noscript {
     }
 
 ._list_3a7a8o > * + * {
-        --csstools-light-dark-toggle--28: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--28, #424242);
+        --csstools-light-dark-toggle--29: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--29, #424242);
     }
 
 ._crate-count_3a7a8o {
@@ -1543,8 +1543,8 @@ noscript {
 ._subcategories_1tl449 {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--29: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--29, #232321);
+    --csstools-light-dark-toggle--30: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--30, #232321);
     margin-bottom: var(--space-s);
 }
 
@@ -1553,8 +1553,8 @@ noscript {
     }
 
 ._subcategories_1tl449 > * + * {
-        --csstools-light-dark-toggle--30: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--30, #424242);
+        --csstools-light-dark-toggle--31: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--31, #424242);
     }
 
 ._crate-count_1tl449,
@@ -1636,8 +1636,8 @@ noscript {
 ._list_ill4ud {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--31: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--31, #232321);
+    --csstools-light-dark-toggle--32: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--32, #232321);
 }
 
 ._list_ill4ud > * {
@@ -1649,8 +1649,8 @@ noscript {
     }
 
 ._list_ill4ud > * + * {
-        --csstools-light-dark-toggle--32: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--32, #232321);
+        --csstools-light-dark-toggle--33: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--33, #232321);
     }
 
 ._email-column_ill4ud {
@@ -1670,8 +1670,8 @@ noscript {
     }
 
 ._docs_1ph5zq {
-    --csstools-light-dark-toggle--33: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--33, #232321);
+    --csstools-light-dark-toggle--34: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--34, #232321);
 
     margin-bottom: var(--space-l);
     padding: var(--space-m) var(--space-l);
@@ -1681,8 +1681,8 @@ noscript {
 }
 
 ._docs_1ph5zq * {
-    --csstools-light-dark-toggle--33: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--33, #232321);
+    --csstools-light-dark-toggle--34: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--34, #232321);
 }
 
 @media only screen and (max-width: 550px) {
@@ -1999,8 +1999,8 @@ noscript {
     }
 
 ._feed-list_10qjad > * + * {
-        --csstools-light-dark-toggle--34: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--34, #232321);
+        --csstools-light-dark-toggle--35: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--35, #232321);
     }
 
 ._feed-version_10qjad {
@@ -2013,8 +2013,8 @@ noscript {
 
 ._load-more_10qjad {
     padding: var(--space-s);
-    --csstools-light-dark-toggle--35: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-    border-top: 1px solid var(--csstools-light-dark-toggle--35, #232321);
+    --csstools-light-dark-toggle--36: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+    border-top: 1px solid var(--csstools-light-dark-toggle--36, #232321);
 }
 
 ._load-more_10qjad button {
@@ -2024,14 +2024,14 @@ noscript {
         padding: var(--space-2xs);
         outline: 0;
         border: 0;
-        --csstools-light-dark-toggle--36: var(--csstools-color-scheme--dark) #dbd9cf;
-        background-color: var(--csstools-light-dark-toggle--36, #202023);
+        --csstools-light-dark-toggle--37: var(--csstools-color-scheme--dark) #dbd9cf;
+        background-color: var(--csstools-light-dark-toggle--37, #202023);
         color: white;
     }
 
 ._load-more_10qjad button:hover, ._load-more_10qjad button:focus {
-            --csstools-light-dark-toggle--37: var(--csstools-color-scheme--dark) #c5c2b2;
-            background-color: var(--csstools-light-dark-toggle--37, #26262b);
+            --csstools-light-dark-toggle--38: var(--csstools-color-scheme--dark) #c5c2b2;
+            background-color: var(--csstools-light-dark-toggle--38, #26262b);
         }
 
 /* styles for crates-io/styles/index.module.css */
@@ -2189,8 +2189,8 @@ noscript {
 ._list_gf7abo {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--38: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--38, #232321);
+    --csstools-light-dark-toggle--39: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--39, #232321);
     margin-bottom: var(--space-s);
 }
 
@@ -2199,8 +2199,8 @@ noscript {
     }
 
 ._list_gf7abo > * + * {
-        --csstools-light-dark-toggle--39: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--39, #424242);
+        --csstools-light-dark-toggle--40: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--40, #424242);
     }
 
 ._crate-count_gf7abo {
@@ -2330,15 +2330,15 @@ noscript {
 
 ._help-link_6v2mdb {
     flex-shrink: 0;
-    --csstools-light-dark-toggle--40: var(--csstools-color-scheme--dark) var(--grey600);
-    color: var(--csstools-light-dark-toggle--40, var(--grey700));
+    --csstools-light-dark-toggle--41: var(--csstools-color-scheme--dark) var(--grey600);
+    color: var(--csstools-light-dark-toggle--41, var(--grey700));
     padding: var(--space-3xs);
     margin: calc(-1 * var(--space-3xs));
 }
 
 ._help-link_6v2mdb:hover {
-        --csstools-light-dark-toggle--41: var(--csstools-color-scheme--dark) var(--grey700);
-        color: var(--csstools-light-dark-toggle--41, var(--grey600));
+        --csstools-light-dark-toggle--42: var(--csstools-color-scheme--dark) var(--grey700);
+        color: var(--csstools-light-dark-toggle--42, var(--grey600));
     }
 
 ._help-link_6v2mdb svg {
@@ -2370,8 +2370,8 @@ noscript {
 }
 
 ._base-input_6v2mdb[aria-invalid="true"] {
-        --csstools-light-dark-toggle--42: var(--csstools-color-scheme--dark) #fff2f2;
-        background: var(--csstools-light-dark-toggle--42, #170808);
+        --csstools-light-dark-toggle--43: var(--csstools-color-scheme--dark) #fff2f2;
+        background: var(--csstools-light-dark-toggle--43, #170808);
         border-color: red;
     }
 
@@ -2410,8 +2410,8 @@ noscript {
 }
 
 ._scopes-list_6v2mdb._invalid_6v2mdb {
-        --csstools-light-dark-toggle--43: var(--csstools-color-scheme--dark) #fff2f2;
-        background: var(--csstools-light-dark-toggle--43, #170808);
+        --csstools-light-dark-toggle--44: var(--csstools-color-scheme--dark) #fff2f2;
+        background: var(--csstools-light-dark-toggle--44, #170808);
         border-color: red;
     }
 
@@ -2477,8 +2477,8 @@ noscript {
     }
 
 ._crates-scope_6v2mdb._invalid_6v2mdb input {
-        --csstools-light-dark-toggle--44: var(--csstools-color-scheme--dark) #fff2f2;
-        background: var(--csstools-light-dark-toggle--44, #170808);
+        --csstools-light-dark-toggle--45: var(--csstools-color-scheme--dark) #fff2f2;
+        background: var(--csstools-light-dark-toggle--45, #170808);
         border-color: red;
     }
 
@@ -2495,10 +2495,10 @@ noscript {
     }
 
 ._crates-scope_6v2mdb > button:hover {
-            --csstools-light-dark-toggle--45: var(--csstools-color-scheme--dark) var(--grey200);
-            background: var(--csstools-light-dark-toggle--45, #333333);
-            --csstools-light-dark-toggle--46: var(--csstools-color-scheme--dark) var(--grey900);
-            color: var(--csstools-light-dark-toggle--46, white);
+            --csstools-light-dark-toggle--46: var(--csstools-color-scheme--dark) var(--grey200);
+            background: var(--csstools-light-dark-toggle--46, #333333);
+            --csstools-light-dark-toggle--47: var(--csstools-color-scheme--dark) var(--grey900);
+            color: var(--csstools-light-dark-toggle--47, white);
         }
 
 ._crates-scope_6v2mdb > button svg {
@@ -2536,8 +2536,8 @@ noscript {
 }
 
 ._crates-pattern-button_6v2mdb button:hover {
-        --csstools-light-dark-toggle--47: var(--csstools-color-scheme--dark) var(--grey200);
-        background: var(--csstools-light-dark-toggle--47, #333333);
+        --csstools-light-dark-toggle--48: var(--csstools-color-scheme--dark) var(--grey200);
+        background: var(--csstools-light-dark-toggle--48, #333333);
     }
 
 ._generate-button_6v2mdb {
@@ -2634,42 +2634,43 @@ noscript {
 
 /* styles for crates-io/components/article-list/row.module.css */
 ._row_1hx43t {
-    --csstools-light-dark-toggle--48: var(--csstools-color-scheme--dark) var(--grey200);
-    --bg-color: var(--csstools-light-dark-toggle--48, #242422);
-    --csstools-light-dark-toggle--49: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--49, hsl(204, 3%, 11%));
-    --csstools-light-dark-toggle--50: var(--csstools-color-scheme--dark) var(--grey700);
-    --fg-color: var(--csstools-light-dark-toggle--50, #ccc);
-    --csstools-light-dark-toggle--51: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--51, #232321);
+    --csstools-light-dark-toggle--49: var(--csstools-color-scheme--dark) var(--grey200);
+    --bg-color: var(--csstools-light-dark-toggle--49, #242422);
+    --csstools-light-dark-toggle--50: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--50, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--51: var(--csstools-color-scheme--dark) var(--grey700);
+    --fg-color: var(--csstools-light-dark-toggle--51, #ccc);
+    --csstools-light-dark-toggle--52: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--52, #232321);
 
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    align-items: flex-start;
     position: relative;
     font-size: 18px;
     padding: var(--space-s) var(--space-m);
     background-color: var(--header-bg-color);
-    --csstools-light-dark-toggle--52: var(--csstools-color-scheme--dark) #525252;
-    color: var(--csstools-light-dark-toggle--52, #f9f7ec);
+    --csstools-light-dark-toggle--53: var(--csstools-color-scheme--dark) #525252;
+    color: var(--csstools-light-dark-toggle--53, #f9f7ec);
     border-radius: var(--space-3xs);
     box-shadow: var(--shadow);
     transition: all var(--transition-slow);
 }
 ._row_1hx43t * {
-    --csstools-light-dark-toggle--48: var(--csstools-color-scheme--dark) var(--grey200);
-    --bg-color: var(--csstools-light-dark-toggle--48, #242422);
+    --csstools-light-dark-toggle--49: var(--csstools-color-scheme--dark) var(--grey200);
+    --bg-color: var(--csstools-light-dark-toggle--49, #242422);
 }
 ._row_1hx43t * {
-    --csstools-light-dark-toggle--49: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--49, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--50: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--50, hsl(204, 3%, 11%));
 }
 ._row_1hx43t * {
-    --csstools-light-dark-toggle--50: var(--csstools-color-scheme--dark) var(--grey700);
-    --fg-color: var(--csstools-light-dark-toggle--50, #ccc);
+    --csstools-light-dark-toggle--51: var(--csstools-color-scheme--dark) var(--grey700);
+    --fg-color: var(--csstools-light-dark-toggle--51, #ccc);
 }
 ._row_1hx43t * {
-    --csstools-light-dark-toggle--51: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--51, #232321);
+    --csstools-light-dark-toggle--52: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--52, #232321);
 }
 ._row_1hx43t:hover, ._row_1hx43t._focused_1hx43t {
         color: var(--yellow500);
@@ -2679,64 +2680,64 @@ noscript {
         box-shadow: 0 0 0 3px var(--yellow500), var(--shadow);
     }
 ._row_1hx43t._latest_1hx43t {
-        --csstools-light-dark-toggle--53: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
-        --bg-color: var(--csstools-light-dark-toggle--53, hsl(136, 67%, 11%));
-        --csstools-light-dark-toggle--54: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--54, hsl(109, 10%, 11%));
-        --csstools-light-dark-toggle--55: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
-        --fg-color: var(--csstools-light-dark-toggle--55, hsl(109, 75%, 87%));
+        --csstools-light-dark-toggle--54: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
+        --bg-color: var(--csstools-light-dark-toggle--54, hsl(136, 67%, 11%));
+        --csstools-light-dark-toggle--55: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--55, hsl(109, 10%, 11%));
+        --csstools-light-dark-toggle--56: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
+        --fg-color: var(--csstools-light-dark-toggle--56, hsl(109, 75%, 87%));
     }
 ._row_1hx43t._latest_1hx43t * {
-        --csstools-light-dark-toggle--53: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
-        --bg-color: var(--csstools-light-dark-toggle--53, hsl(136, 67%, 11%));
+        --csstools-light-dark-toggle--54: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
+        --bg-color: var(--csstools-light-dark-toggle--54, hsl(136, 67%, 11%));
 }
 ._row_1hx43t._latest_1hx43t * {
-        --csstools-light-dark-toggle--54: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--54, hsl(109, 10%, 11%));
+        --csstools-light-dark-toggle--55: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--55, hsl(109, 10%, 11%));
 }
 ._row_1hx43t._latest_1hx43t * {
-        --csstools-light-dark-toggle--55: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
-        --fg-color: var(--csstools-light-dark-toggle--55, hsl(109, 75%, 87%));
+        --csstools-light-dark-toggle--56: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
+        --fg-color: var(--csstools-light-dark-toggle--56, hsl(109, 75%, 87%));
 }
 ._row_1hx43t._prerelease_1hx43t {
-        --csstools-light-dark-toggle--56: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
-        --bg-color: var(--csstools-light-dark-toggle--56, hsl(39, 71%, 15%));
-        --csstools-light-dark-toggle--57: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--57, hsl(39, 10%, 11%));
-        --csstools-light-dark-toggle--58: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
-        --fg-color: var(--csstools-light-dark-toggle--58, hsl(39, 100%, 91%));
+        --csstools-light-dark-toggle--57: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
+        --bg-color: var(--csstools-light-dark-toggle--57, hsl(39, 71%, 15%));
+        --csstools-light-dark-toggle--58: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--58, hsl(39, 10%, 11%));
+        --csstools-light-dark-toggle--59: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
+        --fg-color: var(--csstools-light-dark-toggle--59, hsl(39, 100%, 91%));
     }
 ._row_1hx43t._prerelease_1hx43t * {
-        --csstools-light-dark-toggle--56: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
-        --bg-color: var(--csstools-light-dark-toggle--56, hsl(39, 71%, 15%));
+        --csstools-light-dark-toggle--57: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
+        --bg-color: var(--csstools-light-dark-toggle--57, hsl(39, 71%, 15%));
 }
 ._row_1hx43t._prerelease_1hx43t * {
-        --csstools-light-dark-toggle--57: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--57, hsl(39, 10%, 11%));
+        --csstools-light-dark-toggle--58: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--58, hsl(39, 10%, 11%));
 }
 ._row_1hx43t._prerelease_1hx43t * {
-        --csstools-light-dark-toggle--58: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
-        --fg-color: var(--csstools-light-dark-toggle--58, hsl(39, 100%, 91%));
+        --csstools-light-dark-toggle--59: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
+        --fg-color: var(--csstools-light-dark-toggle--59, hsl(39, 100%, 91%));
 }
 ._row_1hx43t._yanked_1hx43t {
-        --csstools-light-dark-toggle--59: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
-        --bg-color: var(--csstools-light-dark-toggle--59, hsl(0, 84%, 12%));
-        --csstools-light-dark-toggle--60: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--60, hsl(0, 10%, 11%));
-        --csstools-light-dark-toggle--61: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
-        --fg-color: var(--csstools-light-dark-toggle--61, hsl(0, 92%, 90%));
+        --csstools-light-dark-toggle--60: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
+        --bg-color: var(--csstools-light-dark-toggle--60, hsl(0, 84%, 12%));
+        --csstools-light-dark-toggle--61: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--61, hsl(0, 10%, 11%));
+        --csstools-light-dark-toggle--62: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
+        --fg-color: var(--csstools-light-dark-toggle--62, hsl(0, 92%, 90%));
     }
 ._row_1hx43t._yanked_1hx43t * {
-        --csstools-light-dark-toggle--59: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
-        --bg-color: var(--csstools-light-dark-toggle--59, hsl(0, 84%, 12%));
+        --csstools-light-dark-toggle--60: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
+        --bg-color: var(--csstools-light-dark-toggle--60, hsl(0, 84%, 12%));
 }
 ._row_1hx43t._yanked_1hx43t * {
-        --csstools-light-dark-toggle--60: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--60, hsl(0, 10%, 11%));
+        --csstools-light-dark-toggle--61: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--61, hsl(0, 10%, 11%));
 }
 ._row_1hx43t._yanked_1hx43t * {
-        --csstools-light-dark-toggle--61: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
-        --fg-color: var(--csstools-light-dark-toggle--61, hsl(0, 92%, 90%));
+        --csstools-light-dark-toggle--62: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
+        --fg-color: var(--csstools-light-dark-toggle--62, hsl(0, 92%, 90%));
 }
 ._row_1hx43t [title], ._row_1hx43t .ember-tooltip-target {
         position: relative;
@@ -2757,7 +2758,7 @@ noscript {
 
 ._version_1hx43t {
         grid-template-columns: auto;
-        margin: 0 var(--space-s);
+        /* margin: 0 var(--space-s); */
 }
     }
 
@@ -2774,8 +2775,8 @@ noscript {
     font-variant-numeric: tabular-nums;
     color: var(--fg-color);
     background-color: var(--bg-color);
-    --csstools-light-dark-toggle--62: var(--csstools-color-scheme--dark) white;
-    border: 1px solid var(--csstools-light-dark-toggle--62, #808080);
+    --csstools-light-dark-toggle--63: var(--csstools-color-scheme--dark) white;
+    border: 1px solid var(--csstools-light-dark-toggle--63, #808080);
     border-radius: 50%;
     transition: all var(--transition-fast);
 }
@@ -2786,10 +2787,10 @@ noscript {
     }
 
 ._row_1hx43t:hover ._release-track_1hx43t, ._row_1hx43t._focused_1hx43t ._release-track_1hx43t {
-        --csstools-light-dark-toggle--63: var(--csstools-color-scheme--dark) white;
-        border: var(--space-4xs) solid var(--csstools-light-dark-toggle--63, #bfbfbf);
-        --csstools-light-dark-toggle--64: var(--csstools-color-scheme--dark) var(--fg-color);
-        box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--64, #232321);
+        --csstools-light-dark-toggle--64: var(--csstools-color-scheme--dark) white;
+        border: var(--space-4xs) solid var(--csstools-light-dark-toggle--64, #bfbfbf);
+        --csstools-light-dark-toggle--65: var(--csstools-color-scheme--dark) var(--fg-color);
+        box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--65, #232321);
     }
 
 @media only screen and (max-width: 550px) {
@@ -2837,9 +2838,9 @@ noscript {
 
 ._metadata_1hx43t {
     flex-grow: 1;
-    margin-left: var(--space-m);
-    --csstools-light-dark-toggle--65: var(--csstools-color-scheme--dark) var(--grey600);
-    color: var(--csstools-light-dark-toggle--65, #d1cfc7);
+    margin-top: var(--space-3xs);
+    --csstools-light-dark-toggle--66: var(--csstools-color-scheme--dark) var(--grey600);
+    color: var(--csstools-light-dark-toggle--66, #d1cfc7);
     text-transform: uppercase;
     letter-spacing: .7px;
     font-size: 13px;
@@ -2851,8 +2852,8 @@ noscript {
     }
 
 ._metadata_1hx43t a:hover {
-            --csstools-light-dark-toggle--66: var(--csstools-color-scheme--dark) var(--grey900);
-            color: var(--csstools-light-dark-toggle--66, #f5f3e9);
+            --csstools-light-dark-toggle--67: var(--csstools-color-scheme--dark) var(--grey900);
+            color: var(--csstools-light-dark-toggle--67, #f5f3e9);
         }
 
 ._metadata_1hx43t a:focus-visible {
@@ -2886,7 +2887,7 @@ noscript {
 ._avatar_1hx43t {
     height: 1.5em;
     width: auto;
-    margin-left: var(--space-4xs);
+    /* margin-left: var(--space-4xs); */
     margin-bottom: -.4em;
     border-radius: 50%;
     box-shadow: 0 1px 1px 0 var(--grey600);
@@ -2894,7 +2895,7 @@ noscript {
 }
 
 ._metadata-row_1hx43t > * + * {
-        margin-left: var(--space-s);
+        /* margin-left: var(--space-s); */
     }
 
 @media only screen and (max-width: 750px) {
@@ -2906,7 +2907,7 @@ noscript {
 }
 
         ._metadata-row_1hx43t > * + * {
-            margin-left: 0;
+            /* margin-left: 0; */
             margin-top: var(--space-xs);
         }
     }
@@ -2938,7 +2939,7 @@ noscript {
 
 ._yank-button_1hx43t {
     position: relative;
-    margin-left: var(--space-xs);
+    /* margin-left: var(--space-xs); */
 }
 
 @media only screen and (max-width: 550px) {
@@ -3137,15 +3138,15 @@ noscript {
 /* styles for crates-io/components/dependency-list/row.module.css */
 ._row_vcihpv {
     --bg-color: var(--grey200);
-    --csstools-light-dark-toggle--67: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--67, hsl(204, 3%, 11%));
-    --csstools-light-dark-toggle--68: var(--csstools-color-scheme--dark) var(--grey900);
-    --range-color: var(--csstools-light-dark-toggle--68, #d1cfc7);
-    --csstools-light-dark-toggle--69: var(--csstools-color-scheme--dark) var(--grey700);
-    --crate-color: var(--csstools-light-dark-toggle--69, #d1cfc7);
+    --csstools-light-dark-toggle--68: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--68, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--69: var(--csstools-color-scheme--dark) var(--grey900);
+    --range-color: var(--csstools-light-dark-toggle--69, #d1cfc7);
+    --csstools-light-dark-toggle--70: var(--csstools-color-scheme--dark) var(--grey700);
+    --crate-color: var(--csstools-light-dark-toggle--70, #d1cfc7);
     --placeholder-opacity: 0.35;
-    --csstools-light-dark-toggle--70: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--70, #232321);
+    --csstools-light-dark-toggle--71: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--71, #232321);
 
     display: flex;
     align-items: center;
@@ -3158,20 +3159,20 @@ noscript {
     transition: all var(--transition-slow);
 }
 ._row_vcihpv * {
-    --csstools-light-dark-toggle--67: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--67, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--68: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--68, hsl(204, 3%, 11%));
 }
 ._row_vcihpv * {
-    --csstools-light-dark-toggle--68: var(--csstools-color-scheme--dark) var(--grey900);
-    --range-color: var(--csstools-light-dark-toggle--68, #d1cfc7);
+    --csstools-light-dark-toggle--69: var(--csstools-color-scheme--dark) var(--grey900);
+    --range-color: var(--csstools-light-dark-toggle--69, #d1cfc7);
 }
 ._row_vcihpv * {
-    --csstools-light-dark-toggle--69: var(--csstools-color-scheme--dark) var(--grey700);
-    --crate-color: var(--csstools-light-dark-toggle--69, #d1cfc7);
+    --csstools-light-dark-toggle--70: var(--csstools-color-scheme--dark) var(--grey700);
+    --crate-color: var(--csstools-light-dark-toggle--70, #d1cfc7);
 }
 ._row_vcihpv * {
-    --csstools-light-dark-toggle--70: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--70, #232321);
+    --csstools-light-dark-toggle--71: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--71, #232321);
 }
 ._row_vcihpv:hover, ._row_vcihpv._focused_vcihpv {
         background-color: var(--hover-bg-color);
@@ -3181,19 +3182,19 @@ noscript {
         box-shadow: 0 0 0 3px var(--yellow500), var(--shadow);
     }
 ._row_vcihpv._optional_vcihpv {
-        --csstools-light-dark-toggle--71: var(--csstools-color-scheme--dark) var(--grey600);
-        --range-color: var(--csstools-light-dark-toggle--71, var(--grey600));
         --csstools-light-dark-toggle--72: var(--csstools-color-scheme--dark) var(--grey600);
-        --crate-color: var(--csstools-light-dark-toggle--72, var(--grey600));
+        --range-color: var(--csstools-light-dark-toggle--72, var(--grey600));
+        --csstools-light-dark-toggle--73: var(--csstools-color-scheme--dark) var(--grey600);
+        --crate-color: var(--csstools-light-dark-toggle--73, var(--grey600));
         --placeholder-opacity: 0.15;
     }
 ._row_vcihpv._optional_vcihpv * {
-        --csstools-light-dark-toggle--71: var(--csstools-color-scheme--dark) var(--grey600);
-        --range-color: var(--csstools-light-dark-toggle--71, var(--grey600));
+        --csstools-light-dark-toggle--72: var(--csstools-color-scheme--dark) var(--grey600);
+        --range-color: var(--csstools-light-dark-toggle--72, var(--grey600));
 }
 ._row_vcihpv._optional_vcihpv * {
-        --csstools-light-dark-toggle--72: var(--csstools-color-scheme--dark) var(--grey600);
-        --crate-color: var(--csstools-light-dark-toggle--72, var(--grey600));
+        --csstools-light-dark-toggle--73: var(--csstools-color-scheme--dark) var(--grey600);
+        --crate-color: var(--csstools-light-dark-toggle--73, var(--grey600));
 }
 ._row_vcihpv [title], ._row_vcihpv .ember-tooltip-target {
         position: relative;
@@ -3408,9 +3409,14 @@ noscript {
     }
 
 /* styles for crates-io/components/front-page-list/item.module.css */
+._link_1k20sr a {
+    --csstools-light-dark-toggle--12: var(--csstools-color-scheme--dark) #525252;
+    color: var(--csstools-light-dark-toggle--12, #f9f7ec);
+}
+
 ._link_1k20sr {
-    --csstools-light-dark-toggle--73: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--73, #232321);
+    --csstools-light-dark-toggle--74: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--74, #232321);
 
     display: flex;
     align-items: center;
@@ -3418,8 +3424,8 @@ noscript {
     height: var(--space-2xl);
     padding: 0 var(--space-s);
     background-color: var(--header-bg-color);
-    --csstools-light-dark-toggle--74: var(--csstools-color-scheme--dark) #525252;
-    color: var(--csstools-light-dark-toggle--74, #f9f7ec);
+    --csstools-light-dark-toggle--75: var(--csstools-color-scheme--dark) #525252;
+    color: var(--csstools-light-dark-toggle--75, #f9f7ec);
     -webkit-text-decoration: none;
     -webkit-text-decoration: none;
     text-decoration: none;
@@ -3427,18 +3433,22 @@ noscript {
     box-shadow: var(--shadow);
     transition: all var(--transition-slow);
 }
+
 ._link_1k20sr * {
-    --csstools-light-dark-toggle--73: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--73, #232321);
+    --csstools-light-dark-toggle--74: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--74, #232321);
 }
+
 ._link_1k20sr:focus-visible {
         outline: none;
         box-shadow: 0 0 0 3px var(--yellow500), var(--shadow);
     }
+
 ._link_1k20sr:hover, ._link_1k20sr:focus-visible {
         color: var(--yellow500);
         transition: all var(--transition-instant);
     }
+
 ._link_1k20sr:active {
         transform: translateY(2px);
         --shadow: inset 0 0 0 1px hsla(51, 50%, 44%, .15);
@@ -3462,8 +3472,8 @@ noscript {
 ._subtitle_1k20sr {
     margin-top: var(--space-3xs);
     font-size: 13px;
-    --csstools-light-dark-toggle--12: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
-    color: var(--csstools-light-dark-toggle--12, #cccac2);
+    --csstools-light-dark-toggle--13: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
+    color: var(--csstools-light-dark-toggle--13, #cccac2);
 }
 
 ._right_1k20sr {
@@ -3471,18 +3481,18 @@ noscript {
     height: var(--space-s);
     width: auto;
     margin-left: var(--space-xs);
-    --csstools-light-dark-toggle--13: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
-    color: var(--csstools-light-dark-toggle--13, #cccac2);
+    --csstools-light-dark-toggle--14: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
+    color: var(--csstools-light-dark-toggle--14, #cccac2);
 }
 
 /* styles for crates-io/components/front-page-list/item/placeholder.module.css */
 ._link_kq6lyo {
-    --csstools-light-dark-toggle--14: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--14, #232321);
-    --csstools-light-dark-toggle--15: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 1.0);
-    --placeholder-bg: var(--csstools-light-dark-toggle--15, hsl(60, 14%, 85%));
-    --csstools-light-dark-toggle--16: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 0.7);
-    --placeholder-bg2: var(--csstools-light-dark-toggle--16, hsla(59, 5%, 50%, 0.7));
+    --csstools-light-dark-toggle--15: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--15, #232321);
+    --csstools-light-dark-toggle--16: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 1.0);
+    --placeholder-bg: var(--csstools-light-dark-toggle--16, hsl(60, 14%, 85%));
+    --csstools-light-dark-toggle--17: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 0.7);
+    --placeholder-bg2: var(--csstools-light-dark-toggle--17, hsla(59, 5%, 50%, 0.7));
 
     display: flex;
     align-items: center;
@@ -3491,23 +3501,23 @@ noscript {
     margin: 8px 0;
     padding: 0 var(--space-s);
     background-color: var(--header-bg-color);
-    --csstools-light-dark-toggle--17: var(--csstools-color-scheme--dark) #525252;
-    color: var(--csstools-light-dark-toggle--17, #f9f7ec);
+    --csstools-light-dark-toggle--18: var(--csstools-color-scheme--dark) #525252;
+    color: var(--csstools-light-dark-toggle--18, #f9f7ec);
     border-radius: var(--space-3xs);
     box-shadow: var(--shadow);
     cursor: wait;
 }
 ._link_kq6lyo * {
-    --csstools-light-dark-toggle--14: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--14, #232321);
+    --csstools-light-dark-toggle--15: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--15, #232321);
 }
 ._link_kq6lyo * {
-    --csstools-light-dark-toggle--15: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 1.0);
-    --placeholder-bg: var(--csstools-light-dark-toggle--15, hsl(60, 14%, 85%));
+    --csstools-light-dark-toggle--16: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 1.0);
+    --placeholder-bg: var(--csstools-light-dark-toggle--16, hsl(60, 14%, 85%));
 }
 ._link_kq6lyo * {
-    --csstools-light-dark-toggle--16: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 0.7);
-    --placeholder-bg2: var(--csstools-light-dark-toggle--16, hsla(59, 5%, 50%, 0.7));
+    --csstools-light-dark-toggle--17: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 0.7);
+    --placeholder-bg2: var(--csstools-light-dark-toggle--17, hsla(59, 5%, 50%, 0.7));
 }
 
 ._left_kq6lyo {
@@ -3535,8 +3545,8 @@ noscript {
     height: var(--space-s);
     width: auto;
     margin-left: var(--space-xs);
-    --csstools-light-dark-toggle--18: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
-    color: var(--csstools-light-dark-toggle--18, #cccac2);
+    --csstools-light-dark-toggle--19: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
+    color: var(--csstools-light-dark-toggle--19, #cccac2);
 }
 
 /* styles for crates-io/components/nav-tabs.module.css */
@@ -3735,13 +3745,13 @@ noscript {
 
 /* styles for crates-io/components/rev-dep-row.module.css */
 ._row_qc6rd8 {
-    --csstools-light-dark-toggle--75: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--75, hsl(204, 3%, 11%));
-    --csstools-light-dark-toggle--76: var(--csstools-color-scheme--dark) var(--grey700);
-    --crate-color: var(--csstools-light-dark-toggle--76, var(--grey600));
+    --csstools-light-dark-toggle--76: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--76, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--77: var(--csstools-color-scheme--dark) var(--grey700);
+    --crate-color: var(--csstools-light-dark-toggle--77, var(--grey600));
     --placeholder-opacity: 0.35;
-    --csstools-light-dark-toggle--77: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--77, #232321);
+    --csstools-light-dark-toggle--78: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--78, #232321);
 
     position: relative;
     font-size: 18px;
@@ -3752,16 +3762,16 @@ noscript {
     transition: all var(--transition-slow);
 }
 ._row_qc6rd8 * {
-    --csstools-light-dark-toggle--75: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--75, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--76: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--76, hsl(204, 3%, 11%));
 }
 ._row_qc6rd8 * {
-    --csstools-light-dark-toggle--76: var(--csstools-color-scheme--dark) var(--grey700);
-    --crate-color: var(--csstools-light-dark-toggle--76, var(--grey600));
+    --csstools-light-dark-toggle--77: var(--csstools-color-scheme--dark) var(--grey700);
+    --crate-color: var(--csstools-light-dark-toggle--77, var(--grey600));
 }
 ._row_qc6rd8 * {
-    --csstools-light-dark-toggle--77: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--77, #232321);
+    --csstools-light-dark-toggle--78: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--78, #232321);
 }
 ._row_qc6rd8:hover, ._row_qc6rd8._focused_qc6rd8 {
         background-color: var(--hover-bg-color);
@@ -3909,8 +3919,8 @@ noscript {
 }
 
 ._active_15zaly:hover {
-        --csstools-light-dark-toggle--78: var(--csstools-color-scheme--dark) #e5e1cd;
-        background-color: var(--csstools-light-dark-toggle--78, #262522);
+        --csstools-light-dark-toggle--79: var(--csstools-color-scheme--dark) #e5e1cd;
+        background-color: var(--csstools-light-dark-toggle--79, #262522);
     }
 
 /* styles for crates-io/components/sort-dropdown.module.css */
@@ -3989,15 +3999,15 @@ noscript {
         display: block;
         overflow-x: auto;
         padding: var(--space-xs);
-        --csstools-light-dark-toggle--79: var(--csstools-color-scheme--dark) #f6f8fa;
-        background-color: var(--csstools-light-dark-toggle--79, #161b22);
+        --csstools-light-dark-toggle--80: var(--csstools-color-scheme--dark) #f6f8fa;
+        background-color: var(--csstools-light-dark-toggle--80, #161b22);
         font-size: 85%;
         border-radius: var(--space-3xs);
     }
 
 ._wrapper_g1cur3 p code, ._wrapper_g1cur3 li code {
-            --csstools-light-dark-toggle--80: var(--csstools-color-scheme--dark) #f6f8fa;
-            background-color: var(--csstools-light-dark-toggle--80, #383836);
+            --csstools-light-dark-toggle--81: var(--csstools-color-scheme--dark) #f6f8fa;
+            background-color: var(--csstools-light-dark-toggle--81, #383836);
             border-radius: var(--space-3xs);
             font-size: 85%;
             margin: 0;
@@ -4074,16 +4084,16 @@ noscript {
     ._wrapper_g1cur3 .hljs-template-variable,
     ._wrapper_g1cur3 .hljs-type,
     ._wrapper_g1cur3 .hljs-variable.language_ {
-        --csstools-light-dark-toggle--81: var(--csstools-color-scheme--dark) #d73a49;
-        color: var(--csstools-light-dark-toggle--81, #ff7b72);
+        --csstools-light-dark-toggle--82: var(--csstools-color-scheme--dark) #d73a49;
+        color: var(--csstools-light-dark-toggle--82, #ff7b72);
     }
 
 ._wrapper_g1cur3 .hljs-title,
     ._wrapper_g1cur3 .hljs-title.class_,
     ._wrapper_g1cur3 .hljs-title.class_.inherited__,
     ._wrapper_g1cur3 .hljs-title.function_ {
-        --csstools-light-dark-toggle--82: var(--csstools-color-scheme--dark) #6f42c1;
-        color: var(--csstools-light-dark-toggle--82, #d2a8ff);
+        --csstools-light-dark-toggle--83: var(--csstools-color-scheme--dark) #6f42c1;
+        color: var(--csstools-light-dark-toggle--83, #d2a8ff);
     }
 
 ._wrapper_g1cur3 .hljs-attr,
@@ -4096,90 +4106,90 @@ noscript {
     ._wrapper_g1cur3 .hljs-selector-attr,
     ._wrapper_g1cur3 .hljs-selector-class,
     ._wrapper_g1cur3 .hljs-selector-id {
-        --csstools-light-dark-toggle--83: var(--csstools-color-scheme--dark) #005cc5;
-        color: var(--csstools-light-dark-toggle--83, #79c0ff);
+        --csstools-light-dark-toggle--84: var(--csstools-color-scheme--dark) #005cc5;
+        color: var(--csstools-light-dark-toggle--84, #79c0ff);
     }
 
 ._wrapper_g1cur3 .hljs-regexp,
     ._wrapper_g1cur3 .hljs-string,
     ._wrapper_g1cur3 .hljs-meta .hljs-string {
-        --csstools-light-dark-toggle--84: var(--csstools-color-scheme--dark) #032f62;
-        color: var(--csstools-light-dark-toggle--84, #a5d6ff);
+        --csstools-light-dark-toggle--85: var(--csstools-color-scheme--dark) #032f62;
+        color: var(--csstools-light-dark-toggle--85, #a5d6ff);
     }
 
 ._wrapper_g1cur3 .hljs-built_in,
     ._wrapper_g1cur3 .hljs-symbol {
-        --csstools-light-dark-toggle--85: var(--csstools-color-scheme--dark) #e36209;
-        color: var(--csstools-light-dark-toggle--85, #ffa657);
+        --csstools-light-dark-toggle--86: var(--csstools-color-scheme--dark) #e36209;
+        color: var(--csstools-light-dark-toggle--86, #ffa657);
     }
 
 ._wrapper_g1cur3 .hljs-comment,
     ._wrapper_g1cur3 .hljs-code,
     ._wrapper_g1cur3 .hljs-formula {
-        --csstools-light-dark-toggle--86: var(--csstools-color-scheme--dark) #6a737d;
-        color: var(--csstools-light-dark-toggle--86, #8b949e);
+        --csstools-light-dark-toggle--87: var(--csstools-color-scheme--dark) #6a737d;
+        color: var(--csstools-light-dark-toggle--87, #8b949e);
     }
 
 ._wrapper_g1cur3 .hljs-name,
     ._wrapper_g1cur3 .hljs-quote,
     ._wrapper_g1cur3 .hljs-selector-tag,
     ._wrapper_g1cur3 .hljs-selector-pseudo {
-        --csstools-light-dark-toggle--87: var(--csstools-color-scheme--dark) #22863a;
-        color: var(--csstools-light-dark-toggle--87, #7ee787);
+        --csstools-light-dark-toggle--88: var(--csstools-color-scheme--dark) #22863a;
+        color: var(--csstools-light-dark-toggle--88, #7ee787);
     }
 
 ._wrapper_g1cur3 .hljs-subst {
-        --csstools-light-dark-toggle--88: var(--csstools-color-scheme--dark) #24292e;
-        color: var(--csstools-light-dark-toggle--88, #c9d1d9);
+        --csstools-light-dark-toggle--89: var(--csstools-color-scheme--dark) #24292e;
+        color: var(--csstools-light-dark-toggle--89, #c9d1d9);
     }
 
 ._wrapper_g1cur3 .hljs-section {
-        --csstools-light-dark-toggle--89: var(--csstools-color-scheme--dark) #005cc5;
-        color: var(--csstools-light-dark-toggle--89, #1f6feb);
+        --csstools-light-dark-toggle--90: var(--csstools-color-scheme--dark) #005cc5;
+        color: var(--csstools-light-dark-toggle--90, #1f6feb);
         font-weight: bold
     }
 
 ._wrapper_g1cur3 .hljs-bullet {
-        --csstools-light-dark-toggle--90: var(--csstools-color-scheme--dark) #735c0f;
-        color: var(--csstools-light-dark-toggle--90, #f2cc60);
+        --csstools-light-dark-toggle--91: var(--csstools-color-scheme--dark) #735c0f;
+        color: var(--csstools-light-dark-toggle--91, #f2cc60);
     }
 
 ._wrapper_g1cur3 .hljs-emphasis {
-        --csstools-light-dark-toggle--91: var(--csstools-color-scheme--dark) #24292e;
-        color: var(--csstools-light-dark-toggle--91, #c9d1d9);
+        --csstools-light-dark-toggle--92: var(--csstools-color-scheme--dark) #24292e;
+        color: var(--csstools-light-dark-toggle--92, #c9d1d9);
         font-style: italic
     }
 
 ._wrapper_g1cur3 .hljs-strong {
-        --csstools-light-dark-toggle--92: var(--csstools-color-scheme--dark) #24292e;
-        color: var(--csstools-light-dark-toggle--92, #c9d1d9);
+        --csstools-light-dark-toggle--93: var(--csstools-color-scheme--dark) #24292e;
+        color: var(--csstools-light-dark-toggle--93, #c9d1d9);
         font-weight: bold
     }
 
 ._wrapper_g1cur3 .hljs-addition {
-        --csstools-light-dark-toggle--93: var(--csstools-color-scheme--dark) #22863a;
-        color: var(--csstools-light-dark-toggle--93, #aff5b4);
-        --csstools-light-dark-toggle--94: var(--csstools-color-scheme--dark) #f0fff4;
-        background-color: var(--csstools-light-dark-toggle--94, #033a16);
+        --csstools-light-dark-toggle--94: var(--csstools-color-scheme--dark) #22863a;
+        color: var(--csstools-light-dark-toggle--94, #aff5b4);
+        --csstools-light-dark-toggle--95: var(--csstools-color-scheme--dark) #f0fff4;
+        background-color: var(--csstools-light-dark-toggle--95, #033a16);
     }
 
 ._wrapper_g1cur3 .hljs-deletion {
-        --csstools-light-dark-toggle--95: var(--csstools-color-scheme--dark) #b31d28;
-        color: var(--csstools-light-dark-toggle--95, #ffdcd7);
-        --csstools-light-dark-toggle--96: var(--csstools-color-scheme--dark) #ffeef0;
-        background-color: var(--csstools-light-dark-toggle--96, #67060c);
+        --csstools-light-dark-toggle--96: var(--csstools-color-scheme--dark) #b31d28;
+        color: var(--csstools-light-dark-toggle--96, #ffdcd7);
+        --csstools-light-dark-toggle--97: var(--csstools-color-scheme--dark) #ffeef0;
+        background-color: var(--csstools-light-dark-toggle--97, #67060c);
     }
 
 /* styles for crates-io/components/version-list/row.module.css */
 ._row_ofj1qe {
-    --csstools-light-dark-toggle--97: var(--csstools-color-scheme--dark) var(--grey200);
-    --bg-color: var(--csstools-light-dark-toggle--97, #242422);
-    --csstools-light-dark-toggle--98: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--98, hsl(204, 3%, 11%));
-    --csstools-light-dark-toggle--99: var(--csstools-color-scheme--dark) var(--grey700);
-    --fg-color: var(--csstools-light-dark-toggle--99, #ccc);
-    --csstools-light-dark-toggle--100: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--100, #232321);
+    --csstools-light-dark-toggle--98: var(--csstools-color-scheme--dark) var(--grey200);
+    --bg-color: var(--csstools-light-dark-toggle--98, #242422);
+    --csstools-light-dark-toggle--99: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--99, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--100: var(--csstools-color-scheme--dark) var(--grey700);
+    --fg-color: var(--csstools-light-dark-toggle--100, #ccc);
+    --csstools-light-dark-toggle--101: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--101, #232321);
 
     display: flex;
     align-items: center;
@@ -4192,20 +4202,20 @@ noscript {
     transition: all var(--transition-slow);
 }
 ._row_ofj1qe * {
-    --csstools-light-dark-toggle--97: var(--csstools-color-scheme--dark) var(--grey200);
-    --bg-color: var(--csstools-light-dark-toggle--97, #242422);
+    --csstools-light-dark-toggle--98: var(--csstools-color-scheme--dark) var(--grey200);
+    --bg-color: var(--csstools-light-dark-toggle--98, #242422);
 }
 ._row_ofj1qe * {
-    --csstools-light-dark-toggle--98: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--98, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--99: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--99, hsl(204, 3%, 11%));
 }
 ._row_ofj1qe * {
-    --csstools-light-dark-toggle--99: var(--csstools-color-scheme--dark) var(--grey700);
-    --fg-color: var(--csstools-light-dark-toggle--99, #ccc);
+    --csstools-light-dark-toggle--100: var(--csstools-color-scheme--dark) var(--grey700);
+    --fg-color: var(--csstools-light-dark-toggle--100, #ccc);
 }
 ._row_ofj1qe * {
-    --csstools-light-dark-toggle--100: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--100, #232321);
+    --csstools-light-dark-toggle--101: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--101, #232321);
 }
 ._row_ofj1qe:hover, ._row_ofj1qe._focused_ofj1qe {
         background-color: var(--hover-bg-color);
@@ -4215,64 +4225,64 @@ noscript {
         box-shadow: 0 0 0 3px var(--yellow500), var(--shadow);
     }
 ._row_ofj1qe._latest_ofj1qe {
-        --csstools-light-dark-toggle--101: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
-        --bg-color: var(--csstools-light-dark-toggle--101, hsl(136, 67%, 11%));
-        --csstools-light-dark-toggle--102: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--102, hsl(109, 10%, 11%));
-        --csstools-light-dark-toggle--103: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
-        --fg-color: var(--csstools-light-dark-toggle--103, hsl(109, 75%, 87%));
+        --csstools-light-dark-toggle--102: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
+        --bg-color: var(--csstools-light-dark-toggle--102, hsl(136, 67%, 11%));
+        --csstools-light-dark-toggle--103: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--103, hsl(109, 10%, 11%));
+        --csstools-light-dark-toggle--104: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
+        --fg-color: var(--csstools-light-dark-toggle--104, hsl(109, 75%, 87%));
     }
 ._row_ofj1qe._latest_ofj1qe * {
-        --csstools-light-dark-toggle--101: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
-        --bg-color: var(--csstools-light-dark-toggle--101, hsl(136, 67%, 11%));
+        --csstools-light-dark-toggle--102: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
+        --bg-color: var(--csstools-light-dark-toggle--102, hsl(136, 67%, 11%));
 }
 ._row_ofj1qe._latest_ofj1qe * {
-        --csstools-light-dark-toggle--102: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--102, hsl(109, 10%, 11%));
+        --csstools-light-dark-toggle--103: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--103, hsl(109, 10%, 11%));
 }
 ._row_ofj1qe._latest_ofj1qe * {
-        --csstools-light-dark-toggle--103: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
-        --fg-color: var(--csstools-light-dark-toggle--103, hsl(109, 75%, 87%));
+        --csstools-light-dark-toggle--104: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
+        --fg-color: var(--csstools-light-dark-toggle--104, hsl(109, 75%, 87%));
 }
 ._row_ofj1qe._prerelease_ofj1qe {
-        --csstools-light-dark-toggle--104: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
-        --bg-color: var(--csstools-light-dark-toggle--104, hsl(39, 71%, 15%));
-        --csstools-light-dark-toggle--105: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--105, hsl(39, 10%, 11%));
-        --csstools-light-dark-toggle--106: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
-        --fg-color: var(--csstools-light-dark-toggle--106, hsl(39, 100%, 91%));
+        --csstools-light-dark-toggle--105: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
+        --bg-color: var(--csstools-light-dark-toggle--105, hsl(39, 71%, 15%));
+        --csstools-light-dark-toggle--106: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--106, hsl(39, 10%, 11%));
+        --csstools-light-dark-toggle--107: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
+        --fg-color: var(--csstools-light-dark-toggle--107, hsl(39, 100%, 91%));
     }
 ._row_ofj1qe._prerelease_ofj1qe * {
-        --csstools-light-dark-toggle--104: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
-        --bg-color: var(--csstools-light-dark-toggle--104, hsl(39, 71%, 15%));
+        --csstools-light-dark-toggle--105: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
+        --bg-color: var(--csstools-light-dark-toggle--105, hsl(39, 71%, 15%));
 }
 ._row_ofj1qe._prerelease_ofj1qe * {
-        --csstools-light-dark-toggle--105: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--105, hsl(39, 10%, 11%));
+        --csstools-light-dark-toggle--106: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--106, hsl(39, 10%, 11%));
 }
 ._row_ofj1qe._prerelease_ofj1qe * {
-        --csstools-light-dark-toggle--106: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
-        --fg-color: var(--csstools-light-dark-toggle--106, hsl(39, 100%, 91%));
+        --csstools-light-dark-toggle--107: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
+        --fg-color: var(--csstools-light-dark-toggle--107, hsl(39, 100%, 91%));
 }
 ._row_ofj1qe._yanked_ofj1qe {
-        --csstools-light-dark-toggle--107: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
-        --bg-color: var(--csstools-light-dark-toggle--107, hsl(0, 84%, 12%));
-        --csstools-light-dark-toggle--108: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--108, hsl(0, 10%, 11%));
-        --csstools-light-dark-toggle--109: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
-        --fg-color: var(--csstools-light-dark-toggle--109, hsl(0, 92%, 90%));
+        --csstools-light-dark-toggle--108: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
+        --bg-color: var(--csstools-light-dark-toggle--108, hsl(0, 84%, 12%));
+        --csstools-light-dark-toggle--109: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--109, hsl(0, 10%, 11%));
+        --csstools-light-dark-toggle--110: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
+        --fg-color: var(--csstools-light-dark-toggle--110, hsl(0, 92%, 90%));
     }
 ._row_ofj1qe._yanked_ofj1qe * {
-        --csstools-light-dark-toggle--107: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
-        --bg-color: var(--csstools-light-dark-toggle--107, hsl(0, 84%, 12%));
+        --csstools-light-dark-toggle--108: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
+        --bg-color: var(--csstools-light-dark-toggle--108, hsl(0, 84%, 12%));
 }
 ._row_ofj1qe._yanked_ofj1qe * {
-        --csstools-light-dark-toggle--108: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--108, hsl(0, 10%, 11%));
+        --csstools-light-dark-toggle--109: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--109, hsl(0, 10%, 11%));
 }
 ._row_ofj1qe._yanked_ofj1qe * {
-        --csstools-light-dark-toggle--109: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
-        --fg-color: var(--csstools-light-dark-toggle--109, hsl(0, 92%, 90%));
+        --csstools-light-dark-toggle--110: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
+        --fg-color: var(--csstools-light-dark-toggle--110, hsl(0, 92%, 90%));
 }
 ._row_ofj1qe [title], ._row_ofj1qe .ember-tooltip-target {
         position: relative;
@@ -4310,8 +4320,8 @@ noscript {
     font-variant-numeric: tabular-nums;
     color: var(--fg-color);
     background-color: var(--bg-color);
-    --csstools-light-dark-toggle--110: var(--csstools-color-scheme--dark) white;
-    border: 1px solid var(--csstools-light-dark-toggle--110, #808080);
+    --csstools-light-dark-toggle--111: var(--csstools-color-scheme--dark) white;
+    border: 1px solid var(--csstools-light-dark-toggle--111, #808080);
     border-radius: 50%;
     transition: all var(--transition-fast);
 }
@@ -4322,10 +4332,10 @@ noscript {
     }
 
 ._row_ofj1qe:hover ._release-track_ofj1qe, ._row_ofj1qe._focused_ofj1qe ._release-track_ofj1qe {
-        --csstools-light-dark-toggle--111: var(--csstools-color-scheme--dark) white;
-        border: var(--space-4xs) solid var(--csstools-light-dark-toggle--111, #bfbfbf);
-        --csstools-light-dark-toggle--112: var(--csstools-color-scheme--dark) var(--fg-color);
-        box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--112, #232321);
+        --csstools-light-dark-toggle--112: var(--csstools-color-scheme--dark) white;
+        border: var(--space-4xs) solid var(--csstools-light-dark-toggle--112, #bfbfbf);
+        --csstools-light-dark-toggle--113: var(--csstools-color-scheme--dark) var(--fg-color);
+        box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--113, #232321);
     }
 
 @media only screen and (max-width: 550px) {
@@ -4374,8 +4384,8 @@ noscript {
 ._metadata_ofj1qe {
     flex-grow: 1;
     margin-left: var(--space-m);
-    --csstools-light-dark-toggle--113: var(--csstools-color-scheme--dark) var(--grey600);
-    color: var(--csstools-light-dark-toggle--113, #d1cfc7);
+    --csstools-light-dark-toggle--114: var(--csstools-color-scheme--dark) var(--grey600);
+    color: var(--csstools-light-dark-toggle--114, #d1cfc7);
     text-transform: uppercase;
     letter-spacing: .7px;
     font-size: 13px;
@@ -4387,8 +4397,8 @@ noscript {
     }
 
 ._metadata_ofj1qe a:hover {
-            --csstools-light-dark-toggle--114: var(--csstools-color-scheme--dark) var(--grey900);
-            color: var(--csstools-light-dark-toggle--114, #f5f3e9);
+            --csstools-light-dark-toggle--115: var(--csstools-color-scheme--dark) var(--grey900);
+            color: var(--csstools-light-dark-toggle--115, #f5f3e9);
         }
 
 ._metadata_ofj1qe a:focus-visible {
@@ -4488,8 +4498,8 @@ noscript {
 ._list_1ohwnv {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--115: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--115, #232321);
+    --csstools-light-dark-toggle--116: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--116, #232321);
     margin-bottom: var(--space-s);
 }
 ._list_1ohwnv dt {
@@ -4502,8 +4512,8 @@ noscript {
         margin: 0 var(--space-s) var(--space-s);
     }
 ._list_1ohwnv > * + dt {
-        --csstools-light-dark-toggle--116: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--116, #424242);
+        --csstools-light-dark-toggle--117: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--117, #424242);
     }
 
 /* styles for crates-io/styles/crate/reverse-dependencies.module.css */
@@ -4546,16 +4556,16 @@ noscript {
 ._list_sj17up {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--117: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--117, #232321);
+    --csstools-light-dark-toggle--118: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--118, #232321);
     margin-bottom: var(--space-s);
 }
 ._list_sj17up > * {
         padding: var(--space-s);
     }
 ._list_sj17up > * + * {
-        --csstools-light-dark-toggle--118: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--118, #232321);
+        --csstools-light-dark-toggle--119: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--119, #232321);
     }
 
 /* styles for crates-io/styles/settings/appearance.module.css */
@@ -4568,11 +4578,11 @@ noscript {
 ._theme-label_110lt5 {
     display: inline-block;
     padding: var(--space-s);
-    --csstools-light-dark-toggle--19: var(--csstools-color-scheme--dark) white;
-    background: var(--csstools-light-dark-toggle--19, #141413);
+    --csstools-light-dark-toggle--20: var(--csstools-color-scheme--dark) white;
+    background: var(--csstools-light-dark-toggle--20, #141413);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--20: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    box-shadow: 0 2px 3px var(--csstools-light-dark-toggle--20, #232321);
+    --csstools-light-dark-toggle--21: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    box-shadow: 0 2px 3px var(--csstools-light-dark-toggle--21, #232321);
 }
 
 ._theme-preview_110lt5 {
