@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-12-15",
     "title": "Validating JSON input in Rust web services | Vinted Engineering",
     "link": "https://vinted.engineering/2021/02/15/validating-json-input-in-rust-web-services/"
   }

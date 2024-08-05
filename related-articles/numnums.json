@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-01-26",
     "title": "println!(\"Hello, World!\")",
     "link": "https://www.printlnhello.world/blog/publishing-to-crates-io/"
   }

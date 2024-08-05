@@ -1,21 +1,31 @@
 [
   {
+    "date": "2024-04-10",
     "title": "Bevy 0.13.2, Curves, Gizmos, and Games",
     "link": "https://thisweekinbevy.com/issue/2024-04-08-bevy-0-13-2-curves-gizmos-and-games"
   },
   {
+    "date": "2024-04-10",
     "title": "Oneiblog",
     "link": "https://oneirical.github.io/bevyrage"
   },
   {
+    "date": "2024-04-03",
     "title": "Oneiblog",
     "link": "https://oneirical.github.io/bevyrage/"
   },
   {
+    "date": "2024-03-20",
     "title": "Foundations, Meetups, and more Bevy Cheatbook updates",
     "link": "https://thisweekinbevy.com/issue/2024-03-18-foundations-meetups-and-more-bevy-cheatbook-updates"
   },
   {
+    "date": "2022-12-21",
+    "title": "This Month in Rust GameDev #40 - November 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/040/"
+  },
+  {
+    "date": "2022-11-16",
     "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/039/"
   }

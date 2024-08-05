@@ -1,9 +1,26 @@
 [
   {
+    "date": "2016-08-23",
+    "title": "This Week In Servo 75 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2016/08/15/twis-75/"
+  },
+  {
+    "date": "2016-05-16",
+    "title": "This Week In Servo 62 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2016/05/09/twis-62/"
+  },
+  {
+    "date": "2015-11-09",
+    "title": "This Week In Servo 40 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "http://blog.servo.org/2015/11/02/twis-40/"
+  },
+  {
+    "date": "2015-03-23",
     "title": "main is usually a function: html5ever project update: one year!",
     "link": "http://mainisusuallyafunction.blogspot.com/2015/03/html5ever-project-update-one-year.html"
   },
   {
+    "date": "2015-03-02",
     "title": "This Week In Servo 25 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
     "link": "http://blog.servo.org/2015/02/24/twis-25/"
   }

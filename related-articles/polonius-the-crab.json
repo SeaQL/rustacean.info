@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-12-27",
+    "title": "My reference was dropped, why is the compiler complaining about multiple borrows? | nicole@web",
+    "link": "https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Caches In Rust",
+    "link": "https://matklad.github.io/2022/06/11/caches-in-rust.html"
+  }
+]

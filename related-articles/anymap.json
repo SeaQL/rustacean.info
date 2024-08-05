@@ -1,13 +1,26 @@
 [
   {
+    "date": "2022-07-20",
+    "title": "haibane_tenshi's blog - Futuristic Rust: context emulation, part 2",
+    "link": "https://haibane-tenshi.github.io/rust-contexts2/"
+  },
+  {
+    "date": "2020-07-14",
     "title": "Building Canrun: A statically typed logic programming library for Rust",
     "link": "https://esimmler.com/building-canrun-part-1/"
   },
   {
+    "date": "2020-03-31",
+    "title": "Specs and Legion, two very different approaches to ECS",
+    "link": "https://csherratt.github.io/blog/posts/specs-and-legion/"
+  },
+  {
+    "date": "2015-01-02",
     "title": "Dependency injection container - Learning the ropes in Rust",
     "link": "http://nercury.github.io/rust/di/2015/01/02/dependency-injection-learning-rust.html"
   },
   {
+    "date": "2014-12-15",
     "title": "24 days of Rust - anymap | siciarz.net",
     "link": "https://siciarz.net/24-days-of-rust-anymap/"
   }

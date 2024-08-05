@@ -1,14 +1,27 @@
 [
   {
+    "date": "2023-08-30",
     "title": "Distributed Tracing in Rust, Episode 3: inter-service tracing",
     "link": "https://heikoseeberger.de/2023-08-28-dist-tracing-3/"
   },
   {
+    "date": "2023-04-12",
     "title": "Flexible Tracing with Rust and OpenTelemetry OTLP",
     "link": "https://broch.tech/posts/rust-tracing-opentelemetry/"
   },
   {
+    "date": "2022-12-14",
+    "title": "Composing an observable Rust application - LogRocket Blog",
+    "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
+  },
+  {
+    "date": "2022-08-31",
     "title": "OpenTelemetry Distributed Tracing in Rust | Aspecto",
     "link": "https://www.aspecto.io/blog/distributed-tracing-with-opentelemetry-rust/"
+  },
+  {
+    "date": "2021-11-24",
+    "title": "How to instrument a Rust application with OpenTelemetry - 21 Lessons",
+    "link": "https://21-lessons.com/how-to-instrument-a-rust-application-with-opentelemetry/"
   }
 ]

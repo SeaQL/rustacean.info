@@ -1,14 +1,22 @@
 [
   {
+    "date": "2022-11-02",
     "title": "From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework | Kani Rust Verifier Blog",
     "link": "https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html"
   },
   {
+    "date": "2022-09-14",
     "title": "Bytecode Alliance — Security and Correctness in Wasmtime",
     "link": "https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime"
   },
   {
+    "date": "2020-08-25",
     "title": "Writing a Test Case Generator for a Programming Language",
     "link": "https://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
+  },
+  {
+    "date": "2017-04-04",
+    "title": "Fuzzing is magic - Or how I found a panic in Rust's regex library",
+    "link": "https://www.nibor.org/blog/fuzzing-is-magic---or-how-i-found-a-panic-in-rusts-regex-library/"
   }
 ]

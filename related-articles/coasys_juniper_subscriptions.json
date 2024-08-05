@@ -1,10 +1,17 @@
 [
   {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-01-20",
     "title": "Rust is a hard way to make a web API - macwright.com",
     "link": "https://macwright.com/2021/01/15/rust.html"
+  },
+  {
+    "date": "2018-08-21",
+    "title": "Rust GraphQL webserver with Warp, Juniper and MongoDB",
+    "link": "http://alex.amiran.it/post/2018-08-16-rust-graphql-webserver-with-warp-juniper-and-mongodb.html"
   }
 ]

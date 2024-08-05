@@ -1,9 +1,11 @@
 [
   {
+    "date": "2019-01-22",
     "title": "Wiki - TheStateOfGGEZ2019",
     "link": "https://wiki.alopex.li/TheStateOfGGEZ2019"
   },
   {
+    "date": "2017-07-11",
     "title": "ggez: Rust game thing",
     "link": "http://ggez.rs/"
   }

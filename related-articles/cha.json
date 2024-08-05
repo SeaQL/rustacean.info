@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2022-08-03",
+    "title": "Proc macro support in rust-analyzer for nightly rustc versions",
+    "link": "https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-21/"
+  }
+]

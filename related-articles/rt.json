@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-03-20",
+    "title": "The Embedded Rustacean Issue #15",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "34 Must Know Terms for Embedded Rust Newbies",
+    "link": "https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies"
+  },
+  {
+    "date": "2021-04-28",
+    "title": "Basedrop: A garbage collector for real-time audio in Rust — glowcoil",
+    "link": "https://glowcoil.com/posts/basedrop/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  }
+]

@@ -1,6 +1,537 @@
 [
   {
+    "date": "2024-07-17",
+    "title": "Build with Naz : Box and Pin exploration in Rust | developerlife.com",
+    "link": "https://developerlife.com/2024/07/16/pin-box-dynamic-duo"
+  },
+  {
+    "date": "2024-07-10",
+    "title": "Build with Naz : Rust async in practice tokio::select!, actor pattern &amp; cancel safety | developerlife.com",
+    "link": "https://developerlife.com/2024/07/10/rust-async-cancellation-safety-tokio/"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "sans-IO: The secret to effective Rust for network services",
+    "link": "https://www.firezone.dev/blog/sans-io"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Build with Naz : Markdown parser in Rust and nom from r3bl_tui | developerlife.com",
+    "link": "https://developerlife.com/2024/06/28/md-parser-rust-from-r3bl-tui/"
+  },
+  {
+    "date": "2024-06-26",
+    "title": "Why WebAssembly came to the Backend (Wasm in the wild part 3) | Technology blog",
+    "link": "https://www.jakobmeier.ch/wasm-road-2"
+  },
+  {
+    "date": "2024-06-26",
+    "title": "Build with Naz : Comprehensive guide to nom parsing | developerlife.com",
+    "link": "https://developerlife.com/2023/02/20/guide-to-nom-parsing/"
+  },
+  {
+    "date": "2024-06-12",
+    "title": "Build with Naz : Rust error handling with miette | developerlife.com",
+    "link": "https://developerlife.com/2024/06/10/rust-miette-error-handling/"
+  },
+  {
+    "date": "2024-06-05",
+    "title": "Build with Naz : Rust typestate pattern | developerlife.com",
+    "link": "https://developerlife.com/2024/05/28/typestate-pattern-rust/"
+  },
+  {
+    "date": "2024-05-29",
+    "title": "Build with Naz : Linux io_uring and tokio-uring exploration with Rust | developerlife.com",
+    "link": "https://developerlife.com/2024/05/25/tokio-uring-exploration-rust/"
+  },
+  {
+    "date": "2024-05-22",
+    "title": "Build with Naz : Rust async, non-blocking, concurrent, parallel, event loops, graceful shutdown | developerlife.com",
+    "link": "https://developerlife.com/2024/05/19/effective-async-rust/"
+  },
+  {
+    "date": "2024-05-01",
+    "title": "Build with Naz : Rust Polymorphism, dyn, impl, using existing traits, trait objects for testing and extensibility | developerlife.com",
+    "link": "https://developerlife.com/2024/04/28/rust-polymorphism-dyn-impl-trait-objects-for-testing-and-extensibiity/"
+  },
+  {
+    "date": "2024-04-24",
+    "title": "Build with Naz : Build interactive and non blocking CLI apps with ease in Rust using r3bl_terminal_async | developerlife.com",
+    "link": "https://developerlife.com/2024/04/21/build-async-interactive-cli-apps-in-rust/"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Bevy Foundation",
+    "link": "https://bevyengine.org/news/bevy-foundation/"
+  },
+  {
+    "date": "2024-02-14",
+    "title": "Write a simple TCP chat server in Rust | developerlife.com",
+    "link": "https://developerlife.com/2024/01/13/write-simple-chat-server-in-rust/"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Write a simple netcat client and server in Rust | developerlife.com",
+    "link": "https://developerlife.com/2024/01/13/write-simple-netcat-in-rust/"
+  },
+  {
+    "date": "2024-01-17",
+    "title": "0.19 — ergonomic setters and faster reflection",
+    "link": "https://dwrensha.github.io/capnproto-rust/2024/01/14/0.19-release.html"
+  },
+  {
+    "date": "2024-01-10",
+    "title": "Verifying Rust Zeroize with Assembly...including portable SIMD - CipherStash",
+    "link": "https://cipherstash.com/blog/verifying-rust-zeroize-with-assembly-including-portable-simd"
+  },
+  {
+    "date": "2023-11-15",
+    "title": "Building and Deploying A Static Site Generator",
+    "link": "https://www.shuttle.rs/blog/2023/11/15/ssg-in-rust"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "Rust for JavaScript Developers: An Overview of Testing",
+    "link": "https://www.shuttle.rs/blog/2023/11/08/testing-in-rust"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "htmx, Rust &amp; Shuttle: A New Rapid Prototyping Stack",
+    "link": "https://www.shuttle.rs/blog/2023/10/25/htmx-with-rust"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "Mixing C# and Rust - Interop",
+    "link": "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_3_2.html"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Raw SQL in Rust with SQLx",
+    "link": "https://www.shuttle.rs/blog/2023/10/04/sql-in-rust"
+  },
+  {
+    "date": "2023-09-27",
+    "title": "Logging in Rust - How to Get Started",
+    "link": "https://www.shuttle.rs/blog/2023/09/20/logging-in-rust"
+  },
+  {
+    "date": "2023-09-20",
+    "title": "tuify your clap CLI apps and make them more interactive | developerlife.com",
+    "link": "https://developerlife.com/2023/09/17/tuify-clap/"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Compiling Rust for .NET, using only tea and stubbornness!",
+    "link": "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "0.18 — lazy UTF-8 and no-alloc",
+    "link": "https://dwrensha.github.io/capnproto-rust/2023/09/04/0.18-release.html"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Use just to manage project specific commands | developerlife.com",
+    "link": "https://developerlife.com/2023/08/28/justfile/"
+  },
+  {
+    "date": "2023-06-14",
+    "title": "Write a Redux library in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/12/rust-redux/"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "Create a simple DSL for CSS like syntax for TUIs | developerlife.com",
+    "link": "https://developerlife.com/2022/08/04/rust-dsl-part-1/"
+  },
+  {
+    "date": "2023-05-24",
+    "title": "Bevy + WebGPU",
+    "link": "https://bevyengine.org/news/bevy-webgpu/"
+  },
+  {
+    "date": "2023-05-17",
+    "title": "Build a grep CLI app in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/02/rust-grep-cli-app/"
+  },
+  {
+    "date": "2023-05-10",
+    "title": "Build a non-binary tree that is thread safe using Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/02/24/rust-non-binary-tree/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "Write code using async/await in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/12/rust-tokio/"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "Guide to Rust procedural macros | developerlife.com",
+    "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"
+  },
+  {
+    "date": "2023-02-08",
+    "title": "Introduction - LifetimeKata",
+    "link": "https://tfpk.github.io/lifetimekata/"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "Plugins for Rust",
+    "link": "https://reorchestrate.com/posts/plugins-for-rust/"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Rust visitor pattern and efficient DataFusion query federation | Splitgraph",
+    "link": "https://www.splitgraph.com/blog/datafusion-filter-expr-visitor"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/039/"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "Bevy 0.9",
+    "link": "https://bevyengine.org/news/bevy-0-9/"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "0.15 — GATs, CapabilityServerSet, and async packing",
+    "link": "https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "00: Introduction - MacroKata",
+    "link": "https://tfpk.github.io/macrokata/"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "Rust and Neovim - A Thorough Guide and Walkthrough | the trait",
+    "link": "https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "Bevy 0.8",
+    "link": "https://bevyengine.org/news/bevy-0-8/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "Bevy 0.7",
+    "link": "https://bevyengine.org/news/bevy-0-7/"
+  },
+  {
+    "date": "2022-03-30",
+    "title": "Tiny and Fast Docker image for Rust Application - azzamsa.com",
+    "link": "https://azzamsa.com/n/rust-docker/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Bevy 0.6",
+    "link": "https://bevyengine.org/news/bevy-0-6/"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Bevy's First Birthday",
+    "link": "https://bevyengine.org/news/bevys-first-birthday/"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "404: Page not found | Technology blog",
+    "link": "https://www.jakobmeier.ch/blogging/Untapped-Rust.html"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "Bevy 0.5",
+    "link": "https://bevyengine.org/news/bevy-0-5/"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "404: Page not found | Technology blog",
+    "link": "https://www.jakobmeier.ch/blogging/Enums.html"
+  },
+  {
+    "date": "2021-01-27",
+    "title": "Implementing Raft's Leader Election in Rust – Lauro Caetano",
+    "link": "http://laurocaetano.com/programming/2021/01/23/raft-leader-election-rust/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "GCC Rust – How it can be achieved – Embecosm",
+    "link": "https://www.embecosm.com/2021/01/12/gcc-rust-how-it-can-be-achieved/"
+  },
+  {
+    "date": "2020-12-23",
+    "title": "Bevy 0.4",
+    "link": "https://bevyengine.org/news/bevy-0-4/"
+  },
+  {
+    "date": "2020-12-2-",
+    "title": "Pijul - The Mathematically Sound Version Control System Written in Rust",
+    "link": "https://initialcommit.com/blog/pijul-version-control-system"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Rust, Python and Fish",
+    "link": "https://benjamin.computer/posts/2020-12-12-rust-python.html"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "404: Page not found | Technology blog",
+    "link": "https://www.jakobmeier.ch/blogging/Rust_on_the_Web.html"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "Collecting Data from an API - David MacEachern",
+    "link": "https://davidmaceachern.com/posts/collecting-data-from-an-api"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Scaling Bevy",
+    "link": "https://bevyengine.org/news/scaling-bevy/"
+  },
+  {
+    "date": "2020-05-19",
+    "title": "404: Page not found | Technology blog",
+    "link": "https://www.jakobmeier.ch/blogging/Paddlers_4.html"
+  },
+  {
+    "date": "2019-12-24",
+    "title": "Source Code Linking: Merging C Headers into Rust Modules :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2019/12/header_merging/"
+  },
+  {
+    "date": "2019-11-26",
+    "title": "Rust 2020: Lessons learned by transpiling C to Rust :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2019/11/rust2020/"
+  },
+  {
+    "date": "2019-11-19",
+    "title": "Understanding Serde",
+    "link": "https://www.joshmcguigan.com/blog/understanding-serde/"
+  },
+  {
+    "date": "2019-10-29",
+    "title": "Ferris Fencing",
+    "link": "http://www.ferrisfencing.org/"
+  },
+  {
+    "date": "2019-09-03",
+    "title": "slowtec | Semantic validation in Rust",
+    "link": "https://slowtec.de/posts/2019-09-03-semantic-validation-with-rust.html"
+  },
+  {
+    "date": "2019-05-21",
+    "title": "Shell Completions in Pure Rust",
+    "link": "https://www.joshmcguigan.com/blog/shell-completions-pure-rust/"
+  },
+  {
+    "date": "2019-02-26",
+    "title": "Combine Results for Improved Rust Validation Logic",
+    "link": "https://www.joshmcguigan.com/blog/multi-try-improved-validation-logic-rust/"
+  },
+  {
+    "date": "2019-02-12",
+    "title": "Custom Exit Status Codes with ? in main",
+    "link": "https://www.joshmcguigan.com/blog/custom-exit-status-codes-rust/"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Methods for Array Initialization in Rust",
+    "link": "https://www.joshmcguigan.com/blog/array-initialization-rust/"
+  },
+  {
+    "date": "2018-11-20",
+    "title": "Build Your Own Shell using Rust",
+    "link": "https://www.joshmcguigan.com/blog/build-your-own-shell-rust/"
+  },
+  {
+    "date": "2018-07-17",
+    "title": "BetaFPV F3 Drone Flight Controller - Hello Rust",
+    "link": "https://www.joshmcguigan.com/blog/betafpv-drone-flight-controller-hello-rust/"
+  },
+  {
+    "date": "2017-08-15",
     "title": "Evolution of a simple `du -s` clone - blog by durka",
     "link": "https://durka.github.io/blog/2017/08/06/du-evolution.html"
+  },
+  {
+    "date": "2017-06-06",
+    "title": "Hong Kong Open Source Conference 2017 // 香港開源年會 2017",
+    "link": "https://hkoscon.org/2017/topics/building-artificial-intelligence-units-in-rust/"
+  },
+  {
+    "date": "2017-05-23",
+    "title": "Building graphical applications to js in stable Rust by Greg Katz",
+    "link": "https://gregkatz.github.io/2017-05-20-rust-emscripten.html"
+  },
+  {
+    "date": "2017-05-16",
+    "title": "The Story of a Rust Bug :: Jon Gjengset",
+    "link": "https://thesquareplanet.com/blog/the-story-of-a-rust-bug/"
+  },
+  {
+    "date": "2017-01-10",
+    "title": "The image library is now pure Rust · Piston",
+    "link": "http://blog.piston.rs/2017/01/08/the-image-library-is-now-pure-rust/"
+  },
+  {
+    "date": "2016-10-25",
+    "title": "Rust Tips and Tricks :: Jon Gjengset",
+    "link": "https://thesquareplanet.com/blog/rust-tips-and-tricks/"
+  },
+  {
+    "date": "2016-09-27",
+    "title": "These weeks in intermezzOS 3 - The intermezzOS Blog",
+    "link": "https://intermezzos.github.io/blog/articles/twii3/"
+  },
+  {
+    "date": "2016-09-20",
+    "title": "What is happening 3 · Piston",
+    "link": "http://blog.piston.rs/2016/09/19/what-is-happening-3/"
+  },
+  {
+    "date": "2016-09-13",
+    "title": "This Year In Conrod · Piston",
+    "link": "http://blog.piston.rs/2016/09/13/this-year-in-conrod/"
+  },
+  {
+    "date": "2016-07-12",
+    "title": "Dyon 0.8 is released! · Piston",
+    "link": "http://blog.piston.rs/2016/07/11/dyon-0.8/"
+  },
+  {
+    "date": "2016-07-05",
+    "title": "First Steps in Rust",
+    "link": "https://floooh.github.io/2016/06/27/first-steps-in-rust.html"
+  },
+  {
+    "date": "2016-06-13",
+    "title": "Beware upcoming Dyon v0.8 - It will be awesome! · Piston",
+    "link": "http://blog.piston.rs/2016/06/07/beware-dyon/"
+  },
+  {
+    "date": "2016-06-06",
+    "title": "This week in intermezzOS 2 - The intermezzOS Blog",
+    "link": "https://intermezzos.github.io/blog/articles/twii2/"
+  },
+  {
+    "date": "2016-05-30",
+    "title": "The Path to Rust :: Jon Gjengset",
+    "link": "https://thesquareplanet.com/blog/the-path-to-rust/"
+  },
+  {
+    "date": "2016-05-30",
+    "title": "async generators",
+    "link": "https://dwrensha.github.io/capnproto-rust/2016/05/28/async-generators.html"
+  },
+  {
+    "date": "2016-05-16",
+    "title": "This week in intermezzOS 1 - The intermezzOS Blog",
+    "link": "https://intermezzos.github.io/blog/articles/twii1/"
+  },
+  {
+    "date": "2016-03-07",
+    "title": "How to use Eco · Piston",
+    "link": "http://blog.piston.rs/2016/03/04/how-to-use-eco/"
+  },
+  {
+    "date": "2016-02-22",
+    "title": "Scripting without garbage collector · Piston",
+    "link": "http://blog.piston.rs/2016/02/21/scripting-without-garbage-collector/"
+  },
+  {
+    "date": "2016-01-25",
+    "title": "Dynamo · Piston",
+    "link": "http://blog.piston.rs/2016/01/23/dynamo/"
+  },
+  {
+    "date": "2016-01-18",
+    "title": "RPC system rewritten to use async I/O",
+    "link": "https://dwrensha.github.io/capnproto-rust/2016/01/11/async-rpc.html"
+  },
+  {
+    "date": "2016-01-04",
+    "title": "What is happening 2 · Piston",
+    "link": "http://blog.piston.rs/2015/12/31/what-is-happening-2/"
+  },
+  {
+    "date": "2015-11-23",
+    "title": "What is happening · Piston",
+    "link": "http://blog.piston.rs/2015/11/17/what-is-happening/"
+  },
+  {
+    "date": "2015-11-02",
+    "title": "New Meta Language · Piston",
+    "link": "http://blog.piston.rs/2015/10/28/new-meta-language/"
+  },
+  {
+    "date": "2015-08-31",
+    "title": "Another Year With Conrod · Piston",
+    "link": "http://blog.piston.rs/2015/08/26/another-year-with-conrod/"
+  },
+  {
+    "date": "2015-07-27",
+    "title": "Piston 0.5 Released · Piston",
+    "link": "http://blog.piston.rs/2015/07/22/piston-0.5/"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "asynchronous I/O with promises",
+    "link": "http://dwrensha.github.io/capnproto-rust/2015/05/25/asynchronous-io-with-promises.html"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "Piston-Window 0.2 · Piston",
+    "link": "http://blog.piston.rs/2015/06/05/piston-window-0.2/"
+  },
+  {
+    "date": "2015-05-18",
+    "title": "Visual Rust 0.1 is out · Piston",
+    "link": "http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/"
+  },
+  {
+    "date": "2015-04-13",
+    "title": "Piston 0.1 is released · Piston",
+    "link": "http://blog.piston.rs/2015/04/07/piston-0.1/"
+  },
+  {
+    "date": "2015-03-23",
+    "title": "error handling revisited",
+    "link": "http://dwrensha.github.io/capnproto-rust/2015/03/21/error-handling-revisited.html"
+  },
+  {
+    "date": "2015-02-16",
+    "title": "Duck Typing in Piston · Piston",
+    "link": "http://blog.piston.rs/2015/02/10/duck-typing-in-piston/"
+  },
+  {
+    "date": "2014-12-29",
+    "title": "custom mutable reference types",
+    "link": "http://dwrensha.github.io/capnproto-rust/2014/12/27/custom-mutable-references.html"
+  },
+  {
+    "date": "2014-12-15",
+    "title": "Working with AI behavior trees · Piston",
+    "link": "http://blog.piston.rs/2014/12/09/working-with-ai-behavior-trees/"
+  },
+  {
+    "date": "2014-12-08",
+    "title": "New graphics library design · Piston",
+    "link": "http://blog.piston.rs/2014/12/02/new-graphics-design/"
+  },
+  {
+    "date": "2014-01-18",
+    "title": "updated benchmark comparison to C++",
+    "link": "http://dwrensha.github.io/capnproto-rust/2014/01/15/benchmark-update.html"
+  },
+  {
+    "date": "2014-01-12",
+    "title": "benchmark comparison to C++",
+    "link": "http://dwrensha.github.io/capnproto-rust/2013/11/16/benchmark.html"
+  },
+  {
+    "date": "2014-01-06",
+    "title": "a data pipeline with zeromq",
+    "link": "http://dwrensha.github.io/capnproto-rust/2014/01/04/zmq-explorers.html"
   }
 ]

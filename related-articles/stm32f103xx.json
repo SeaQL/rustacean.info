@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2018-11-27",
+    "title": "Bootstrapping My Embedded Rust Development Environment",
+    "link": "https://josh.robsonchase.com/embedded-bootstrapping/"
+  },
+  {
+    "date": "2018-09-11",
+    "title": "Pun Intended: Bare Metal Attracts Rust | Hackaday",
+    "link": "https://hackaday.com/2018/09/08/pun-intended-bare-metal-attracts-rust/"
+  },
+  {
+    "date": "2018-02-13",
+    "title": "Memory safe DMA transfers | Embedded in Rust",
+    "link": "http://blog.japaric.io/safe-dma/"
+  }
+]

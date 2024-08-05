@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "What I learned from making a DNS client in Rust",
+    "link": "https://blog.adamchalmers.com/making-a-dns-client/"
+  },
+  {
+    "date": "2018-10-23",
+    "title": "Hardware Interrupts | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/hardware-interrupts/"
+  }
+]

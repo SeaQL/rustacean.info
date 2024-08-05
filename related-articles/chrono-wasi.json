@@ -1,10 +1,27 @@
 [
   {
+    "date": "2022-04-06",
     "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
     "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
   },
   {
+    "date": "2021-10-27",
+    "title": "2021 | No Time for Chrono - Félix Saparelli",
+    "link": "https://passcod.name/technical/no-time-for-chrono.html"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "How I Used Rust + Lunatic to Build a TelNet Chat Server With WebAssembly | HackerNoon",
+    "link": "https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg"
+  },
+  {
+    "date": "2018-06-26",
     "title": "What I Learned: Porting Dateutil Parser to Rust",
     "link": "https://speice.io/2018/06/dateutil-parser-to-rust.html"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
   }
 ]

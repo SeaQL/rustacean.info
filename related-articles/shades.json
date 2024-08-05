@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-06-07",
     "title": "Introducing posh: Type-Safe Graphics Programming with Functional Shaders in Rust | leod’s blog",
     "link": "https://leod.github.io/rust/gamedev/posh/2023/06/04/posh.html"
   },
   {
+    "date": "2022-08-17",
     "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/036/"
   }

@@ -1,13 +1,16 @@
 [
   {
+    "date": "2020-11-4-",
     "title": "Therocode's blog",
     "link": "https://blog.therocode.net/2020/10/a-guide-to-rust-sdl2-emscripten"
   },
   {
+    "date": "2018-07-10",
     "title": "A web application completely in Rust | by Sascha Grunert | Medium",
     "link": "https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471"
   },
   {
+    "date": "2018-02-20",
     "title": "Porting Rust to WebAssembly · udoprog",
     "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
   }

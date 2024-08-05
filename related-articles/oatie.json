@@ -1,5 +1,6 @@
 [
   {
+    "date": "2018-07-31",
     "title": "A “rustup target” Example: Using a Mac to cross-compile Linux binaries | Non-Recurring Engineering",
     "link": "http://timryan.org/2018/07/27/cross-compiling-linux-binaries-from-macos.html"
   }

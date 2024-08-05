@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2023-08-30",
+    "title": "TulipeMoutarde.be",
+    "link": "https://tulipemoutarde.be/posts/2023-08-20-depencency-injection-rust-axum/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Fluvio - This Week in Fluvio #19",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0019/"
+  },
+  {
+    "date": "2021-07-07",
+    "title": "butido - a Linux Package Building Tool in Rust — musicmatzes blog",
+    "link": "https://beyermatthias.de/butido-a-linux-package-building-tool-in-rust"
+  },
+  {
+    "date": "2016-10-04",
+    "title": "musicmatzes blog",
+    "link": "http://beyermatthias.de"
+  },
+  {
+    "date": "2016-09-13",
+    "title": "show_notes::bonus::_7 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_7/"
+  }
+]

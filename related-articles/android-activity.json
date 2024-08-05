@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-03-20",
     "title": "Slint 1.5: Embracing Android, Improving Live-Preview, and introducing Pythonic Slint — Slint Blog",
     "link": "https://slint.dev/blog/slint-1.5-released"
   },
   {
+    "date": "2023-11-15",
     "title": "Slint 1.3 Released with Revamped Native Styles and JavaScript API — Slint Blog",
     "link": "https://slint.dev/blog/slint-1.3-released"
   }

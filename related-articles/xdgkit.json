@@ -1,14 +1,12 @@
 [
   {
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+    "date": "2021-10-06",
+    "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-dynload/"
   },
   {
-    "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
-  },
-  {
-    "title": "Exporting a GObject C API from Rust code and using it from C, Python, JavaScript and others – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2017/09/exporting-a-gobject-c-api-from-rust-code-and-using-it-from-c-python-javascript-and-others/"
+    "date": "2015-05-18",
+    "title": "Basic code completion for Rust in KDE's Kate (and later KDevelop) - KDE Blogs",
+    "link": "https://blogs.kde.org/2015/05/18/basic-code-completion-rust-kdes-kate-and-later-kdevelop"
   }
 ]

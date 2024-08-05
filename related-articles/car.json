@@ -1,0 +1,387 @@
+[
+  {
+    "date": "2024-06-26",
+    "title": "Life in the FastLanes",
+    "link": "https://blog.spiraldb.com/life-in-the-fastlanes/"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "I ported h2spec to Rust (also: codegen!)",
+    "link": "https://fasterthanli.me/videos/h2spec-to-rust"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "Making Your First Real-World Rust Project a Success | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/successful-rust-business-adoption-checklist/"
+  },
+  {
+    "date": "2024-05-15",
+    "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
+  },
+  {
+    "date": "2024-04-17",
+    "title": "Rust Digger: 7.53% of crates have both 'edition' and 'rust-version', 11.21% have neither",
+    "link": "https://rust-digger.code-maven.com/news/msrv-stats"
+  },
+  {
+    "date": "2024-04-03",
+    "title": "cargo-semver-checks with Predrag Gruevski :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/predrag-gruevski/"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "SemVer in Rust: Tooling, Breakage, and Edge Cases — FOSDEM 2024",
+    "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Rust impact on engineering management | by Bastien Vigneron | Medium",
+    "link": "https://bastienvigneron.medium.com/rust-impact-on-engineering-management-59647e5d0265"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "Where Does the Time Go? Rust's Problem with Slow Compiles - The New Stack",
+    "link": "https://thenewstack.io/where-does-the-time-go-rusts-problem-with-slow-compiles/"
+  },
+  {
+    "date": "2023-12-06",
+    "title": "Getting started with Loco, the one-person web framework for Rust",
+    "link": "https://rust.code-maven.com/getting-started-with-loco"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Investigating crazy compile times",
+    "link": "https://blog.adamchalmers.com/crazy-compile-time/"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "cargo-show-asm — Cargo add-on // Lib.rs",
+    "link": "https://lib.rs/crates/cargo-show-asm"
+  },
+  {
+    "date": "2023-10-18",
+    "title": "Compile Times and Code Graphs",
+    "link": "https://blog.danhhz.com/compile-times-and-code-graphs"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Looking for Bad Apples in Rust Dependency Trees Using GraphQL and Trustfall | by Emil Jonathan Eriksson | Volvo Cars Engineering | Medium",
+    "link": "https://medium.com/volvo-cars-engineering/looking-for-bad-apples-in-rust-dependency-trees-using-graphql-and-trustfall-cb88b835f652"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Rustconf 2023 recap",
+    "link": "https://blog.adamchalmers.com/rustconf-2023-recap/"
+  },
+  {
+    "date": "2023-09-27",
+    "title": "Eyra is an interesting Rust project – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/eyra/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "Going beyond build.rs: introducing cargo-px | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/cargo-px/"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "Bringing runtime checks to compile time in Rust · Kai Kaufman's tech blog",
+    "link": "https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/"
+  },
+  {
+    "date": "2023-04-19",
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "date": "2023-04-05",
+    "title": "A definitive guide to sealed traits in Rust",
+    "link": "https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "Cargo Limit with Alexander Lopatin :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/alexander-lopatin/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "date": "2023-02-08",
+    "title": "Speeding up Rust semver-checking by over 2000x",
+    "link": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "cargo-semver-checks today and in 2023",
+    "link": "https://predr.ag/blog/cargo-semver-checks-today-and-in-2023/"
+  },
+  {
+    "date": "2022-09-07",
+    "title": "Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use. | The Tor Project",
+    "link": "https://blog.torproject.org/arti_100_released/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Hot Reloading Rust — for Fun and Faster Feedback Cycles | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/hot-reloading-rust/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Announcing Cargo WAPM · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/announcing-cargo-wapm/"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "Integrating a Rust module into an Android app - LogRocket Blog",
+    "link": "https://blog.logrocket.com/integrating-rust-module-android-app/"
+  },
+  {
+    "date": "2022-06-01",
+    "title": "This Week in Rust - Issue 443 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/twir-443/"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
+    "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "date": "2022-02-23",
+    "title": "Nextest - cargo-nextest",
+    "link": "https://nexte.st"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "Crafting A Lox Interpreter In Rust, Part 1 - 💡 Scratching Itches",
+    "link": "https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "println!(\"Hello, World!\")",
+    "link": "https://www.printlnhello.world/blog/publishing-to-crates-io/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "How to install cargo-outdated in OSX without homebrew - Estada.ch",
+    "link": "https://estada.ch/2022/1/7/how-to-install-cargo-outdated-in-osx-without-homebrew/"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Why is my Rust build so slow?",
+    "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
+  },
+  {
+    "date": "2021-11-17",
+    "title": "`cargo-sonar`",
+    "link": "https://hole.tuziwo.info/cargo-sonar.html"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "web.crev.dev cargo-crev",
+    "link": "https://web.crev.dev/rust-reviews/"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "My ideal Rust workflow",
+    "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "date": "2021-10-06",
+    "title": "Writing dockerfile in rust project | Wind",
+    "link": "https://windsoilder.github.io/writing_dockerfile_in_rust_project.html"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "Running Rust on Android – suve's ramblings",
+    "link": "https://blog.svgames.pl/article/running-rust-on-android"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "What's in the box?",
+    "link": "https://fasterthanli.me/articles/whats-in-the-box"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
+    "date": "2021-02-24",
+    "title": "Procedural Macros: A simple derive macro | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-simple-derive/"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Release of v0.7 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/02/02/release-0.7.html"
+  },
+  {
+    "date": "2020-12-30",
+    "title": "The more things change... · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/12/30/the-more-things-change/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-10-14",
+    "title": "📽 2 videos about rust code coverage in VSCode • Marco Ieni",
+    "link": "https://www.marcoieni.com/2020/10/2-videos-about-rust-code-coverage-in-vscode/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "So you want to live-reload Rust",
+    "link": "https://fasterthanli.me/articles/so-you-want-to-live-reload-rust"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "A Few Github Action “Recipes” for Rust - shift.click",
+    "link": "https://shift.click/blog/github-actions-rust/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Colin Woodbury - Software Development Languages: Rust",
+    "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Writing Non-Trivial Macros in Rust · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/non-trivial-macros/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Wiki - WritingAWaylandCompositorInRust",
+    "link": "https://wiki.alopex.li/WritingAWaylandCompositorInRust"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Yak shaving conditional compilation in Rust · shifting bits",
+    "link": "https://bitshifter.github.io/2020/05/07/conditional-compilation-in-rust/"
+  },
+  {
+    "date": "2019-12-17",
+    "title": "WebAssembly as a Platform for Abstraction · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "How to RiiR · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/how-to-riir/index.html"
+  },
+  {
+    "date": "2019-11-19",
+    "title": "Implementing ArrayVec Using Const Generics · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/const-arrayvec/"
+  },
+  {
+    "date": "2019-09-24",
+    "title": "Top-Level Infrastructure · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/top-level-infrastructure/"
+  },
+  {
+    "date": "2019-08-27",
+    "title": "Wiki - ActuallyUsingCrev",
+    "link": "https://wiki.alopex.li/ActuallyUsingCrev"
+  },
+  {
+    "date": "2019-04-16",
+    "title": "cargo-call-stack, part 2: getting call graph information from rustc | Embedded in Rust",
+    "link": "https://blog.japaric.io/stack-analysis-2/"
+  },
+  {
+    "date": "2019-03-26",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-17/"
+  },
+  {
+    "date": "2019-03-19",
+    "title": "Implementing a static stack usage analysis tool | Embedded in Rust",
+    "link": "https://blog.japaric.io/stack-analysis/"
+  },
+  {
+    "date": "2019-03-12",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-16/"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  },
+  {
+    "date": "2018-09-11",
+    "title": "Beware the rust cache on Travis | Levans' workshop",
+    "link": "https://levans.fr/rust_travis_cache.html"
+  },
+  {
+    "date": "2017-08-01",
+    "title": "RTFM v2: simpler, less overhead and more device support | Embedded in Rust",
+    "link": "http://blog.japaric.io/rtfm-v2/"
+  },
+  {
+    "date": "2017-01-17",
+    "title": "Debugging Rust's new Custom Derive system | Light Fiction",
+    "link": "https://quodlibetor.github.io/posts/debugging-rusts-new-custom-derive-system/"
+  },
+  {
+    "date": "2016-10-04",
+    "title": "musicmatzes blog",
+    "link": "http://beyermatthias.de"
+  }
+]

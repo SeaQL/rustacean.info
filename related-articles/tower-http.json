@@ -1,21 +1,41 @@
 [
   {
+    "date": "2023-11-22",
     "title": "hyper v1 - seanmonstar",
     "link": "https://seanmonstar.com/blog/hyper-v1/"
   },
   {
+    "date": "2023-08-23",
     "title": "Distributed Tracing in Rust, Episode 2: tracing basics",
     "link": "https://heikoseeberger.de/2023-08-18-dist-tracing-2/"
   },
   {
+    "date": "2023-08-09",
+    "title": "Instrumenting Axum projects",
+    "link": "https://determinate.systems/posts/instrumenting-axum"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "Flexible Tracing with Rust and OpenTelemetry OTLP",
+    "link": "https://broch.tech/posts/rust-tracing-opentelemetry/"
+  },
+  {
+    "date": "2022-12-28",
     "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
     "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
   },
   {
+    "date": "2022-12-14",
     "title": "Composing an observable Rust application - LogRocket Blog",
     "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
   },
   {
+    "date": "2022-08-31",
+    "title": "Building an authentication system in Rust using session tokens",
+    "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
+  },
+  {
+    "date": "2021-06-02",
     "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
   }

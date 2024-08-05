@@ -1,17 +1,26 @@
 [
   {
+    "date": "2023-09-27",
     "title": "My Pure Rust Wishlist - GBurghoorn",
     "link": "https://gburghoorn.com/posts/pure-rust-wishlist/"
   },
   {
+    "date": "2023-03-15",
+    "title": "Leveraging Rust and the GPU to render user interfaces at 120 FPS",
+    "link": "https://zed.dev/blog/videogame"
+  },
+  {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2022-11-09",
     "title": "This Month in Rust OSDev: October 2022 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2022-10/"
   },
   {
+    "date": "2020-09-30",
     "title": "Rust 2021: GUI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html"
   }

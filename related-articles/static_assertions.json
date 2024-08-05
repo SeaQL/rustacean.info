@@ -1,17 +1,26 @@
 [
   {
+    "date": "2020-09-09",
     "title": "Peeking inside a Rust enum",
     "link": "https://fasterthanli.me/articles/peeking-inside-a-rust-enum"
   },
   {
+    "date": "2020-06-23",
+    "title": "Writing Non-Trivial Macros in Rust · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/non-trivial-macros/"
+  },
+  {
+    "date": "2020-02-18",
     "title": "A Pragmatic Approach To Global State · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/pragmatic-global-state/"
   },
   {
+    "date": "2019-09-17",
     "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
     "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
   },
   {
+    "date": "2018-10-23",
     "title": "static_assertions - Rust",
     "link": "https://docs.rs/static_assertions"
   }

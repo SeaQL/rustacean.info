@@ -1,13 +1,21 @@
 [
   {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2021-12-29",
     "title": "Vange-rs: WebAssembly in Rust. Vangers  — one of the most… | by Alexander Guryanov (caiiiycuk) | Medium",
     "link": "https://caiiiycuk.medium.com/vange-rs-webassembly-in-rust-498e2f960a04"
   },
   {
+    "date": "2020-11-18",
     "title": "The Big Picture - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
   }

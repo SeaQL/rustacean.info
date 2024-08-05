@@ -1,6 +1,12 @@
 [
   {
+    "date": "2024-04-10",
     "title": "Pavex with Luca Palmieri :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/luca-palmieri-pavex/"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "Two New Open Source Rust Crates Create Easier Cedar Policy Management&nbsp; | AWS Open Source Blog",
+    "link": "https://aws.amazon.com/blogs/opensource/easier-cedar-policy-management/"
   }
 ]

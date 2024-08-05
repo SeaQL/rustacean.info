@@ -1,13 +1,31 @@
 [
   {
+    "date": "2022-07-20",
+    "title": "How to speed up the Rust compiler in July 2022 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html"
+  },
+  {
+    "date": "2022-01-12",
     "title": "Crate of the Week second chance list – Brian Kung",
     "link": "https://briankung.dev/2022/01/07/crate-of-the-week-second-chance-list/"
   },
   {
+    "date": "2021-08-18",
     "title": "Renato Athaydes",
     "link": "https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html"
   },
   {
+    "date": "2018-08-21",
+    "title": "How Rust’s standard library was vulnerable for years and nobody noticed | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/how-rusts-standard-library-was-vulnerable-for-years-and-nobody-noticed-aebf0503c3d6"
+  },
+  {
+    "date": "2018-05-22",
+    "title": "Improving SmallVec's speed by 60% and why that shouldn't matter to you",
+    "link": "http://troubles.md/posts/improving-smallvec/"
+  },
+  {
+    "date": "2017-05-16",
     "title": "Rust Optimization.md · GitHub",
     "link": "https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1"
   }

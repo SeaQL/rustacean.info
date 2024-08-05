@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2022-08-31",
+    "title": "Toward fearless cargo update",
+    "link": "https://predr.ag/blog/toward-fearless-cargo-update/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Rust 2021 Roadmap Wishlist",
+    "link": "https://aldaronlau.com/rust-2021/"
+  },
+  {
+    "date": "2020-02-18",
+    "title": "rust ghost, signing off | quiet misdreavus miniblog",
+    "link": "https://quietmisdreavus.net/self/2020/02/17/rust-ghost-signing-off/"
+  },
+  {
+    "date": "2019-11-26",
+    "title": "Shipping a compiler every six weeks - Pietro Albini",
+    "link": "https://www.pietroalbini.org/blog/shipping-a-compiler-every-six-weeks/"
+  }
+]

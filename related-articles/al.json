@@ -1,6 +1,62 @@
 [
   {
+    "date": "2023-08-09",
+    "title": "This Month in Rust OSDev: July 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-07/"
+  },
+  {
+    "date": "2023-08-02",
+    "title": "allocator_api2 - Rust",
+    "link": "https://docs.rs/allocator-api2"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "Eight million pixels and counting\n– Custom allocators in Rust",
+    "link": "https://nical.github.io/posts/rust-custom-allocators.html"
+  },
+  {
+    "date": "2022-12-07",
+    "title": "Self-referential types for fun and profit | More Stina Blog!",
+    "link": "https://morestina.net/blog/1868/self-referential-types-for-fun-and-profit"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "This Month in Rust GameDev #27 - October 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/027/"
+  },
+  {
+    "date": "2021-09-29",
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Renato Athaydes",
+    "link": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html"
+  },
+  {
+    "date": "2021-07-21",
+    "title": "Allsorts Font Shaping Engine 0.6 Release - YesLogic",
+    "link": "https://yeslogic.com/blog/allsorts-rust-font-shaping-engine-0-6/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Down the Yak Hole of TLS — Drogue IoT",
+    "link": "https://blog.drogue.io/yak-hole-of-tls/"
+  },
+  {
+    "date": "2020-04-07",
+    "title": "This month in rustsim #10 (March 2020) · The rustsim organization",
+    "link": "https://www.rustsim.org/blog/2020/04/01/this-month-in-rustsim/"
+  },
+  {
+    "date": "2020-01-21",
     "title": "How To Write Fast Rust Code",
     "link": "http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html"
+  },
+  {
+    "date": "2018-12-11",
+    "title": "Building Alexa Skills in Rust. Finally, AWS Lambda supports custom… | by Arien Malec | Medium",
+    "link": "https://medium.com/@amalec/building-alexa-skills-in-rust-4cf54a497ea4"
   }
 ]

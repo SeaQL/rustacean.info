@@ -1,5 +1,26 @@
 [
   {
+    "date": "2024-05-29",
+    "title": "How We Migrated Our Static Analyzer From Java to Rust | Datadog",
+    "link": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Using Neovim for Rust Development",
+    "link": "https://rusty-ferris.pages.dev/blog/using-nvim-for-rust-development/"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "Introducing Rust Sitter - Shadaj Laddad",
+    "link": "https://www.shadaj.me/writing/introducing-rust-sitter/"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "Rust and Neovim - A Thorough Guide and Walkthrough | the trait",
+    "link": "https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/"
+  },
+  {
+    "date": "2020-09-16",
     "title": "Challenging LR Parsing",
     "link": "https://rust-analyzer.github.io//blog/2020/09/16/challeging-LR-parsing.html"
   }

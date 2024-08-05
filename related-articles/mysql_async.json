@@ -1,5 +1,11 @@
 [
   {
+    "date": "2022-12-28",
+    "title": "MySQL connection pooling in Rust for Toolforge - The Lego Mirror",
+    "link": "https://blog.legoktm.com/2022/12/27/mysql-connection-pooling-in-rust-for-toolforge.html"
+  },
+  {
+    "date": "2017-08-15",
     "title": "Debugging a Race Condition in a Release Target",
     "link": "http://blog.boxofrox.me/2017/08/debugging-a-rust-release-build.html"
   }

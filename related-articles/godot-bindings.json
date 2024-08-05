@@ -1,10 +1,72 @@
 [
   {
+    "date": "2024-06-26",
+    "title": "June 2024 dev update",
+    "link": "https://godot-rust.github.io/dev/june-2024-update/"
+  },
+  {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2024-03-06",
+    "title": "February 2024 dev update",
+    "link": "https://godot-rust.github.io/dev/february-2024-update/"
+  },
+  {
+    "date": "2024-01-03",
     "title": "2023 in Review: Establishing Rust as a Godot 4 language",
     "link": "https://godot-rust.github.io/dev/godot-rust-2023-review/"
   },
   {
+    "date": "2023-09-06",
+    "title": "FFI optimizations and benchmarking",
+    "link": "https://godot-rust.github.io/dev/ffi-optimizations-benchmarking/"
+  },
+  {
+    "date": "2023-08-02",
+    "title": "This Month in Rust GameDev #47 - June 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/047/"
+  },
+  {
+    "date": "2023-06-07",
     "title": "This Month in Rust GameDev #45 - April 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/045/"
+  },
+  {
+    "date": "2023-03-15",
+    "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/043/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "This Month in Rust GameDev #40 - November 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/040/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/030/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/029/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "This Month in Rust GameDev #27 - October 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/027/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
   }
 ]

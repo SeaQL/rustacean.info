@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-04-03",
     "title": "EtherCrab 0.4: Distributed Clocks, `io_uring`, Derives, Oh My",
     "link": "https://wapl.es/ethercrab-0-4-io-uring-derives-ethercat-distributed-clocks/"
   },
   {
+    "date": "2023-10-18",
     "title": "Announcing EtherCrab: The 100% Rust EtherCAT controller",
     "link": "https://wapl.es/announcing-ethercrab-the-rust-ethercat-controller/"
   },
   {
+    "date": "2022-07-06",
     "title": "A const builder pattern in Rust",
     "link": "https://wapl.es/rust/2022/07/03/const-builder-pattern.html"
   }

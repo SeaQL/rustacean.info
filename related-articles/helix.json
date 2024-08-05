@@ -1,13 +1,31 @@
 [
   {
+    "date": "2019-04-30",
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
+    "date": "2019-02-19",
     "title": "Moving from Ruby to Rust",
     "link": "https://deliveroo.engineering/2019/02/14/moving-from-ruby-to-rust.html"
   },
   {
+    "date": "2018-12-11",
+    "title": "Rust 2019 — let us pursue composability | by Pyry Kontio | Medium",
+    "link": "https://medium.com/@GolDDranks/rust-2019-let-us-pursue-composability-70f1eb2238c3"
+  },
+  {
+    "date": "2017-12-26",
     "title": "show_notes::interview::irr_2017::lee_baillie - Rust",
     "link": "http://www.newrustacean.com/show_notes/interview/irr_2017/lee_baillie/index.html"
   },
   {
+    "date": "2017-11-28",
+    "title": "Improving Ruby Performance with Rust | Cloudbees Blog",
+    "link": "https://blog.codeship.com/improving-ruby-performance-with-rust/"
+  },
+  {
+    "date": "2017-09-26",
     "title": "Neon Wants Your Help!",
     "link": "http://calculist.org/blog/2017/09/25/neon-wants-your-help/"
   }

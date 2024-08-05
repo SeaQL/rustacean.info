@@ -1,0 +1,107 @@
+[
+  {
+    "date": "2024-07-10",
+    "title": "derive_deftly - Rust",
+    "link": "https://docs.rs/derive-deftly/latest/derive_deftly/"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "diziet | derive-deftly is nearing 1.x - call for review/testing",
+    "link": "https://diziet.dreamwidth.org/18695.html"
+  },
+  {
+    "date": "2024-06-05",
+    "title": "The ultimate guide to Rust newtypes",
+    "link": "https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes"
+  },
+  {
+    "date": "2024-05-08",
+    "title": "derive_more - Rust",
+    "link": "https://docs.rs/derive_more"
+  },
+  {
+    "date": "2024-04-03",
+    "title": "Universal domain types",
+    "link": "https://mmapped.blog/posts/25-domain-types.html"
+  },
+  {
+    "date": "2023-02-08",
+    "title": "diziet | derive-adhoc: powerful pattern-based derive macros for Rust",
+    "link": "https://diziet.dreamwidth.org/14345.html"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part02"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Building a Simple DB in Rust - Part 1 - Parsing | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part01"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "How to build a Rust API with the builder pattern - LogRocket Blog",
+    "link": "https://blog.logrocket.com/build-rust-api-builder-pattern/"
+  },
+  {
+    "date": "2022-06-22",
+    "title": "Nine Rules for Elegant Rust Library APIs | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-elegant-rust-library-apis-9b986a465247"
+  },
+  {
+    "date": "2022-06-01",
+    "title": "Impl-tools: beyond derive - KAS blog",
+    "link": "https://kas-gui.github.io/blog/impl-tools.html"
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Fluvio - This Week in Fluvio #1",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0001/"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "Designing Rust bindings for REST APIs ⋅ Plume",
+    "link": "https://plume.benboeckel.net/~/JustAnotherBlog/designing-rust-bindings-for-rest-ap-is"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "The Newtype Pattern in Rust",
+    "link": "https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html"
+  },
+  {
+    "date": "2020-10-14",
+    "title": "Optional parameters in Rust – Vidify",
+    "link": "https://vidify.org/blog/rust-parameters/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Abstracting away correctness",
+    "link": "https://fasterthanli.me/articles/abstracting-away-correctness"
+  },
+  {
+    "date": "2020-03-10",
+    "title": "Init Struct Pattern – X Blog – A blog for Xaeroxe, Software Engineer",
+    "link": "https://xaeroxe.github.io/init-struct-pattern/"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "What's in a Linux executable?",
+    "link": "https://fasterthanli.me/blog/2020/whats-in-a-linux-executable/"
+  },
+  {
+    "date": "2019-02-05",
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "date": "2017-01-03",
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  },
+  {
+    "date": "2016-12-13",
+    "title": "24 days of Rust - derive_builder | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-derive_builder/"
+  }
+]

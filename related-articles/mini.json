@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2024-05-22",
+    "title": "Using Rust Macros for Custom VTables | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2024/5/16/macro-vtable-magic/"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "Crash reporting in Rust",
+    "link": "https://jake-shadle.github.io/crash-reporting/"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
+  },
+  {
+    "date": "2021-11-17",
+    "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "XML parsing in Rust | Mainmatter",
+    "link": "https://simplabs.com/blog/2020/12/31/xml-and-rust/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Building a Rust Web Browser",
+    "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
+  }
+]

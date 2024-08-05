@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-04-20",
     "title": "Including two versions of a Rust crate in a single project",
     "link": "https://reltech.substack.com/p/including-two-versions-of-a-rust"
   },
   {
+    "date": "2022-03-23",
     "title": "Rust talks I2C on Apache NuttX RTOS",
     "link": "https://lupyuen.github.io/articles/rusti2c"
   }

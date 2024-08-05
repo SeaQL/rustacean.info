@@ -1,9 +1,26 @@
 [
   {
+    "date": "2022-02-16",
+    "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/030/"
+  },
+  {
+    "date": "2021-02-24",
+    "title": "Building an OpenStreetMap app in Rust, Part III | by Tor Hovland | Bekk",
+    "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-iii-ab9ad4b83bd8"
+  },
+  {
+    "date": "2019-05-14",
     "title": "The State of Machine Learning in Rust - Ehsan's Blog",
     "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
   },
   {
+    "date": "2016-03-14",
+    "title": "Machine Learning in Rust",
+    "link": "https://athemathmo.github.io/2016/03/07/rusty-machine.html"
+  },
+  {
+    "date": "2016-02-01",
     "title": "Rust Guide to CHANGELOG.md. Rust stats on keeping a CHANGELOG.md… | by Autumn Engineering | Medium",
     "link": "https://medium.com/@autumn_eng/guide-to-changelog-md-in-rust-6eb349808fa4"
   }

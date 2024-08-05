@@ -1,13 +1,16 @@
 [
   {
+    "date": "2021-12-29",
     "title": "Vange-rs: WebAssembly in Rust. Vangers  — one of the most… | by Alexander Guryanov (caiiiycuk) | Medium",
     "link": "https://caiiiycuk.medium.com/vange-rs-webassembly-in-rust-498e2f960a04"
   },
   {
+    "date": "2021-05-26",
     "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
     "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
   },
   {
+    "date": "2018-10-02",
     "title": "Announcing the web-sys crate! | Rust and WebAssembly",
     "link": "https://rustwasm.github.io/2018/09/26/announcing-web-sys.html"
   }

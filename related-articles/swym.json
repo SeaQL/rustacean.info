@@ -1,9 +1,11 @@
 [
   {
+    "date": "2019-06-25",
     "title": "swym: Are we lock-free yet?",
     "link": "https://mtak-blog.github.io/are-we-lock-free-yet"
   },
   {
+    "date": "2019-03-26",
     "title": "Generalizing Seqlocks",
     "link": "https://mtak-blog.github.io/generalizing-seqlocks"
   }

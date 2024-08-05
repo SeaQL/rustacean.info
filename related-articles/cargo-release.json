@@ -1,13 +1,21 @@
 [
   {
+    "date": "2023-11-01",
     "title": "Fully Automated Releases for Rust Projects - Orhun's Blog",
     "link": "https://blog.orhun.dev/automated-rust-releases/"
   },
   {
+    "date": "2023-02-22",
+    "title": "winnow = toml_edit + combine + nom",
+    "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"
+  },
+  {
+    "date": "2023-02-08",
     "title": "axo blog - Release Engineering Is Exhausting So Here's cargo-dist",
     "link": "https://blog.axo.dev/2023/02/cargo-dist"
   },
   {
+    "date": "2022-06-29",
     "title": "Release-plz: release Rust packages from CI • Marco Ieni",
     "link": "https://www.marcoieni.com/2022/06/release-plz-release-rust-packages-from-ci/"
   }

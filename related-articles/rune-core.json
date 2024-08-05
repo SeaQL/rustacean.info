@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-10-11",
+    "title": "Rune 0.13 | The Rune Programming Language",
+    "link": "https://rune-rs.github.io/posts/rune-0-13-0/"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "How a Single Line of Code Made a 24-core Server Slower Than a Laptop | Piotr Kołaczkowski",
+    "link": "https://pkolaczk.github.io/server-slower-than-a-laptop/"
+  }
+]

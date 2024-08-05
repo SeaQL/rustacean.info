@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-03-20",
+    "title": "Lambda on hard mode: Inside Modal's web infrastructure | Modal Blog",
+    "link": "https://modal.com/blog/serverless-http"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "What I Learnt from Benchmarking Http4k, Ktor (Kotlin) and Actix v2, v3 (Rust) Microservices – Matěj Laitl a.k.a. strohel – Technical Blog",
+    "link": "https://matej.laitl.cz/bench-rust-kotlin-microservices/"
+  }
+]

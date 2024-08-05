@@ -1,25 +1,36 @@
 [
   {
+    "date": "2023-06-07",
     "title": "Episode 5: Putting Lipstick on a Pig - The Way of the Crab",
     "link": "https://wayofthecrab.com/episodes/005/"
   },
   {
+    "date": "2021-12-29",
+    "title": "Vange-rs: WebAssembly in Rust. Vangers  — one of the most… | by Alexander Guryanov (caiiiycuk) | Medium",
+    "link": "https://caiiiycuk.medium.com/vange-rs-webassembly-in-rust-498e2f960a04"
+  },
+  {
+    "date": "2018-02-06",
     "title": "Make your own make",
     "link": "https://matklad.github.io/2018/01/03/make-your-own-make.html"
   },
   {
+    "date": "2018-01-23",
     "title": "WebRender capture infrastructure",
     "link": "https://kvark.github.io/webrender/debug/ron/2018/01/23/wr-capture-infra.html"
   },
   {
+    "date": "2018-01-02",
     "title": "This Year in Gfx-rs - 2017 - gfx-rs nuts and bolts",
     "link": "http://gfx-rs.github.io/2017/12/30/this-year.html"
   },
   {
+    "date": "2017-08-15",
     "title": "Rusty Object Notation",
     "link": "https://kvark.github.io/format/data/json/2017/08/09/rusty-object-notation.html"
   },
   {
+    "date": "2016-10-11",
     "title": "Overview · Serde",
     "link": "https://serde.rs/"
   }

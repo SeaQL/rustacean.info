@@ -1,21 +1,31 @@
 [
   {
+    "date": "2024-01-17",
     "title": "Xilem 2024 plans - Linebender",
     "link": "https://linebender.org/blog/xilem-2024/"
   },
   {
+    "date": "2023-03-08",
     "title": "Bevy 0.10",
     "link": "https://bevyengine.org/news/bevy-0-10/"
   },
   {
+    "date": "2023-02-01",
     "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/041/"
   },
   {
+    "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
   },
   {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2022-07-20",
     "title": "Advice for the next dozen Rust GUIs | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
   }

@@ -1,5 +1,6 @@
 [
   {
+    "date": "2018-08-28",
     "title": "Oxidizing sourmash: Python and FFI",
     "link": "https://blog.luizirber.org/2018/08/23/sourmash-rust/"
   }

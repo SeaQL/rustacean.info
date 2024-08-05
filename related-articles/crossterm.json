@@ -1,53 +1,81 @@
 [
   {
+    "date": "2024-05-22",
+    "title": "v0.26.3 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v0263/"
+  },
+  {
+    "date": "2024-04-10",
     "title": "Ratatui Received Funding: What's Next? - Orhun's Blog",
     "link": "https://blog.orhun.dev/open-source-funding-with-ratatui/"
   },
   {
+    "date": "2024-01-10",
     "title": "Why stdout is faster than stderr? - Orhun's Blog",
     "link": "https://blog.orhun.dev/stdout-vs-stderr/"
   },
   {
+    "date": "2023-12-13",
+    "title": "Writing a CLI Tool in Rust with Clap",
+    "link": "https://www.shuttle.rs/blog/2023/12/08/clap-rust"
+  },
+  {
+    "date": "2023-07-19",
     "title": "ratatui - Rust",
     "link": "https://docs.rs/ratatui"
   },
   {
+    "date": "2023-05-10",
     "title": "Episode 1: Hello, World! - The Way of the Crab",
     "link": "https://wayofthecrab.com/episodes/001/"
   },
   {
+    "date": "2023-03-01",
     "title": "Pretty Rust backtraces in raw terminal mode | Andy Hippo",
     "link": "https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/"
   },
   {
+    "date": "2022-08-03",
     "title": "Manage keybindings in a Rust terminal application",
     "link": "https://dystroy.org/blog/keybindings/"
   },
   {
+    "date": "2022-08-03",
     "title": "Uncovering a Blocking Syscall",
     "link": "https://chrissardegna.com/blog/uncovering-a-blocking-syscall/"
   },
   {
+    "date": "2022-05-18",
     "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
     "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
   },
   {
+    "date": "2021-10-27",
+    "title": "Build Your Text Editor With Rust! Final Part | by Kofi Otuo | Medium",
+    "link": "https://medium.com/@otukof/build-your-text-editor-with-rust-final-part-4c841a649900"
+  },
+  {
+    "date": "2021-10-06",
     "title": "Build Your Text Editor With Rust! | by Kofi Otuo | Medium",
     "link": "https://medium.com/@otukof/build-your-text-editor-with-rust-678a463f968b"
   },
   {
+    "date": "2021-04-21",
     "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
   },
   {
+    "date": "2020-12-9-",
     "title": "Unit-testing a console app (a text editor) - Julio Merino (jmmv.dev)",
     "link": "https://jmmv.dev/2020/12/unit-testing-a-console-app.html"
   },
   {
+    "date": "2020-10-14",
     "title": "Let's Build Snake with Rust",
     "link": "https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html"
   },
   {
+    "date": "2019-12-31",
     "title": "Rust Lifetimes and Iterators | Tidbits and Stuff",
     "link": "https://blog.katona.me/2019/12/29/Rust-Lifetimes-and-Iterators/"
   }

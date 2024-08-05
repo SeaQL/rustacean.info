@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-01-11",
     "title": "Oh the Crates You'll Go! A 2022 Retrospective",
     "link": "https://jack.wrenn.fyi/blog/2022-retrospective/"
   },
   {
+    "date": "2022-12-21",
     "title": "Native Reflection in Rust",
     "link": "https://jack.wrenn.fyi/blog/deflect/"
   }

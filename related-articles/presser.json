@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-12-14",
     "title": "Presser with Gray Olson :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/gray-olson/"
   },
   {
+    "date": "2022-11-16",
     "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/039/"
   }

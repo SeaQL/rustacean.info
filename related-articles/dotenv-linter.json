@@ -1,37 +1,46 @@
 [
   {
+    "date": "2022-12-28",
     "title": "dotenv-linter",
     "link": "https://dotenv-linter.github.io/#/whats_new/v330"
   },
   {
+    "date": "2022-08-31",
     "title": "Update-informer v0.5.0 – Mikhail Grachev's blog",
     "link": "https://www.mgrachev.com/2022/08/29/update-informer-v050/"
   },
   {
+    "date": "2022-01-26",
     "title": "dotenv-linter",
     "link": "https://dotenv-linter.github.io/#/whats_new/v320"
   },
   {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   },
   {
+    "date": "2021-06-09",
     "title": "dotenv-linter",
     "link": "https://dotenv-linter.github.io/#/whats_new/v310"
   },
   {
+    "date": "2021-01-27",
     "title": "What are the key changes in dotenv-linter v3.0.0 release? - evrone.com",
     "link": "https://evrone.com/dotenv-linter-v300"
   },
   {
+    "date": "2020-10-21",
     "title": "What’s new in dotenv-linter v2.2.0 release | Evrone",
     "link": "https://evrone.com/dotenv-linter-v220"
   },
   {
+    "date": "2020-04-21",
     "title": "Dotenv-linter is an open-source tool written in Rust by Evrone",
     "link": "https://evrone.com/dotenv-linter"
   },
   {
+    "date": "2019-09-17",
     "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
     "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
   }

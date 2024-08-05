@@ -1,9 +1,16 @@
 [
   {
+    "date": "2022-01-12",
     "title": "Bringing include_dir Into the Modern Era · Michael-F-Bryan",
     "link": "https://adventures.michaelfbryan.com/posts/bringing-include_dir-into-the-modern-era/"
   },
   {
+    "date": "2020-04-21",
+    "title": "Writing Python inside your Rust code — Part 1 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-1/"
+  },
+  {
+    "date": "2018-12-25",
     "title": "Methods for Array Initialization in Rust",
     "link": "https://www.joshmcguigan.com/blog/array-initialization-rust/"
   }

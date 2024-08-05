@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2022-08-17",
+    "title": "Kernel Driver with Rust in 2022",
+    "link": "https://not-matthias.github.io/posts/kernel-driver-with-rust-2022/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Rust 2021: GUI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html"
+  }
+]

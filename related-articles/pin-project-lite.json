@@ -1,25 +1,36 @@
 [
   {
+    "date": "2024-07-24",
     "title": "Pinned places",
     "link": "https://without.boats/blog/pinned-places/"
   },
   {
+    "date": "2024-07-24",
     "title": "Pin",
     "link": "https://without.boats/blog/pin/"
   },
   {
+    "date": "2022-09-28",
     "title": "Overview: Safe Pinned Initialization | blog",
     "link": "https://y86-dev.github.io/blog/safe-pinned-initialization/overview.html"
   },
   {
+    "date": "2022-07-20",
+    "title": "How to speed up the Rust compiler in July 2022 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html"
+  },
+  {
+    "date": "2022-04-06",
     "title": "Futures Nostalgia",
     "link": "https://fasterthanli.me/articles/futures-nostalgia"
   },
   {
+    "date": "2021-07-28",
     "title": "Understanding Rust futures by going way too deep",
     "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
   },
   {
+    "date": "2019-12-03",
     "title": "Down and dirty with Future - Rust Crash Course lesson 8",
     "link": "https://www.snoyman.com/blog/2019/12/rust-crash-course-08-down-dirty-future"
   }

@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-07-10",
     "title": "derive_deftly - Rust",
     "link": "https://docs.rs/derive-deftly/latest/derive_deftly/"
   },
   {
+    "date": "2024-07-03",
     "title": "diziet | derive-deftly is nearing 1.x - call for review/testing",
     "link": "https://diziet.dreamwidth.org/18695.html"
   },
   {
+    "date": "2023-02-08",
     "title": "diziet | derive-adhoc: powerful pattern-based derive macros for Rust",
     "link": "https://diziet.dreamwidth.org/14345.html"
   }

@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-04-17",
+    "title": "My logging recipe for server side Rust |",
+    "link": "https://www.matildasmeds.com/posts/rust-logging-recipe/"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "Object Soup is Made of Indexes",
+    "link": "https://jacko.io/object_soup.html"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "The Magic of zerocopy",
+    "link": "https://swatinem.de/blog/magic-zerocopy/"
+  },
+  {
+    "date": "2014-12-15",
+    "title": "24 days of Rust - uuid | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-uuid/"
+  }
+]

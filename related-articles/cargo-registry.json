@@ -1,10 +1,232 @@
 [
   {
+    "date": "2023-01-25",
+    "title": "The crates.io registry is now a GitHub secret scanning integrator - The GitHub Blog",
+    "link": "https://github.blog/changelog/2023-01-19-the-crate-io-registry-is-now-a-github-secret-scanning-integrator/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "Docs as Code: Mermaid inline diagrams | blog frehberg",
+    "link": "https://frehberg.com/2022/12/docs-as-code-mermaid-inline-diagrams/"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "Announcing lettre 0.10 - lettre",
+    "link": "https://lettre.rs/post/lettre-0-10/"
+  },
+  {
+    "date": "2022-06-22",
+    "title": "Remote development with Rust on fly.io",
+    "link": "https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io"
+  },
+  {
+    "date": "2022-06-01",
+    "title": "The curse of strong typing",
+    "link": "https://fasterthanli.me/articles/the-curse-of-strong-typing"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Futures Nostalgia",
+    "link": "https://fasterthanli.me/articles/futures-nostalgia"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "My ideal Rust workflow",
+    "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
+  },
+  {
+    "date": "2021-10-06",
+    "title": "Code and Bitters",
+    "link": "https://codeandbitters.com/published-crate-analysis/"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "date": "2021-05-26",
+    "title": "Announcing lettre 0.10.0-rc.1 - lettre",
+    "link": "https://lettre.rs/post/lettre-0-10-0-rc-1/"
+  },
+  {
+    "date": "2021-02-24",
+    "title": "Maybe We Can Have Nice Things",
+    "link": "https://noncombatant.org/2021/02/16/maybe-we-can-have-nice-things/"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Exploring WebSocket with Rust and Tide - Javier's personal blog",
+    "link": "https://javierviola.com/post/exploring-websocket-with-rust-and-tide/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Frustrated? It's not you, it's Rust",
+    "link": "https://fasterthanli.me/articles/frustrated-its-not-you-its-rust"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Surviving Rust async interfaces",
+    "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
+  },
+  {
+    "date": "2020-07-14",
+    "title": "Getting in and out of trouble with Rust futures",
+    "link": "https://fasterthanli.me/articles/getting-in-and-out-of-trouble-with-rust-futures"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Image decay as a service",
+    "link": "https://fasterthanli.me/articles/image-decay-as-a-service"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Kevin K's Blog - Diving into Rust with a CLI",
+    "link": "https://kbknapp.dev/rust-cli/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "A no_std Rust binary",
+    "link": "https://fasterthanli.me/blog/2020/a-no-std-rust-binary/"
+  },
+  {
+    "date": "2020-04-14",
+    "title": "Downloading all the crates on crates.io - Pietro Albini",
+    "link": "https://www.pietroalbini.org/blog/downloading-crates-io/"
+  },
+  {
+    "date": "2020-02-18",
+    "title": "A Pragmatic Approach To Global State · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/pragmatic-global-state/"
+  },
+  {
+    "date": "2019-12-17",
+    "title": "WebAssembly as a Platform for Abstraction · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "How to RiiR · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/how-to-riir/index.html"
+  },
+  {
+    "date": "2019-11-12",
+    "title": "Search for Rust crates with Meili",
+    "link": "https://blog.meilisearch.com/search-rust-crates-meili/"
+  },
+  {
+    "date": "2019-10-01",
+    "title": "Plugins in Rust · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/plugins-in-rust/"
+  },
+  {
+    "date": "2019-08-27",
+    "title": "Wiki - ActuallyUsingCrev",
+    "link": "https://wiki.alopex.li/ActuallyUsingCrev"
+  },
+  {
+    "date": "2018-10-16",
+    "title": "Game Dev From Zero - Part 1: Hello, Rust-Lang - Hashnode",
+    "link": "https://hashnode.com/post/game-dev-from-zero-part-1-hello-rust-lang-cjn3brwto001jv7s2e533bdfc"
+  },
+  {
+    "date": "2018-06-19",
+    "title": "Integration Tests | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/integration-tests/"
+  },
+  {
+    "date": "2018-06-19",
+    "title": "From ActiveRecord to Diesel - Pat Shaughnessy",
+    "link": "http://patshaughnessy.net/2018/6/9/from-activerecord-to-diesel"
+  },
+  {
+    "date": "2018-04-03",
+    "title": "Analysing crates.io data",
+    "link": "https://tirkarthi.github.io/rust/2018/03/30/analyzing-crates-data.html"
+  },
+  {
+    "date": "2017-11-28",
+    "title": "1990-external-doc-attribute - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/1990-external-doc-attribute.html"
+  },
+  {
+    "date": "2017-10-31",
+    "title": "Alternative Registries",
+    "link": "https://boats.gitlab.io/blog/post/2017-10-28-alternative-registries/"
+  },
+  {
+    "date": "2017-05-23",
+    "title": "My first PR for a Rust project. I’ve been doing a lot of Rust recently… | by Steve Robinson | Adventures in Rust | Medium",
+    "link": "https://medium.com/adventures-in-rust/my-first-pr-for-a-rust-project-364d8c02220b"
+  },
+  {
+    "date": "2017-05-09",
+    "title": "How I Broke Rust's Package Manager for All Windows Users - sasheldon.com",
+    "link": "http://sasheldon.com/blog/2017/05/07/how-i-broke-cargo-for-windows/"
+  },
+  {
+    "date": "2017-04-04",
+    "title": "Fuzzing is magic - Or how I found a panic in Rust's regex library",
+    "link": "https://www.nibor.org/blog/fuzzing-is-magic---or-how-i-found-a-panic-in-rusts-regex-library/"
+  },
+  {
+    "date": "2017-02-21",
+    "title": "A simple Rust GUI with QML",
+    "link": "https://www.vandenoever.info/blog/2017/02/17/a-simple-rust-gui-with-qml.html"
+  },
+  {
+    "date": "2017-01-24",
+    "title": "Categories and CI badges are now available on crates.io!",
+    "link": "http://www.integer32.com/2017/01/20/categories-and-ci-badges.html"
+  },
+  {
+    "date": "2017-01-03",
+    "title": "Six Easy Ways to Make Your Crate Awesome",
+    "link": "http://www.integer32.com/2016/12/27/how-to-make-your-crate-awesome.html"
+  },
+  {
+    "date": "2016-12-27",
     "title": "Four years with Rust",
     "link": "http://words.steveklabnik.com/four-years-with-rust"
   },
   {
+    "date": "2016-10-11",
     "title": "Bare Minimum Crates.io Mirror Plus One",
     "link": "http://integer32.com/2016/10/08/bare-minimum-crates-io-mirror-plus-one.html"
+  },
+  {
+    "date": "2016-05-23",
+    "title": "Creating a basic webservice in Rust",
+    "link": "http://hermanradtke.com/2016/05/16/creating-a-basic-webservice-in-rust.html"
+  },
+  {
+    "date": "2016-02-22",
+    "title": "First Steps with Rust and JNI – daschl writes. sometimes.",
+    "link": "http://nitschinger.at/First-Steps-with-Rust-and-JNI/"
+  },
+  {
+    "date": "2015-08-24",
+    "title": "Dissecting Crates.io: Bare Minimum Mirror - gmjosack",
+    "link": "https://gmjosack.github.io/posts/dissecting-cratesio-minimum-mirror/"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "A Simple Web App in Rust, Part 2b",
+    "link": "http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "A Simple Web App in Rust, Part 1",
+    "link": "http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/"
+  },
+  {
+    "date": "2014-11-24",
+    "title": "The Rust community's crate host | Hacker News",
+    "link": "http://news.ycombinator.com/item?id=8637493"
   }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2022-06-01",
+    "title": "The curse of strong typing",
+    "link": "https://fasterthanli.me/articles/the-curse-of-strong-typing"
+  },
+  {
+    "date": "2019-11-26",
+    "title": "Rust 2020: Lessons learned by transpiling C to Rust :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2019/11/rust2020/"
+  }
+]

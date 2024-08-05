@@ -1,6 +1,12 @@
 [
   {
+    "date": "2024-03-20",
     "title": "Zig, Rust, and other languages | notes.eatonphil.com",
     "link": "https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Rust compression libraries - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-compression-libraries/"
   }
 ]

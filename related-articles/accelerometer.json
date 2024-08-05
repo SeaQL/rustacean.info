@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-07-28",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/58/async-and-asleep-designing-our-future-embedded-applications"
   },
   {
+    "date": "2019-03-12",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-16/"
   }

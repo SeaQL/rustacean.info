@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-10-12",
     "title": "Single Pass Recursion in Rust -",
     "link": "https://recursion.wtf/posts/rust_schemes_3/"
   },
   {
+    "date": "2022-08-03",
     "title": "Fully generic recursion in Rust -",
     "link": "https://recursion.wtf/posts/rust_schemes_2/"
   }

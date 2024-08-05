@@ -1,25 +1,31 @@
 [
   {
+    "date": "2018-11-06",
     "title": "A hammer you can only hold by the handle - Systems Group Blog",
     "link": "https://blog.systems.ethz.ch/blog/2018/a-hammer-you-can-only-hold-by-the-handle.html"
   },
   {
+    "date": "2018-08-28",
     "title": "Oxidizing sourmash: Python and FFI",
     "link": "https://blog.luizirber.org/2018/08/23/sourmash-rust/"
   },
   {
+    "date": "2016-08-02",
     "title": "Hidden treasures of the Rust ecosystem - Pascal’s Scribbles",
     "link": "https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html"
   },
   {
+    "date": "2016-02-29",
     "title": "Query2 in timely dataflow · Busy Beaver",
     "link": "http://www.poumeyrol.fr/2016/02/22/Query2-in-timely/"
   },
   {
+    "date": "2016-02-08",
     "title": "Let's optimize · Busy Beaver",
     "link": "http://www.poumeyrol.fr/2016/02/01/Lets-optimize/"
   },
   {
+    "date": "2016-01-25",
     "title": "Awkward Zone · Busy Beaver",
     "link": "http://www.poumeyrol.fr/2016/01/15/Awkward-zone/"
   }

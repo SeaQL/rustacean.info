@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-08-10",
     "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
   },
   {
+    "date": "2020-10-21",
     "title": "Kata Containers rewritten in Rust gets a major speed boost | ZDNET",
     "link": "https://www.zdnet.com/article/kata-containers-rewritten-in-rust-and-gets-a-major-speed-boost/"
   }

@@ -1,0 +1,147 @@
+[
+  {
+    "date": "2023-12-06",
+    "title": "2023-11-24: Building a Hypercube Interpolator (in Rust) - James Logan",
+    "link": "https://jlogan03.github.io/interpn/"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "This Month in Rust OSDev: October 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-10/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "sphrs 0.2.0 released | argmin",
+    "link": "http://argmin-rs.org/blog/sphrs-v0-2-0/"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "Beginners guide to Solana NFTs in Rust. | by Jacob | Medium",
+    "link": "https://medium.com/@jacob_62353/introduction-365296716979"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "The last two years in Miri",
+    "link": "https://www.ralfj.de/blog/2022/07/02/miri.html"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Deadlock-free Mutexes and Directed Acyclic Graphs | bertptrs.nl",
+    "link": "https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/034/"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "Pointers Are Complicated III, or: Pointer-integer casts exposed",
+    "link": "https://www.ralfj.de/blog/2022/04/11/provenance-exposed.html"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "The Tower of Weakenings: Memory Models For Everyone - Faultlore",
+    "link": "https://gankra.github.io/blah/tower-of-weakenings/"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Mint tokens on Solana using the Rust SDK | by 0xksure | Medium",
+    "link": "https://kristohb.medium.com/mint-tokens-on-solana-using-the-rust-sdk-3b05b07ca842"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "Testing With Spirit | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/10/10/testing-with-spirit.html"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Understanding inheritance and other limitations in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/"
+  },
+  {
+    "date": "2020-11-11",
+    "title": "40 Ms Bug | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/11/06/40-ms-bug.html"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "Specs and Legion, two very different approaches to ECS",
+    "link": "https://csherratt.github.io/blog/posts/specs-and-legion/"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "Solving Sparse Matrix Systems in Rust | by Dan Fritchman | Medium",
+    "link": "https://medium.com/swlh/solving-sparse-matrix-systems-in-rust-5e978ed07bc3"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "Creating Interactive Applications While Maintaining Your Sanity · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/implementing-interactive-applications/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Allocator Designs | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/allocator-designs/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "A Thought Experiment: Using the ECS Pattern Outside of Game Engines · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/ecs-outside-of-games/"
+  },
+  {
+    "date": "2019-08-12",
+    "title": "Runtime Configuration Reloading | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
+  },
+  {
+    "date": "2019-07-02",
+    "title": "Heap Allocation | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/heap-allocation/"
+  },
+  {
+    "date": "2019-05-21",
+    "title": "Rust In Avast | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/05/19/rust-in-avast.html"
+  },
+  {
+    "date": "2018-11-27",
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/rust-traits-privacy"
+  },
+  {
+    "date": "2018-10-23",
+    "title": "Hardware Interrupts | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/hardware-interrupts/"
+  },
+  {
+    "date": "2018-10-09",
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/glsl-quasiquoting"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "strongly-typed-thoughts.net",
+    "link": "http://phaazon.net/blog/spectra_plugins"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "Brave new I/O | Embedded in Rust",
+    "link": "http://blog.japaric.io/brave-new-io/"
+  },
+  {
+    "date": "2018-01-16",
+    "title": "#Rust2018 — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
+  }
+]

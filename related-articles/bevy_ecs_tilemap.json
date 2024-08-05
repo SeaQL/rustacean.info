@@ -1,33 +1,51 @@
 [
   {
+    "date": "2024-07-24",
+    "title": "Bevy Jam 5, Radiance Cascades, and Calculators in many ui kits",
+    "link": "https://thisweekinbevy.com/issue/2024-07-22-bevy-jam-5-radiance-cascades-and-calculators-in-many-ui-kits"
+  },
+  {
+    "date": "2024-06-12",
     "title": "Bevy 0.14-rc.2, Powerglove, and Soup!",
     "link": "https://thisweekinbevy.com/issue/2024-06-10-bevy-014-rc2-powerglove-and-soup"
   },
   {
+    "date": "2024-05-29",
     "title": "Cyberpunk UI, Minecraft simulation, and volumetric destruction",
     "link": "https://thisweekinbevy.com/issue/2024-05-27-cyberpunk-ui-minecraft-simulation-and-volumetric-destruction"
   },
   {
+    "date": "2024-05-15",
     "title": "ClearCoat, new examples, and game updates",
     "link": "https://thisweekinbevy.com/issue/2024-05-13-clearcoat-new-examples-and-game-updates"
   },
   {
+    "date": "2024-04-17",
     "title": "New Meshes, New Examples, and Compute Shaders",
     "link": "https://thisweekinbevy.com/issue/2024-04-15-new-meshes-new-examples-and-compute-shaders"
   },
   {
+    "date": "2024-03-20",
     "title": "Foundations, Meetups, and more Bevy Cheatbook updates",
     "link": "https://thisweekinbevy.com/issue/2024-03-18-foundations-meetups-and-more-bevy-cheatbook-updates"
   },
   {
+    "date": "2023-02-01",
     "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/041/"
   },
   {
+    "date": "2022-11-16",
+    "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/039/"
+  },
+  {
+    "date": "2022-09-28",
     "title": "This Month in Rust GameDev #37 - August 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/037/"
   },
   {
+    "date": "2021-08-10",
     "title": "Bevy's First Birthday",
     "link": "https://bevyengine.org/news/bevys-first-birthday/"
   }

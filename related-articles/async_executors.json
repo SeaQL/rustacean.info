@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-04-07",
     "title": "2021-04-06: Interfacing a low-level actor system to Rust async/await, part 1 - Uazú blog",
     "link": "https://uazu.github.io/blog/20210406.html"
   },
   {
+    "date": "2020-02-25",
     "title": "Anouncing async_executors, a building block for executor agnostic libraries – turbofish",
     "link": "https://blog.wnut.pw/2020/02/25/anouncing-async_executors-a-building-block-for-executor-agnostic-libraries/"
   }

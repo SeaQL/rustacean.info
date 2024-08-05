@@ -1,5 +1,11 @@
 [
   {
+    "date": "2024-05-29",
+    "title": "Parsing structured environment variables in Rust",
+    "link": "https://blog.frankel.ch/structured-env-vars-rust/"
+  },
+  {
+    "date": "2019-04-09",
     "title": "A Basic Web Application with Rust and Actix-web - zupzup",
     "link": "https://zupzup.org/rust-webapp/"
   }

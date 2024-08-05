@@ -1,5 +1,11 @@
 [
   {
+    "date": "2023-03-15",
+    "title": "Leveraging Rust and the GPU to render user interfaces at 120 FPS",
+    "link": "https://zed.dev/blog/videogame"
+  },
+  {
+    "date": "2023-02-01",
     "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/041/"
   }

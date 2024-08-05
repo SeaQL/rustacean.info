@@ -1,13 +1,21 @@
 [
   {
+    "date": "2024-03-13",
+    "title": "biscotti, a new crate for HTTP cookies | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/biscotti-http-cookies-in-rust/"
+  },
+  {
+    "date": "2023-08-30",
     "title": "Best Rust Web Frameworks to Use in 2023",
     "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
   },
   {
+    "date": "2023-03-08",
     "title": "Issue 2",
     "link": "https://rustmagazine.org/issue-2/"
   },
   {
+    "date": "2022-07-13",
     "title": "Minimalist Guide to Poem",
     "link": "https://tech.marksblogg.com/poem-rust-web-framework.html"
   }

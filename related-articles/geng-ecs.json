@@ -1,10 +1,22 @@
 [
   {
+    "date": "2023-03-15",
     "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/043/"
   },
   {
+    "date": "2022-05-18",
     "title": "This Month in Rust GameDev #33 - April 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/033/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "date": "2020-10-28",
+    "title": "LudumDare 47 - The Island | kuviman’s blog",
+    "link": "https://blog.kuviman.com/2020/10/18/ludumdare47.html"
   }
 ]

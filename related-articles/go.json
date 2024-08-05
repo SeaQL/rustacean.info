@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "axo blog - System dependencies are hard (so we made them easier)",
+    "link": "https://blog.axo.dev/2023/10/dependencies"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "Demystifying trait generics in Rust | Bradford Hovinen's blog",
+    "link": "https://gruebelinchen.wordpress.com/2023/06/06/demystifying-trait-generics-in-rust/"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "This Month in Rust OSDev: October 2022 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2022-10/"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/024/"
+  },
+  {
+    "date": "2021-01-27",
+    "title": "Yewban | Radim",
+    "link": "https://radim.xyz/project/yewban/"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Saving time by switching users: Async support in Goose | Tag1 Consulting",
+    "link": "https://www.tag1consulting.com/blog/saving-time-switching-users-async-support-goose"
+  },
+  {
+    "date": "2020-11-25",
+    "title": "pwintln uwu and other fun with elves and dynamic linkers - jade's www site",
+    "link": "https://lfcode.ca/blog/pwintln-uwu"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Better stack fixing for Firefox – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2020/04/15/better-stack-fixing-for-firefox/"
+  },
+  {
+    "date": "2018-10-30",
+    "title": "Announcing Gotham 0.3",
+    "link": "https://gotham.rs/blog/release/2018/10/29/gotham-0.3.html"
+  },
+  {
+    "date": "2018-06-05",
+    "title": "The State of Gotham",
+    "link": "https://gotham.rs/blog/2018/05/31/the-state-of-gotham.html"
+  },
+  {
+    "date": "2017-10-10",
+    "title": "Wiki - AnOpinionatedGuideToRustWebServers",
+    "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "Gotham web framework",
+    "link": "https://gotham.rs/blog"
+  }
+]

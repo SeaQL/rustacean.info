@@ -1,14 +1,77 @@
 [
   {
+    "date": "2023-09-06",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
   },
   {
+    "date": "2023-03-15",
     "title": "Automotive Safety and Cybersecurity: Infineon's AURIX™ TC3xx, TC4x, TRAVEO™ T2G &amp; PSoC families of microcontrollers support Rust - Infineon Technologies",
     "link": "https://www.infineon.com/cms/en/about-infineon/press/market-news/2023/INFATV202303-076.html"
   },
   {
+    "date": "2023-02-15",
+    "title": "STM32F4 Embedded Rust at the PAC: GPIO Control",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-control"
+  },
+  {
+    "date": "2023-02-08",
+    "title": "STM32F4 Embedded Rust at the PAC: svd2rust",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-svd2rust"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "34 Must Know Terms for Embedded Rust Newbies",
+    "link": "https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "The GPIO war: macro bunkers for typestate explosions (2) - cuervo",
+    "link": "https://www.ecorax.net/macro-bunker-2/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/39/why-rust-is-a-great-fit-for-embedded-software"
+  },
+  {
+    "date": "2020-05-12",
     "title": "no_std async/await - soon on stable  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/stable-async-on-embedded/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Rust on the ESP32 - SVD's, PAC's and USB flashing",
+    "link": "https://mabez.dev/blog/posts/esp32-rust-svd-pac/"
+  },
+  {
+    "date": "2019-04-23",
+    "title": "Using DMA to transfer data with Embedded Rust [ant @ flowdsp.io]",
+    "link": "https://flowdsp.io/blog/stm32f3-02-dac-dma/"
+  },
+  {
+    "date": "2018-06-12",
+    "title": "Sponsor work on Rust! · Aaron Turon",
+    "link": "https://aturon.github.io/sponsor/"
+  },
+  {
+    "date": "2018-05-01",
+    "title": "Embedded Rust Experiments - Flipping some bits high on STM32VLDISCOVERY board",
+    "link": "https://nercury.github.io/rust/embedded/experiments/2018/04/29/rust-embedded-01-discovery-vl-flipping-bits.html"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "Brave new I/O | Embedded in Rust",
+    "link": "http://blog.japaric.io/brave-new-io/"
+  },
+  {
+    "date": "2017-05-09",
+    "title": "Fearless concurrency in your microcontroller | Embedded in Rust",
+    "link": "http://blog.japaric.io/fearless-concurrency/"
+  },
+  {
+    "date": "2017-05-02",
+    "title": "Rust your ARM microcontroller! | Embedded in Rust",
+    "link": "http://blog.japaric.io/quickstart/"
   }
 ]

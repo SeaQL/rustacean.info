@@ -1,9 +1,11 @@
 [
   {
+    "date": "2018-06-12",
     "title": "Integrating QML and Rust: Creating a QMetaObject at Compile Time",
     "link": "https://woboq.com/blog/qmetaobject-from-rust.html"
   },
   {
+    "date": "2017-09-05",
     "title": "Rust Qt Binding Generator",
     "link": "https://www.vandenoever.info/blog/2017/09/04/rust_qt_binding_generator.html"
   }

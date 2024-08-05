@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-06-15",
     "title": "Flavors of enums with Rust bindgen",
     "link": "https://www.mdaverde.com/posts/rust-bindgen-enum/"
   }

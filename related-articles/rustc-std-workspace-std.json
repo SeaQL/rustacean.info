@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-02-01",
+    "title": "Protohackers in Rust, Part 00: Dipping the toe in async and Tokio",
+    "link": "https://d2718.net/blog/posts/protohax_00.html"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Understanding Rust generics and how to use them - LogRocket Blog",
+    "link": "https://blog.logrocket.com/understanding-rust-generics-how-use/"
+  }
+]

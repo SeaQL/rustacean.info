@@ -1,21 +1,56 @@
 [
   {
+    "date": "2024-05-15",
+    "title": "Error Handling for Large Rust Projects - A Deep Dive into GreptimeDB's Practices | Greptime",
+    "link": "https://greptime.com/blogs/2024-05-07-error-rust"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "Rust Error Handling",
+    "link": "https://www.unwoundstack.com/blog/rust-error-handling.html"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Why fnm was rewritten in Rust",
+    "link": "https://gal.hagever.com/posts/why-fnm-was-rewritten-in-rust/"
+  },
+  {
+    "date": "2020-08-04",
     "title": "Beginner's guide to Error Handling in Rust",
     "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
   },
   {
+    "date": "2020-06-16",
+    "title": "Errors in Rust: A Deep Dive :: the halcyon blog",
+    "link": "https://www.halcyon.hr/posts/error-handling-in-rust/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Just: How I Organize Large Rust Programs – Casey Rodarmor's Blog",
+    "link": "https://rodarmor.com/blog/tour-de-just"
+  },
+  {
+    "date": "2020-04-14",
     "title": "From failure to Fehler",
     "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
   },
   {
+    "date": "2020-04-07",
     "title": "From failure to Fehler",
     "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
   },
   {
+    "date": "2019-11-26",
+    "title": "Error Handling Survey",
+    "link": "https://blog.yoshuawuyts.com/error-handling-survey/"
+  },
+  {
+    "date": "2019-11-19",
     "title": "Thoughts on Error Handling in Rust · Lukasʼ Blog",
     "link": "https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html"
   },
   {
+    "date": "2019-04-23",
     "title": "6 useful Rust macros that you might not have seen before | by Ben | Medium",
     "link": "https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5"
   }

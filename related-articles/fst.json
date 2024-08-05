@@ -1,33 +1,61 @@
 [
   {
+    "date": "2023-01-11",
+    "title": "Rust vs C++ Formatting | Barry's C++ Blog",
+    "link": "https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/"
+  },
+  {
+    "date": "2022-03-23",
     "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
     "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
   },
   {
+    "date": "2021-08-18",
     "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
     "link": "https://blog.burntsushi.net/transducers/"
   },
   {
+    "date": "2021-05-12",
     "title": "Rust on the Frontend and Backend - by Josh Kuhn",
     "link": "https://blog.abor.dev/p/moonzoon"
   },
   {
+    "date": "2021-04-14",
     "title": "Rust in Production: MeiliSearch",
     "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
+    "date": "2020-11-25",
     "title": "Levenshtein Heuristic in Poi | advancedresearch.github.io",
     "link": "https://advancedresearch.github.io/blog/2020-11-21-levenshtein-heuristic-in-poi"
   },
   {
+    "date": "2019-05-21",
+    "title": "Rust In Avast | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/05/19/rust-in-avast.html"
+  },
+  {
+    "date": "2018-12-18",
     "title": "Rust Analyzer in 2018 and 2019  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/rust-analyzer-2019/"
   },
   {
+    "date": "2017-02-21",
     "title": "Rust Sucks If I Fail To Write X — Llogiq on stuff",
     "link": "https://llogiq.github.io/2017/02/15/sucks.html"
   },
   {
+    "date": "2017-01-31",
+    "title": "The struggle with Rust - Ayende @ Rahien",
+    "link": "https://ayende.com/blog/176801/the-struggle-with-rust"
+  },
+  {
+    "date": "2017-01-10",
+    "title": "Of tantivy, a search engine in Rust",
+    "link": "http://fulmicoton.com/posts/behold-tantivy"
+  },
+  {
+    "date": "2015-11-16",
     "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
     "link": "http://blog.burntsushi.net/transducers/"
   }

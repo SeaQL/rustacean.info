@@ -1,49 +1,81 @@
 [
   {
+    "date": "2024-06-26",
+    "title": "tokio waker instrumentation - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/tokio-waker-instrumentation/"
+  },
+  {
+    "date": "2024-02-21",
     "title": "Rust Tooling: 8 tools that will increase your productivity",
     "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
   },
   {
+    "date": "2024-01-31",
     "title": "debugging tokio instrumentation - hēg denu - Hayden\n\t\tStainsby",
     "link": "https://hegdenu.net/posts/debugging-tokio-instrumentation/"
   },
   {
+    "date": "2023-12-13",
     "title": "Common Mistakes with Rust Async",
     "link": "https://www.qovery.com/blog/common-mistakes-with-rust-async/"
   },
   {
+    "date": "2023-10-04",
     "title": "tracing tokio tasks - hēg denu - Hayden\n\t\tStainsby",
     "link": "https://hegdenu.net/posts/tracing-tokio-tasks/"
   },
   {
+    "date": "2023-07-05",
+    "title": "how I finally understood async/await in Rust (part 2) - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/understanding-async-await-2/"
+  },
+  {
+    "date": "2023-05-17",
     "title": "task scheduled time in console - hēg denu - Hayden\n\t\tStainsby",
     "link": "https://hegdenu.net/posts/task-scheduled-time-in-console/"
   },
   {
+    "date": "2023-02-15",
     "title": "track caller - hēg denu - Hayden\n\t\tStainsby",
     "link": "https://hegdenu.net/posts/track-caller/"
   },
   {
+    "date": "2023-01-11",
+    "title": "Oh the Crates You'll Go! A 2022 Retrospective",
+    "link": "https://jack.wrenn.fyi/blog/2022-retrospective/"
+  },
+  {
+    "date": "2022-11-02",
     "title": "Announcing async-backtrace | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2022-10-announcing-async-backtrace"
   },
   {
+    "date": "2022-06-15",
+    "title": "How to make Rust leak memory (also: how to make it stop) · The Fly Blog",
+    "link": "https://fly.io/blog/rust-memory-leak/"
+  },
+  {
+    "date": "2022-04-06",
     "title": "Why We’re Porting Our Database Drivers to Async Rust - The New Stack",
     "link": "https://thenewstack.io/why-were-porting-our-database-drivers-to-async-rust/"
   },
   {
+    "date": "2022-03-09",
     "title": "Request coalescing in async Rust",
     "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
   },
   {
+    "date": "2022-02-16",
     "title": "Some mistakes Rust doesn't catch",
     "link": "https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch"
   },
   {
+    "date": "2021-12-22",
     "title": "Announcing Tokio Console 0.1 | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-12-announcing-tokio-console"
   },
   {
+    "date": "2021-05-26",
     "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-valuable"
   }

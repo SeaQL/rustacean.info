@@ -1,17 +1,66 @@
 [
   {
+    "date": "2024-07-10",
+    "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
+    "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"
+  },
+  {
+    "date": "2024-07-03",
     "title": "OxidOS with Alexandru Radovici - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s02e05-oxidos/"
   },
   {
+    "date": "2024-06-12",
+    "title": "OneVariable : Building Plain Old Data from Scratch",
+    "link": "https://onevariable.com/blog/pods-from-scratch/"
+  },
+  {
+    "date": "2022-11-16",
     "title": "Bevy 0.9",
     "link": "https://bevyengine.org/news/bevy-0-9/"
   },
   {
+    "date": "2022-08-10",
+    "title": "So Zero It's ... Negative? (Zero-Copy #3) - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Zero-Copy All the Things! (Zero-Copy #2) - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-2-zero-copy-all-the-things/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Not a Yoking Matter (Zero-Copy #1) - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-1-not-a-yoking-matter/"
+  },
+  {
+    "date": "2022-06-22",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/mnemos-initial-release/"
+  },
+  {
+    "date": "2021-03-31",
     "title": "Testing an embedded application  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/test-embedded-app/"
   },
   {
+    "date": "2020-04-29",
+    "title": "Memory efficient serialization of tagged union",
+    "link": "https://robinmoussu.gitlab.io/blog/post/binary_serialisation_of_enum/"
+  },
+  {
+    "date": "2016-10-11",
     "title": "Overview · Serde",
     "link": "https://serde.rs/"
   }

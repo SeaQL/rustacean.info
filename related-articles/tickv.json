@@ -1,73 +1,96 @@
 [
   {
+    "date": "2024-01-24",
     "title": "Supporting LoRa on the SparkFun expLoRaBLE Thing Plus with Rust | Alistair’s GitHub IO",
     "link": "https://www.alistair23.me/2023/08/09/lora-on-sparkfun-board/"
   },
   {
+    "date": "2023-08-23",
     "title": "Bare Metal Space Invaders",
     "link": "https://blog.fponzi.me/2023-08-13-bare-metal-space-invaders.html"
   },
   {
+    "date": "2023-04-26",
     "title": "Rust programming language - what is rust used for and why is so popular? - CodiLime",
     "link": "https://codilime.com/blog/why-is-rust-programming-language-so-popular/"
   },
   {
+    "date": "2021-06-02",
     "title": "Justin Restivo - Writing a \"hello world\" Riscv Kernel with Nix in Rust",
     "link": "https://justin.restivo.me/posts/2021-05-30-nix-rust-riscv-toy-kernel.html"
   },
   {
+    "date": "2020-08-18",
     "title": "Why You Should Use the Rust Programming Language",
     "link": "https://serokell.io/blog/rust-guide"
   },
   {
+    "date": "2020-05-05",
+    "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
+    "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
+  },
+  {
+    "date": "2017-11-21",
     "title": "Tock Embedded Operating System | Crates.io Ecosystem Not Ready for Embedded Rust",
     "link": "https://www.tockos.org/blog/2017/crates-are-not-safe/"
   },
   {
+    "date": "2017-08-08",
     "title": "Tock Embedded Operating System | Compile-time Safety is for Everybody!",
     "link": "https://www.tockos.org/blog/2017/apsys-paper/"
   },
   {
+    "date": "2017-06-27",
     "title": "Tock Embedded Operating System | Talking Tock 22",
     "link": "https://www.tockos.org/blog/2017/talking-tock-22/"
   },
   {
+    "date": "2017-03-07",
     "title": "Tock Embedded Operating System | Talking Tock 11",
     "link": "https://www.tockos.org/blog/2017/talking-tock-11/"
   },
   {
+    "date": "2016-11-29",
     "title": "Tock Embedded Operating System | Talking Tock Week 9",
     "link": "http://www.tockos.org/blog/2016/talking-tock-9/"
   },
   {
+    "date": "2016-10-25",
     "title": "Tock Embedded Operating System | Talking Tock Week 7",
     "link": "http://www.tockos.org/blog/2016/talking-tock-7/"
   },
   {
+    "date": "2016-10-11",
     "title": "Tock Embedded Operating System | Talking Tock Week 6",
     "link": "http://www.tockos.org/blog/2016/talking-tock-6/"
   },
   {
+    "date": "2016-09-27",
     "title": "Tock Embedded Operating System | Talking Tock Week 5",
     "link": "http://www.tockos.org/blog/2016/talking-tock-5/"
   },
   {
+    "date": "2016-09-13",
     "title": "Tock Embedded Operating System | Talking Tock Week 4",
     "link": "http://www.tockos.org/blog/2016/talking-tock-4/"
   },
   {
+    "date": "2016-08-30",
     "title": "Tock Embedded Operating System | nRF51 support",
     "link": "http://www.tockos.org/blog/2016/nrf51-support/"
   },
   {
+    "date": "2016-08-23",
     "title": "Tock Embedded Operating System | Talking Tock Week 3",
     "link": "http://www.tockos.org/blog/2016/talking-tock-3/"
   },
   {
+    "date": "2016-08-16",
     "title": "Tock Embedded Operating System | Talking Tock Week 2",
     "link": "http://www.tockos.org/blog/2016/talking-tock-2/"
   },
   {
+    "date": "2016-08-16",
     "title": "Tock Embedded Operating System | Talking Tock Week 1",
     "link": "http://www.tockos.org/blog/2016/talking-tock-1/"
   }

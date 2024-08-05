@@ -1,26 +1,57 @@
 [
   {
+    "date": "2023-05-03",
+    "title": "A Mirror for Rust: Compile-Time Reflection Report - Shepherd's Oasis",
+    "link": "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "Why Static Languages Suffer From Complexity",
+    "link": "https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity"
+  },
+  {
+    "date": "2021-05-26",
     "title": "Structural Typing in Rust - BeachApe.",
     "link": "https://beachape.com/blog/2021/05/25/structural-typing-in-rust/"
   },
   {
+    "date": "2020-08-11",
+    "title": "Implementing a Type-safe printf in Rust | Will Crichton",
+    "link": "https://willcrichton.net/notes/type-safe-printf/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Implementing a Type-safe printf in Rust | Will Crichton",
+    "link": "http://willcrichton.net/notes/type-safe-printf/"
+  },
+  {
+    "date": "2017-05-30",
     "title": "Rust: A Scala Engineer's Perspective - BeachApe.",
     "link": "https://beachape.com/blog/2017/05/24/rust-from-scala/"
   },
   {
+    "date": "2017-04-18",
     "title": "Boilerplate-free Struct Transforms in Rust. - BeachApe.",
     "link": "https://beachape.com/blog/2017/04/12/boilerplate-free-struct-transforms-in-rust/"
   },
   {
+    "date": "2017-03-14",
     "title": "Gentle Intro to Type-level Recursion in Rust: From Zero to HList Sculpting. - BeachApe.",
     "link": "https://beachape.com/blog/2017/03/12/gentle-intro-to-type-level-recursion-in-Rust-from-zero-to-frunk-hlist-sculpting/"
   },
   {
+    "date": "2017-03-07",
     "title": "LabelledGeneric in Rust: What, Why, How? - BeachApe.",
     "link": "https://beachape.com/blog/2017/03/04/labelledgeneric-in-rust-what-why-how/"
   },
   {
+    "date": "2017-02-21",
     "title": "Rust Generic (Not Generics) - BeachApe.",
     "link": "https://beachape.com/blog/2017/02/04/rust-generic-not-generics/"
+  },
+  {
+    "date": "2016-11-08",
+    "title": "Rust Performance Testing on Travis CI - BeachApe.",
+    "link": "https://beachape.com/blog/2016/11/02/rust-performance-testing-on-travis-ci/"
   }
 ]

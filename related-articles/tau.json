@@ -1,5 +1,41 @@
 [
   {
+    "date": "2024-06-19",
+    "title": "Using Tauri to build a cross-platform security app",
+    "link": "https://www.firezone.dev/blog/using-tauri"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Announcing the Tauri v2 Beta Release | Tauri",
+    "link": "https://beta.tauri.app/blog/tauri-2-0-0-beta/"
+  },
+  {
+    "date": "2023-09-13",
+    "title": "Roadmap to Tauri 2.0 | Tauri",
+    "link": "https://beta.tauri.app/blog/roadmap-to-tauri-2-0/"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "Through the looking glass • Create a launchbar app w/ Tauri",
+    "link": "https://blog.spyglass.fyi/posts/2023/creating-a-launcher-in-tauri/"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "Tauri vs. Electron for Tray Apps. Build a desktop tray starter app using… | by Dotan Nahum | Better Programming",
+    "link": "https://betterprogramming.pub/tauri-vs-electron-for-tray-apps-ed15974f35ce"
+  },
+  {
+    "date": "2022-09-21",
+    "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
+    "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
+  },
+  {
+    "date": "2022-08-24",
+    "title": "Tauri + Async Rust Process",
+    "link": "https://rfdonnelly.github.io/posts/tauri-async-rust-process/"
+  },
+  {
+    "date": "2014-12-15",
     "title": "24 days of Rust - the glorious tau | siciarz.net",
     "link": "https://siciarz.net/24-days-of-rust-glorious-tau/"
   }

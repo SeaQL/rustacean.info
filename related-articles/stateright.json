@@ -1,9 +1,16 @@
 [
   {
+    "date": "2021-09-01",
     "title": "RiB Newsletter #27 - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/rib-newsletter-27/"
   },
   {
+    "date": "2021-06-09",
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  },
+  {
+    "date": "2021-06-09",
     "title": "Automatic Rust verification tools (2021) – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/automatic-rust-verification-tools-2021/"
   }

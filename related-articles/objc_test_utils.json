@@ -1,14 +1,32 @@
 [
   {
+    "date": "2019-08-27",
     "title": "Thoughts on Rust bloat | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
   },
   {
+    "date": "2017-02-28",
+    "title": "Objective-C from Rust: Statically Verified Type Encodings without Allocation - sasheldon.com",
+    "link": "http://sasheldon.com/blog/2017/02/20/objective-c-from-rust-type-encodings/"
+  },
+  {
+    "date": "2016-09-27",
     "title": "Rust &lt;3 Swift: Writing Cocoa Apps in Rust (Eventually) | ~kylewlacy",
     "link": "https://kylewlacy.github.io/posts/cocoa-apps-in-rust-eventually/"
   },
   {
+    "date": "2016-02-29",
     "title": "Testing Rust on iOS with Travis - sasheldon.com",
     "link": "http://sasheldon.com/blog/2016/02/22/testing-rust-on-ios-with-travis/"
+  },
+  {
+    "date": "2015-08-10",
+    "title": "Objective-C from Rust: objc_msgSend - sasheldon.com",
+    "link": "http://sasheldon.com/blog/2015/08/02/objective-c-from-rust-objc_msgsend/"
+  },
+  {
+    "date": "2014-12-01",
+    "title": "Interoperating Between Objective-C and Rust - sasheldon.com",
+    "link": "http://sasheldon.com/blog/2014/11/28/interoperating-between-objective-c-and-rust/"
   }
 ]

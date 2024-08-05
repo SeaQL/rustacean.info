@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-03-27",
     "title": "Everything you need to know about testing in Rust",
     "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"
   },
   {
+    "date": "2024-02-21",
     "title": "Rust Tooling: 8 tools that will increase your productivity",
     "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
   },
   {
+    "date": "2024-02-07",
     "title": "Writing a REST API in Rust",
     "link": "https://www.shuttle.rs/blog/2024/01/31/write-a-rest-api-rust"
   }

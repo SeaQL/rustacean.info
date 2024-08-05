@@ -1,5 +1,16 @@
 [
   {
+    "date": "2022-10-26",
+    "title": "Rust Embedded Graphics with the MAX7219",
+    "link": "https://apollolabsblog.hashnode.dev/rust-embedded-graphics-with-the-max7219"
+  },
+  {
+    "date": "2021-12-29",
+    "title": "Rust Embedded Working Group",
+    "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
+  },
+  {
+    "date": "2020-11-18",
     "title": "Writing an embedded display driver in Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Writing-an-embedded-display-driver-in-Rust/"
   }

@@ -1,29 +1,86 @@
 [
   {
+    "date": "2018-08-21",
+    "title": "RLS 1.0 release candidate",
+    "link": "https://www.ncameron.org/blog/rls-1-0-release-candidate/"
+  },
+  {
+    "date": "2018-06-12",
+    "title": "Sponsor work on Rust! · Aaron Turon",
+    "link": "https://aturon.github.io/sponsor/"
+  },
+  {
+    "date": "2018-05-15",
+    "title": "These Weeks in Dev-Tools, issue 4",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-4/"
+  },
+  {
+    "date": "2018-02-06",
+    "title": "These Weeks in Dev-Tools, issue 3",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-3/"
+  },
+  {
+    "date": "2018-01-02",
     "title": "Rust IDE + REPL In Vim. Rust is a fascinating language filled… | by Kade Killary | Startups &amp; Venture Capital",
     "link": "https://startupsventurecapital.com/rust-ide-repl-in-vim-11daa921a2c4"
   },
   {
+    "date": "2017-12-19",
     "title": "Rust - Visual Studio Marketplace",
     "link": "https://marketplace.visualstudio.com/items?itemName=DanielGriffen.Rust"
   },
   {
+    "date": "2017-11-07",
+    "title": "When will the RLS be released?",
+    "link": "https://www.ncameron.org/blog/when-will-the-rls-be-released/"
+  },
+  {
+    "date": "2017-09-26",
+    "title": "These Weeks in Dev-Tools, issue 2",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-2/"
+  },
+  {
+    "date": "2017-09-26",
     "title": "How the RLS works",
     "link": "https://www.ncameron.org/blog/how-the-rls-works/"
   },
   {
+    "date": "2017-08-29",
     "title": "Wrapping up work on the RLS for GSoC · Igor Matuszewski",
     "link": "https://xanewok.github.io/gsoc/2017/wrapping-up-work-for-gsoc/"
   },
   {
+    "date": "2017-08-15",
     "title": "What the RLS can do",
     "link": "https://www.ncameron.org/blog/what-the-rls-can-do/"
   },
   {
+    "date": "2017-08-15",
+    "title": "These Weeks in Dev-tools #1",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-1/"
+  },
+  {
+    "date": "2017-07-25",
+    "title": "Supporting workspaces in RLS · Igor Matuszewski",
+    "link": "https://xanewok.github.io/gsoc/2017/supporting-workspaces-in-rls/"
+  },
+  {
+    "date": "2017-07-11",
+    "title": "Working on Rust Language Server for GSoC 2017 · Igor Matuszewski",
+    "link": "https://xanewok.github.io/gsoc/2017/working-on-rust-language-server/"
+  },
+  {
+    "date": "2017-05-30",
+    "title": "Rust: A Scala Engineer's Perspective - BeachApe.",
+    "link": "https://beachape.com/blog/2017/05/24/rust-from-scala/"
+  },
+  {
+    "date": "2017-03-07",
     "title": "Setting up a Rust Development Environment",
     "link": "http://asquera.de/blog/2017-03-03/setting-up-a-rust-devenv/"
   },
   {
+    "date": "2016-04-11",
     "title": "токамак",
     "link": "https://vertexclique.github.io/tokamak/"
   }

@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-10-25",
     "title": "Mixing C# and Rust - Interop",
     "link": "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_3_2.html"
   },
   {
+    "date": "2023-09-06",
     "title": "Compiling Rust for .NET, using only tea and stubbornness!",
     "link": "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_0_1.html"
   }

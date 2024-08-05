@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-07-19",
     "title": "Rust vs Julia in scientific computing",
     "link": "https://mo8it.com/blog/rust-vs-julia/"
   },
   {
+    "date": "2021-04-28",
     "title": "Rust Notebooks with Evcxr - by Josh Kuhn",
     "link": "https://blog.abor.dev/p/evcxr"
   }

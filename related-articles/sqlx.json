@@ -1,113 +1,211 @@
 [
   {
+    "date": "2024-07-24",
     "title": "Diesel Async 0.5 - Weiznich's Blog",
     "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"
   },
   {
+    "date": "2024-05-29",
     "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
     "link": "https://bencher.dev/learn/case-study/diesel/"
   },
   {
+    "date": "2024-03-27",
+    "title": "How I reduced (incremental) Rust compile times by up to 40%",
+    "link": "https://www.coderemote.dev/blog/faster-rust-compiler-macro-expansion-caching/"
+  },
+  {
+    "date": "2024-03-13",
     "title": "Season Finale - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e07-season-finale/"
   },
   {
+    "date": "2024-03-13",
+    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
+  },
+  {
+    "date": "2024-03-13",
     "title": "Rust impact on engineering management | by Bastien Vigneron | Medium",
     "link": "https://bastienvigneron.medium.com/rust-impact-on-engineering-management-59647e5d0265"
   },
   {
+    "date": "2024-02-07",
+    "title": "Writing a REST API in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/31/write-a-rest-api-rust"
+  },
+  {
+    "date": "2024-02-07",
     "title": "Preprocessing trillions of tokens with Rust | Work | Mainmatter",
     "link": "https://mainmatter.com/cases/aleph-alpha/"
   },
   {
+    "date": "2024-01-31",
     "title": "Arroyo with Micah Wylde - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e04-arroyo"
   },
   {
+    "date": "2024-01-17",
     "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
     "link": "https://nullderef.com/blog/rust-async-sync/"
   },
   {
+    "date": "2023-10-11",
+    "title": "Raw SQL in Rust with SQLx",
+    "link": "https://www.shuttle.rs/blog/2023/10/04/sql-in-rust"
+  },
+  {
+    "date": "2023-10-04",
     "title": "Rust Vs Go: A Hands-On Comparison",
     "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
   },
   {
+    "date": "2023-09-20",
     "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/async/"
   },
   {
+    "date": "2023-09-06",
+    "title": "How to Implement OAuth in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/08/30/using-oauth-with-axum"
+  },
+  {
+    "date": "2023-08-30",
     "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
     "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
   },
   {
+    "date": "2023-08-16",
     "title": "Announcing SeaORM 0.12 🐚 | SeaQL",
     "link": "https://www.sea-ql.org/blog/2023-08-12-announcing-seaorm-0.12/"
   },
   {
+    "date": "2023-07-05",
     "title": "Introduction - Rust Full Stack Workshop",
     "link": "https://bcnrust.github.io/devbcn-workshop/"
   },
   {
+    "date": "2023-06-21",
     "title": "Fossil Data Platform Rewritten in Rust 🦀",
     "link": "https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html"
   },
   {
+    "date": "2023-03-15",
+    "title": "SQLx Compile Time Woes - Cosmic Horror",
+    "link": "https://cosmichorror.dev/posts/speeding-up-sqlx-compile-times/"
+  },
+  {
+    "date": "2023-01-25",
     "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
     "link": "https://johns.codes/blog/build-a-db/part02"
   },
   {
+    "date": "2023-01-18",
     "title": "Ferris Talk #13: Rust-Web-APIs und Mocking mit Axum | heise online",
     "link": "https://www.heise.de/hintergrund/Ferris-Talk-13-Rust-Web-APIs-und-Mocking-mit-Axum-7457143.html"
   },
   {
+    "date": "2023-01-18",
     "title": "Rails developers write some Rust: a review of Axum 0.6",
     "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
   },
   {
+    "date": "2023-01-04",
+    "title": "Building a Simple DB in Rust - Part 1 - Parsing | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part01"
+  },
+  {
+    "date": "2022-12-28",
     "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
     "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
   },
   {
+    "date": "2022-11-02",
     "title": "What's new in SeaQuery 0.27.0 | SeaQL",
     "link": "https://www.sea-ql.org/blog/2022-10-31-whats-new-in-seaquery-0.27.0/"
   },
   {
+    "date": "2022-07-20",
     "title": "What's new in SeaORM 0.9.0 | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
     "link": "https://www.sea-ql.org/SeaORM/blog/2022-07-17-whats-new-in-0.9.0/"
   },
   {
+    "date": "2022-07-06",
     "title": "Minimalist Guide to Axum",
     "link": "https://tech.marksblogg.com/axum-rust-web-framework.html"
   },
   {
+    "date": "2022-04-20",
     "title": "Rust on Nails | Cloak",
     "link": "https://cloak.software/blog/rust-on-nails/"
   },
   {
+    "date": "2022-03-16",
+    "title": "An In-Depth Introduction To Idempotency | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/idempotency/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Things I hate about Rust, redux",
+    "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"
+  },
+  {
+    "date": "2022-01-12",
     "title": "Lishwist (beta) | Polaris64's blog",
     "link": "https://blog.polaris64.net/post/lishwist-beta/"
   },
   {
+    "date": "2021-12-22",
     "title": "IntelliJ Rust Changelog #162",
     "link": "https://intellij-rust.github.io/2021/12/20/changelog-162.html"
   },
   {
+    "date": "2021-10-27",
     "title": "Rust Web Development with Bastian Gruber :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/043-bastian-gruber/"
   },
   {
+    "date": "2021-10-27",
     "title": "Implementing the Health Check API Pattern with Rust | by TJ Maynes | ITNEXT",
     "link": "https://itnext.io/implementing-the-health-check-api-pattern-with-rust-eaef04cb4d2d"
   },
   {
+    "date": "2021-09-22",
     "title": "Rocket: A Web Framework for Rust",
     "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
   },
   {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-03-17",
+    "title": "Zero Downtime Deployments | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/zero-downtime-deployments/"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "For the Love of Macros",
+    "link": "https://matklad.github.io/2021/02/14/for-the-love-of-macros.html"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Continuous Deployment For Rust Applications | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-11-01-zero-to-production-5-how-to-deploy-a-rust-application/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Advanced Cargo [features] Usage | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/cargo-features/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "date": "2020-06-30",
     "title": "Implementing a Job queue with SQLx and Postgres",
     "link": "https://cetra3.github.io/blog/implementing-a-jobq-sqlx/"
   }

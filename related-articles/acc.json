@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-05-29",
+    "title": "Taming Floating-Point Sums | orlp.net",
+    "link": "https://orlp.net/blog/taming-float-sums/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/58/async-and-asleep-designing-our-future-embedded-applications"
+  },
+  {
+    "date": "2019-03-12",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-16/"
+  },
+  {
+    "date": "2018-06-19",
+    "title": "Running Rust on the GPU with Accel | bheisler.github.io",
+    "link": "https://bheisler.github.io/post/rust-on-the-gpu-with-accel/"
+  }
+]

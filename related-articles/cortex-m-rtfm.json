@@ -1,22 +1,47 @@
 [
   {
+    "date": "2020-03-03",
     "title": "A look into ways to implement and share data with interrupt handlers in Rust (Update 1) | The subconscious mumblings of therealprof",
     "link": "https://therealprof.github.io/blog/interrupt-comparison/"
   },
   {
+    "date": "2020-02-04",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-23/"
   },
   {
+    "date": "2019-03-19",
     "title": "Implementing a static stack usage analysis tool | Embedded in Rust",
     "link": "https://blog.japaric.io/stack-analysis/"
   },
   {
+    "date": "2019-03-12",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-16/"
   },
   {
+    "date": "2019-02-26",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-15/"
+  },
+  {
+    "date": "2018-06-12",
+    "title": "Sponsor work on Rust! · Aaron Turon",
+    "link": "https://aturon.github.io/sponsor/"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "Brave new I/O | Embedded in Rust",
+    "link": "http://blog.japaric.io/brave-new-io/"
+  },
+  {
+    "date": "2017-08-01",
+    "title": "RTFM v2: simpler, less overhead and more device support | Embedded in Rust",
+    "link": "http://blog.japaric.io/rtfm-v2/"
+  },
+  {
+    "date": "2017-05-09",
+    "title": "Fearless concurrency in your microcontroller | Embedded in Rust",
+    "link": "http://blog.japaric.io/fearless-concurrency/"
   }
 ]

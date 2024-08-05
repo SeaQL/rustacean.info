@@ -1,5 +1,11 @@
 [
   {
+    "date": "2024-07-10",
+    "title": "Further simplifying self-referential types for Rust",
+    "link": "https://blog.yoshuawuyts.com/self-referential-types-2/"
+  },
+  {
+    "date": "2021-04-28",
     "title": "Move Constructors in Rust: Is it possible? · mcyoung",
     "link": "https://mcyoung.xyz/2021/04/26/move-ctors/"
   }

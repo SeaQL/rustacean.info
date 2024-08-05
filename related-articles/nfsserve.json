@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-09-20",
     "title": "XetHub | NFS &gt; FUSE: Why We Built our own NFS Server in Rust",
     "link": "https://about.xethub.com/blog/nfs-fuse-why-we-built-nfs-server-rust"
   }

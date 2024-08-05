@@ -1,5 +1,16 @@
 [
   {
+    "date": "2023-08-02",
+    "title": "Distributing Lamport’s bakery with Automerge, and a touch of TLA+ | Medium",
+    "link": "https://medium.com/@polyglot_factotum/distributing-lamports-bakery-with-automerge-and-a-touch-of-tla-679b2705b7cc"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "Synchronizing state with Websockets and JSON Patch",
+    "link": "https://cetra3.github.io/blog/synchronising-with-websocket/"
+  },
+  {
+    "date": "2020-09-30",
     "title": "Towards principled reactive UI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html"
   }

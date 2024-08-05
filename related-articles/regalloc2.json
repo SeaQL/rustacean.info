@@ -1,13 +1,26 @@
 [
   {
+    "date": "2024-06-19",
+    "title": "Path Generics in Rust: A Sketch Proposal for Simplicity and Generality",
+    "link": "https://cfallin.org/blog/2024/06/12/rust-path-generics/"
+  },
+  {
+    "date": "2023-11-22",
+    "title": "Bytecode Alliance — Wasmtime and Cranelift in 2023",
+    "link": "https://bytecodealliance.org/articles/wasmtime-and-cranelift-in-2023"
+  },
+  {
+    "date": "2022-12-21",
     "title": "Bytecode Alliance — Cranelift Progress in 2022",
     "link": "https://bytecodealliance.org/articles/cranelift-progress-2022"
   },
   {
+    "date": "2022-09-07",
     "title": "Bytecode Alliance — Wasmtime 1.0: A Look at Performance",
     "link": "https://bytecodealliance.org/articles/wasmtime-10-performance"
   },
   {
+    "date": "2021-12-15",
     "title": "Bytecode Alliance — Cranelift Progress Report: A Look Back at 2021",
     "link": "https://bytecodealliance.org/articles/cranelift-progress-2021"
   }

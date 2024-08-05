@@ -1,13 +1,21 @@
 [
   {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2018-10-30",
     "title": "Announcing Gotham 0.3",
     "link": "https://gotham.rs/blog/release/2018/10/29/gotham-0.3.html"
   },
   {
+    "date": "2018-06-05",
     "title": "The State of Gotham",
     "link": "https://gotham.rs/blog/2018/05/31/the-state-of-gotham.html"
   },
   {
+    "date": "2017-08-15",
     "title": "Gotham web framework",
     "link": "https://gotham.rs/blog"
   }

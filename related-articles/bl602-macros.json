@@ -1,9 +1,16 @@
 [
   {
+    "date": "2021-08-18",
+    "title": "Rust on RISC-V BL602: Simulated with WebAssembly",
+    "link": "https://lupyuen.github.io/articles/rustsim"
+  },
+  {
+    "date": "2021-08-04",
     "title": "Rust on RISC-V BL602: Is It Sunny?",
     "link": "https://lupyuen.github.io/articles/adc"
   },
   {
+    "date": "2021-04-21",
     "title": "Run Rust RISC-V Firmware with BL602 IoT SDK",
     "link": "https://lupyuen.github.io/articles/rust"
   }

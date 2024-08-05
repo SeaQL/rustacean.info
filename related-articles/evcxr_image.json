@@ -1,17 +1,21 @@
 [
   {
+    "date": "2022-05-04",
     "title": "Tim McNamara (@timClicks) – Creating an Easy Mode for Rust",
     "link": "https://tim.mcnamara.nz/post/683022094467039232/easy-mode-for-rust"
   },
   {
+    "date": "2021-06-23",
     "title": "IntelliJ Rust Changelog #149",
     "link": "https://intellij-rust.github.io/2021/06/21/changelog-149.html"
   },
   {
+    "date": "2021-06-09",
     "title": "From Julia to Rust",
     "link": "https://miguelraz.github.io/blog/juliatorust/"
   },
   {
+    "date": "2021-04-28",
     "title": "Rust Notebooks with Evcxr - by Josh Kuhn",
     "link": "https://blog.abor.dev/p/evcxr"
   }

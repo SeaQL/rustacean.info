@@ -1,5 +1,11 @@
 [
   {
+    "date": "2024-06-12",
+    "title": "Bevy 0.14-rc.2, Powerglove, and Soup!",
+    "link": "https://thisweekinbevy.com/issue/2024-06-10-bevy-014-rc2-powerglove-and-soup"
+  },
+  {
+    "date": "2023-02-08",
     "title": "Using HTML as a compile target",
     "link": "https://blog.yoshuawuyts.com/compiled-html/"
   }

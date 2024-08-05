@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2021-07-14",
+    "title": "A Rust controller for Kubernetes",
+    "link": "https://blog.frankel.ch/start-rust/6/"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Evolution of kube | probes",
+    "link": "https://clux.github.io/probes/post/2021-02-28-kube-evolution/"
+  },
+  {
+    "date": "2020-04-14",
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/kubernetes-a-rusty-friendship/"
+  }
+]

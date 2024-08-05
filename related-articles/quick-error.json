@@ -1,17 +1,21 @@
 [
   {
+    "date": "2020-04-14",
     "title": "From failure to Fehler",
     "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
   },
   {
+    "date": "2020-04-07",
     "title": "From failure to Fehler",
     "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
   },
   {
+    "date": "2016-08-02",
     "title": "Hidden treasures of the Rust ecosystem - Pascal’s Scribbles",
     "link": "https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html"
   },
   {
+    "date": "2015-11-30",
     "title": "Where are you From::from — Llogiq on stuff",
     "link": "https://llogiq.github.io/2015/11/27/from-into.html"
   }

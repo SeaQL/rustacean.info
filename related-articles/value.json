@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2022-04-06",
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-impl/"
+  }
+]

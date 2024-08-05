@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2024-07-03",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust#service-the-heart-of-hexagonal-architecture"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust#separation-of-concerns-rust-style"
+  },
+  {
+    "date": "2024-06-12",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust"
+  },
+  {
+    "date": "2023-05-24",
+    "title": "Mocking in Rust: Mockall and alternatives - LogRocket Blog",
+    "link": "https://blog.logrocket.com/mocking-rust-mockall-alternatives"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "How to write a type-level mock library in Rust - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/how-to-write-a-type-level-mock-library-in-rust/"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "The birth of a package manager | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Ferris Talk #13: Rust-Web-APIs und Mocking mit Axum | heise online",
+    "link": "https://www.heise.de/hintergrund/Ferris-Talk-13-Rust-Web-APIs-und-Mocking-mit-Axum-7457143.html"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 3) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt3/"
+  }
+]

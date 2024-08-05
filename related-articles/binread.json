@@ -1,6 +1,12 @@
 [
   {
+    "date": "2021-06-30",
     "title": "Deserializing Binary Data Files in Rust · Michael-F-Bryan",
     "link": "https://adventures.michaelfbryan.com/posts/deserializing-binary-data-files/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "Extracting Files From an Archive Format I Understand Way Too Much",
+    "link": "https://jam1.re/blog/extracting-files-from-an-archive-format-i-understand-way-too-much"
   }
 ]

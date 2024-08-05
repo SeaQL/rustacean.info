@@ -1,5 +1,6 @@
 [
   {
+    "date": "2017-02-28",
     "title": "Objective-C from Rust: Statically Verified Type Encodings without Allocation - sasheldon.com",
     "link": "http://sasheldon.com/blog/2017/02/20/objective-c-from-rust-type-encodings/"
   }

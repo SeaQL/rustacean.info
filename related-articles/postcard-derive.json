@@ -1,9 +1,26 @@
 [
   {
+    "date": "2024-07-03",
     "title": "OxidOS with Alexandru Radovici - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s02e05-oxidos/"
   },
   {
+    "date": "2024-06-12",
+    "title": "OneVariable : Building Plain Old Data from Scratch",
+    "link": "https://onevariable.com/blog/pods-from-scratch/"
+  },
+  {
+    "date": "2022-06-22",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "date": "2016-10-11",
     "title": "Overview · Serde",
     "link": "https://serde.rs/"
   }

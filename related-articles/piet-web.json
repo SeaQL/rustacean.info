@@ -1,13 +1,26 @@
 [
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2022-07-20",
+    "title": "Advice for the next dozen Rust GUIs | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
+  },
+  {
+    "date": "2021-05-26",
     "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
     "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
   },
   {
+    "date": "2021-02-10",
+    "title": "Google joins the Rust Foundation | Google Open Source Blog",
+    "link": "https://opensource.googleblog.com/2021/02/google-joins-rust-foundation.html"
+  },
+  {
+    "date": "2019-05-14",
     "title": "2D Graphics on Modern GPU | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html"
   }

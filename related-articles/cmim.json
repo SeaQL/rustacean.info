@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-03-03",
     "title": "A look into ways to implement and share data with interrupt handlers in Rust (Update 1) | The subconscious mumblings of therealprof",
     "link": "https://therealprof.github.io/blog/interrupt-comparison/"
   },
   {
+    "date": "2019-12-03",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-21/"
   }

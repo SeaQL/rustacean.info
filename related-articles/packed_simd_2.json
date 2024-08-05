@@ -1,13 +1,16 @@
 [
   {
+    "date": "2023-07-19",
     "title": "Tony's Blog",
     "link": "https://antoniosbarotsis.github.io/posts/simple_rust_macros/"
   },
   {
+    "date": "2022-02-09",
     "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
     "link": "https://tinkering.xyz/fmo-optimization-story/"
   },
   {
+    "date": "2020-09-16",
     "title": "Rust 2021",
     "link": "https://hsivonen.fi/rust2021/"
   }

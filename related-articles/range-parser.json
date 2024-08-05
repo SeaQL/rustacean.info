@@ -1,5 +1,6 @@
 [
   {
+    "date": "2024-07-17",
     "title": "Implementing a generic range parser in Rust",
     "link": "https://blog.veeso.dev/blog/en/implementing-a-generic-range-parser-in-rust/"
   }

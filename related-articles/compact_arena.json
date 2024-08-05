@@ -1,9 +1,16 @@
 [
   {
+    "date": "2020-05-27",
+    "title": "How to organize your Rust tests - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
+  },
+  {
+    "date": "2019-08-06",
     "title": "Minimum Safe Abstractions — Llogiq on stuff",
     "link": "https://llogiq.github.io/2019/08/01/unsafe.html"
   },
   {
+    "date": "2019-04-09",
     "title": "Arenas vs. Indices — Llogiq on stuff",
     "link": "https://llogiq.github.io/2019/04/06/arena.html"
   }

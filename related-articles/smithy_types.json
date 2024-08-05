@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2018-07-31",
     "title": "Writing a front-end WebAssembly framework in Rust: lessons learned | by Robert Balicki | Medium",
     "link": "https://medium.com/@robert.balicki_2494/writing-a-front-end-webassembly-framework-in-rust-lessons-learned-7cc48ed27d96"
   }

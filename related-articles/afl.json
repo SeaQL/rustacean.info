@@ -1,33 +1,51 @@
 [
   {
+    "date": "2022-11-02",
     "title": "From Fuzzing to Proof: Using Kani with the Bolero Property-Testing Framework | Kani Rust Verifier Blog",
     "link": "https://model-checking.github.io/kani-verifier-blog/2022/10/27/using-kani-with-the-bolero-property-testing-framework.html"
   },
   {
+    "date": "2021-01-27",
     "title": "Unsafe Rust: How and when (not) to use it - LogRocket Blog",
     "link": "https://blog.logrocket.com/unsafe-rust-how-and-when-not-to-use-it/"
   },
   {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
   },
   {
+    "date": "2020-09-09",
+    "title": "Deserializing JSON really fast",
+    "link": "https://blog.datalust.co/deserializing-json-really-fast/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Super hero Rust fuzzing",
+    "link": "https://blog.firosolutions.com/2020/07/superhero-rust-fuzzing/"
+  },
+  {
+    "date": "2020-05-05",
     "title": "How to write CRaP Rust code - LogRocket Blog",
     "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
   },
   {
+    "date": "2018-10-02",
     "title": "How I’ve found vulnerability in a popular Rust crate (and you can too) | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb"
   },
   {
+    "date": "2017-07-11",
     "title": "How Rust is tested",
     "link": "https://brson.github.io/2017/07/10/how-rust-is-tested"
   },
   {
+    "date": "2017-03-07",
     "title": "Mitigating Underhandedness: Fuzzing Your Code - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/03/02/mitigating-underhandedness-fuzzing-your-code/"
   },
   {
+    "date": "2017-02-28",
     "title": "Demangling C++ Symbols",
     "link": "http://fitzgeraldnick.com/2017/02/22/cpp-demangle.html"
   }

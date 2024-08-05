@@ -1,18 +1,32 @@
 [
   {
+    "date": "2023-07-26",
     "title": "Totality",
     "link": "https://blog.yoshuawuyts.com/totality/"
   },
   {
+    "date": "2022-03-16",
+    "title": "Things I hate about Rust, redux",
+    "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"
+  },
+  {
+    "date": "2022-01-26",
     "title": "Being Fair about Memory Safety and Performance :: The Coded Message",
     "link": "https://www.thecodedmessage.com/posts/unsafe/"
   },
   {
+    "date": "2021-11-10",
     "title": "Plugins in Rust: Reducing the Pain with Dependencies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-abi-stable/"
   },
   {
+    "date": "2021-10-13",
     "title": "Rust async can truly be zero-cost",
     "link": "https://swatinem.de/blog/zero-cost-async/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Writing software that's reliable enough for production",
+    "link": "https://pythonspeed.com/fil/docs/fil4prod/reliable.html"
   }
 ]

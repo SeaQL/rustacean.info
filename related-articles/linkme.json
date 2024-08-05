@@ -1,6 +1,22 @@
 [
   {
+    "date": "2024-07-17",
+    "title": "Global Registration",
+    "link": "https://donsz.nl/blog/global-registration/"
+  },
+  {
+    "date": "2024-02-14",
     "title": "Performance Pitfalls of Async Function Pointers (and Why It Might Not Matter) · Byron Wasti",
     "link": "https://www.byronwasti.com/async-func-pointers/"
+  },
+  {
+    "date": "2023-10-04",
+    "title": "Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez",
+    "link": "https://nikolaivazquez.com/blog/divan/"
+  },
+  {
+    "date": "2023-06-14",
+    "title": "Iterating on Testing in Rust",
+    "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
   }
 ]

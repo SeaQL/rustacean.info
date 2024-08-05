@@ -1,9 +1,21 @@
 [
   {
+    "date": "2023-12-27",
+    "title": "Can CppRef&lt;T&gt; be ergonomic?. In a previous post, I said that we… | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/can-cppref-t-be-ergonomic-c9cb1365bda1"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Are we reference yet? C++ references in Rust | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/are-we-reference-yet-c-references-in-rust-72c1c6c7015a"
+  },
+  {
+    "date": "2021-02-24",
     "title": "Integrating Rust and C++ in Firefox - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/"
   },
   {
+    "date": "2020-08-25",
     "title": "The problem of safe FFI bindings in Rust - Abubalay",
     "link": "https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust"
   }

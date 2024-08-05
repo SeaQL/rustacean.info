@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-04-24",
+    "title": "Tantivy 0.22 | Quickwit",
+    "link": "https://quickwit.io/blog/tantivy-0.22"
+  },
+  {
+    "date": "2024-04-10",
+    "title": "Rust Indexed - search in Rust books and tutorials",
+    "link": "https://rust-indexed.com/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "Full-text search for DynamoDB using Lambda, EFS, Tantivy and Rust.",
+    "link": "https://jakejscott.com/full-text-search-for-dynamodb-using-lambda-efs-tantivy-and-rust"
+  },
+  {
+    "date": "2021-11-24",
+    "title": "How lnx does fuzzy searching over 5x faster with SymSpell",
+    "link": "https://chillfish8.ghost.io/fuzzy-searching-5x-faster-with-symspell/"
+  }
+]

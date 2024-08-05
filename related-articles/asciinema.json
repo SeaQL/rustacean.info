@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2024-05-15",
+    "title": "Long-running backend async tasks in tauri v2 - sneaky crow",
+    "link": "https://sneakycrow.dev/blog/2024-05-12-running-async-tasks-in-tauri-v2"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "The birth of a package manager | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "Rust on Espressif chips - 15-07-2022",
+    "link": "https://mabez.dev/blog/posts/esp-rust-15-07-2022/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "Fluvio - This Week in Fluvio #16",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0016/"
+  },
+  {
+    "date": "2021-12-01",
+    "title": "4x smaller, 50x faster · asciinema blog",
+    "link": "https://blog.asciinema.org/post/smaller-faster/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "So you want to live-reload Rust",
+    "link": "https://fasterthanli.me/articles/so-you-want-to-live-reload-rust"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "As above, so below: Bare metal Rust generics 2/2 - cuervo",
+    "link": "https://www.ecorax.net/as-above-so-below-2/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Headcrab, a modern Rust debugger library",
+    "link": "https://headcrab.rs/2020/08/31/august-update.html"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Porting a Golang and Rust CLI tool to D",
+    "link": "https://blog.pingfrommorocco.com/2020/08/porting-golang-and-rust-cli-tool-to-d.html"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "I am a Java, C#, C or C++ developer, time to do some Rust",
+    "link": "https://fasterthanli.me/articles/i-am-a-java-csharp-c-or-cplusplus-dev-time-to-do-some-rust"
+  },
+  {
+    "date": "2019-09-10",
+    "title": "Linux.Fe2O3: a Rust virus | TMZ Lair - Underground Coding",
+    "link": "https://www.guitmz.com/linux-fe2o3-rust-virus/"
+  }
+]

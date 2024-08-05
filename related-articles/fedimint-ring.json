@@ -1,65 +1,96 @@
 [
   {
+    "date": "2024-02-14",
     "title": "Rust in Production: Interview with FOSSA",
     "link": "https://serokell.io/blog/rust-in-production-fossa"
   },
   {
+    "date": "2023-09-27",
     "title": "My Pure Rust Wishlist - GBurghoorn",
     "link": "https://gburghoorn.com/posts/pure-rust-wishlist/"
   },
   {
+    "date": "2023-09-27",
     "title": "Why Not Rust Crypto?",
     "link": "https://briansmith.org/why-not-rustcrypto"
   },
   {
+    "date": "2023-04-05",
     "title": "Rustls 0.21.0 Released With Exciting New Features - Prossimo",
     "link": "https://www.memorysafety.org/blog/rustls-new-features/"
   },
   {
+    "date": "2022-09-21",
+    "title": "Precursor - Bringing Up TLS on Precursor | Crowd Supply",
+    "link": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/bringing-up-tls-on-precursor"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "Rust9x: Compile Rust code for Windows 95, NT and above",
+    "link": "https://seri.tools/blog/announcing-rust9x/"
+  },
+  {
+    "date": "2021-08-10",
     "title": "Rust in Production: Qovery",
     "link": "https://serokell.io/blog/rust-in-production-qovery"
   },
   {
+    "date": "2021-06-09",
+    "title": "Creating an NPM package written in Rust | by PopcornPaws | Medium",
+    "link": "https://popcornpaws.medium.com/creating-an-npm-package-written-in-rust-ce02f7c55458"
+  },
+  {
+    "date": "2021-04-14",
     "title": "Rust in Production: MeiliSearch",
     "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
+    "date": "2021-01-27",
     "title": "24 Awesome Open-Source Rust Projects",
     "link": "https://serokell.io/blog/open-source-rust"
   },
   {
+    "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
+    "date": "2020-10-14",
     "title": "Memory Safe ‘curl’ for a More Secure Internet -  Internet Security Research Group",
     "link": "https://www.abetterinternet.org/post/memory-safe-curl/"
   },
   {
+    "date": "2020-01-21",
     "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
   },
   {
+    "date": "2019-01-29",
     "title": "Enjoy a slice of QUIC, and Rust!",
     "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
   },
   {
+    "date": "2018-05-22",
     "title": "Migrating to Actix Web from Rocket for Stability",
     "link": "https://nbsoftsolutions.com/blog/migrating-to-actix-web-from-rocket-for-stability"
   },
   {
+    "date": "2017-08-15",
     "title": "Rustls and Servo",
     "link": "https://simrangujral.github.io/Rustls&Servo"
   },
   {
+    "date": "2017-06-27",
     "title": "The highs and lows of Rust (2017) | \nJimmy Cuadra",
     "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust-2017/"
   },
   {
+    "date": "2016-08-23",
     "title": "show_notes::bonus::_6 - Rust",
     "link": "http://www.newrustacean.com/show_notes/bonus/_6/"
   },
   {
+    "date": "2016-02-29",
     "title": "The highs and lows of Rust | \nJimmy Cuadra",
     "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust/"
   }

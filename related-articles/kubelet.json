@@ -1,21 +1,31 @@
 [
   {
+    "date": "2021-02-03",
     "title": "Deis Labs",
     "link": "https://deislabs.io/posts/introducing-krator/"
   },
   {
+    "date": "2020-12-16",
     "title": "Deis Labs",
     "link": "https://deislabs.io/posts/still-rusting-one-year-later/"
   },
   {
+    "date": "2020-09-30",
     "title": "WebAssembly on the Server with Krustlet :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/030-krustlet/"
   },
   {
+    "date": "2020-09-30",
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/a-fistful-of-states/"
+  },
+  {
+    "date": "2020-08-04",
     "title": "Deis Labs",
     "link": "https://deislabs.io/posts/a-heaping-helping-of-stacks/"
   },
   {
+    "date": "2020-04-14",
     "title": "Deis Labs",
     "link": "https://deislabs.io/posts/kubernetes-a-rusty-friendship/"
   }

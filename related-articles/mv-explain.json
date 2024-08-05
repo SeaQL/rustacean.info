@@ -1,14 +1,17 @@
 [
   {
-    "title": "The code is the specification? Introducing cargo spec",
-    "link": "https://www.cryptologie.net/article/553/the-code-is-the-specification-introducing-cargo-spec/"
+    "date": "2021-10-06",
+    "title": "RiB Newsletter #28 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-28/"
   },
   {
+    "date": "2021-09-01",
+    "title": "RiB Newsletter #27 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-27/"
+  },
+  {
+    "date": "2021-05-05",
     "title": "A brief history of Rust at Facebook - Engineering at Meta",
     "link": "https://engineering.fb.com/2021/04/29/developer-tools/rust/"
-  },
-  {
-    "title": "Why not rust for security?",
-    "link": "https://www.cryptologie.net/article/505/why-not-rust-for-security/"
   }
 ]

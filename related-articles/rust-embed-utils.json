@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-06-23",
     "title": "Getting started with MongoDB and Redis in Rust · Roman Kudryashov's tech blog",
     "link": "https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/"
   },
   {
+    "date": "2021-04-28",
     "title": "Introduction to gRPC in Rust · Roman Kudryashov's tech blog",
     "link": "https://romankudryashov.com/blog/2021/04/grpc-rust/"
   }

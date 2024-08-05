@@ -1,6 +1,12 @@
 [
   {
+    "date": "2017-06-27",
     "title": "Get Started with Rust, WebAssembly, and Webpack | by Ian J Sikes | Medium",
     "link": "https://medium.com/@ianjsikes/get-started-with-rust-webassembly-and-webpack-58d28e219635"
+  },
+  {
+    "date": "2017-04-18",
+    "title": "The Path to Rust on the Web",
+    "link": "http://asquera.de/blog/2017-04-10/the-path-to-rust-on-the-web/"
   }
 ]

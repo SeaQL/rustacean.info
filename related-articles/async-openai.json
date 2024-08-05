@@ -1,5 +1,21 @@
 [
   {
+    "date": "2024-07-17",
+    "title": "How to make Rust Desktop App with Egui and ChatGPT - OnlyCoiners",
+    "link": "https://www.onlycoiners.com/user/steadylearner/blog/how-to-make-rust-desktop-app-with-egui-and-chatgpt"
+  },
+  {
+    "date": "2024-05-29",
+    "title": "How to use ChatGPT with Rust - OnlyCoiners",
+    "link": "https://www.onlycoiners.com/user/steadylearner/blog/how-to-use-chatgpt-with-rust"
+  },
+  {
+    "date": "2024-04-17",
+    "title": "Announcing async-openai-wasm, and thoughts on wasmization and streams | Ideas Reifying",
+    "link": "https://ideas.reify.ing/en/blog/announcing-async-openai-wasm/"
+  },
+  {
+    "date": "2023-01-18",
     "title": "Song search in Rust using OpenAI",
     "link": "https://gigapotential.dev/blog/song-search-in-rust-using-openai/"
   }

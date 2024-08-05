@@ -1,17 +1,26 @@
 [
   {
+    "date": "2023-11-15",
+    "title": "Blog - Tracking the current active process in Windows with Rust · Hello Code.",
+    "link": "https://hellocode.co/blog/post/tracking-active-process-windows-rust/"
+  },
+  {
+    "date": "2023-05-17",
     "title": "smol with John Nunley :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/john-nunley/"
   },
   {
+    "date": "2022-03-02",
     "title": "Building a new graphics engine in Rust - Part 2 – Alex Dixon",
     "link": "https://www.polymonster.co.uk/blog/bulding-new-engine-in-rust-2"
   },
   {
+    "date": "2021-09-29",
     "title": "Why we built a custom Rust library for Capture - Dropbox",
     "link": "https://dropbox.tech/application/why-we-built-a-custom-rust-library-for-capture"
   },
   {
+    "date": "2021-01-27",
     "title": "Microsoft Opens Up Old Win32 APIs to C# and Rust, More Languages to Come -- Visual Studio Magazine",
     "link": "https://visualstudiomagazine.com/articles/2021/01/21/win32-apis.aspx"
   }

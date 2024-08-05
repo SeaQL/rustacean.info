@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2022-02-09",
+    "title": "Announcing BonsaiDb 0.1.0: A Rust NoSQL database that grows with you",
+    "link": "https://bonsaidb.io/blog/announcing-bonsaidb-alpha/"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "BonsaiDb January update: Alpha Next Week",
+    "link": "https://bonsaidb.io/blog/january-2022-update/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  }
+]

@@ -1,6 +1,12 @@
 [
   {
+    "date": "2024-01-17",
     "title": "Highlights of 2023 for cargo-semver-checks",
     "link": "https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "A fresh look on incremental zero copy serialization · udoprog",
+    "link": "https://udoprog.github.io/rust/2023-10-19/musli-zerocopy.html"
   }
 ]

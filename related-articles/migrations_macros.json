@@ -1,101 +1,376 @@
 [
   {
+    "date": "2024-07-24",
+    "title": "Diesel Async 0.5 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"
+  },
+  {
+    "date": "2024-06-05",
+    "title": "Diesel 2.2.0",
+    "link": "https://diesel.rs/news/2_2_0_release.html"
+  },
+  {
+    "date": "2024-05-29",
     "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
     "link": "https://bencher.dev/learn/case-study/diesel/"
   },
   {
+    "date": "2024-04-24",
     "title": "Why SQLite Performance Tuning made Bencher 1200x Faster | Bencher - Continuous Benchmarking",
     "link": "https://bencher.dev/learn/engineering/sqlite-performance-tuning/"
   },
   {
+    "date": "2024-01-17",
+    "title": "A Guide to Rust ORMs in 2024",
+    "link": "https://www.shuttle.rs/blog/2024/01/16/best-orm-rust"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Diagnostic namespace - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diagnostic-namespace-10-23/"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "Diesel 2.1.0",
+    "link": "https://diesel.rs/news/2_1_0_release.html"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
+    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
+  },
+  {
+    "date": "2023-03-22",
     "title": "Why use Rust on the backend?",
     "link": "https://blog.adamchalmers.com/why-rust-on-backend/"
   },
   {
+    "date": "2023-02-08",
+    "title": "Improving Rust compile times to enable adoption of memory safety - Prossimo",
+    "link": "https://www.memorysafety.org/blog/remy-rakic-compile-times/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "First steps with NGenate - A dataflow and visual programming platform built with Rust | by Mark Mulligan",
+    "link": "https://codetrance.io/blog/1/rust-visual-programming-dataflow-ngenate-first-steps/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Rails developers write some Rust: a review of Axum 0.6",
+    "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "date": "2022-11-30",
     "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
     "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
   },
   {
+    "date": "2022-08-31",
+    "title": "OpenTelemetry Distributed Tracing in Rust | Aspecto",
+    "link": "https://www.aspecto.io/blog/distributed-tracing-with-opentelemetry-rust/"
+  },
+  {
+    "date": "2022-08-31",
     "title": "Diesel 2.0.0",
     "link": "https://diesel.rs/news/2_0_0_release.html"
   },
   {
+    "date": "2022-08-10",
     "title": "Fang, async background processing for Rust - The software engineer oasis",
     "link": "https://pxp9.github.io/rust/async-processing/"
   },
   {
+    "date": "2022-07-20",
+    "title": "Getting Started with SeaORM - Anshul Chauhan",
+    "link": "https://anshulchauhan.com/getting-started-seaorm"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "CDI - Software Engineer - Engine (Rust, gRPC, PostgreSQL) - Stockly - CDI à Paris",
+    "link": "https://www.welcometothejungle.com/fr/companies/stockly/jobs/back-end-developer-engine-team-rust-grpc-postgresql_paris"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "CDI - Software Engineer - Engine (Rust, gRPC, PostgreSQL) - Stockly - CDI à Paris",
+    "link": "https://www.welcometothejungle.com/fr/companies/stockly-1/jobs/back-end-developer-engine-team-rust-grpc-postgresql_paris"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "How hard upgrading a Rust JWT library could be? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/upgrading-rust-jwt/"
+  },
+  {
+    "date": "2022-03-30",
+    "title": "CDI - Software Engineer - Engine (Rust, gRPC, PostgreSQL) - Stockly - CDI à Paris",
+    "link": "https://www.welcometothejungle.com/fr/companies/stockly-1/jobs/back-end-developer-engine-team-rust-grpc-postgresql_paris?q=77fd1862155dc1bff74b1adc38a04e92&o=625243&e=companies_jobs"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Lishwist (beta) | Polaris64's blog",
+    "link": "https://blog.polaris64.net/post/lishwist-beta/"
+  },
+  {
+    "date": "2021-12-29",
+    "title": "My negative views on Rust",
+    "link": "https://chrisdone.com/posts/rust/"
+  },
+  {
+    "date": "2021-11-17",
+    "title": "Tokio Ecosystem with Alice Ryhl :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/046-alice-ryhl/"
+  },
+  {
+    "date": "2021-11-10",
     "title": "IntelliJ Rust Changelog #159",
     "link": "https://intellij-rust.github.io/2021/11/08/changelog-159.html"
   },
   {
+    "date": "2021-10-27",
+    "title": "Rust Web Development with Bastian Gruber :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/043-bastian-gruber/"
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Rocket: A Web Framework for Rust",
+    "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
+  },
+  {
+    "date": "2021-09-15",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/61/an-experimental-diesel-based-crud-for-rocket"
   },
   {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-07-07",
+    "title": "butido - a Linux Package Building Tool in Rust — musicmatzes blog",
+    "link": "https://beyermatthias.de/butido-a-linux-package-building-tool-in-rust"
+  },
+  {
+    "date": "2021-05-12",
     "title": "Building a REST and Web Socket API with Actix and Rust | AGM Projects",
     "link": "https://agmprojects.com/blog/building-a-rest-and-web-socket-api-with-actix.html"
   },
   {
+    "date": "2021-05-05",
+    "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Late Night Confessions — Building a Website Using Rust, Rocket, Diesel, and Askama — Part 1 | by Johnny Tordgeman | PerimeterX | Medium",
+    "link": "https://medium.com/perimeterx/late-night-confessions-building-a-website-using-rust-rocket-diesel-and-askama-part-1-aeccade43252"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "Zero Downtime Deployments | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/zero-downtime-deployments/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "A Simple Crud on Rust (With Rocket.rs and Diesel.rs) | by Luís Von Müller | The Startup | Medium",
+    "link": "https://medium.com/swlh/a-simple-crud-on-rust-with-rocket-rs-and-diesel-rs-e885672cb23d"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "Implementing a Job queue with SQLx and Postgres",
+    "link": "https://cetra3.github.io/blog/implementing-a-jobq-sqlx/"
+  },
+  {
+    "date": "2020-06-02",
     "title": "Rust as a High Level Language — Llogiq on stuff",
     "link": "https://llogiq.github.io/2020/05/30/hi.html"
   },
   {
+    "date": "2020-06-02",
+    "title": "kitsu's blog",
+    "link": "https://kitsu.me/posts/2020_05_24_custom_types_in_diesel"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Create a blazingly fast REST API in Rust (Part 1/2) | Qovery",
+    "link": "https://docs.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/"
+  },
+  {
+    "date": "2020-01-14",
+    "title": "Rust Database Connectivity (RDBC)",
+    "link": "https://andygrove.io/2020/01/rust-database-connectivity-rdbc/"
+  },
+  {
+    "date": "2018-10-09",
     "title": "Lessons learned on writing web applications completely in Rust | by Sascha Grunert | Medium",
     "link": "https://medium.com/@saschagrunert/lessons-learned-on-writing-web-applications-completely-in-rust-2080d0990287"
   },
   {
+    "date": "2018-07-10",
     "title": "A web application completely in Rust | by Sascha Grunert | Medium",
     "link": "https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471"
   },
   {
+    "date": "2018-06-19",
+    "title": "Rust + Diesel + GitLab + CI",
+    "link": "https://noyez.gitlab.io/post/2018-06-15-rust-plus-diesel-plus-gitlab/"
+  },
+  {
+    "date": "2018-06-19",
     "title": "From ActiveRecord to Diesel - Pat Shaughnessy",
     "link": "http://patshaughnessy.net/2018/6/9/from-activerecord-to-diesel"
   },
   {
+    "date": "2018-04-17",
+    "title": "Go: the Good, the Bad and the Ugly",
+    "link": "https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/"
+  },
+  {
+    "date": "2018-03-27",
+    "title": "Build a CRUD API with Rust. Since my initial Node/Rust REST… | by Sean Wragg | Sean’s Blog | Medium",
+    "link": "https://medium.com/sean3z/building-a-restful-crud-api-with-rust-1867308352d8"
+  },
+  {
+    "date": "2018-03-27",
+    "title": "Touring a Fast, Safe, and Complete(ish) Web Service in Rust — brandur.org",
+    "link": "https://brandur.org/rust-web"
+  },
+  {
+    "date": "2018-03-06",
     "title": "Writing a Microservice in Rust – Peter Goldsborough",
     "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
   },
   {
+    "date": "2018-01-30",
+    "title": "1946-intra-rustdoc-links - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/1946-intra-rustdoc-links"
+  },
+  {
+    "date": "2018-01-09",
     "title": "Announcing Diesel 1.0 — A Safe, Extensible Query Builder and ORM | by Sean Griffin | Medium",
     "link": "https://medium.com/@sgrif/announcing-diesel-1-0-a-safe-extensible-query-builder-and-orm-15e6bd8a9ed0"
   },
   {
+    "date": "2018-01-09",
+    "title": "Script in show_notes::news::rust_1_23 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/rust_1_23/struct.Script.html"
+  },
+  {
+    "date": "2018-01-09",
+    "title": "show_notes::news::rust_1_23 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/rust_1_23/"
+  },
+  {
+    "date": "2017-12-05",
+    "title": "Replacing Elasticsearch with Rust and SQLite",
+    "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"
+  },
+  {
+    "date": "2017-12-05",
+    "title": "RUST : LET’S GET IT STARTED!. “Do the best you can until you know… | by Dumindu Madunuwan | Learning Rust | Medium",
+    "link": "https://medium.com/learning-rust/rust-lets-get-it-started-bdd8de58178d"
+  },
+  {
+    "date": "2017-12-05",
+    "title": "http://diesel.rs/guides/schema-in-depth/",
+    "link": "http://diesel.rs/guides/schema-in-depth/"
+  },
+  {
+    "date": "2017-10-03",
+    "title": "impl Version&lt;1.0&gt; for Diesel. Diesel is joining the Rust impl period… | by Sean Griffin | Medium",
+    "link": "https://medium.com/@sgrif/impl-version-1-0-for-diesel-10f5872c7be"
+  },
+  {
+    "date": "2017-08-15",
     "title": "Gotham web framework",
     "link": "https://gotham.rs/blog"
   },
   {
+    "date": "2017-08-01",
     "title": "Grokking Diesel. Diesel (http://diesel.rs) is an ORM… | by Stephan Buys | HackerNoon.com | Medium",
     "link": "https://medium.com/@Buys/grokking-diesel-652cb8886a63"
   },
   {
+    "date": "2017-06-06",
+    "title": "Rusoto RDS walkthrough, mk 2 · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-mk2/"
+  },
+  {
+    "date": "2017-05-23",
     "title": "Rusoto RDS walkthrough · Matthew Mayer's tech blog",
     "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-walkthrough/"
   },
   {
+    "date": "2017-05-16",
+    "title": "Writing a GitHub webhook with Rust! Part 1: Rocket | by Chris | Medium",
+    "link": "https://medium.com/@aergonaut/writing-a-github-webhook-with-rust-part-1-rocket-4426dd06d45d"
+  },
+  {
+    "date": "2017-05-02",
     "title": "Karol Kuczmarski's Blog – Asynchronous Rust for fun &amp;&nbsp;profit",
     "link": "http://xion.io/post/programming/rust-async-closer-look.html"
   },
   {
+    "date": "2017-03-28",
     "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
     "link": "https://diesel.rs"
   },
   {
+    "date": "2017-03-07",
     "title": "Coding with glee: My shot at RESTful Microservices in Rust - Part 2",
     "link": "https://codingwithglee.blogspot.de/2017/03/my-shot-at-restful-microservices-in.html"
   },
   {
+    "date": "2017-01-03",
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "Four years with Rust",
+    "link": "http://words.steveklabnik.com/four-years-with-rust"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - diesel | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-diesel/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "Creating Expedient Microservices in Rust and Diesel | Cloudbees Blog",
+    "link": "https://blog.codeship.com/creating-expedient-microservices-in-rust-and-diesel/"
+  },
+  {
+    "date": "2016-12-13",
+    "title": "24 days of Rust - derive_builder | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-derive_builder/"
+  },
+  {
+    "date": "2016-12-13",
     "title": "Comparing Diesel and rust-postgres | HackerNoon",
     "link": "https://hackernoon.com/comparing-diesel-and-rust-postgres-97fd8c656fdd"
   },
   {
+    "date": "2016-10-11",
+    "title": "Using Rust for Webdev as a Hobby Programmer",
+    "link": "http://neikos.me/Using_Rust_for_Webdev_as_a_Hobby_Programmer.html"
+  },
+  {
+    "date": "2016-10-11",
     "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
     "link": "http://diesel.rs/"
   },
   {
+    "date": "2016-04-25",
     "title": "Rust Community == Awesome! — Llogiq on stuff",
     "link": "https://llogiq.github.io/2016/04/23/awesome.html"
   }

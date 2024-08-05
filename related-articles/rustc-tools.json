@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-01-24",
     "title": "Writing your own Rust linter",
     "link": "https://blog.guillaume-gomez.fr/articles/2024-01-18+Writing+your+own+Rust+linter"
   },
   {
+    "date": "2023-03-15",
     "title": "rustdoc and the re-exports",
     "link": "https://blog.guillaume-gomez.fr/articles/2023-03-08+rustdoc+and+the+re-exports"
   }

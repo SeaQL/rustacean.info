@@ -1,6 +1,97 @@
 [
   {
+    "date": "2021-11-24",
+    "title": "Error Handling in Rust with Jane Lusby :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/047-jane-lusby/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Writing software that's reliable enough for production",
+    "link": "https://pythonspeed.com/fil/docs/fil4prod/reliable.html"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
+    "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"
+  },
+  {
+    "date": "2020-12-30",
+    "title": "Don't let failures spread over your suite with process-based tests isolation - Adventurous Computing",
+    "link": "https://blog.cyplo.dev/posts/2020/12/fail-and-fork/"
+  },
+  {
+    "date": "2020-06-23",
     "title": "Rust at CNCF | CNCF",
     "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
+  },
+  {
+    "date": "2020-05-19",
+    "title": "What's New in Rust 1.42 and 1.43 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/014-rust-1.42-1.43/"
+  },
+  {
+    "date": "2020-05-19",
+    "title": "Rust: Structuring and handling errors in 2020 - Nick's Blog and Digital Garden",
+    "link": "https://nick.groenen.me/posts/rust-error-handling/"
+  },
+  {
+    "date": "2020-04-14",
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
+  },
+  {
+    "date": "2020-04-07",
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
+  },
+  {
+    "date": "2020-04-07",
+    "title": "Error Handling in a Correctness-Critical Rust Project | sled-rs.github.io",
+    "link": "http://sled.rs/errors"
+  },
+  {
+    "date": "2019-11-26",
+    "title": "Error Handling Survey",
+    "link": "https://blog.yoshuawuyts.com/error-handling-survey/"
+  },
+  {
+    "date": "2018-08-21",
+    "title": "Thanks For Asking! — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/08/16/ask.html"
+  },
+  {
+    "date": "2018-08-21",
+    "title": "Rust GraphQL webserver with Warp, Juniper and MongoDB",
+    "link": "http://alex.amiran.it/post/2018-08-16-rust-graphql-webserver-with-warp-juniper-and-mongodb.html"
+  },
+  {
+    "date": "2018-06-05",
+    "title": "The Rust Language and Special Cases — Infinite Negative Utility",
+    "link": "https://blog.infinitenegativeutility.com/2018/6/the-rust-language-and-special-cases"
+  },
+  {
+    "date": "2018-03-13",
+    "title": "Redefining Failure",
+    "link": "https://epage.github.io/blog/2018/03/redefining-failure/"
+  },
+  {
+    "date": "2018-01-09",
+    "title": "#Rust2018 : Don’t be the new Haskell | by Tibo Delor | HackerNoon.com | Medium",
+    "link": "https://medium.com/@tibotz/rust-2018-dont-be-the-new-haskell-a383dbd74481"
+  },
+  {
+    "date": "2017-12-05",
+    "title": "Failure 0.1.1 released",
+    "link": "https://boats.gitlab.io/blog/post/2017-11-30-failure-0-1-1/"
+  },
+  {
+    "date": "2017-11-21",
+    "title": "Announcing Failure",
+    "link": "https://boats.gitlab.io/blog/post/2017-11-16-announcing-failure/"
+  },
+  {
+    "date": "2015-05-18",
+    "title": "Error Handling in Rust - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/rust-error-handling/"
   }
 ]

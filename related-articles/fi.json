@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2024-02-21",
+    "title": "argmin_testfunctions 0.2.0 and argmin-testfunctions-py v0.0.1 released | argmin",
+    "link": "https://argmin-rs.org/blog/argmin-testfunctions-v0-2-0/"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "Getting Started with Rocket in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/12/13/using-rocket-rust"
+  },
+  {
+    "date": "2023-11-22",
+    "title": "Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets, &amp; So Much More - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5/news/2023-11-17-version-0.5/"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "3308-offset_of - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3308-offset_of.html"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Announcing finl_unicode 1.0.0 – finl is not LaTeX",
+    "link": "https://www.finl.xyz/2022/08/29/announcing-finl_unicode-1-0-0/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Rotating log files in Rust, and reassembling them for inspection",
+    "link": "https://www.openanalytics.eu/blog/2022/02/15/log-files-in-rust/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "date": "2021-12-01",
+    "title": "Rust Project: Ping Pong Game. How to make the classic Ping Pong game… | by Harsh Vishwakarma | Medium",
+    "link": "https://phychic-owl.medium.com/rust-project-ping-pong-game-665766cc45ed"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "Ordering Requests to Accelerate Disk I/O | Piotr Kołaczkowski",
+    "link": "https://pkolaczk.github.io/disk-access-ordering/"
+  },
+  {
+    "date": "2020-06-10",
+    "title": "This month in rustsim #11 (April - May 2020) · The rustsim organization",
+    "link": "https://www.rustsim.org/blog/2020/06/01/this-month-in-rustsim/"
+  },
+  {
+    "date": "2019-08-06",
+    "title": "Rust reverses research ruin. 31–07–2019 | by Benjamin Blundell | Medium",
+    "link": "https://medium.com/@me_26124/rust-reverses-research-ruin-88641c11a99f"
+  }
+]

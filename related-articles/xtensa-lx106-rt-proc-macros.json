@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-09-30",
     "title": "Rust on the ESP32 &amp; ESP8266 - Building an ecosystem",
     "link": "https://mabez.dev/blog/posts/esp-rust-ecosystem/"
   }

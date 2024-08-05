@@ -1,41 +1,66 @@
 [
   {
+    "date": "2024-03-13",
+    "title": "Relm4 is back! Announcing version 0.7 and 0.8 | Relm4 blog",
+    "link": "https://relm4.org/blog/posts/announcing_relm4_v0.7/"
+  },
+  {
+    "date": "2024-01-17",
     "title": "Xilem 2024 plans - Linebender",
     "link": "https://linebender.org/blog/xilem-2024/"
   },
   {
+    "date": "2023-04-19",
+    "title": "Announcing tuxedo-rs | Eberhardt blog",
+    "link": "https://aaronerhardt.github.io/blog/posts/announcing_tuxedo_rs/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "A long journey: Announcing Relm4 v0.5! | Relm4 blog",
+    "link": "https://relm4.org/blog/posts/announcing_relm4_v0.5"
+  },
+  {
+    "date": "2022-05-11",
     "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
   },
   {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   },
   {
+    "date": "2021-09-08",
     "title": "Announcing Relm4 v0.1 | Eberhardt blog",
     "link": "https://aaronerhardt.github.io/blog/posts/announcing_relm4/"
   },
   {
+    "date": "2021-08-18",
     "title": "Relm4 beta released 🎉 | Eberhardt blog",
     "link": "https://aaronerhardt.github.io/blog/posts/relm_beta/"
   },
   {
+    "date": "2021-02-17",
     "title": "A big release for relm",
     "link": "https://relm.antoyo.xyz/big-release/"
   },
   {
+    "date": "2020-09-30",
     "title": "Towards principled reactive UI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html"
   },
   {
+    "date": "2019-12-17",
     "title": "Tutorial",
     "link": "https://relm.antoyo.xyz/documentation/tutorial/"
   },
   {
+    "date": "2019-08-06",
     "title": "Rust vs GUI",
     "link": "https://turbomack.github.io/posts/2019-07-28-rust-vs-gui.html"
   },
   {
+    "date": "2018-05-15",
     "title": "Entity-Component-System architecture for UI in Rust | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/personal/2018/05/08/ecs-ui.html"
   }

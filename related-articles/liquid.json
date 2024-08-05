@@ -1,25 +1,31 @@
 [
   {
+    "date": "2022-06-29",
     "title": "Generative metatag images in Rust",
     "link": "https://www.shuttle.rs/blog/2022/06/23/generative-metatag-images"
   },
   {
+    "date": "2021-12-15",
     "title": "Using liquid-rust with serde",
     "link": "https://madsravn.dk/posts/using-liquid-rust-with-serde"
   },
   {
+    "date": "2021-10-27",
     "title": "My ideal Rust workflow",
     "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
   },
   {
+    "date": "2020-07-07",
     "title": "Image decay as a service",
     "link": "https://fasterthanli.me/articles/image-decay-as-a-service"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2018-03-13",
     "title": "Redefining Failure",
     "link": "https://epage.github.io/blog/2018/03/redefining-failure/"
   }

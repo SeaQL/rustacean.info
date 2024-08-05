@@ -1,22 +1,287 @@
 [
   {
+    "date": "2024-07-10",
+    "title": "Research Computing With The Rust Programming Language Tickets, Thu, Jul 11, 2024 at 10:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/research-computing-with-the-rust-programming-language-tickets-908002037537?aff=ebdssbdestsearch&keep_tld=1"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Rust Circle Meetup Tickets, Multiple Dates | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-circle-meetup-tickets-628763176587"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Lunch &amp; Learn: Exploring Rust API Use Cases Tickets, Wed, Jul 24, 2024 at 12:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/lunch-learn-exploring-rust-api-use-cases-tickets-928424531767"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Build Web Apps with Rust and Leptos Tickets, Wed, Jul 3, 2024 at 9:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/build-web-apps-with-rust-and-leptos-tickets-904804503627?aff=odcleoeventsincollection"
+  },
+  {
+    "date": "2024-05-29",
+    "title": "Enums, Structs, and Traits - Essential Building Blocks of Rust Programming Tickets, Wed, May 29, 2024 at 10:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/enums-structs-and-traits-essential-building-blocks-of-rust-programming-tickets-904696681127"
+  },
+  {
+    "date": "2024-05-15",
+    "title": "Rust at Full Speed: Harnessing Concurrency with Confidence Tickets, Fri, May 17, 2024 at 10:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-at-full-speed-harnessing-concurrency-with-confidence-tickets-884842296127"
+  },
+  {
+    "date": "2024-05-08",
+    "title": "Rust's Safety Net: Crafting Memory-Safe Applications Tickets, Fri, May 10, 2024 at 10:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rusts-safety-net-crafting-memory-safe-applications-tickets-881820838867"
+  },
+  {
+    "date": "2024-05-01",
+    "title": "NL-RSE RUST meetup Tickets, Wed, May 1, 2024 at 2:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.nl/e/nl-rse-rust-meetup-tickets-871056271757"
+  },
+  {
+    "date": "2024-05-01",
+    "title": "Rust Circle Meetup Tickets, Multiple Dates | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-circle-meetup-tickets-628763176587?aff=ebdsoporgprofile"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Rust Meetup in Paris Tickets, Wed, Mar 13, 2024 at 7:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.fr/e/rust-meetup-in-paris-tickets-830340830777"
+  },
+  {
+    "date": "2024-02-28",
     "title": "Sentry with Arpad Borsos - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e06-sentry/"
   },
   {
+    "date": "2024-01-24",
+    "title": "Harnessing Rust for Real-World Problems hackathon: Day 2 Tickets, Sun, 28 Jan 2024 at 12:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.ca/e/harnessing-rust-for-real-world-problems-hackathon-day-2-tickets-794994147897?aff=ebdsoporgprofile"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Harnessing Rust for Real-World Problems hackathon: Day 1 Tickets, Sat, 27 Jan 2024 at 2:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.ca/e/harnessing-rust-for-real-world-problems-hackathon-day-1-tickets-794992302377?aff=ebdsoporgprofile"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Rust Circle Meetup Tickets, Multiple Dates | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-circle-meetup-tickets-628763647997?aff=ebdssbdestsearch"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Rust Circle Meetup Tickets, Multiple Dates | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-circle-meetup-tickets-628763176587?aff=ebdssbdestsearch"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "Rust Meetup in Paris Tickets, Thu, Nov 9, 2023 at 7:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.fr/e/rust-meetup-in-paris-tickets-732823744547/"
+  },
+  {
+    "date": "2023-10-18",
+    "title": "Rust meetup @ Google Developer Space Tickets, Fri 20 Oct 2023 at 6:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-meetup-google-developer-space-tickets-736345678747"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "BeCode Brussels Meetup - Rust On Web Tickets, Wed, Oct 11, 2023 at 5:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.be/e/becode-brussels-meetup-rust-on-web-tickets-728375238947"
+  },
+  {
+    "date": "2023-10-04",
+    "title": "Rust Circle Meetup Tickets, Multiple Dates | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-circle-meetup-tickets-628763617907?aff=erelpanelorg"
+  },
+  {
+    "date": "2023-10-04",
+    "title": "A Decade of Rust with Ferrous Systems Tickets, Wed, Oct 4, 2023 at 4:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/a-decade-of-rust-with-ferrous-systems-tickets-680492891557?aff=ebdssbdestsearch"
+  },
+  {
+    "date": "2023-06-21",
+    "title": "Research Computing With The Rust Programming Language Tickets, Mon, Jun 26, 2023 at 10:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/research-computing-with-the-rust-programming-language-tickets-637648623197?aff=ebdssbdestsearch"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "Rust Meetup in Paris - hosted by Stockly Tickets, Thu, Jun 8, 2023 at 7:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.fr/e/rust-meetup-in-paris-hosted-by-stockly-tickets-630742055467"
+  },
+  {
+    "date": "2023-06-07",
     "title": "A locking war story",
     "link": "https://sentry.engineering/blog/locking-war-story"
   },
   {
+    "date": "2023-05-31",
+    "title": "Космическа Конференция - Пловдив | Space Conference - Plovdiv Tickets, Sat, Jun 3, 2023 at 10:00 AM | Eventbrite",
+    "link": "https://space-conference-plovdiv.eventbrite.com"
+  },
+  {
+    "date": "2023-04-05",
+    "title": "Rust Live: Asynchronous Rust Tickets, Tue 11 Apr 2023 at 16:00 | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-live-asynchronous-rust-tickets-575865518267?aff=ebdssbonlinesearch&keep_tld=1"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "Flux: Ergonomic Verification of Rust Programs with Liquid Types Tickets, Mon, Mar 27, 2023 at 7:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/flux-ergonomic-verification-of-rust-programs-with-liquid-types-tickets-577742873487?aff=ebdssbonlinesearch"
+  },
+  {
+    "date": "2023-03-08",
+    "title": "Webinar online | Introduzione a Rust Biglietti, Mar, 14 mar 2023 alle 11:00 | Eventbrite",
+    "link": "https://www.eventbrite.com/e/biglietti-webinar-online-introduzione-a-rust-558594419947?aff=ebdssbonlinesearch&keep_tld=1"
+  },
+  {
+    "date": "2022-11-23",
+    "title": "MiniRust with Ralf Jung Tickets, Mon, Nov 28, 2022 at 7:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/minirust-with-ralf-jung-tickets-460741328717"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "Rust Meetup in Paris - hosted by Stockly Tickets, Wed, Nov 16, 2022 at 7:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.fr/e/rust-meetup-in-paris-hosted-by-stockly-tickets-444152621447?aff=ebdssbdestsearch"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "RustConf PostConf UnConf Registration, Sat, Aug 6, 2022 at 10:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rustconf-postconf-unconf-registration-373057423797"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "Rust Meetup in Paris - hosted by Stockly Tickets, Wed, Jul 6, 2022 at 7:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-meetup-in-paris-hosted-by-stockly-tickets-358592809747"
+  },
+  {
+    "date": "2022-06-15",
     "title": "Everything Is Broken: Shipping rust-minidump at Mozilla - Part 1 - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/"
   },
   {
+    "date": "2022-05-25",
+    "title": "Crash reporting in Rust",
+    "link": "https://jake-shadle.github.io/crash-reporting/"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "Rust Meetup in Paris - hosted by Stockly, Qovery &amp; Meilisearch Tickets, Wed, Apr 13, 2022 at 7:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-meetup-in-paris-hosted-by-stockly-qovery-meilisearch-tickets-277690869867"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "date": "2020-04-21",
     "title": "Better stack fixing for Firefox – Nicholas Nethercote",
     "link": "https://blog.mozilla.org/nnethercote/2020/04/15/better-stack-fixing-for-firefox/"
   },
   {
+    "date": "2019-08-06",
+    "title": "Rust meetup Tickets, Sat, Aug 10, 2019 at 10:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-meetup-tickets-65358532129"
+  },
+  {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
+  },
+  {
+    "date": "2018-10-16",
+    "title": "Vancouver Rust Hackathon  Tickets, Sat, 20 Oct 2018 at 9:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.ca/e/vancouver-rust-hackathon-tickets-50012680273"
+  },
+  {
+    "date": "2017-10-17",
+    "title": "Mergulhando em Rust — O futuro da programação de sistemas #4 Inscrição, Sab, 21/10/2017 às 13:00 | Eventbrite",
+    "link": "https://www.eventbrite.com.br/e/mergulhando-em-rust-o-futuro-da-programacao-de-sistemas-4-registration-38145874337"
+  },
+  {
+    "date": "2017-09-19",
+    "title": "Level up Your Knowledge on Rust Tickets, Sun, Sep 24, 2017 at 1:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/level-up-your-knowledge-on-rust-tickets-36755777520"
+  },
+  {
+    "date": "2017-06-06",
+    "title": "Rust Meetup Vienna Tickets, Wed, Jun 14, 2017 at 7:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-meetup-vienna-tickets-34958469724"
+  },
+  {
+    "date": "2017-05-09",
+    "title": "Introduction to Rust (Programming Language) Tickets, Sat, May 13, 2017 at 3:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/introduction-to-rust-programming-language-tickets-33749248912"
+  },
+  {
+    "date": "2017-03-14",
+    "title": "Get Rusty Tickets, Thu, 16 Mar 2017 at 7:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.ca/e/get-rusty-tickets-31407199780"
+  },
+  {
+    "date": "2016-11-01",
+    "title": "Introduction to Rust (Programming Language) Tickets, Tue, Nov 15, 2016 at 6:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/introduction-to-rust-programming-language-tickets-28577366673"
+  },
+  {
+    "date": "2016-10-25",
     "title": "Fixing Python Performance with Rust | Product Blog • Sentry",
     "link": "https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html"
+  },
+  {
+    "date": "2016-09-06",
+    "title": "Mozilla Rust Seattle Meetup Tickets, Mon, Aug 11, 2014 at 7:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/mozilla-rust-seattle-meetup-tickets-12222326307?aff=erelexporg"
+  },
+  {
+    "date": "2016-06-06",
+    "title": "Rust Belt Rust Conference Registration, Thu, Oct 27, 2016 at 8:30 AM | Eventbrite",
+    "link": "https://rust-belt-rust.eventbrite.com/"
+  },
+  {
+    "date": "2016-01-04",
+    "title": "Mozilla Rust Seattle Meetup Tickets, Mon, Aug 11, 2014 at 7:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/mozilla-rust-seattle-meetup-tickets-12222326307"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "Rust Meetup-Hyderabad Tickets, Sun, Jun 14, 2015 at 10:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-meetup-hyderabad-tickets-17213665537"
+  },
+  {
+    "date": "2015-05-18",
+    "title": "Rust 1.0 Release Party Tickets, Sat, May 23, 2015 at 2:00 PM | Eventbrite",
+    "link": "http://www.eventbrite.com/e/rust-10-release-party-tickets-16908882924"
+  },
+  {
+    "date": "2015-05-04",
+    "title": "Rust 1.0 Release Party Tickets, Fri, May 15, 2015 at 6:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-10-release-party-tickets-16790008367"
+  },
+  {
+    "date": "2015-05-04",
+    "title": "Rust 1.0 Celebration DC Tickets, Fri, May 15, 2015 at 7:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-10-celebration-dc-tickets-16715560692?ref=estw"
+  },
+  {
+    "date": "2015-05-04",
+    "title": "Rust 1.0 Meetup - Los Angeles Tickets, Fri, May 15, 2015 at 5:00 PM | Eventbrite",
+    "link": "http://www.eventbrite.com/e/rust-10-meetup-los-angeles-tickets-16776976388"
+  },
+  {
+    "date": "2015-05-04",
+    "title": "Copenhagen Rust launch party Tickets, Fri, May 15, 2015 at 6:00 PM | Eventbrite",
+    "link": "http://www.eventbrite.com/e/copenhagen-rust-launch-party-tickets-16663376608"
+  },
+  {
+    "date": "2015-01-12",
+    "title": "Rust meet-up in Beijing Tickets, Sat, Jan 17, 2015 at 2:00 PM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-meet-up-in-beijing-tickets-14905925023"
+  },
+  {
+    "date": "2014-02-09",
+    "title": "Eventbrite",
+    "link": "http://www.eventbrite.fr/e/billets-rust-paris-meetup-10528169037"
   }
 ]

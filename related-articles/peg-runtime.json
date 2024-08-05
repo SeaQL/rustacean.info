@@ -1,13 +1,16 @@
 [
   {
+    "date": "2020-08-04",
     "title": "Writing and publishing a Python module in Rust",
     "link": "https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust"
   },
   {
+    "date": "2020-05-05",
     "title": "Wesley Aptekar-Cassels | Notes on Parsing in Rust",
     "link": "https://blog.wesleyac.com/posts/rust-parsing"
   },
   {
+    "date": "2019-03-05",
     "title": "Building fast interpreters in Rust",
     "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
   }

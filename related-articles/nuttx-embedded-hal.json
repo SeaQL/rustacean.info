@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-03-23",
     "title": "Rust talks I2C on Apache NuttX RTOS",
     "link": "https://lupyuen.github.io/articles/rusti2c"
   },
   {
+    "date": "2022-01-19",
     "title": "Rust on Apache NuttX OS",
     "link": "https://lupyuen.github.io/articles/rust2"
   }

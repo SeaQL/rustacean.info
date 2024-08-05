@@ -1,45 +1,61 @@
 [
   {
+    "date": "2023-01-25",
+    "title": "14 Rust Tools for Linux Terminal Dwellers",
+    "link": "https://itsfoss.com/rust-cli-tools/"
+  },
+  {
+    "date": "2021-05-05",
     "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
   },
   {
+    "date": "2021-04-21",
     "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
   },
   {
+    "date": "2021-03-31",
     "title": "Testing an embedded application  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/test-embedded-app/"
   },
   {
+    "date": "2021-03-03",
     "title": "Testing a driver crate  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/test-driver-crate/"
   },
   {
+    "date": "2021-02-24",
     "title": "Testing a Hardware Abstraction Layer (HAL)  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/defmt-test-hal/"
   },
   {
+    "date": "2021-01-20",
     "title": "Rust is a hard way to make a web API - macwright.com",
     "link": "https://macwright.com/2021/01/15/rust.html"
   },
   {
+    "date": "2020-11-4-",
     "title": "One Hundred Rust Binaries - Wesley Moore",
     "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
   },
   {
+    "date": "2018-02-27",
     "title": "Oxidizing Fedora: Try Rust and its applications today - Fedora Magazine",
     "link": "https://fedoramagazine.org/oxidizing-fedora-try-rust-applications-today/"
   },
   {
+    "date": "2018-01-09",
     "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
     "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
   },
   {
+    "date": "2017-11-21",
     "title": "This Week in Redox 32 - Redox - Your Next(Gen) OS",
     "link": "https://www.redox-os.org/news/this-week-in-redox-32/"
   },
   {
+    "date": "2017-08-15",
     "title": "exa · a modern replacement for ls",
     "link": "https://the.exa.website"
   }

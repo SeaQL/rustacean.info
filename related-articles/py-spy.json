@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-06-19",
     "title": "Parsing Python ASTs 20x Faster with Rust",
     "link": "https://www.gauge.sh/blog/parsing-python-asts-20x-faster-with-rust"
   },
   {
+    "date": "2023-04-05",
     "title": "Making Python 100x faster with less than 100 lines of Rust",
     "link": "https://ohadravid.github.io/posts/2023-03-rusty-python/"
   },
   {
+    "date": "2022-02-09",
     "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
     "link": "https://tinkering.xyz/fmo-optimization-story/"
   }

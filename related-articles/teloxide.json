@@ -1,17 +1,26 @@
 [
   {
+    "date": "2024-01-17",
     "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
     "link": "https://nullderef.com/blog/rust-async-sync/"
   },
   {
+    "date": "2022-06-08",
     "title": "Rust Is Hard, Or: The Misery of Mainstream Programming",
     "link": "https://hirrolot.github.io/posts/rust-is-hard-or-the-misery-of-mainstream-programming.html"
   },
   {
+    "date": "2022-01-26",
     "title": "Why Static Languages Suffer From Complexity",
     "link": "https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity"
   },
   {
+    "date": "2021-10-13",
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "date": "2021-04-28",
     "title": "Introduction to gRPC in Rust · Roman Kudryashov's tech blog",
     "link": "https://romankudryashov.com/blog/2021/04/grpc-rust/"
   }

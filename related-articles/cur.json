@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - Cursive | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-cursive/"
+  },
+  {
+    "date": "2016-07-12",
+    "title": "Rust and Rest | Armin Ronacher's Thoughts and Writings",
+    "link": "http://lucumr.pocoo.org/2016/7/10/rust-rest/"
+  },
+  {
+    "date": "2015-09-28",
+    "title": "Get Data From A URL In Rust",
+    "link": "http://hermanradtke.com/2015/09/21/get-data-from-a-url-rust.html"
+  }
+]

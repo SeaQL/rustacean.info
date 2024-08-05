@@ -1,17 +1,31 @@
 [
   {
+    "date": "2024-01-31",
     "title": "Memory Leak Diagnosing using Flame Graphs | Greptime",
     "link": "https://www.greptime.com/blogs/2024-01-18-memory-leak"
   },
   {
+    "date": "2023-03-01",
     "title": "(Possibly) Emulate PinePhone with Unicorn Emulator",
     "link": "https://lupyuen.github.io/articles/unicorn"
   },
   {
+    "date": "2023-02-01",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/82/crash-and-now-what"
+  },
+  {
+    "date": "2022-08-17",
     "title": "Integrating fault injection in development workflows | Ledger",
     "link": "https://blog.ledger.com/fault-injection-simulation/"
   },
   {
+    "date": "2020-04-21",
+    "title": "Better stack fixing for Firefox – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2020/04/15/better-stack-fixing-for-firefox/"
+  },
+  {
+    "date": "2017-02-28",
     "title": "Demangling C++ Symbols",
     "link": "http://fitzgeraldnick.com/2017/02/22/cpp-demangle.html"
   }

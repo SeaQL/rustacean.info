@@ -1,5 +1,6 @@
 [
   {
+    "date": "2024-04-03",
     "title": "Building a Managed Postgres Service in Rust: Part 1 | Tembo",
     "link": "https://tembo.io/blog/managed-postgres-rust"
   }

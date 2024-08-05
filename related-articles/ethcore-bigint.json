@@ -1,54 +1,67 @@
 [
   {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://grnh.se/24949fb13us"
+    "date": "2021-10-06",
+    "title": "RiB Newsletter #28 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-28/"
   },
   {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://grnh.se/1cf2de503us"
+    "date": "2021-06-02",
+    "title": "Careers | Parity Technologies",
+    "link": "https://parity.io/jobs"
   },
   {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://grnh.se/06ef2e673us"
+    "date": "2020-09-02",
+    "title": "RiB Newsletter #15 – Turbofish in the Blocksea - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-09-02-turbofish-in-the-blocksea/"
   },
   {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://boards.greenhouse.io/parity/jobs/4794657003"
-  },
-  {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://grnh.se/dddd76283us"
-  },
-  {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://grnh.se/a5a5c0a33us"
-  },
-  {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://grnh.se/cb272e3b3us"
-  },
-  {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://grnh.se/b61620583us"
-  },
-  {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://grnh.se/2dd887b13us"
-  },
-  {
-    "title": "Jobs at Parity Technologies",
-    "link": "https://grnh.se/9aec49883us"
-  },
-  {
+    "date": "2020-09-02",
     "title": "2020[..6] Financial Report",
     "link": "https://rust-analyzer.github.io/blog/2020/08/20/financial-report.html"
   },
   {
-    "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
-    "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
+    "date": "2020-08-11",
+    "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"
   },
   {
+    "date": "2020-05-05",
+    "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
+    "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "RiB Newsletter #10 – Keep Calm and Hack More - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-04-01-keep-calm-and-hack-more/"
+  },
+  {
+    "date": "2018-10-23",
+    "title": "Multithreading Rust and Wasm | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html"
+  },
+  {
+    "date": "2018-05-15",
     "title": "How a Rust upgrade more than tripled the speed of my code",
     "link": "http://troubles.md/posts/the-power-of-compilers/"
+  },
+  {
+    "date": "2017-09-26",
+    "title": "RustFest.EU",
+    "link": "http://zurich.rustfest.eu"
+  },
+  {
+    "date": "2017-08-22",
+    "title": "Building a mobile app in Rust and React Native, Part 2: Hello world! | by Marek Kotewicz | Medium",
+    "link": "https://medium.com/@marekkotewicz/building-a-mobile-app-in-rust-and-react-native-part-2-hello-world-60970a7d194a"
+  },
+  {
+    "date": "2017-08-08",
+    "title": "Building a mobile app in Rust and React Native, Part 1: Project Setup | by Marek Kotewicz | Medium",
+    "link": "https://medium.com/@marekkotewicz/building-a-mobile-app-in-rust-and-react-native-part-1-project-setup-b8dbcf3f539f"
+  },
+  {
+    "date": "2017-05-16",
+    "title": "Home | Parity Technologies",
+    "link": "https://parity.io/#rust-dev-job"
   }
 ]

@@ -1,13 +1,21 @@
 [
   {
+    "date": "2023-12-20",
+    "title": "The rabbit hole of unsafe Rust bugs – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/cautionary-unsafe-tale/"
+  },
+  {
+    "date": "2017-05-16",
     "title": "An Atomic Hash Table ·",
     "link": "https://ticki.github.io/blog/an-atomic-hash-table/"
   },
   {
+    "date": "2017-01-03",
     "title": "This Year in Redox - Redox - Your Next(Gen) OS",
     "link": "http://www.redox-os.org/news/this-year-in-redox-18/"
   },
   {
+    "date": "2016-10-25",
     "title": "This Summer in Redox - Redox - Your Next(Gen) OS",
     "link": "https://www.redox-os.org/news/this-summer-in-redox-15/"
   }

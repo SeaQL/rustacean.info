@@ -1,21 +1,36 @@
 [
   {
+    "date": "2024-07-10",
+    "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
+    "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"
+  },
+  {
+    "date": "2021-07-14",
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "date": "2021-05-05",
     "title": "Making Generative Art with Rust - by Josh Kuhn",
     "link": "https://blog.abor.dev/p/making-generative-art-with-rust"
   },
   {
+    "date": "2020-04-21",
     "title": "wgpu-rs on the web - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2020/04/21/wgpu-web.html"
   },
   {
+    "date": "2020-03-10",
     "title": "Nannou Update - WebGPU, capturing frames and more! | Nannou",
     "link": "https://nannou.cc/posts/nannou_v0.13"
   },
   {
+    "date": "2019-10-29",
     "title": "Nannou awarded Mozilla grant for foundational audio development | Nannou",
     "link": "https://nannou.cc/posts/moss_grant_announce"
   },
   {
+    "date": "2019-06-11",
     "title": "Nannou Update - Vulkan, LASERs and more! | Nannou",
     "link": "https://nannou.cc/posts/nannou_v0.9"
   }

@@ -1,9 +1,11 @@
 [
   {
+    "date": "2019-09-17",
     "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
     "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
   },
   {
+    "date": "2018-10-23",
     "title": "static_assertions - Rust",
     "link": "https://docs.rs/static_assertions"
   }

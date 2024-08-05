@@ -1,29 +1,51 @@
 [
   {
+    "date": "2023-05-03",
+    "title": "The case for stabilizing arbitrary_self_types | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/the-case-for-stabilizing-arbitrary-self-types-b07bab22bb45"
+  },
+  {
+    "date": "2023-03-15",
     "title": "Why Turborepo is migrating from Go to Rust – Vercel",
     "link": "https://vercel.com/blog/turborepo-migration-go-rust"
   },
   {
+    "date": "2023-02-01",
     "title": "One step forward, an easier interoperability between Rust and Haskell | IOG Engineering",
     "link": "https://engineering.iog.io/2023-01-26-hs-bindgen-introduction/"
   },
   {
+    "date": "2021-06-09",
+    "title": "Google Online Security Blog: Rust/C++ interop in the Android Platform",
+    "link": "https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html"
+  },
+  {
+    "date": "2021-05-12",
     "title": "Google Online Security Blog: Integrating Rust Into the Android Open Source Project",
     "link": "https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html"
   },
   {
+    "date": "2021-02-24",
     "title": "Integrating Rust and C++ in Firefox - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/"
   },
   {
+    "date": "2020-12-9-",
     "title": "Safe Interoperability between Rust and C++ with CXX - InfoQ",
     "link": "https://www.infoq.com/news/2020/12/cpp-rust-interop-cxx/"
   },
   {
+    "date": "2020-09-23",
     "title": "Why Not Rust?",
     "link": "https://matklad.github.io//2020/09/20/why-not-rust.html"
   },
   {
+    "date": "2020-08-25",
+    "title": "The problem of safe FFI bindings in Rust - Abubalay",
+    "link": "https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust"
+  },
+  {
+    "date": "2020-08-25",
     "title": "The CXX Debate",
     "link": "https://steveklabnik.com/writing/the-cxx-debate"
   }

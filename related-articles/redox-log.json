@@ -1,26 +1,147 @@
 [
   {
+    "date": "2024-05-08",
+    "title": "This Month in Rust OSDev: April 2024 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2024-04/"
+  },
+  {
+    "date": "2024-04-24",
+    "title": "This Month in Rust OSDev: March 2024 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2024-03/"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "This Month in Rust OSDev: February 2024 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2024-02/"
+  },
+  {
+    "date": "2024-02-14",
+    "title": "This Month in Rust OSDev: January 2024 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2024-01/"
+  },
+  {
+    "date": "2023-10-18",
+    "title": "This Month in Rust OSDev: September 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-09/"
+  },
+  {
+    "date": "2023-09-13",
+    "title": "This Month in Rust OSDev: August 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-08/"
+  },
+  {
+    "date": "2020-07-21",
+    "title": "RSoC: improving drivers and kernel - part 3 (largely io_uring) - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/io_uring-3/"
+  },
+  {
+    "date": "2019-03-19",
     "title": "https://fosdem.org/2019/schedule/event/microkernel_written_in_rust/attachments/slides/3258/export/events/attachments/microkernel_written_in_rust/slides/3258/FOSDEM_2019___A_microkernel_written_in_Rust.pdf",
     "link": "https://fosdem.org/2019/schedule/event/microkernel_written_in_rust/attachments/slides/3258/export/events/attachments/microkernel_written_in_rust/slides/3258/FOSDEM_2019___A_microkernel_written_in_Rust.pdf"
   },
   {
-    "title": "A Rust-based Unikernel - HermitCore",
-    "link": "https://hermitcore.org/2018/06/06/A-Rust-based-Unikernel/"
+    "date": "2018-01-02",
+    "title": "This Week in Redox 34 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-34/"
   },
   {
-    "title": "Building graphical applications to js in stable Rust by Greg Katz",
-    "link": "https://gregkatz.github.io/2017-05-20-rust-emscripten.html"
+    "date": "2017-12-19",
+    "title": "This Week in Redox 33 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-33/"
   },
   {
+    "date": "2017-09-26",
+    "title": "This Week in Redox 29 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-29/"
+  },
+  {
+    "date": "2017-08-29",
+    "title": "GSoC Project: Making Redox Self-hosting, Final Summary - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-final/"
+  },
+  {
+    "date": "2017-08-22",
+    "title": "GSoC Project: Making Redox Self-hosting, Status Report 4 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-4/"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "This Week in Redox 28 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-28/"
+  },
+  {
+    "date": "2017-08-01",
+    "title": "This Week in Redox 27 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-27/"
+  },
+  {
+    "date": "2017-07-25",
+    "title": "This Week in Redox 26 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-26/"
+  },
+  {
+    "date": "2017-07-25",
+    "title": "GSoC Project: Making Redox Self-hosting, Status Report 3 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-3/"
+  },
+  {
+    "date": "2017-07-18",
+    "title": "This Week in Redox 25 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-25/"
+  },
+  {
+    "date": "2017-07-11",
+    "title": "This Week in Redox 24 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-24/"
+  },
+  {
+    "date": "2017-07-11",
+    "title": "GSoC Project: Making Redox Self-hosting, Status Report 2 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-2/"
+  },
+  {
+    "date": "2017-07-11",
+    "title": "A collection of notable Rust blog posts · GitHub",
+    "link": "https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e"
+  },
+  {
+    "date": "2017-06-27",
+    "title": "This Week in Redox 23 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-23/"
+  },
+  {
+    "date": "2017-06-27",
+    "title": "GSoC Project: Making Redox Self-hosting, Status Report 1 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-1/"
+  },
+  {
+    "date": "2017-06-06",
+    "title": "This Week in Redox 20 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/this-week-in-redox-20/"
+  },
+  {
+    "date": "2017-02-28",
+    "title": "Visual Refresh - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/visual-refresh-19/"
+  },
+  {
+    "date": "2017-01-17",
     "title": "Rust and the limits of swarm design – Armed and Dangerous",
     "link": "http://esr.ibiblio.org/?p=7303"
   },
   {
-    "title": "The Internet on Redox - Redox - Your Next(Gen) OS",
-    "link": "https://www.redox-os.org/news/the-internet-on-redox/"
+    "date": "2017-01-10",
+    "title": "fireflowers - The Rust Programming Language, in the words of its practitioners",
+    "link": "https://brson.github.io/fireflowers/"
   },
   {
-    "title": "This Week in Redox 12 - Redox - Your Next(Gen) OS",
-    "link": "http://www.redox-os.org/news/this-week-in-redox-12/"
+    "date": "2017-01-03",
+    "title": "404 Not Found",
+    "link": "https://redox-os.org/news/rust-is-softwares-salvation-17/"
+  },
+  {
+    "date": "2017-01-03",
+    "title": "This Year in Redox - Redox - Your Next(Gen) OS",
+    "link": "http://www.redox-os.org/news/this-year-in-redox-18/"
   }
 ]

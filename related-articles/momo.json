@@ -1,9 +1,11 @@
 [
   {
+    "date": "2019-10-29",
     "title": "Making Good On Momo's Compile-Time Promise — Llogiq on stuff",
     "link": "https://llogiq.github.io/2019/10/28/momo-fast.html"
   },
   {
+    "date": "2019-05-21",
     "title": "Momo · Get Back Some Compile Time From Monomorphization — Llogiq on stuff",
     "link": "https://llogiq.github.io/2019/05/18/momo.html"
   }

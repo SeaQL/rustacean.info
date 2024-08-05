@@ -1,29 +1,51 @@
 [
   {
+    "date": "2024-05-01",
+    "title": "Rust binaries&nbsp;stability - Mirek Długosz personal website",
+    "link": "https://mirekdlugosz.com/blog/2024/rust-binaries-stability/"
+  },
+  {
+    "date": "2023-09-06",
     "title": "Use just to manage project specific commands | developerlife.com",
     "link": "https://developerlife.com/2023/08/28/justfile/"
   },
   {
+    "date": "2023-01-18",
     "title": "Rails developers write some Rust: a review of Axum 0.6",
     "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
   },
   {
+    "date": "2022-12-21",
     "title": "Faster CI builds for Rust with pre-baked builder images and sccache",
     "link": "https://vadosware.io/post/faster-ci-builds-for-rust-with-builder-images-and-sccache/"
   },
   {
+    "date": "2022-11-23",
     "title": "Rust, Lambda, and DynamoDB. Implementation of an AWS Lambda… | by Michael Hentges | Better Programming",
     "link": "https://betterprogramming.pub/rust-lambda-and-dynamodb-bea841d47cca"
   },
   {
+    "date": "2021-10-27",
     "title": "My ideal Rust workflow",
     "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
   },
   {
+    "date": "2020-07-21",
+    "title": "This Week in Rust - Issue 348 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/023-twir-348/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Just: How I Organize Large Rust Programs – Casey Rodarmor's Blog",
+    "link": "https://rodarmor.com/blog/tour-de-just"
+  },
+  {
+    "date": "2018-02-06",
     "title": "Make your own make",
     "link": "https://matklad.github.io/2018/01/03/make-your-own-make.html"
   },
   {
+    "date": "2016-12-13",
     "title": "Rst Server",
     "link": "https://vitiral.github.io/2016/11/30/rst-server.html"
   }

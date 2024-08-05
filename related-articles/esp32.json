@@ -1,22 +1,97 @@
 [
   {
+    "date": "2024-04-03",
+    "title": "Embedded Rust Bluetooth on ESP: BLE Client",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-client"
+  },
+  {
+    "date": "2024-03-27",
+    "title": "Embedded Rust Bluetooth on ESP: BLE Server",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-server"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "The Embedded Rustacean Issue #15",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "Embedded Rust Bluetooth on ESP: BLE Advertiser",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-advertiser"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Embedded Rust Bluetooth on ESP: BLE Scanner",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-scanner"
+  },
+  {
+    "date": "2024-01-17",
+    "title": "Embassy on ESP: UART Echo",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-uart-echo"
+  },
+  {
+    "date": "2023-12-06",
+    "title": "Embassy on ESP: GPIO",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-gpio"
+  },
+  {
+    "date": "2023-10-11",
     "title": "esp-rs Quarterly Planning: Q4 2023 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q4-2023/"
   },
   {
+    "date": "2023-09-20",
     "title": "The Embedded Rust ESP Development Ecosystem",
     "link": "https://apollolabsblog.hashnode.dev/the-embedded-rust-esp-development-ecosystem"
   },
   {
+    "date": "2023-07-12",
     "title": "esp-rs Quarterly Planning: Q3 2023 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q3-2023/"
   },
   {
+    "date": "2023-06-28",
+    "title": "ESP32 Embedded Rust at the HAL: Remote Control Peripheral",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-remote-control-peripheral"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "ESP32 Embedded Rust at the HAL: GPIO Interrupts",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-interrupts?ref=twitter-share"
+  },
+  {
+    "date": "2023-05-24",
+    "title": "ESP32 Embedded Rust at the HAL: Timer Ultrasonic Distance Measurement",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-timer-ultrasonic-distance-measurement"
+  },
+  {
+    "date": "2023-05-10",
+    "title": "ESP32 Embedded Rust at the HAL: UART Serial Communication",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-uart-serial-communication?ref=twitter-share"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "ESP32 Embedded Rust at the HAL: Button-Controlled Blinking by Timer Polling",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-button-controlled-blinking-by-timer-polling"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "ESP32 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-button-controlled-blinking?ref=twitter-share"
+  },
+  {
+    "date": "2022-07-13",
     "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
     "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
   },
   {
+    "date": "2022-04-06",
     "title": "Rust on Espressif chips - 04-04-2022",
     "link": "https://mabez.dev/blog/posts/esp-rust-04-04-2022/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Rust on the ESP32 - SVD's, PAC's and USB flashing",
+    "link": "https://mabez.dev/blog/posts/esp32-rust-svd-pac/"
   }
 ]

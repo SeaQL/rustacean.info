@@ -1,42 +1,152 @@
 [
   {
+    "date": "2024-06-05",
+    "title": "layoutparser_ort - Rust",
+    "link": "https://docs.rs/layoutparser-ort"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "avatar.png",
+    "link": "https://tuckersiemens.com/posts/avatar-png/"
+  },
+  {
+    "date": "2023-07-26",
+    "title": "A gentle introduction to IMAP",
+    "link": "https://duesee.dev/p/a-gentle-introduction-to-imap/"
+  },
+  {
+    "date": "2023-03-08",
     "title": "Trait transformers (send bounds, part 3) · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2023/03/03/trait-transformers-send-bounds-part-3/"
   },
   {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "Pathfinding in Rust: A tutorial with examples - LogRocket Blog",
+    "link": "https://blog.logrocket.com/pathfinding-rust-tutorial-examples/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "The entrait pattern - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/entrait-pattern/"
+  },
+  {
+    "date": "2022-06-01",
+    "title": "Impl-tools: beyond derive - KAS blog",
+    "link": "https://kas-gui.github.io/blog/impl-tools.html"
+  },
+  {
+    "date": "2022-03-23",
     "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
     "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
   },
   {
+    "date": "2022-01-26",
+    "title": "Type-Driven Development",
+    "link": "https://duesee.dev/p/type-driven-development/"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "New year, new release! – gtk-rs",
+    "link": "https://gtk-rs.org/blog/2022/01/16/new-release.html"
+  },
+  {
+    "date": "2022-01-12",
     "title": "Crate of the Week second chance list – Brian Kung",
     "link": "https://briankung.dev/2022/01/07/crate-of-the-week-second-chance-list/"
   },
   {
+    "date": "2022-01-05",
+    "title": "Rust is more portable than C for pngquant/libimagequant",
+    "link": "https://pngquant.org/rust.html"
+  },
+  {
+    "date": "2021-11-24",
+    "title": "http://cmoran.xyz/writing/adventures_in_photogrammetry",
+    "link": "http://cmoran.xyz/writing/adventures_in_photogrammetry"
+  },
+  {
+    "date": "2021-08-10",
     "title": "Rust in Production: Qovery",
     "link": "https://serokell.io/blog/rust-in-production-qovery"
   },
   {
+    "date": "2021-04-14",
     "title": "Rust in Production: MeiliSearch",
     "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
+    "date": "2021-02-17",
+    "title": "Smerity.com: Zero dependency images (of chaos) in Rust",
+    "link": "https://state.smerity.com/smerity/state/01EYB6YQ5T2KFSC1PF55A3B8DG"
+  },
+  {
+    "date": "2021-02-03",
     "title": "Is Rust a Functional Programming Language? | Robert Krahn",
     "link": "https://robert.kra.hn/posts/2021-02-03_is-rust-fp/"
   },
   {
+    "date": "2020-09-30",
     "title": "Revisiting a 'smaller Rust'",
     "link": "https://without.boats/blog/revisiting-a-smaller-rust/"
   },
   {
+    "date": "2020-08-25",
+    "title": "First thoughts on Rust vs OCaml",
+    "link": "https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Building a Rust Web Browser",
+    "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
+  },
+  {
+    "date": "2019-08-06",
+    "title": "Rust reverses research ruin. 31–07–2019 | by Benjamin Blundell | Medium",
+    "link": "https://medium.com/@me_26124/rust-reverses-research-ruin-88641c11a99f"
+  },
+  {
+    "date": "2019-05-21",
+    "title": "Rust In Avast | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/05/19/rust-in-avast.html"
+  },
+  {
+    "date": "2018-11-13",
+    "title": "Running Rust natively in AWS Lambda and testing it locally | by Bernardo Belchior | Medium",
+    "link": "https://medium.com/@bernardo.belchior1/running-rust-natively-in-aws-lambda-and-testing-it-locally-57080421426d"
+  },
+  {
+    "date": "2018-06-26",
     "title": "Arc More Atomic | Vorner’s random stuff",
     "link": "https://vorner.github.io/2018/06/24/arc-more-atomic.html"
   },
   {
+    "date": "2018-06-05",
     "title": "im - Rust",
     "link": "https://docs.rs/im"
   },
   {
+    "date": "2018-04-17",
     "title": "Rust pattern: Rooting an Rc handle · baby steps",
     "link": "http://smallcultfollowing.com/babysteps/blog/2018/04/16/rust-pattern-rooting-an-rc-handle/"
+  },
+  {
+    "date": "2017-04-04",
+    "title": "Writing a Raytracer in Rust - Part 1 - First Rays | bheisler.github.io",
+    "link": "https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/"
+  },
+  {
+    "date": "2017-01-10",
+    "title": "The image library is now pure Rust · Piston",
+    "link": "http://blog.piston.rs/2017/01/08/the-image-library-is-now-pure-rust/"
+  },
+  {
+    "date": "2014-12-15",
+    "title": "24 days of Rust - image | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-image/"
   }
 ]

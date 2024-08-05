@@ -1,6 +1,22 @@
 [
   {
+    "date": "2023-03-15",
     "title": "Writing a Kubernetes Operator MetalBear 🐻 - Tools for Backend Engineers",
     "link": "https://metalbear.co/blog/writing-a-kubernetes-operator/"
+  },
+  {
+    "date": "2021-07-14",
+    "title": "A Rust controller for Kubernetes",
+    "link": "https://blog.frankel.ch/start-rust/6/"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Evolution of kube | probes",
+    "link": "https://clux.github.io/probes/post/2021-02-28-kube-evolution/"
+  },
+  {
+    "date": "2020-04-14",
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/kubernetes-a-rusty-friendship/"
   }
 ]

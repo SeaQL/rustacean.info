@@ -1,17 +1,26 @@
 [
   {
+    "date": "2023-12-27",
     "title": "The dark side of inlining and monomorphization",
     "link": "https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/"
   },
   {
+    "date": "2022-08-17",
     "title": "Exploring Traits with Erased 'serde' :: The Coded Message",
     "link": "https://www.thecodedmessage.com/posts/erased-serde/"
   },
   {
+    "date": "2022-05-11",
+    "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+  },
+  {
+    "date": "2021-05-26",
     "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-valuable"
   },
   {
+    "date": "2021-02-03",
     "title": "3 Things to Try When You Can't Make a Trait Object - Possible Rust",
     "link": "https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object"
   }

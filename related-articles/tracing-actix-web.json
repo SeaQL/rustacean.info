@@ -1,6 +1,12 @@
 [
   {
+    "date": "2024-02-07",
     "title": "Rust web frameworks have subpar error reporting | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/rust-web-frameworks-have-subpar-error-reporting/"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "Flexible Tracing with Rust and OpenTelemetry OTLP",
+    "link": "https://broch.tech/posts/rust-tracing-opentelemetry/"
   }
 ]

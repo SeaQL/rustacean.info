@@ -1,65 +1,121 @@
 [
   {
+    "date": "2023-12-13",
     "title": "Writing a CLI Tool in Rust with Clap",
     "link": "https://www.shuttle.rs/blog/2023/12/08/clap-rust"
   },
   {
+    "date": "2023-06-21",
     "title": "How we built the Grafbase local development experience in Rust",
     "link": "https://grafbase.com/blog/how-we-built-the-grafbase-cli-in-rust"
   },
   {
+    "date": "2023-03-29",
+    "title": "clap v4.2, a Rust CLI argument parser",
+    "link": "https://epage.github.io/blog/2023/03/clap-v4-2/"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "Rust language exercises for programmers",
+    "link": "https://www.hyperexponential.com/blog/rust-language-exercises-at-hx"
+  },
+  {
+    "date": "2023-02-01",
     "title": "How to Build gRPC APIs with Rust  | Kong Inc.",
     "link": "https://konghq.com/blog/building-grpc-apis-with-rust"
   },
   {
+    "date": "2023-01-18",
+    "title": "clap v4.1, a Rust CLI argument parser",
+    "link": "https://epage.github.io/blog/2023/01/clap-v4-1/"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "cargo-semver-checks today and in 2023",
+    "link": "https://predr.ag/blog/cargo-semver-checks-today-and-in-2023/"
+  },
+  {
+    "date": "2022-09-21",
+    "title": "clap 4.0, a Rust CLI argument parser",
+    "link": "https://epage.github.io/blog/2022/09/clap4/"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Toward fearless cargo update",
+    "link": "https://predr.ag/blog/toward-fearless-cargo-update/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Clap 3.2: Last Call Before 4.0",
+    "link": "https://epage.github.io/blog/2022/06/clap-32-last-call-before-40/"
+  },
+  {
+    "date": "2022-04-27",
     "title": "clap with Ed Page :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/065-ed-page/"
   },
   {
+    "date": "2022-04-20",
     "title": "Using Clap in Rust for command line (CLI) argument parsing - LogRocket Blog",
     "link": "https://blog.logrocket.com/command-line-argument-parsing-rust-using-clap/"
   },
   {
+    "date": "2022-02-23",
+    "title": "clap 3.1: A step towards 4.0",
+    "link": "https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/"
+  },
+  {
+    "date": "2021-06-02",
     "title": "Taking Rust for a Test Drive  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/rust-test-drive/"
   },
   {
+    "date": "2021-05-26",
     "title": "Sibi - Rucredstash release &amp; Rust experience from a Haskeller",
     "link": "https://psibi.in/posts/2021-05-22-credstash.html"
   },
   {
+    "date": "2021-04-21",
     "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
   },
   {
+    "date": "2020-09-23",
     "title": "Writing a Modern HTTP(S) Tunnel in Rust. | by Eugene Retunsky | Medium",
     "link": "https://medium.com/@xnuter/writing-a-modern-http-s-tunnel-in-rust-56e70d898700"
   },
   {
+    "date": "2020-06-23",
     "title": "Kevin K's Blog - Diving into Rust with a CLI",
     "link": "https://kbknapp.dev/rust-cli/"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2020-05-27",
     "title": "Just: How I Organize Large Rust Programs – Casey Rodarmor's Blog",
     "link": "https://rodarmor.com/blog/tour-de-just"
   },
   {
+    "date": "2019-07-02",
     "title": "One Program Written in Python, Go, and Rust – Nicolas Hahn",
     "link": "http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/"
   },
   {
+    "date": "2019-04-02",
     "title": "Face Detection with Tensorflow Rust",
     "link": "https://cetra3.github.io/blog/face-detection-with-tensorflow-rust/"
   },
   {
+    "date": "2018-01-16",
     "title": "clap - Rust",
     "link": "https://clap.rs/2018/01/09/new-years-weight-loss/"
   }

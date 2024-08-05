@@ -1,14 +1,22 @@
 [
   {
+    "date": "2023-01-18",
     "title": "Youmu | Finding Nice MD5s Using Rust",
     "link": "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
   },
   {
+    "date": "2022-01-05",
     "title": "The year 2021 in Dimforge and our objectives for 2022 | Dimforge",
     "link": "https://dimforge.com/blog/2022/01/02/the-year-2021-in-dimforge/"
   },
   {
+    "date": "2021-12-15",
     "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "date": "2016-12-13",
+    "title": "24 days of Rust - derive_builder | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-derive_builder/"
   }
 ]

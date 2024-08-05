@@ -1,0 +1,132 @@
+[
+  {
+    "date": "2024-04-10",
+    "title": "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance | Greptime",
+    "link": "https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Nine Rules for Accessing Cloud Files from Your Rust Code | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-accessing-cloud-files-from-your-rust-code-d456c1e2ceb4"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "Some recent and notable changes to Rust [LWN.net]",
+    "link": "https://lwn.net/Articles/954033/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Iggy.rs - building message streaming in Rust",
+    "link": "https://blog.iggy.rs/posts/building-message-streaming-in-rust/"
+  },
+  {
+    "date": "2023-09-13",
+    "title": "I Wrote A String Type · mcyoung",
+    "link": "https://mcyoung.xyz/2023/08/09/yarns/"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "3308-offset_of - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3308-offset_of.html"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Parsing TFTP in Rust",
+    "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "Using the Kani Rust Verifier on Tokio Bytes | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2022/08/17/using-the-kani-rust-verifier-on-tokio-bytes.html"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
+    "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "An In-Depth Introduction To Idempotency | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/idempotency/"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "How Linkerd retries HTTP requests with bodies | Linkerd",
+    "link": "https://linkerd.io/2021/10/26/how-linkerd-retries-http-requests-with-bodies/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "The nightly elephant in the room | Synth",
+    "link": "https://www.getsynth.com/docs/blog/2021/10/11/nightly"
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Combining Axum, Hyper, Tonic, and Tower for hybrid web/gRPC apps: Part 3",
+    "link": "https://www.fpcomplete.com/blog/axum-hyper-tonic-tower-part3"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Saving Some Allocations | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/01/31/saving-some-allocations.html"
+  },
+  {
+    "date": "2020-11-11",
+    "title": "40 Ms Bug | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/11/06/40-ms-bug.html"
+  },
+  {
+    "date": "2020-11-11",
+    "title": "gpg",
+    "link": "https://andrewhalle.github.io/build-your-own/gpg"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Small strings in Rust",
+    "link": "https://fasterthanli.me/articles/small-strings-in-rust"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "How to organize your Rust tests - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "date": "2019-04-16",
+    "title": "Face Detection with Actix Web",
+    "link": "https://cetra3.github.io/blog/face-detection-with-actix-web/"
+  },
+  {
+    "date": "2018-09-11",
+    "title": "Tower Web — Expanding the middleware stack | by Carl Lerche | Medium",
+    "link": "https://medium.com/@carllerche/tower-web-expanding-the-middleware-stack-f9bf55bfa109"
+  },
+  {
+    "date": "2016-10-18",
+    "title": "How Rust Do?",
+    "link": "http://blog.jfo.click/how-rust-do/"
+  },
+  {
+    "date": "2016-09-06",
+    "title": "Porting a Raspberry Pi GPIO programming library from Python to Rust",
+    "link": "http://pramode.in/2016/08/31/rust-library-for-rpi-gpio-pgming/"
+  },
+  {
+    "date": "2015-07-27",
+    "title": "Creating A Multi-echo Server using Rust and mio",
+    "link": "http://hermanradtke.com/2015/07/22/creating-a-multi-echo-server-using-rust-and-mio.html"
+  },
+  {
+    "date": "2015-05-18",
+    "title": "Will Usher",
+    "link": "http://www.willusher.io/2015/05/15/porting-a-ray-tracer-to-rust-part-3/"
+  }
+]

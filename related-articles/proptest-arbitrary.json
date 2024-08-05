@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-07-12",
+    "title": "bridging fuzzing and property testing",
+    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  }
+]

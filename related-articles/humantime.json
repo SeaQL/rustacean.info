@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-10-26",
     "title": "humantime — Rust date/time library // Lib.rs",
     "link": "https://lib.rs/crates/humantime"
   },
   {
+    "date": "2018-06-26",
     "title": "What I Learned: Porting Dateutil Parser to Rust",
     "link": "https://speice.io/2018/06/dateutil-parser-to-rust.html"
   }

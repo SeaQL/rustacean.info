@@ -1,9 +1,36 @@
 [
   {
+    "date": "2024-06-26",
+    "title": "tokio waker instrumentation - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/tokio-waker-instrumentation/"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "debugging tokio instrumentation - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/debugging-tokio-instrumentation/"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "how I finally understood async/await in Rust (part 2) - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/understanding-async-await-2/"
+  },
+  {
+    "date": "2023-05-17",
+    "title": "task scheduled time in console - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/task-scheduled-time-in-console/"
+  },
+  {
+    "date": "2023-01-11",
+    "title": "Oh the Crates You'll Go! A 2022 Retrospective",
+    "link": "https://jack.wrenn.fyi/blog/2022-retrospective/"
+  },
+  {
+    "date": "2022-03-09",
     "title": "Request coalescing in async Rust",
     "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
   },
   {
+    "date": "2021-12-22",
     "title": "Announcing Tokio Console 0.1 | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-12-announcing-tokio-console"
   }

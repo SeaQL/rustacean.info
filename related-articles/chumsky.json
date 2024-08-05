@@ -1,10 +1,27 @@
 [
   {
+    "date": "2023-09-27",
     "title": "Cross-compiling Rust on Github Actions",
     "link": "https://blog.timhutt.co.uk/cross-compiling-rust/"
   },
   {
+    "date": "2023-02-22",
     "title": "winnow = toml_edit + combine + nom",
     "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part02"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Building a Simple DB in Rust - Part 1 - Parsing | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part01"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Many modes: a GATs pattern · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/06/27/many-modes-a-gats-pattern/"
   }
 ]

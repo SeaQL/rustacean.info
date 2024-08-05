@@ -1,113 +1,196 @@
 [
   {
+    "date": "2024-05-01",
+    "title": "Rust binaries&nbsp;stability - Mirek Długosz personal website",
+    "link": "https://mirekdlugosz.com/blog/2024/rust-binaries-stability/"
+  },
+  {
+    "date": "2024-03-20",
     "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
   },
   {
+    "date": "2024-01-03",
     "title": "Open Source Applications written in Rust",
     "link": "https://rust.code-maven.com/applications"
   },
   {
+    "date": "2023-11-01",
+    "title": "Fully Automated Releases for Rust Projects - Orhun's Blog",
+    "link": "https://blog.orhun.dev/automated-rust-releases/"
+  },
+  {
+    "date": "2023-08-02",
     "title": "Building a Rust workspace with Bazel - Tweag",
     "link": "https://www.tweag.io/blog/2023-07-27-building-rust-workspace-with-bazel/"
   },
   {
+    "date": "2023-02-08",
+    "title": "axo blog - Release Engineering Is Exhausting So Here's cargo-dist",
+    "link": "https://blog.axo.dev/2023/02/cargo-dist"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "14 Rust Tools for Linux Terminal Dwellers",
+    "link": "https://itsfoss.com/rust-cli-tools/"
+  },
+  {
+    "date": "2022-09-14",
     "title": "A byte string library for Rust - Andrew Gallant's Blog",
     "link": "https://blog.burntsushi.net/bstr/"
   },
   {
-    "title": "Rust and Neovim - A Thorough Guide and Walkthrough | the trait",
-    "link": "https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/"
+    "date": "2022-08-10",
+    "title": "Using unwrap() in Rust is Okay - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/unwrap/"
   },
   {
+    "date": "2022-03-09",
+    "title": "What's New in Rust 1.58 and 1.59 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/058-rust-1.58-1.59/"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
     "link": "https://tinkering.xyz/fmo-optimization-story/"
   },
   {
+    "date": "2021-06-09",
     "title": "From Julia to Rust",
     "link": "https://miguelraz.github.io/blog/juliatorust/"
   },
   {
+    "date": "2021-04-21",
     "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
   },
   {
+    "date": "2021-03-24",
     "title": "Performance comparison: counting words in Python, Go, C++, C, AWK, Forth, and Rust",
     "link": "https://benhoyt.com/writings/count-words/"
   },
   {
+    "date": "2021-01-20",
     "title": "Rust is a hard way to make a web API - macwright.com",
     "link": "https://macwright.com/2021/01/15/rust.html"
   },
   {
+    "date": "2020-11-4-",
     "title": "One Hundred Rust Binaries - Wesley Moore",
     "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
   },
   {
+    "date": "2020-09-30",
+    "title": "Building even faster interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
+  },
+  {
+    "date": "2020-08-25",
     "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/defmt/"
   },
   {
+    "date": "2020-08-04",
     "title": "Rust for a Pythonista #1: Why and when?",
     "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
   },
   {
+    "date": "2020-08-04",
+    "title": "Beginner's guide to Error Handling in Rust",
+    "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
+  },
+  {
+    "date": "2020-06-23",
     "title": "Using Rust to Delete Gitignored Cruft - ForrestTheWoods",
     "link": "https://www.forrestthewoods.com/blog/using-rust-to-delete-gitignored-cruft/"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2020-05-19",
     "title": "Rust: Structuring and handling errors in 2020 - Nick's Blog and Digital Garden",
     "link": "https://nick.groenen.me/posts/rust-error-handling/"
   },
   {
+    "date": "2019-04-30",
     "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
     "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
   },
   {
+    "date": "2019-02-05",
     "title": "Cargo's next few years",
     "link": "https://www.ncameron.org/blog/cargos-next-few-years/"
   },
   {
+    "date": "2019-02-05",
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "date": "2018-12-11",
+    "title": "Rust 2018 is here… but what is it? - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2018/12/rust-2018-is-here/"
+  },
+  {
+    "date": "2018-08-07",
     "title": "Debian -- Details of package ripgrep in sid",
     "link": "https://packages.debian.org/sid/ripgrep"
   },
   {
+    "date": "2018-02-27",
     "title": "Oxidizing Fedora: Try Rust and its applications today - Fedora Magazine",
     "link": "https://fedoramagazine.org/oxidizing-fedora-try-rust-applications-today/"
   },
   {
+    "date": "2018-01-09",
+    "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
+    "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
+  },
+  {
+    "date": "2018-01-09",
     "title": "Why Rust? A Two Year Retrospective",
     "link": "http://way-cooler.org/blog/2018/01/09/way-cooler-turns-two.html"
   },
   {
+    "date": "2017-12-26",
     "title": "show_notes::interview::irr_2017::anna_liao - Rust",
     "link": "http://www.newrustacean.com/show_notes/interview/irr_2017/anna_liao/index.html"
   },
   {
+    "date": "2017-12-05",
     "title": "What's a reference in Rust?",
     "link": "https://jvns.ca/blog/2017/11/27/rust-ref/"
   },
   {
+    "date": "2017-04-11",
     "title": "Visual Studio Code March 2017",
     "link": "https://code.visualstudio.com/updates/v1_11#_text-search-improvements"
   },
   {
+    "date": "2017-01-17",
     "title": "Rust severely disappoints me – Armed and Dangerous",
     "link": "http://esr.ibiblio.org/?p=7294"
   },
   {
+    "date": "2016-12-27",
     "title": "24 days of Rust - built with Rust | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-built-rust-2016/"
   },
   {
+    "date": "2016-10-04",
     "title": "Even quicker byte count — Llogiq on stuff",
     "link": "https://llogiq.github.io/2016/09/27/count.html"
   },
   {
+    "date": "2016-10-04",
+    "title": "Counting Newlines Really Fast — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/09/24/newline.html"
+  },
+  {
+    "date": "2016-09-27",
     "title": "ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog",
     "link": "http://blog.burntsushi.net/ripgrep/"
   }

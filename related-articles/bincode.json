@@ -1,22 +1,47 @@
 [
   {
+    "date": "2024-01-31",
     "title": "Fearless concurrency with Rust, cats, and a few Raspberry PIs - Manuel Bernhardt",
     "link": "https://manuel.bernhardt.io/posts/2024-01-26-rust-fearless-concurrency-cats-raspberry-pi/"
   },
   {
+    "date": "2023-11-22",
+    "title": "~/arindas • Building Segmented Logs in Rust: From Theory to Production!",
+    "link": "https://arindas.github.io/blog/segmented-log-rust/"
+  },
+  {
+    "date": "2023-03-15",
     "title": "Applying 5 million pixel updates per second with Rust &amp; wgpu",
     "link": "https://maxisom.me/posts/applying-5-million-pixel-updates-per-second"
   },
   {
+    "date": "2022-11-16",
+    "title": "Bevy 0.9",
+    "link": "https://bevyengine.org/news/bevy-0-9/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "date": "2021-12-01",
     "title": "Implementing Raft for Browsers with Rust and WebRTC · Emanuel Evans",
     "link": "https://eevans.co/blog/wraft/"
   },
   {
+    "date": "2021-09-08",
     "title": "Plugins in Rust: Getting Started | NullDeref",
     "link": "https://nullderef.com/blog/plugin-start/"
   },
   {
+    "date": "2021-05-19",
     "title": "Plugins in Rust: The Technologies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "date": "2018-05-29",
+    "title": "Fuzz testing in Rust with Cargo-fuzz | by Seasoned Software | Medium",
+    "link": "https://medium.com/@seasoned_sw/fuzz-testing-in-rust-with-cargo-fuzz-13b89feecc30"
   }
 ]

@@ -1,21 +1,6 @@
 [
   {
-    "title": "Iggy.rs - building message streaming in Rust",
-    "link": "https://blog.iggy.rs/posts/building-message-streaming-in-rust/"
-  },
-  {
-    "title": "Modern Telecom Network Tracing - OXIO",
-    "link": "https://oxio.com/blog/modern-telecom-network-tracing/"
-  },
-  {
-    "title": "Rust at CNCF | CNCF",
-    "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
-  },
-  {
-    "title": "https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-rust.pdf",
-    "link": "https://www.net.in.tum.de/fileadmin/bibtex/publications/theses/2018-ixy-rust.pdf"
-  },
-  {
+    "date": "2016-05-30",
     "title": "The Path to Rust :: Jon Gjengset",
     "link": "https://thesquareplanet.com/blog/the-path-to-rust/"
   }

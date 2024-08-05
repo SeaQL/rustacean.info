@@ -1,6 +1,12 @@
 [
   {
+    "date": "2021-06-23",
     "title": "Rust Gameboy Emulator | Yodalee Note",
     "link": "https://yodalee.me/2020/12/2020_rust_gameboy/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Building a Rust Web Browser",
+    "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
   }
 ]

@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-05-12",
     "title": "Rust FFI - Building an ASN1 codec - A Different Tack",
     "link": "https://sjames.github.io/articles/2020-04-26-rust-ffi-asn1-codec/"
   },
   {
+    "date": "2015-07-27",
     "title": "Rust: A modern programming environment · Alex Gaynor",
     "link": "https://alexgaynor.net/2015/jul/20/rust-modern-programming-language/"
   }

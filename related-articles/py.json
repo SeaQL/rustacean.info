@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2024-07-10",
+    "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
+    "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Preprocessing trillions of tokens with Rust | Work | Mainmatter",
+    "link": "https://mainmatter.com/cases/aleph-alpha/"
+  },
+  {
+    "date": "2023-11-22",
+    "title": "Checking semver in the presence of doc(hidden) items",
+    "link": "https://predr.ag/blog/checking-semver-for-doc-hidden-items/"
+  },
+  {
+    "date": "2023-03-08",
+    "title": "Tony's Blog",
+    "link": "https://antoniosbarotsis.github.io/posts/python_package_written_in_rust/"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Buffers on the edge: Python and Rust · Alex Gaynor",
+    "link": "https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Why We’re Porting Our Database Drivers to Async Rust - The New Stack",
+    "link": "https://thenewstack.io/why-were-porting-our-database-drivers-to-async-rust/"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The magical applications of Zero-Sized Types in Rust - Hardmo.de",
+    "link": "https://www.hardmo.de/article/2021-03-14-zst-proof-types.md"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Writing Python inside your Rust code — Part 3 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-3/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Writing Python inside your Rust code — Part 2 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-2/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Writing Python inside your Rust code — Part 1 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-1/"
+  }
+]

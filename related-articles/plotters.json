@@ -1,9 +1,21 @@
 [
   {
+    "date": "2024-05-15",
+    "title": "Cushy v0.3: New widgets, offscreen capture, Plotters and Tokio integrations, and more",
+    "link": "https://ecton.dev/cushy-v0-3/"
+  },
+  {
+    "date": "2023-07-19",
     "title": "Rust vs Julia in scientific computing",
     "link": "https://mo8it.com/blog/rust-vs-julia/"
   },
   {
+    "date": "2022-05-04",
+    "title": "Plotters is back! | Eberhardt blog",
+    "link": "https://aaronerhardt.github.io/blog/posts/plotters_is_back/"
+  },
+  {
+    "date": "2021-08-25",
     "title": "Announcing SixtyFPS 0.1 — Slint Blog",
     "link": "https://sixtyfps.io/blog/announcing-sixtyfps-0.1.html"
   }

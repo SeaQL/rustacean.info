@@ -1,9 +1,16 @@
 [
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2022-03-02",
+    "title": "21th of February 2022 to 27th of February 2022 — This week in Slint",
+    "link": "https://slint-ui.com/thisweek/2022-02-28.html"
+  },
+  {
+    "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"
   }

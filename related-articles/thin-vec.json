@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-04-05",
     "title": "How to speed up the Rust compiler in March 2023 | Nicholas Nethercote",
     "link": "https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html"
   },
   {
+    "date": "2022-11-02",
     "title": "How to speed up the Rust compiler in October 2022 | Nicholas Nethercote",
     "link": "https://nnethercote.github.io/2022/10/27/how-to-speed-up-the-rust-compiler-in-october-2022.html"
   }

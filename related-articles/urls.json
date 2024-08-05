@@ -1,10 +1,67 @@
 [
   {
+    "date": "2021-05-12",
+    "title": "Rust on the Frontend and Backend - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/moonzoon"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Rust for a Pythonista #2: Building a Rust crate for CSS inlining",
+    "link": "https://dygalo.dev/blog/rust-for-a-pythonista-2/"
+  },
+  {
+    "date": "2017-11-28",
     "title": "Writing fast and safe native Node.js modules with Rust - RisingStack Engineering",
     "link": "https://blog.risingstack.com/node-js-native-modules-with-rust/"
   },
   {
+    "date": "2017-04-04",
+    "title": "These Weeks In Servo 96 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/04/03/twis-96/"
+  },
+  {
+    "date": "2017-03-07",
+    "title": "Mitigating Underhandedness: Fuzzing Your Code - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/03/02/mitigating-underhandedness-fuzzing-your-code/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "These Weeks In Servo 85 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2016/12/19/twis-85/"
+  },
+  {
+    "date": "2016-09-13",
     "title": "Writing GStreamer plugins and elements in Rust – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2016/05/writing-gstreamer-plugins-and-elements-in-rust/"
+  },
+  {
+    "date": "2016-06-27",
+    "title": "This Week In Servo 69 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2016/06/27/twis-69/"
+  },
+  {
+    "date": "2016-05-09",
+    "title": "These Weeks In Servo 61 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2016/05/02/twis-61/"
+  },
+  {
+    "date": "2016-05-02",
+    "title": "Myths and Legends about Integer Overflow in Rust |  Huon on the internet",
+    "link": "https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/"
+  },
+  {
+    "date": "2016-04-25",
+    "title": "This Week In Servo 60 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "http://blog.servo.org/2016/04/18/twis-60/"
+  },
+  {
+    "date": "2016-02-01",
+    "title": "These Weeks In Servo 48 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2016/01/25/twis-48/"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "This Week In Servo 33 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "http://blog.servo.org/2015/05/28/twis-33/"
   }
 ]

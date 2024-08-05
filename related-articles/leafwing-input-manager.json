@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-03-13",
     "title": "Bevy Foundation",
     "link": "https://bevyengine.org/news/bevy-foundation/"
   },
   {
+    "date": "2022-02-16",
     "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/030/"
   }

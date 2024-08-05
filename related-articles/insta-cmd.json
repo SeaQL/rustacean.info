@@ -1,17 +1,26 @@
 [
   {
+    "date": "2024-03-27",
+    "title": "Everything you need to know about testing in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"
+  },
+  {
+    "date": "2023-05-10",
     "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
     "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
   },
   {
+    "date": "2023-03-22",
     "title": "The birth of a package manager | Adolfo Ochagavía",
     "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
   },
   {
+    "date": "2021-11-17",
     "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
     "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
   },
   {
+    "date": "2021-01-06",
     "title": "Insta Snapshots",
     "link": "https://insta.rs/"
   }

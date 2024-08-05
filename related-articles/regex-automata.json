@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-03-20",
     "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
   },
   {
+    "date": "2023-07-12",
     "title": "Regex engine internals as a library - Andrew Gallant's Blog",
     "link": "https://blog.burntsushi.net/regex-internals/"
   }

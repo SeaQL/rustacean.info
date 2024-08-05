@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-07-12",
+    "title": "This Month in Rust OSDev: June 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-06/"
+  },
+  {
+    "date": "2022-12-14",
     "title": "This Month in Rust OSDev: November 2022 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2022-11/"
   },
   {
+    "date": "2018-06-12",
     "title": "A Rust-based Unikernel - HermitCore",
     "link": "https://hermitcore.org/2018/06/06/A-Rust-based-Unikernel/"
   }

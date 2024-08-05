@@ -1,10 +1,17 @@
 [
   {
+    "date": "2019-10-22",
     "title": "Programming Servo: shipping message-ports(via a detour into Spectre) | by Gregory Terzian | Programming Servo | Medium",
     "link": "https://medium.com/programming-servo/programming-servo-shipping-message-ports-via-a-detour-into-spectre-c96683ac0b8"
   },
   {
+    "date": "2016-06-13",
     "title": "Sandboxing Code In Rust -\n      \n      InsanityBit",
     "link": "https://insanitybit.github.io/2016/06/11/sandboxing-code-in-rust"
+  },
+  {
+    "date": "2016-02-08",
+    "title": "This Week In Servo 49 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "http://blog.servo.org/2016/02/01/twis-49/"
   }
 ]

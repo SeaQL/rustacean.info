@@ -1,9 +1,16 @@
 [
   {
+    "date": "2021-01-13",
     "title": "Expose a Rust Library to Other Languages — Slint Blog",
     "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
   },
   {
+    "date": "2018-06-12",
+    "title": "Integrating QML and Rust: Creating a QMetaObject at Compile Time",
+    "link": "https://woboq.com/blog/qmetaobject-from-rust.html"
+  },
+  {
+    "date": "2017-03-28",
     "title": "NIKA:\\wouldnt-it-be-neat-p1\\&gt;",
     "link": "https://mystor.github.io/wouldnt-it-be-neat-p1.html"
   }

@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-12-21",
     "title": "Writing User-Defined Functions in Rust - MariaDB.org",
     "link": "https://mariadb.org/writing-user-defined-functions-in-rust/"
   }

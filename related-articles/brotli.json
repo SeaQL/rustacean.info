@@ -1,13 +1,21 @@
 [
   {
+    "date": "2023-09-27",
     "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
   },
   {
+    "date": "2020-12-9-",
+    "title": "Rust compression libraries - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-compression-libraries/"
+  },
+  {
+    "date": "2016-12-20",
     "title": "24 days of Rust - zip and lzma compression | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-zip-and-lzma-compression/"
   },
   {
+    "date": "2016-09-06",
     "title": "Wasted — Llogiq on stuff",
     "link": "https://llogiq.github.io/2016/08/30/wasted.html"
   }

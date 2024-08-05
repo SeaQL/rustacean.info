@@ -1,5 +1,11 @@
 [
   {
+    "date": "2024-05-08",
+    "title": "Introducing graphql-lint and gqlint – Grafbase",
+    "link": "https://grafbase.com/changelog/graphql-lint"
+  },
+  {
+    "date": "2022-03-16",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/release-020"
   }

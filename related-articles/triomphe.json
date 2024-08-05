@@ -1,5 +1,11 @@
 [
   {
+    "date": "2021-02-24",
+    "title": "Integrating Rust and C++ in Firefox - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/"
+  },
+  {
+    "date": "2020-03-03",
     "title": "FFI patterns #1 - Complex Rust data structures exposed seamlessly to C++ | Words",
     "link": "https://crisal.io/words/2020/02/28/C++-rust-ffi-patterns-1-complex-data-structures.html"
   }

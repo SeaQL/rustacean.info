@@ -1,5 +1,6 @@
 [
   {
+    "date": "2016-12-20",
     "title": "Idiomatic tree and graph like structures in Rust – Rust Leipzig",
     "link": "https://rust-leipzig.github.io/architecture/2016/12/20/idiomatic-trees-in-rust/"
   }

@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2023-02-22",
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/"
+  },
+  {
+    "date": "2023-02-15",
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/index.html"
+  },
+  {
+    "date": "2022-11-30",
+    "title": "Measuring the overhead of HashMaps in Rust | nicole@web",
+    "link": "https://ntietz.com/blog/rust-hashmap-overhead/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Rust programs written entirely in Rust · sunfishcode's blog",
+    "link": "https://blog.sunfishcode.online/rust-programs-entirely-in-rust/"
+  }
+]

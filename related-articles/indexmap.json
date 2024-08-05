@@ -1,6 +1,17 @@
 [
   {
+    "date": "2024-01-31",
+    "title": "Playing with Nom and parser combinators · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2024/01/playing-with-nom-and-parser-combinators/"
+  },
+  {
+    "date": "2022-05-18",
     "title": "Audio Libraries Considered Challenging | Tesselode Labs",
     "link": "https://tesselode.github.io/articles/audio-libraries-considered-challenging/"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "Unlocking greater performance in the MongoDB Rust Driver via raw BSON and zero copy deserialization | patrickfreed's blog",
+    "link": "https://patrickfreed.github.io/rust/2022/04/27/unlocking-greater-performance-in-the-mongodb-rust-driver-via-raw-bson-and-zero-copy-deserialization.html"
   }
 ]

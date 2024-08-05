@@ -1,6 +1,12 @@
 [
   {
+    "date": "2022-04-20",
     "title": "Using Clap in Rust for command line (CLI) argument parsing - LogRocket Blog",
     "link": "https://blog.logrocket.com/command-line-argument-parsing-rust-using-clap/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "BlogWerx: The Rust compiler isn't slow; we are.",
+    "link": "https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html"
   }
 ]

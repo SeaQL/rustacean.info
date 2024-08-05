@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-08-30",
+    "title": "The First Stable Release of a Memory Safe sudo Implementation - Prossimo",
+    "link": "https://www.memorysafety.org/blog/sudo-first-stable-release/"
+  },
+  {
+    "date": "2022-05-04",
+    "title": "Building a WebAssembly-powered serverless platform",
+    "link": "https://blog.scottlogic.com/2022/04/16/wasm-faas.html"
+  }
+]

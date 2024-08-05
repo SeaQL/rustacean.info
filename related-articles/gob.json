@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2023-11-01",
+    "title": "axo blog - System dependencies are hard (so we made them easier)",
+    "link": "https://blog.axo.dev/2023/10/dependencies"
+  },
+  {
+    "date": "2021-01-27",
+    "title": "Yewban | Radim",
+    "link": "https://radim.xyz/project/yewban/"
+  },
+  {
+    "date": "2020-11-25",
+    "title": "pwintln uwu and other fun with elves and dynamic linkers - jade's www site",
+    "link": "https://lfcode.ca/blog/pwintln-uwu"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Better stack fixing for Firefox – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2020/04/15/better-stack-fixing-for-firefox/"
+  }
+]

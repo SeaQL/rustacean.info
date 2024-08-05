@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Fast Rust Builds",
+    "link": "https://matklad.github.io/2021/09/04/fast-rust-builds.html"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "diceroller, a sample Rust project",
+    "link": "https://blog.frankel.ch/start-rust/8/"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The GPIO war: macro bunkers for typestate explosions - cuervo",
+    "link": "https://www.ecorax.net/macro-bunker-1/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Rust 2021 Roadmap Wishlist",
+    "link": "https://aldaronlau.com/rust-2021/"
+  }
+]

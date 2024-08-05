@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-04-17",
     "title": "Getting started with SurrealDB using Docker and a Rust client",
     "link": "https://rust.code-maven.com/surrealdb-with-docker"
   },
   {
+    "date": "2024-03-13",
     "title": "SurrealDB | From medical doctor to rust developer - interview with our new Senior Clinical Research Fellow | The ultimate multi-model database",
     "link": "https://surrealdb.com/blog/from-medical-doctor-to-rust-developer--interview-with-our-new-senior-clinical-research-fellow"
   }

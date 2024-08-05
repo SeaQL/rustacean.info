@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-04-26",
+    "title": "A Basic Executable - GBA From Scratch With Ferris",
+    "link": "https://lokathor.github.io/gba-from-scratch/ex1.html"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "How to speed up the Rust compiler in July 2022 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  }
+]

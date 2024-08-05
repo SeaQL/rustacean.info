@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-09-08",
     "title": "Faster Top Level Domain Name Extraction with Rust",
     "link": "https://tech.marksblogg.com/rdns-domain-name-tld-extract-rust.html"
   }

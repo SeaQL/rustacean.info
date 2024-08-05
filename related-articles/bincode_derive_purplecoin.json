@@ -1,17 +1,21 @@
 [
   {
+    "date": "2024-01-31",
     "title": "Fearless concurrency with Rust, cats, and a few Raspberry PIs - Manuel Bernhardt",
     "link": "https://manuel.bernhardt.io/posts/2024-01-26-rust-fearless-concurrency-cats-raspberry-pi/"
   },
   {
+    "date": "2023-03-15",
     "title": "Applying 5 million pixel updates per second with Rust &amp; wgpu",
     "link": "https://maxisom.me/posts/applying-5-million-pixel-updates-per-second"
   },
   {
+    "date": "2021-12-01",
     "title": "Implementing Raft for Browsers with Rust and WebRTC · Emanuel Evans",
     "link": "https://eevans.co/blog/wraft/"
   },
   {
+    "date": "2021-05-19",
     "title": "Plugins in Rust: The Technologies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-tech/"
   }

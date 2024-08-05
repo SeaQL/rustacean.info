@@ -1,6 +1,12 @@
 [
   {
+    "date": "2023-06-21",
     "title": "lz4_flex 0.11: Gainzzzzz Unleashed!",
     "link": "https://flexineering.com/posts/lz4-011/"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Rust compression libraries - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-compression-libraries/"
   }
 ]

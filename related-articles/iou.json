@@ -1,13 +1,16 @@
 [
   {
+    "date": "2020-05-12",
     "title": "Notes on io-uring",
     "link": "https://boats.gitlab.io/blog/post/io-uring/"
   },
   {
+    "date": "2020-05-05",
     "title": "Async interviews: my take thus far · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2020/04/30/async-interviews-my-take-thus-far/"
   },
   {
+    "date": "2019-11-12",
     "title": "iou: Rust bindings for liburing",
     "link": "https://boats.gitlab.io/blog/post/iou/"
   }

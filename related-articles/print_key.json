@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-08-03",
     "title": "Manage keybindings in a Rust terminal application",
     "link": "https://dystroy.org/blog/keybindings/"
   }

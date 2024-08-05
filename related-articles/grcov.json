@@ -1,25 +1,31 @@
 [
   {
+    "date": "2023-06-28",
     "title": "Code coverage in Rust - RRM Programming",
     "link": "https://rrmprogramming.com/article/code-coverage-in-rust/"
   },
   {
+    "date": "2022-06-29",
     "title": "What's New in Rust 1.60 and 1.61 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/rust-1.60-1.61/"
   },
   {
+    "date": "2021-10-06",
     "title": "SyRust: automatic testing of Rust libraries with semantic-aware program synthesis | Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation",
     "link": "https://dl.acm.org/doi/abs/10.1145/3453483.3454084"
   },
   {
+    "date": "2021-03-24",
     "title": "Rust: integrating LLVM source-base code coverage with GitLab",
     "link": "https://www.collabora.com/news-and-blog/blog/2021/03/24/rust-integrating-llvm-source-base-code-coverage-with-gitlab/"
   },
   {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
   },
   {
+    "date": "2020-09-16",
     "title": "A Few Github Action “Recipes” for Rust - shift.click",
     "link": "https://shift.click/blog/github-actions-rust/"
   }

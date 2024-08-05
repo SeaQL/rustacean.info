@@ -1,5 +1,21 @@
 [
   {
+    "date": "2023-08-02",
+    "title": "A random assortment of Rust notes – Brian Kung",
+    "link": "https://briankung.dev/2023/07/16/rust-notes/"
+  },
+  {
+    "date": "2021-12-01",
+    "title": "Speed up Rust Builds with Cachepot",
+    "link": "https://kflansburg.com/posts/rust-cachepot/"
+  },
+  {
+    "date": "2019-06-11",
+    "title": "Rusts hidden talents speeding up builds and managing versions - Estada.ch",
+    "link": "https://estada.ch/2019/6/7/rusts-hidden-talents/"
+  },
+  {
+    "date": "2018-08-14",
     "title": "How to alleviate the pain of Rust compile times",
     "link": "https://vfoley.xyz/rust-compile-speed-tips/"
   }

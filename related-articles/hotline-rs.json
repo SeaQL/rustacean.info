@@ -1,10 +1,17 @@
 [
   {
+    "date": "2023-07-05",
     "title": "This Month in Rust GameDev #46 - May 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/046/"
   },
   {
+    "date": "2023-05-03",
     "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/044/"
+  },
+  {
+    "date": "2022-03-02",
+    "title": "Building a new graphics engine in Rust - Part 2 – Alex Dixon",
+    "link": "https://www.polymonster.co.uk/blog/bulding-new-engine-in-rust-2"
   }
 ]

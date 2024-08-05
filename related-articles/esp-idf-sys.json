@@ -1,13 +1,21 @@
 [
   {
+    "date": "2022-07-13",
     "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
     "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
   },
   {
+    "date": "2022-02-09",
     "title": "ESP32 MQTT Publish with Rust. Here at IOTICS, we are in the habit of… | by Mihai Dinculescu | IOTICS | Medium",
     "link": "https://medium.com/iotics/esp32-mqtt-publish-with-rust-678d1068ee2"
   },
   {
+    "date": "2022-01-12",
+    "title": "Rust on Espressif chips - 10-01-2022",
+    "link": "https://mabez.dev/blog/posts/esp-rust-10-01-2022/"
+  },
+  {
+    "date": "2021-08-04",
     "title": "Rust on RISC-V BL602: Is It Sunny?",
     "link": "https://lupyuen.github.io/articles/adc"
   }

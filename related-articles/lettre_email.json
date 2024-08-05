@@ -1,6 +1,22 @@
 [
   {
+    "date": "2022-07-06",
+    "title": "Announcing lettre 0.10 - lettre",
+    "link": "https://lettre.rs/post/lettre-0-10/"
+  },
+  {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "date": "2021-05-26",
+    "title": "Announcing lettre 0.10.0-rc.1 - lettre",
+    "link": "https://lettre.rs/post/lettre-0-10-0-rc-1/"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "24 days of Rust - lettre | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-lettre/"
   }
 ]

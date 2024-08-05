@@ -1,13 +1,21 @@
 [
   {
+    "date": "2020-06-02",
+    "title": "Rust at OneSignal",
+    "link": "https://onesignal.com/blog/rust-at-onesignal/"
+  },
+  {
+    "date": "2016-10-04",
     "title": "Observational equivalence and unsafe code · baby steps",
     "link": "http://smallcultfollowing.com/babysteps/blog/2016/10/02/observational-equivalence-and-unsafe-code/"
   },
   {
+    "date": "2016-09-27",
     "title": "ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog",
     "link": "http://blog.burntsushi.net/ripgrep/"
   },
   {
+    "date": "2016-05-30",
     "title": "Unsafe abstractions · baby steps",
     "link": "http://smallcultfollowing.com/babysteps/blog/2016/05/23/unsafe-abstractions/"
   }

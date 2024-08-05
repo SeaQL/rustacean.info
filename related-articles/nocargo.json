@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-09-28",
     "title": "Building Nix flakes from Rust workspaces - Tweag",
     "link": "https://www.tweag.io/blog/2022-09-22-rust-nix/"
   }

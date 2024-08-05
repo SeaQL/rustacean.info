@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2024-05-08",
+    "title": "This Month in Rust OSDev: April 2024 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2024-04/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Kata Containers rewritten in Rust gets a major speed boost | ZDNET",
+    "link": "https://www.zdnet.com/article/kata-containers-rewritten-in-rust-and-gets-a-major-speed-boost/"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Stefan Hajnoczi: Why QEMU should move from C to Rust",
+    "link": "http://blog.vmsplice.net/2020/08/why-qemu-should-move-from-c-to-rust.html?m=1"
+  }
+]

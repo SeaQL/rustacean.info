@@ -1,17 +1,76 @@
 [
   {
+    "date": "2024-07-03",
+    "title": "Resolving Rust Symbols • Shriram Balaji's Blog",
+    "link": "https://blog.shrirambalaji.com/posts/resolving-rust-symbols/"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "The Heart of a Language Server",
+    "link": "https://rust-analyzer.github.io/blog/2023/12/26/the-heart-of-a-language-server.html"
+  },
+  {
+    "date": "2023-05-31",
+    "title": "Pattern Extensions",
+    "link": "https://blog.yoshuawuyts.com/pattern-extensions/"
+  },
+  {
+    "date": "2023-05-17",
+    "title": "no more bit fiddling - introducing bilge - hecatia",
+    "link": "https://hecatia-elegua.github.io/blog/no-more-bit-fiddling/"
+  },
+  {
+    "date": "2023-04-19",
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Changelog #169",
+    "link": "https://rust-analyzer.github.io/thisweek/2023/02/20/changelog-169.html"
+  },
+  {
+    "date": "2023-02-15",
+    "title": "The bottom emoji breaks rust-analyzer",
+    "link": "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer"
+  },
+  {
+    "date": "2023-02-01",
     "title": "Next Rust Compiler",
     "link": "https://matklad.github.io/2023/01/25/next-rust-compiler.html"
   },
   {
+    "date": "2022-10-26",
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Inline Crates",
+    "link": "https://blog.yoshuawuyts.com/inline-crates/"
+  },
+  {
+    "date": "2022-09-28",
     "title": "This Month in Rust GameDev #37 - August 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/037/"
   },
   {
+    "date": "2022-08-10",
+    "title": "Generate Enum Variant with associated values in Rust Analyzer - Dorian Listens",
+    "link": "https://dorianlistens.com/2022/08/rust-analyzer-generate-enum-variant-with-associated-values/"
+  },
+  {
+    "date": "2022-08-03",
     "title": "Proc macro support in rust-analyzer for nightly rustc versions",
     "link": "https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions"
   },
   {
+    "date": "2022-07-20",
+    "title": "Improving “Extract Function” in Rust Analyzer&nbsp; - Dorian Listens",
+    "link": "https://dorianlistens.com/2022/07/improving-extract-function-in-rust-analyzer/"
+  },
+  {
+    "date": "2022-04-20",
     "title": "Changelog #125",
     "link": "https://rust-analyzer.github.io/thisweek/2022/04/18/changelog-125.html"
   }

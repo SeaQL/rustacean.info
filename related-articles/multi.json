@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2023-10-18",
+    "title": "This Month in Rust OSDev: September 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-09/"
+  },
+  {
+    "date": "2023-08-09",
+    "title": "This Month in Rust OSDev: July 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-07/"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "This Month in Rust OSDev: June 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-06/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Const Generic Slipstreem | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/03/28/const-generic-slipstreem.html"
+  },
+  {
+    "date": "2020-01-28",
+    "title": "Lessons learnt updating a library to std::future",
+    "link": "https://cetra3.github.io/blog/mpart-async-0-3-0/"
+  }
+]

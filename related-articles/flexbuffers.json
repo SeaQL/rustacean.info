@@ -1,6 +1,12 @@
 [
   {
+    "date": "2019-09-17",
     "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
     "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
+  },
+  {
+    "date": "2016-10-11",
+    "title": "Overview · Serde",
+    "link": "https://serde.rs/"
   }
 ]

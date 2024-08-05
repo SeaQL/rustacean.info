@@ -1,37 +1,61 @@
 [
   {
+    "date": "2023-02-08",
+    "title": "Building a Rust parser using Pest and PEG - LogRocket Blog",
+    "link": "https://blog.logrocket.com/building-rust-parser-pest-peg/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part02"
+  },
+  {
+    "date": "2023-01-04",
     "title": "Building a Simple DB in Rust - Part 1 - Parsing | John's Codes",
     "link": "https://johns.codes/blog/build-a-db/part01"
   },
   {
+    "date": "2022-12-28",
     "title": "cargo-semver-checks today and in 2023",
     "link": "https://predr.ag/blog/cargo-semver-checks-today-and-in-2023/"
   },
   {
+    "date": "2022-05-11",
     "title": "Overview - Lisp interpreter in Rust",
     "link": "https://vishpat.github.io/lisp-rs/"
   },
   {
+    "date": "2021-04-07",
     "title": "A new Left Recursive PEG Parser Generator for rust | Sean Young's linux ramblings",
     "link": "https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/"
   },
   {
+    "date": "2021-01-20",
+    "title": "variadics_analysis.md · GitHub",
+    "link": "https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667"
+  },
+  {
+    "date": "2020-08-04",
     "title": "Writing and publishing a Python module in Rust",
     "link": "https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust"
   },
   {
+    "date": "2020-06-23",
     "title": "Property-based testing in Rust with Proptest - LogRocket Blog",
     "link": "https://blog.logrocket.com/property-based-testing-in-rust-with-proptest/"
   },
   {
+    "date": "2020-05-05",
     "title": "Wesley Aptekar-Cassels | Notes on Parsing in Rust",
     "link": "https://blog.wesleyac.com/posts/rust-parsing"
   },
   {
+    "date": "2019-03-05",
     "title": "Building fast interpreters in Rust",
     "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
   },
   {
+    "date": "2018-10-09",
     "title": "pest. The Elegant Parser",
     "link": "https://pest.rs"
   }

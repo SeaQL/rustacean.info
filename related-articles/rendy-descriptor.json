@@ -1,9 +1,16 @@
 [
   {
+    "date": "2019-12-31",
+    "title": "Wiki - TheStateOfGGEZ2020",
+    "link": "https://wiki.alopex.li/TheStateOfGGEZ2020"
+  },
+  {
+    "date": "2019-10-29",
     "title": "Nannou awarded Mozilla grant for foundational audio development | Nannou",
     "link": "https://nannou.cc/posts/moss_grant_announce"
   },
   {
+    "date": "2019-06-18",
     "title": "5 Year Anniversary - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2019/06/12/anniversary-5.html"
   }

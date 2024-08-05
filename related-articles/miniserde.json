@@ -1,17 +1,26 @@
 [
   {
+    "date": "2022-02-02",
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
+  },
+  {
+    "date": "2020-09-02",
     "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"
   },
   {
+    "date": "2020-06-30",
     "title": "xi-editor retrospective | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2019-08-27",
     "title": "Thoughts on Rust bloat | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
   }

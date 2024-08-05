@@ -1,13 +1,26 @@
 [
   {
+    "date": "2024-05-22",
     "title": "Free Rust ebooks for Amazon Kindle",
     "link": "https://rust-ebooks.code-maven.com/"
   },
   {
+    "date": "2021-07-21",
+    "title": "A GPIO driver in Rust [LWN.net]",
+    "link": "https://lwn.net/Articles/863459/"
+  },
+  {
+    "date": "2021-04-14",
     "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
     "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"
   },
   {
+    "date": "2020-12-16",
+    "title": "Notes on cross-compiling Rust",
+    "link": "https://john-millikin.com/notes-on-cross-compiling-rust"
+  },
+  {
+    "date": "2016-08-16",
     "title": "What's new with \"The Rust Programming Language\"",
     "link": "http://words.steveklabnik.com/whats-new-with-the-rust-programming-language"
   }

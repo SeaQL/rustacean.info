@@ -1,5 +1,6 @@
 [
   {
+    "date": "2019-10-22",
     "title": "I made a NES emulator in Rust using generators | ~kylewlacy",
     "link": "https://kyle.space/posts/i-made-a-nes-emulator/"
   }

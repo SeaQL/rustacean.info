@@ -1,42 +1,97 @@
 [
   {
+    "date": "2024-06-26",
     "title": "When Is Parallelism Fearless and Zero-Cost with Rust? | Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures",
     "link": "https://dl.acm.org/doi/10.1145/3626183.3659966"
   },
   {
+    "date": "2023-11-22",
+    "title": "A close encounter with false sharing | More Stina Blog!",
+    "link": "https://morestina.net/blog/1976/a-close-encounter-with-false-sharing"
+  },
+  {
+    "date": "2022-10-05",
     "title": "Brute forcing protected ZIP archives in Rust",
     "link": "https://agourlay.github.io/brute-forcing-protected-zip-rust/"
   },
   {
+    "date": "2022-06-08",
+    "title": "Stacked Futures and why they are impossible",
+    "link": "https://conradludgate.com/posts/async-stack"
+  },
+  {
+    "date": "2022-01-05",
     "title": "12 Rust Tips and Tricks you might not know yet - Federico Terzi - A Software Engineering Journey",
     "link": "https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/"
   },
   {
+    "date": "2021-04-07",
+    "title": "Eliminating Data Races in Firefox - A Technical Report - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2021/04/eliminating-data-races-in-firefox-a-technical-report/"
+  },
+  {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
   },
   {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust"
   },
   {
+    "date": "2020-05-05",
     "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
     "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
   },
   {
+    "date": "2020-03-31",
     "title": "Async/Await | Writing an OS in Rust",
     "link": "https://os.phil-opp.com/async-await/"
   },
   {
+    "date": "2020-01-07",
+    "title": "Explaining Atomics in Rust | Explaining Atomics in Rust",
+    "link": "https://cfsamsonbooks.gitbook.io/explaining-atomics-in-rust/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "date": "2019-10-15",
     "title": "Making the Tokio scheduler 10x faster | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-10-scheduler/"
   },
   {
+    "date": "2019-08-20",
     "title": "async-std - Announcing async-std",
     "link": "https://async.rs/blog/announcing-async-std/"
   },
   {
+    "date": "2019-05-07",
     "title": "Rust parallelism for non-C/C++ developers | by Maksym Zavershynskyi | NEAR Protocol | Medium",
     "link": "https://medium.com/nearprotocol/rust-parallelism-for-non-c-c-developers-ec23f48b7e56"
+  },
+  {
+    "date": "2019-02-12",
+    "title": "All-Hands 2019 Recap",
+    "link": "https://www.ralfj.de/blog/2019/02/12/all-hands-recap.html"
+  },
+  {
+    "date": "2019-02-05",
+    "title": "Rust: regret-less concurrency | by Gregory Terzian | Medium",
+    "link": "https://medium.com/@polyglot_factotum/rust-regret-less-concurrency-2238b9e53333"
+  },
+  {
+    "date": "2018-07-24",
+    "title": "Rust concurrency patterns: communicate by sharing your Sender | by Gregory Terzian | Medium",
+    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-patterns-communicate-by-sharing-your-sender-11a496ce7791"
+  },
+  {
+    "date": "2018-07-03",
+    "title": "A Rusty Go at Channels - Garrett's Blog",
+    "link": "https://gsquire.github.io/static/post/a-rusty-go-at-channels/"
   }
 ]

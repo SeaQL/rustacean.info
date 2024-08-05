@@ -1,6 +1,12 @@
 [
   {
+    "date": "2022-12-14",
     "title": "Composing an observable Rust application - LogRocket Blog",
     "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Are we observable yet? An introduction to Rust telemetry | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/"
   }
 ]

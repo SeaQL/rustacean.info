@@ -1,6 +1,12 @@
 [
   {
+    "date": "2022-10-05",
     "title": "Async UI: a Rust UI Library where Everything is a Future | Wisha Wanichwecharungruang",
     "link": "https://wishawa.github.io/posts/async-ui-intro/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "Rust on the Frontend and Backend - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/moonzoon"
   }
 ]

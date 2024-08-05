@@ -1,18 +1,27 @@
 [
   {
+    "date": "2022-05-04",
     "title": "Tim McNamara (@timClicks) – Creating an Easy Mode for Rust",
     "link": "https://tim.mcnamara.nz/post/683022094467039232/easy-mode-for-rust"
   },
   {
+    "date": "2022-04-27",
     "title": "clap with Ed Page :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/065-ed-page/"
   },
   {
+    "date": "2021-09-22",
     "title": "Full Stack Rust - Blog",
     "link": "https://www.justinm.one/blog/2021/09/11/fullstackrust/"
   },
   {
+    "date": "2021-09-22",
     "title": "Learnability of Rust",
     "link": "https://epage.github.io/blog/2021/09/learning-rust/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Irregular Verbiage  » Blog Archive   » Shock Result&lt;&gt;?: Rust faster than Python in one test of file parsing",
+    "link": "http://www.coralbark.net/blog/technology/2020/10/shock-result-rust-faster-than-python-in-one-test-of-file-parsing/"
   }
 ]

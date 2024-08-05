@@ -1,9 +1,16 @@
 [
   {
+    "date": "2021-04-07",
     "title": "A Tour of Safe Tracing GC Designs in Rust - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/"
   },
   {
+    "date": "2019-08-12",
+    "title": "followup_hkt_emu.md · GitHub",
+    "link": "https://gist.github.com/edmundsmith/e09d5f473172066c0023ef84ee830cad"
+  },
+  {
+    "date": "2017-01-24",
     "title": "Using the Borrow Checker to make Tic-Tac-Toe safer · Lukasʼ Blog",
     "link": "https://lukaskalbertodt.github.io/2017/01/20/abusing-borrowck-to-make-tic-tac-toe-safer.html"
   }

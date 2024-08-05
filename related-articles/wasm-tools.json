@@ -1,22 +1,62 @@
 [
   {
+    "date": "2024-05-29",
     "title": "Wasmi's New Execution Engine - Faster Than Ever | Wasmi Labs",
     "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/"
   },
   {
+    "date": "2024-05-15",
     "title": "VS Code Extensions and WebAssembly",
     "link": "https://code.visualstudio.com/blogs/2024/05/08/wasm"
   },
   {
+    "date": "2023-11-22",
+    "title": "Bytecode Alliance — Wasmtime and Cranelift in 2023",
+    "link": "https://bytecodealliance.org/articles/wasmtime-and-cranelift-in-2023"
+  },
+  {
+    "date": "2023-02-22",
     "title": "Rust to WebAssembly the hard way — surma.dev",
     "link": "https://surma.dev/things/rust-to-webassembly/"
   },
   {
+    "date": "2023-02-15",
     "title": "Rust to WebAssembly the hard way — surma.dev",
     "link": "https://surma.dev/things/rust-to-webassembly/index.html"
   },
   {
+    "date": "2023-01-04",
+    "title": "How to Test",
+    "link": "https://matklad.github.io/2021/05/31/how-to-test.html"
+  },
+  {
+    "date": "2022-10-12",
     "title": "Avoiding allocations in Rust to shrink Wasm modules",
     "link": "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "Bytecode Alliance — Security and Correctness in Wasmtime",
+    "link": "https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime"
+  },
+  {
+    "date": "2022-07-13",
+    "title": "Pitfalls of fallible Iterators",
+    "link": "https://swatinem.de/blog/fallible-iterators/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "Bytecode Alliance — Cranelift Progress Report: A Look Back at 2021",
+    "link": "https://bytecodealliance.org/articles/cranelift-progress-2021"
+  },
+  {
+    "date": "2021-07-14",
+    "title": "Inline In Rust",
+    "link": "https://matklad.github.io//2021/07/09/inline-in-rust.html"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Writing a Test Case Generator for a Programming Language",
+    "link": "https://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
   }
 ]

@@ -1,65 +1,96 @@
 [
   {
+    "date": "2024-05-08",
     "title": "derive_more - Rust",
     "link": "https://docs.rs/derive_more"
   },
   {
+    "date": "2023-05-17",
+    "title": "no more bit fiddling - introducing bilge - hecatia",
+    "link": "https://hecatia-elegua.github.io/blog/no-more-bit-fiddling/"
+  },
+  {
+    "date": "2023-02-01",
     "title": "One step forward, an easier interoperability between Rust and Haskell | IOG Engineering",
     "link": "https://engineering.iog.io/2023-01-26-hs-bindgen-introduction/"
   },
   {
+    "date": "2022-10-26",
     "title": "Free Masen",
     "link": "https://freemasen.com/blog/sqlite-parser-pt4/index.html"
   },
   {
+    "date": "2022-03-30",
     "title": "Yet Another GitHub Profile Generator - House Absolute(ly Pointless)",
     "link": "https://blog.urth.org/2022/03/28/yet-another-github-profile-generator/"
   },
   {
+    "date": "2022-03-16",
+    "title": "Things I hate about Rust, redux",
+    "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"
+  },
+  {
+    "date": "2022-01-26",
     "title": "lowering async await in rust - wiki",
     "link": "https://wiki.cont.run/lowering-async-await-in-rust/"
   },
   {
+    "date": "2021-10-20",
     "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
   },
   {
+    "date": "2021-08-18",
     "title": "Understanding #[derive(Clone)] in Rust - Stegosaurus Dormant",
     "link": "https://stegosaurusdormant.com/understanding-derive-clone/"
   },
   {
+    "date": "2021-07-28",
     "title": "Understanding Rust futures by going way too deep",
     "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
   },
   {
+    "date": "2021-06-16",
     "title": "Learning to Fly: Let's simulate evolution in Rust (pt 4) | pwy.io",
     "link": "https://pwy.io/en/posts/learning-to-fly-pt4/"
   },
   {
+    "date": "2021-02-24",
+    "title": "Procedural Macros: A simple derive macro | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-simple-derive/"
+  },
+  {
+    "date": "2020-10-14",
     "title": "Rust after the honeymoon – The Observation Deck",
     "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
   },
   {
+    "date": "2020-06-23",
     "title": "Writing Non-Trivial Macros in Rust · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/non-trivial-macros/"
   },
   {
+    "date": "2019-11-19",
     "title": "Understanding Serde",
     "link": "https://www.joshmcguigan.com/blog/understanding-serde/"
   },
   {
+    "date": "2019-03-19",
     "title": "Implementing a static stack usage analysis tool | Embedded in Rust",
     "link": "https://blog.japaric.io/stack-analysis/"
   },
   {
+    "date": "2018-03-06",
     "title": "Why Rust Has Macros · Bloggedy blog",
     "link": "https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/"
   },
   {
+    "date": "2017-08-01",
     "title": "RTFM v2: simpler, less overhead and more device support | Embedded in Rust",
     "link": "http://blog.japaric.io/rtfm-v2/"
   },
   {
+    "date": "2017-01-17",
     "title": "Debugging Rust's new Custom Derive system | Light Fiction",
     "link": "https://quodlibetor.github.io/posts/debugging-rusts-new-custom-derive-system/"
   }

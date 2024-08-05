@@ -1,33 +1,66 @@
 [
   {
+    "date": "2024-02-14",
     "title": "libyaml-safer",
     "link": "https://simonask.github.io/libyaml-safer/"
   },
   {
+    "date": "2022-09-21",
     "title": "Precursor - Bringing Up TLS on Precursor | Crowd Supply",
     "link": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/bringing-up-tls-on-precursor"
   },
   {
+    "date": "2022-06-15",
+    "title": "C2Rust is Back :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2022/06/back/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Things I hate about Rust, redux",
+    "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"
+  },
+  {
+    "date": "2022-01-05",
     "title": "Rust is more portable than C for pngquant/libimagequant",
     "link": "https://pngquant.org/rust.html"
   },
   {
+    "date": "2021-10-20",
+    "title": "Jobs :: Immunant, Inc",
+    "link": "https://immunant.com/jobs/"
+  },
+  {
+    "date": "2021-10-06",
     "title": "Using Rust for kernel development [LWN.net]",
     "link": "https://lwn.net/Articles/870555/"
   },
   {
+    "date": "2021-06-09",
     "title": "Translating Quake 3 into Rust :: Immunant, Inc",
     "link": "https://immunant.com/blog/2020/01/quake3/"
   },
   {
+    "date": "2020-11-4-",
+    "title": "Jobs :: Immunant, Inc",
+    "link": "https://immunant.com/jobs"
+  },
+  {
+    "date": "2020-01-28",
+    "title": "Bitfields Forever: Why we need a C-compatible Rust Crate :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2020/01/bitfields/"
+  },
+  {
+    "date": "2019-12-24",
     "title": "Source Code Linking: Merging C Headers into Rust Modules :: Immunant, Inc",
     "link": "https://immunant.com/blog/2019/12/header_merging/"
   },
   {
+    "date": "2019-11-26",
     "title": "Rust 2020: Lessons learned by transpiling C to Rust :: Immunant, Inc",
     "link": "https://immunant.com/blog/2019/11/rust2020/"
   },
   {
+    "date": "2019-08-27",
     "title": "Introduction to C2Rust :: Immunant, Inc",
     "link": "https://immunant.com/blog/2019/08/introduction-to-c2rust/"
   }

@@ -1,89 +1,116 @@
 [
   {
+    "date": "2024-05-29",
     "title": "When allocating unused memory boosts performance by 2x | Quickwit",
     "link": "https://quickwit.io/blog/performance-investigation"
   },
   {
+    "date": "2024-04-24",
     "title": "Tantivy 0.22 | Quickwit",
     "link": "https://quickwit.io/blog/tantivy-0.22"
   },
   {
+    "date": "2024-03-27",
     "title": "Quickwit 0.8: Indexing and Search at Petabyte Scale | Quickwit",
     "link": "https://quickwit.io/blog/quickwit-0.8"
   },
   {
+    "date": "2024-01-31",
     "title": "Quickwit 0.7: Elasticsearch API compatibility and 30% performance gains | Quickwit",
     "link": "https://quickwit.io/blog/quickwit-0.7"
   },
   {
+    "date": "2023-07-05",
     "title": "A compressed indexable bitset | Quickwit",
     "link": "https://quickwit.io/blog/compressed-indexable-bitset"
   },
   {
+    "date": "2023-06-21",
     "title": "Tantivy 0.20: Schemaless | Quickwit",
     "link": "https://quickwit.io/blog/tantivy-0.20"
   },
   {
+    "date": "2023-06-14",
     "title": "Observe your Rust application with Quickwit, Jaeger and Grafana | Quickwit",
     "link": "https://quickwit.io/blog/observing-rust-app-with-quickwit-jaeger-grafana"
   },
   {
+    "date": "2023-06-07",
     "title": "Quickwit 0.6: Elasticsearch compatibility, Grafana support, and more... | Quickwit",
     "link": "https://quickwit.io/blog/quickwit-0.6"
   },
   {
+    "date": "2023-05-24",
     "title": "Whichlang: A fast language detection library for Rust | Quickwit",
     "link": "https://quickwit.io/blog/whichlang-language-detection-library"
   },
   {
+    "date": "2023-05-03",
     "title": "Efficient indexing with Quickwit Rust actor framework | Quickwit",
     "link": "https://quickwit.io/blog/quickwit-actor-framework"
   },
   {
+    "date": "2023-03-22",
     "title": "Quickwit 0.5: Distributed tracing with Open Telemetry and Jaeger, VRL, Pulsar support, and more... | Quickwit",
     "link": "https://quickwit.io/blog/quickwit-0.5"
   },
   {
+    "date": "2023-02-08",
     "title": "FOSDEM 2023 - Building a distributed search engine with tantivy",
     "link": "https://fosdem.org/2023/schedule/event/rust_building_a_distributed_search_engine_with_tantivy/"
   },
   {
+    "date": "2023-02-08",
     "title": "FOSDEM 2023 - Building an actor library for Quickwit's indexing pipeline.",
     "link": "https://fosdem.org/2023/schedule/event/building_an_actor_library_for_quickwits_indexing_pipeline/"
   },
   {
+    "date": "2022-09-07",
     "title": "Page Not Found | Quickwit",
     "link": "https://quickwit.io/blog/filtering%20a%20vector%20with%20simd%20instructions%20avx-2%20and%20avx-512/"
   },
   {
+    "date": "2022-06-01",
     "title": "Senior Software Engineer, Rust &amp; distributed systems | Quickwit",
     "link": "https://quickwit.io/jobs/distributed-software-engineer"
   },
   {
+    "date": "2022-05-11",
     "title": "Decentralized cluster membership in Rust | Quickwit",
     "link": "https://quickwit.io/blog/chitchat"
   },
   {
+    "date": "2022-04-20",
     "title": "Full-text search for DynamoDB using Lambda, EFS, Tantivy and Rust.",
     "link": "https://jakejscott.com/full-text-search-for-dynamodb-using-lambda-efs-tantivy-and-rust"
   },
   {
+    "date": "2022-03-30",
     "title": "Page Not Found | Quickwit",
     "link": "https://quickwit.io/jobs/oss-software-search-engineering-intern"
   },
   {
+    "date": "2022-03-16",
     "title": "Page Not Found | Quickwit",
     "link": "https://quickwit.io/blog/tantivy-0.17/"
   },
   {
+    "date": "2022-01-19",
     "title": "Quickwit 0.2 brings full-text search to ClickHouse and Kafka! | Quickwit",
     "link": "https://quickwit.io/blog/quickwit-0.2"
   },
   {
+    "date": "2021-11-24",
+    "title": "How lnx does fuzzy searching over 5x faster with SymSpell",
+    "link": "https://chillfish8.ghost.io/fuzzy-searching-5x-faster-with-symspell/"
+  },
+  {
+    "date": "2021-10-27",
     "title": "Page Not Found | Quickwit",
     "link": "https://quickwit.io/blog/search-a-sorted-block/"
   },
   {
+    "date": "2021-07-21",
     "title": "Page Not Found | Quickwit",
     "link": "https://quickwit.io/blog/quickwit-first-release/"
   }

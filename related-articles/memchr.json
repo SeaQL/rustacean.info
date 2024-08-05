@@ -1,9 +1,31 @@
 [
   {
+    "date": "2024-01-24",
+    "title": "Billion-row challenge: Rust walkthrough | AmineDiro",
+    "link": "https://aminediro.com/posts/billion_row/"
+  },
+  {
+    "date": "2023-12-13",
     "title": "Boost Rust Code 7x with SIMD: Key Rules | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-simd-acceleration-of-your-rust-code-part-1-c16fe639ce21"
   },
   {
+    "date": "2023-10-25",
+    "title": "moao's blog",
+    "link": "https://marcos.unsafe.rs/trying-to-invent-a-better-substring-search-algorithm/"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "Regex engine internals as a library - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/regex-internals/"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
+  },
+  {
+    "date": "2018-02-20",
     "title": "Porting Rust to WebAssembly · udoprog",
     "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
   }

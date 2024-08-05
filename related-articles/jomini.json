@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-12-27",
+    "title": "The dark side of inlining and monomorphization",
+    "link": "https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/"
+  },
+  {
+    "date": "2021-09-22",
     "title": "Reality check for Cloudflare Wasm Workers and Rust",
     "link": "https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust"
   },
   {
+    "date": "2020-10-07",
     "title": "Results of Authoring a JS Library with Rust and Wasm",
     "link": "https://nickb.dev/blog/results-of-authoring-a-js-library-with-rust-and-wasm"
   }

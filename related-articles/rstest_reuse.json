@@ -1,10 +1,17 @@
 [
   {
+    "date": "2024-05-22",
     "title": "v0.26.3 | Ratatui",
     "link": "https://ratatui.rs/highlights/v0263/"
   },
   {
+    "date": "2024-03-27",
     "title": "Everything you need to know about testing in Rust",
     "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
   }
 ]

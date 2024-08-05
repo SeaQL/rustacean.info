@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2023-02-22",
+    "title": "Lightweight, Predictable Async Send Bounds",
+    "link": "https://theincredibleholk.org/blog/2023/02/16/lightweight-predictable-async-send-bounds/"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "A Look at dyn* Code Generation",
+    "link": "https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "Paper Review: Safe, Flexible Aliasing with Deferred Borrows",
+    "link": "https://blog.theincredibleholk.org/blog/2022/07/29/safe-flexible-aliasing-with-deferred-borrows/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "How Async Functions in Traits could Work in Rustc",
+    "link": "https://blog.theincredibleholk.org/blog/2022/04/18/how-async-functions-in-traits-could-work-in-rustc/"
+  },
+  {
+    "date": "2013-11-19",
+    "title": "Booting to Rust",
+    "link": "http://blog.theincredibleholk.org/blog/2013/11/18/booting-to-rust/"
+  }
+]

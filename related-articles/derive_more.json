@@ -1,21 +1,41 @@
 [
   {
+    "date": "2024-06-05",
+    "title": "The ultimate guide to Rust newtypes",
+    "link": "https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes"
+  },
+  {
+    "date": "2024-05-08",
     "title": "derive_more - Rust",
     "link": "https://docs.rs/derive_more"
   },
   {
+    "date": "2024-04-03",
     "title": "Universal domain types",
     "link": "https://mmapped.blog/posts/25-domain-types.html"
   },
   {
+    "date": "2023-01-25",
+    "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part02"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Building a Simple DB in Rust - Part 1 - Parsing | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part01"
+  },
+  {
+    "date": "2022-06-01",
     "title": "Impl-tools: beyond derive - KAS blog",
     "link": "https://kas-gui.github.io/blog/impl-tools.html"
   },
   {
+    "date": "2020-11-4-",
     "title": "The Newtype Pattern in Rust",
     "link": "https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html"
   },
   {
+    "date": "2019-02-05",
     "title": "Learning Rust via Advent of Code",
     "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
   }

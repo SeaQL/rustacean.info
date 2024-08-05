@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-10-20",
     "title": "serde_with - Rust",
     "link": "https://docs.rs/serde_with"
   }

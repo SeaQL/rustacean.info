@@ -1,94 +1,282 @@
 [
   {
+    "date": "2024-07-24",
     "title": "Plugins with Rust and WASI Preview 2",
     "link": "https://benw.is/posts/plugins-with-rust-and-wasi"
   },
   {
+    "date": "2024-06-19",
+    "title": "Path Generics in Rust: A Sketch Proposal for Simplicity and Generality",
+    "link": "https://cfallin.org/blog/2024/06/12/rust-path-generics/"
+  },
+  {
+    "date": "2024-05-29",
     "title": "Wasmi's New Execution Engine - Faster Than Ever | Wasmi Labs",
     "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/"
   },
   {
+    "date": "2024-02-14",
+    "title": "Calling Rust FFI libraries from Go",
+    "link": "https://blog.arcjet.com/calling-rust-ffi-libraries-from-go/"
+  },
+  {
+    "date": "2024-01-31",
     "title": "Arroyo with Micah Wylde - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e04-arroyo"
   },
   {
+    "date": "2023-11-22",
+    "title": "Bytecode Alliance — Wasmtime and Cranelift in 2023",
+    "link": "https://bytecodealliance.org/articles/wasmtime-and-cranelift-in-2023"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "Was Rust Worth It?. From JavaScript to Rust, three years… | by Jarrod Overson | Medium",
+    "link": "https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "Progress report on rustc_codegen_cranelift (Oct 2023) | bjorn3",
+    "link": "https://bjorn3.github.io/2023/10/31/progress-report-oct-2023.html"
+  },
+  {
+    "date": "2023-08-02",
+    "title": "Progress report on rustc_codegen_cranelift (July 2023) | bjorn3",
+    "link": "https://bjorn3.github.io/2023/07/29/progress-report-july-2023.html"
+  },
+  {
+    "date": "2023-03-01",
     "title": "Bytecode Alliance — Announcing wasi-threads",
     "link": "https://bytecodealliance.org/articles/wasi-threads"
   },
   {
+    "date": "2023-02-22",
     "title": "How to run WebAssembly from your Rust Program - 21 Lessons",
     "link": "https://21-lessons.com/how-to-run-webassembly-from-your-rust-program/"
   },
   {
+    "date": "2023-02-01",
     "title": "Plugins for Rust",
     "link": "https://reorchestrate.com/posts/plugins-for-rust/"
   },
   {
+    "date": "2022-12-21",
     "title": "Bytecode Alliance — Cranelift Progress in 2022",
     "link": "https://bytecodealliance.org/articles/cranelift-progress-2022"
   },
   {
+    "date": "2022-10-19",
     "title": "Why Rust? — Rerun",
     "link": "https://www.rerun.io/blog/why-rust"
   },
   {
+    "date": "2022-10-19",
+    "title": "Progress report on rustc_codegen_cranelift (Oct 2022) | bjorn3",
+    "link": "https://bjorn3.github.io/2022/10/12/progress-report-okt-2022.html"
+  },
+  {
+    "date": "2022-09-21",
     "title": "Bytecode Alliance — Wasmtime Reaches 1.0: Fast, Safe and Production Ready!",
     "link": "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready"
   },
   {
+    "date": "2022-09-14",
+    "title": "Bytecode Alliance — Security and Correctness in Wasmtime",
+    "link": "https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime"
+  },
+  {
+    "date": "2022-09-07",
+    "title": "Bytecode Alliance — Wasmtime 1.0: A Look at Performance",
+    "link": "https://bytecodealliance.org/articles/wasmtime-10-performance"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "WCT | HexoSynth 2022 - Devlog #7 - The DSP JIT Compiler",
+    "link": "https://m8geil.de/posts/hexosynth-7/"
+  },
+  {
+    "date": "2022-07-13",
+    "title": "WCT | HexoSynth 2022 - Devlog #4 - The Tracker Sequencer is Back",
+    "link": "https://m8geil.de/posts/hexosynth-4/"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Play Ping-Pong with Lunatic 🦀 UDP | by MissMissM (she/her) | Medium",
+    "link": "https://missmissm.medium.com/play-ping-pong-with-lunatic-udp-ef557a22a604"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Progress report on rustc_codegen_cranelift (June 2022) | bjorn3",
+    "link": "https://bjorn3.github.io/2022/06/13/progress-report-june-2022.html"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "Crash reporting in Rust",
+    "link": "https://jake-shadle.github.io/crash-reporting/"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "Ferris Talk #8: Wasm loves Rust – WebAssembly und Rust jenseits des Browsers | heise online",
+    "link": "https://www.heise.de/hintergrund/Ferris-Talk-8-Wasm-loves-Rust-WebAssembly-und-Rust-jenseits-des-Browsers-7064040.html"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "Rustaceans at the border [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/889924/2f35f6746c3dd9b1/"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "WebAssembly-Runtime: Wasmer 2.2 liefert mehr Leistung im Singlepass Compiler | heise online",
+    "link": "https://www.heise.de/news/WebAssembly-Runtime-Wasmer-2-2-liefert-mehr-Leistung-im-Singlepass-Compiler-6533165.html"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Containerless! How to Run WebAssembly Workloads on Kubernetes with Rust | Okta Developer",
     "link": "https://developer.okta.com/blog/2022/01/28/webassembly-on-kubernetes-with-rust"
   },
   {
+    "date": "2021-12-15",
     "title": "Bytecode Alliance — Cranelift Progress Report: A Look Back at 2021",
     "link": "https://bytecodealliance.org/articles/cranelift-progress-2021"
   },
   {
+    "date": "2021-12-15",
     "title": "y|sndr - Rust as a platform for IoT",
     "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
   },
   {
+    "date": "2021-09-08",
     "title": "Plugins in Rust: Getting Started | NullDeref",
     "link": "https://nullderef.com/blog/plugin-start/"
   },
   {
+    "date": "2021-09-08",
     "title": "Rust programs written entirely in Rust · sunfishcode's blog",
     "link": "https://blog.sunfishcode.online/rust-programs-entirely-in-rust/"
   },
   {
+    "date": "2021-08-25",
     "title": "Cross compiling Windows binaries from Linux",
     "link": "https://jake-shadle.github.io/xwin/"
   },
   {
+    "date": "2021-08-18",
     "title": "Paul Butler – Calling WebAssembly from Rust",
     "link": "https://paulbutler.org/2021/calling-webassembly-from-rust/"
   },
   {
+    "date": "2021-08-10",
+    "title": "Progress report on rustc_codegen_cranelift (July 2021) | bjorn3",
+    "link": "https://bjorn3.github.io/2021/08/05/progress-report-july-2021.html"
+  },
+  {
+    "date": "2021-06-16",
+    "title": "Introducing cap-std, a capability-based version of the Rust standard library · sunfishcode's blog",
+    "link": "https://blog.sunfishcode.online/introducing-cap-std/"
+  },
+  {
+    "date": "2021-05-26",
     "title": "Zig Makes Rust Cross-compilation Just Work | Actually.fyi",
     "link": "https://actually.fyi/posts/zig-makes-rust-cross-compilation-just-work/"
   },
   {
+    "date": "2021-05-19",
     "title": "Plugins in Rust: The Technologies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-tech/"
   },
   {
+    "date": "2021-05-05",
+    "title": "A story about async Rust and using !Send types",
+    "link": "https://procmarco.netlify.app/blog/2021-05-04-a-story-about-async-rust-and-using-send-types/"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "Progress report on rustc_codegen_cranelift (April 2021) | bjorn3",
+    "link": "https://bjorn3.github.io/2021/04/13/progress-report-april-2021.html"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "Weird architectures weren't supported to begin with",
+    "link": "https://blog.yossarian.net/2021/02/28/Weird-architectures-werent-supported-to-begin-with"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "Cranelift, Part 3: Correctness in Register Allocation",
+    "link": "https://cfallin.org/blog/2021/03/15/cranelift-isel-3/"
+  },
+  {
+    "date": "2021-02-24",
     "title": "A primer on code generation in Cranelift by Benjamin Bouvier",
     "link": "https://blog.benj.me/2021/02/17/cranelift-codegen-primer/"
   },
   {
+    "date": "2021-02-17",
+    "title": "Cranelift, Part 2: Compiler Efficiency, CFGs, and a Branch Peephole Optimizer",
+    "link": "https://cfallin.org/blog/2021/01/22/cranelift-isel-2/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "Progress report on rustc_codegen_cranelift (Dec 2020) | bjorn3",
+    "link": "https://bjorn3.github.io/2021/01/07/progress-report-dec-2020.html"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Fixing bootstrap of rustc using cg_clif | bjorn3",
+    "link": "https://bjorn3.github.io/2020/11/01/fixing-rustc-bootstrap-with-cg_clif.html"
+  },
+  {
+    "date": "2020-10-14",
     "title": "A New Backend for Cranelift, Part 1: Instruction Selection - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2020/10/a-new-backend-for-cranelift-part-1-instruction-selection/"
   },
   {
+    "date": "2020-10-07",
+    "title": "Headcrab, a modern Rust debugger library",
+    "link": "https://headcrab.rs/2020/10/01/september-update.html"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Progress report on rustc_codegen_cranelift (Sep 2020) | bjorn3",
+    "link": "https://bjorn3.github.io/2020/09/28/progress-report-sep-2020.html"
+  },
+  {
+    "date": "2020-09-23",
     "title": "A New Backend for Cranelift, Part 1: Instruction Selection",
     "link": "https://cfallin.org/blog/2020/09/18/cranelift-isel-1/"
   },
   {
+    "date": "2020-08-25",
+    "title": "Writing a Test Case Generator for a Programming Language",
+    "link": "https://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
+  },
+  {
+    "date": "2020-08-18",
     "title": "Webassembly Without The Browser Part 1 | Alexandru Ene blog",
     "link": "https://alexene.dev/2020/08/17/webassembly-without-the-browser-part-1.html"
   },
   {
+    "date": "2020-05-05",
+    "title": "Stubbing out WASI manually in Rust",
+    "link": "http://www.jakubkonka.com/2020/04/28/rust-wasi-from-scratch.html"
+  },
+  {
+    "date": "2020-04-14",
+    "title": "Jason Williams - A Possible New Backend for Rust",
+    "link": "https://jason-williams.co.uk/a-possible-new-backend-for-rust"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "Jason Williams - Debugging Rust in VSCode",
+    "link": "https://jason-williams.co.uk/debugging-rust-in-vscode"
+  },
+  {
+    "date": "2019-12-17",
     "title": "WebAssembly as a Platform for Abstraction · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/"
+  },
+  {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
   }
 ]

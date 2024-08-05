@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2022-10-12",
+    "title": "Single Pass Recursion in Rust -",
+    "link": "https://recursion.wtf/posts/rust_schemes_3/"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "Fully generic recursion in Rust -",
+    "link": "https://recursion.wtf/posts/rust_schemes_2/"
+  },
+  {
+    "date": "2021-05-26",
+    "title": "Baseline implementations should be predictable - Paul Khuong: some Lisp",
+    "link": "https://pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/"
+  },
+  {
+    "date": "2019-04-23",
+    "title": "6 useful Rust macros that you might not have seen before | by Ben | Medium",
+    "link": "https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "date": "2024-02-28",
+    "title": "argmin 0.10.0 and argmin-math v0.4.0 | argmin",
+    "link": "https://argmin-rs.org/blog/version-v0-10-0/"
+  },
+  {
+    "date": "2024-02-21",
+    "title": "argmin_testfunctions 0.2.0 and argmin-testfunctions-py v0.0.1 released | argmin",
+    "link": "https://argmin-rs.org/blog/argmin-testfunctions-v0-2-0/"
+  },
+  {
+    "date": "2024-01-10",
+    "title": "argmin 0.9.0 released | argmin",
+    "link": "https://argmin-rs.org/blog/version-v0-9-0/"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "argmin 0.8.0 and argmin-math 0.3.0 released | argmin",
+    "link": "https://argmin-rs.org/blog/version-v0-8-0/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "sphrs 0.2.0 released | argmin",
+    "link": "http://argmin-rs.org/blog/sphrs-v0-2-0/"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "Accessing Firebird With Diesel and Rust | by Luis Fernando Batels | Better Programming",
+    "link": "https://betterprogramming.pub/diesel-firebird-en-a4d00e793e1d"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "argmin 0.7.0 and argmin-math 0.2.0 released | argmin",
+    "link": "http://argmin-rs.org/blog/version-v0-7-0/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "argmin 0.6.0 and argmin-math 0.1.0 released | argmin",
+    "link": "http://argmin-rs.org/blog/version-v0-6-0/"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "Sensor Calibration From Scratch Using Rust: Part 3 of 3",
+    "link": "https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-3-of-3"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "Sensor Calibration from Scratch with Rust",
+    "link": "https://www.tangramvision.com/blog/calibration-from-scratch-using-rust-part-1-of-3"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Surviving Rust async interfaces",
+    "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
+  },
+  {
+    "date": "2019-08-06",
+    "title": "Rust reverses research ruin. 31–07–2019 | by Benjamin Blundell | Medium",
+    "link": "https://medium.com/@me_26124/rust-reverses-research-ruin-88641c11a99f"
+  },
+  {
+    "date": "2018-01-16",
+    "title": "clap - Rust",
+    "link": "https://clap.rs/2018/01/09/new-years-weight-loss/"
+  }
+]

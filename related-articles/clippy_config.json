@@ -1,165 +1,286 @@
 [
   {
+    "date": "2024-05-29",
     "title": "How We Migrated Our Static Analyzer From Java to Rust | Datadog",
     "link": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"
   },
   {
+    "date": "2024-05-29",
+    "title": "Fyrox Game Engine 0.34 | Fyrox - A feature-rich game engine built in Rust",
+    "link": "https://fyrox.rs/blog/post/fyrox-game-engine-0-34/"
+  },
+  {
+    "date": "2024-01-31",
     "title": "Arroyo with Micah Wylde - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e04-arroyo"
   },
   {
+    "date": "2024-01-24",
     "title": "Writing your own Rust linter",
     "link": "https://blog.guillaume-gomez.fr/articles/2024-01-18+Writing+your+own+Rust+linter"
   },
   {
+    "date": "2023-12-06",
+    "title": "Behind the Scenes of Rust String Formatting: format_args!() - Mara's Blog",
+    "link": "https://blog.m-ou.se/format-args/"
+  },
+  {
+    "date": "2023-11-22",
     "title": "A JVM in Rust part 8 - Retrospective · Andrea Bergia's Website",
     "link": "https://andreabergia.com/blog/2023/11/a-jvm-in-rust-part-8-retrospective/"
   },
   {
+    "date": "2023-11-01",
     "title": "Was Rust Worth It?. From JavaScript to Rust, three years… | by Jarrod Overson | Medium",
     "link": "https://jsoverson.medium.com/was-rust-worth-it-f43d171fb1b3"
   },
   {
+    "date": "2023-09-13",
     "title": "Time travel debugging Rust in NeoVim | jonboh's blog",
     "link": "https://jonboh.dev/posts/rr/"
   },
   {
+    "date": "2023-06-07",
     "title": "Episode 5: Putting Lipstick on a Pig - The Way of the Crab",
     "link": "https://wayofthecrab.com/episodes/005/"
   },
   {
+    "date": "2023-03-01",
+    "title": "What I learned from contributing to Rust's linter • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/clippy/"
+  },
+  {
+    "date": "2022-10-26",
     "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
   },
   {
+    "date": "2022-08-03",
+    "title": "Proc macro support in rust-analyzer for nightly rustc versions",
+    "link": "https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "This Week in Rust - Issue 446 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/twir-446/"
+  },
+  {
+    "date": "2022-06-22",
     "title": "Nine Rules for Elegant Rust Library APIs | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-elegant-rust-library-apis-9b986a465247"
   },
   {
+    "date": "2022-05-25",
+    "title": "Fixing Memory Leaks in Rust",
+    "link": "https://onesignal.com/blog/solving-memory-leaks-in-rust/"
+  },
+  {
+    "date": "2022-03-16",
     "title": "Things I hate about Rust, redux",
     "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"
   },
   {
+    "date": "2022-02-16",
     "title": "Dare to ask for more #rust2024 · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2022/02/09/dare-to-ask-for-more-rust2024/"
   },
   {
+    "date": "2022-02-16",
+    "title": "A Rust match made in hell",
+    "link": "https://fasterthanli.me/articles/a-rust-match-made-in-hell"
+  },
+  {
+    "date": "2022-01-26",
     "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
     "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
   },
   {
+    "date": "2022-01-26",
+    "title": "Rust: detect unsigned integer underflow | blog frehberg",
+    "link": "https://frehberg.com/2022/01/rust-detect-unsigned-integer-underflow/"
+  },
+  {
+    "date": "2021-12-22",
     "title": "Announcing Tokio Console 0.1 | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-12-announcing-tokio-console"
   },
   {
+    "date": "2021-11-24",
     "title": "Error Handling in Rust with Jane Lusby :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/047-jane-lusby/"
   },
   {
+    "date": "2021-11-10",
     "title": "Write Rust lints without forking Clippy | Trail of Bits Blog",
     "link": "https://blog.trailofbits.com/2021/11/09/write-rust-lints-without-forking-clippy/"
   },
   {
+    "date": "2021-10-27",
     "title": "Writing a Linux-compatible kernel in Rust - seiya.me",
     "link": "https://seiya.me/writing-linux-clone-in-rust"
   },
   {
+    "date": "2021-10-27",
+    "title": "What's New in Rust 1.54 and 1.55 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/039-rust-1.54-1.55/"
+  },
+  {
+    "date": "2021-10-13",
     "title": "The nightly elephant in the room | Synth",
     "link": "https://www.getsynth.com/docs/blog/2021/10/11/nightly"
   },
   {
+    "date": "2021-09-29",
     "title": "AnyLeaf articles: Writing embedded firmware using Rust",
     "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
   },
   {
+    "date": "2021-09-08",
+    "title": "Writing software that's reliable enough for production",
+    "link": "https://pythonspeed.com/fil/docs/fil4prod/reliable.html"
+  },
+  {
+    "date": "2021-07-21",
+    "title": "A GPIO driver in Rust [LWN.net]",
+    "link": "https://lwn.net/Articles/863459/"
+  },
+  {
+    "date": "2021-06-16",
     "title": "Console Newsletter - The best tools for developers",
     "link": "https://console.dev/interviews/atuin-ellie-huxtable/"
   },
   {
+    "date": "2021-05-26",
     "title": "Sibi - Rucredstash release &amp; Rust experience from a Haskeller",
     "link": "https://psibi.in/posts/2021-05-22-credstash.html"
   },
   {
+    "date": "2021-04-14",
     "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
     "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"
   },
   {
+    "date": "2021-01-13",
     "title": "Rust Language Cheat Sheet",
     "link": "https://cheats.rs/"
   },
   {
+    "date": "2020-11-11",
+    "title": "A survey into static analyzers configurations: Clippy for Rust, part 1 | by Pavel Ignatovich | monocodus | Medium",
+    "link": "https://medium.com/monocodus/a-survey-into-static-analyzers-configurations-clippy-for-rust-part-1-5de50fd9326"
+  },
+  {
+    "date": "2020-10-21",
     "title": "Learn Rust With Benford's Law&nbsp;–&nbsp;gliderkite.io",
     "link": "https://gliderkite.github.io/posts/learn-rust-with-benford/"
   },
   {
+    "date": "2020-10-14",
     "title": "Learning Rust through open source and live code reviews",
     "link": "https://loige.co/learning-rust-through-open-source-and-live-code-reviews/"
   },
   {
+    "date": "2020-09-30",
+    "title": "Progress report on rustc_codegen_cranelift (Sep 2020) | bjorn3",
+    "link": "https://bjorn3.github.io/2020/09/28/progress-report-sep-2020.html"
+  },
+  {
+    "date": "2020-09-30",
     "title": "Learning Rust the Open Source Way",
     "link": "https://bitsbybrad.com/2020-09-29-learning-rust/"
   },
   {
+    "date": "2020-09-09",
     "title": "Create an amazing Rust GitHub project in no time • Marco Ieni",
     "link": "https://www.marcoieni.com/2020/09/create-an-amazing-rust-github-project-in-no-time/"
   },
   {
+    "date": "2020-06-16",
     "title": "Playing Codenames with Rust",
     "link": "https://rolisz.ro/2020/06/10/playing-codenames-with-rust/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2020-06-10",
     "title": "Setup - Toolchain, IDEs, CI | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/"
   },
   {
+    "date": "2020-05-27",
     "title": "Just: How I Organize Large Rust Programs – Casey Rodarmor's Blog",
     "link": "https://rodarmor.com/blog/tour-de-just"
   },
   {
+    "date": "2020-05-19",
+    "title": "What's New in Rust 1.42 and 1.43 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/014-rust-1.42-1.43/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Async interviews: my take thus far · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/04/30/async-interviews-my-take-thus-far/"
+  },
+  {
+    "date": "2020-05-05",
     "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
     "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
   },
   {
+    "date": "2020-05-05",
     "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
     "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
   },
   {
+    "date": "2020-04-21",
     "title": "Rust lang Tips and&nbsp;Tricks - Mudit Gupta's Blog",
     "link": "https://mudit.blog/rust-tips-and-tricks/"
   },
   {
+    "date": "2020-04-14",
     "title": "Library-ification and analyzing Rust · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2020/04/09/libraryification/"
   },
   {
+    "date": "2020-01-21",
     "title": "What is Rust and why is it so popular? - Stack Overflow",
     "link": "https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/"
   },
   {
+    "date": "2020-01-07",
     "title": "Let The Compiler Do The Work - Cliffle",
     "link": "http://cliffle.com/p/dangerust/6/"
   },
   {
+    "date": "2019-12-31",
     "title": "Should Clippy Care From Whence They Came? — Llogiq on stuff",
     "link": "https://llogiq.github.io/2020/01/01/clippy.html"
   },
   {
+    "date": "2019-12-10",
     "title": "Inside Rust at Embark 🦀. A peek inside our day-to-day work with… | by Ari V | Embark Studios | Medium",
     "link": "https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4"
   },
   {
+    "date": "2019-10-08",
     "title": "http://pm.inf.ethz.ch/publications/getpdf.php?bibname=Own&id=AstrauskasMuellerPoliSummers19b.pdf",
     "link": "http://pm.inf.ethz.ch/publications/getpdf.php?bibname=Own&id=AstrauskasMuellerPoliSummers19b.pdf"
   },
   {
+    "date": "2019-03-26",
+    "title": "Rust All Hands 2019: Array iterators, Rayon, and more | Red Hat Developer",
+    "link": "https://developers.redhat.com/blog/2019/03/22/rust-all-hands-2019-array-iterators-rayon-and-more/"
+  },
+  {
+    "date": "2019-02-05",
     "title": "Learning Rust via Advent of Code",
     "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
   },
   {
+    "date": "2018-11-27",
     "title": "Rust Language Cheat Sheet",
     "link": "https://cheats.rs"
   }

@@ -1,14 +1,27 @@
 [
   {
+    "date": "2024-05-22",
     "title": "Welcome - 100 Exercises To Learn Rust",
     "link": "https://rust-exercises.com/"
   },
   {
+    "date": "2023-11-08",
     "title": "Rust for JavaScript Developers: An Overview of Testing",
     "link": "https://www.shuttle.rs/blog/2023/11/08/testing-in-rust"
   },
   {
+    "date": "2023-05-24",
     "title": "Mocking in Rust: Mockall and alternatives - LogRocket Blog",
     "link": "https://blog.logrocket.com/mocking-rust-mockall-alternatives"
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Naive Newsletter Delivery | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/naive-newsletter-delivery/"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "How To Write A REST Client In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/how-to-write-a-rest-client-in-rust-with-reqwest-and-wiremock/"
   }
 ]

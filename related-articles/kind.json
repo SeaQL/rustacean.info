@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-02-14",
+    "title": "Kind: Our Rust library that provides zero-cost, type-safe identifiers",
+    "link": "https://www.wingback.com/blog/kind-library-that-provides-zero-cost-type-safe-identifiers"
+  },
+  {
+    "date": "2023-08-09",
+    "title": "Handling Rust enum variants with kinded crate | Serhii Potapov (greyblake)",
+    "link": "https://www.greyblake.com/blog/handling-rust-enum-variants-with-kinded-crate/"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2020-12-9-",
+    "title": "Rust compression libraries - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-compression-libraries/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Memory efficient serialization of tagged union",
+    "link": "https://robinmoussu.gitlab.io/blog/post/binary_serialisation_of_enum/"
+  }
+]

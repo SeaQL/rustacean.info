@@ -1,17 +1,26 @@
 [
   {
+    "date": "2023-07-26",
     "title": "A visual tree iterator in Rust",
     "link": "https://blog.danieljanus.pl/2023/07/20/iterating-trees/"
   },
   {
+    "date": "2023-05-03",
     "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
     "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
   },
   {
+    "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
   },
   {
+    "date": "2021-05-12",
+    "title": "Incrementally porting a small Python project to Rust",
+    "link": "https://blog.waleedkhan.name/port-python-to-rust/"
+  },
+  {
+    "date": "2016-12-20",
     "title": "24 days of Rust - Cursive | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-cursive/"
   }

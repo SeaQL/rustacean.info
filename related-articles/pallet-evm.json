@@ -1,5 +1,21 @@
 [
   {
+    "date": "2022-02-16",
+    "title": "How to build a custom blockchain implementation in Rust using Substrate - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-build-a-custom-blockchain-implementation-in-rust-using-substrate/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Connect devices to blockchains with Léger.",
+    "link": "http://www.cyrilfougeray.com/2020/12/14/leger-rust-wallet-1.html"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Building A Blockchain in Rust &amp; Substrate: [A Step-by-Step Guide for Developers] | HackerNoon",
+    "link": "https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp"
+  },
+  {
+    "date": "2019-09-17",
     "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
     "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
   }

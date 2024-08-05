@@ -1,13 +1,31 @@
 [
   {
+    "date": "2024-06-26",
     "title": "uuid now properly supports version 7 counters | Some words",
     "link": "https://kodraus.github.io/rust/2024/06/24/uuid-v7-counters.html"
   },
   {
+    "date": "2024-04-17",
+    "title": "My logging recipe for server side Rust |",
+    "link": "https://www.matildasmeds.com/posts/rust-logging-recipe/"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "Object Soup is Made of Indexes",
+    "link": "https://jacko.io/object_soup.html"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "The Magic of zerocopy",
+    "link": "https://swatinem.de/blog/magic-zerocopy/"
+  },
+  {
+    "date": "2022-07-20",
     "title": "What's new in SeaORM 0.9.0 | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
     "link": "https://www.sea-ql.org/SeaORM/blog/2022-07-17-whats-new-in-0.9.0/"
   },
   {
+    "date": "2014-12-15",
     "title": "24 days of Rust - uuid | siciarz.net",
     "link": "https://siciarz.net/24-days-of-rust-uuid/"
   }

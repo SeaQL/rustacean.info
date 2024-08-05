@@ -1,5 +1,16 @@
 [
   {
+    "date": "2023-01-11",
+    "title": "Potential DoS Vulnerability in Rust Hyper",
+    "link": "https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "rust-phf: the perfect hash function | Mainmatter",
+    "link": "https://simplabs.com/blog/2022/06/23/the-perfect-hash-function/"
+  },
+  {
+    "date": "2017-10-10",
     "title": "Wiki - AnOpinionatedGuideToRustWebServers",
     "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
   }

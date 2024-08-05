@@ -1,89 +1,151 @@
 [
   {
+    "date": "2023-11-01",
     "title": "Can Rust prevent logic errors? | It's all about the bit",
     "link": "https://itsallaboutthebit.com/logic-errors-in-rust/"
   },
   {
+    "date": "2023-10-04",
     "title": "Nine Rules to Formally Validate Rust Algorithms with&nbsp;Dafny by Carl Kadie &amp; Divyanshu Ranjan | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-to-formally-validate-rust-algorithms-with-dafny-part-1-5cb8c8a0bb92"
   },
   {
+    "date": "2023-07-12",
+    "title": "bridging fuzzing and property testing",
+    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
+  },
+  {
+    "date": "2023-06-14",
     "title": "Check AI-Generated Code Perfectly and Automatically | by Carl M. Kadie | Medium",
     "link": "https://medium.com/p/d5b61acff741"
   },
   {
+    "date": "2023-04-12",
     "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
   },
   {
+    "date": "2021-11-17",
     "title": "Mononym: Type-Level Named Values in Rust - Part 1: Demo and Implementation | MaybeVoid",
     "link": "https://maybevoid.com/blog/mononym-part-1/"
   },
   {
+    "date": "2021-10-27",
+    "title": "2021 | No Time for Chrono - Félix Saparelli",
+    "link": "https://passcod.name/technical/no-time-for-chrono.html"
+  },
+  {
+    "date": "2021-07-14",
+    "title": "How to Simplify Working With Time-Series Data in PostgreSQL",
+    "link": "https://blog.timescale.com/blog/introducing-hyperfunctions-new-sql-functions-to-simplify-working-with-time-series-data-in-postgresql/?utm_source=timescaledb&utm_medium=social&utm_campaign=hyperfunctions-1-0-release&utm_content=blog-introducing-hyperfunctions"
+  },
+  {
+    "date": "2021-03-31",
     "title": "Testing an embedded application  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/test-embedded-app/"
   },
   {
+    "date": "2021-01-06",
     "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
   },
   {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-10-14",
     "title": "Learning Rust through open source and live code reviews",
     "link": "https://loige.co/learning-rust-through-open-source-and-live-code-reviews/"
   },
   {
+    "date": "2020-09-30",
     "title": "Porting EBU R128 audio loudness analysis from C to Rust – Porting Details – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust-porting-details/"
   },
   {
+    "date": "2020-09-23",
     "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
   },
   {
+    "date": "2020-08-04",
+    "title": "partial-io — async Rust library // Lib.rs",
+    "link": "https://lib.rs/crates/partial-io"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "How to organize your Rust tests - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "How to write CRaP Rust code - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
+  },
+  {
+    "date": "2019-08-06",
     "title": "Understanding Rust Through AVL Trees",
     "link": "https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/"
   },
   {
+    "date": "2018-12-18",
     "title": "Rust and WebAssembly in 2019",
     "link": "http://fitzgeraldnick.com/2018/12/14/rust-and-webassembly-in-2019.html"
   },
   {
+    "date": "2018-08-28",
+    "title": "Easy `proc_macro_derive`s with `synstructure` — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/08/25/synstruct.html"
+  },
+  {
+    "date": "2018-08-21",
     "title": "How Rust’s standard library was vulnerable for years and nobody noticed | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/how-rusts-standard-library-was-vulnerable-for-years-and-nobody-noticed-aebf0503c3d6"
   },
   {
+    "date": "2018-06-05",
     "title": "im - Rust",
     "link": "https://docs.rs/im"
   },
   {
+    "date": "2018-05-29",
     "title": "Fuzz testing in Rust with Cargo-fuzz | by Seasoned Software | Medium",
     "link": "https://medium.com/@seasoned_sw/fuzz-testing-in-rust-with-cargo-fuzz-13b89feecc30"
   },
   {
+    "date": "2017-05-30",
     "title": "Rust: A Scala Engineer's Perspective - BeachApe.",
     "link": "https://beachape.com/blog/2017/05/24/rust-from-scala/"
   },
   {
+    "date": "2016-08-02",
     "title": "Hidden treasures of the Rust ecosystem - Pascal’s Scribbles",
     "link": "https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html"
   },
   {
+    "date": "2016-08-02",
     "title": "Another happy quickcheck customer — Llogiq on stuff",
     "link": "https://llogiq.github.io/2016/07/29/quickcheck.html"
   },
   {
+    "date": "2016-05-16",
     "title": "Quick check: does your code work?",
     "link": "https://fnordig.de/2016/05/12/quickcheck-does-your-code-work/"
   },
   {
+    "date": "2016-05-02",
     "title": "Myths and Legends about Integer Overflow in Rust |  Huon on the internet",
     "link": "https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/"
   },
   {
+    "date": "2015-09-28",
     "title": "QuickCheck - Wikipedia",
     "link": "https://en.wikipedia.org/wiki/Quickcheck"
   },
   {
+    "date": "2015-08-31",
     "title": "An Optimising BF Compiler – Wilfred Hughes::Blog",
     "link": "http://www.wilfred.me.uk/blog/2015/08/29/an-optimising-bf-compiler/"
   }

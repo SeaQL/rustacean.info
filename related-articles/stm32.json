@@ -1,0 +1,187 @@
+[
+  {
+    "date": "2024-03-20",
+    "title": "The Embedded Rustacean Issue #15",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "ESP32 Embedded Rust at the HAL: Button-Controlled Blinking by Timer Polling",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-button-controlled-blinking-by-timer-polling"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "ESP32 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-button-controlled-blinking?ref=twitter-share"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "STM32F4 Embedded Rust at the PAC: GPIO Interrupts",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-interrupts"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "Rust FFI and cbindgen: Integrating Embedded Rust Code in C",
+    "link": "https://apollolabsblog.hashnode.dev/rust-ffi-and-cbindgen-integrating-embedded-rust-code-in-c"
+  },
+  {
+    "date": "2022-11-23",
+    "title": "Embedded Rust &amp; Embassy: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-embassy-gpio-button-controlled-blinking"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "4-Step Primer on Navigating Embedded Rust HAL Documentation",
+    "link": "https://apollolabsblog.hashnode.dev/4-step-primer-on-navigating-embedded-rust-hal-documentation"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "STM32F4 Embedded Rust at the HAL: SPI with the MAX7219 LED Dot Matrix",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-spi-with-the-max7219-led-dot-matrix"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "STM32F4 Embedded Rust at the HAL: DMA Controllers",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-dma-controllers"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "STM32F4 Embedded Rust at the HAL: Timer Interrupts",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-timer-interrupts"
+  },
+  {
+    "date": "2022-08-24",
+    "title": "STM32F4 Embedded Rust at the HAL: GPIO Interrupts",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-gpio-interrupts"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "STM32F4 Embedded Rust at the HAL: I2C  Temperature &amp; Pressure Sensing with BMP180",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-i2c-temperature-pressure-sensing-with-bmp180"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "STM32F4 Embedded Rust at the HAL: Analog Temperature Sensing using the ADC",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-analog-temperature-sensing-using-the-adc"
+  },
+  {
+    "date": "2022-07-27",
+    "title": "STM32F4 Embedded Rust at the HAL: Timer Ultrasonic Distance Measurement",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-timer-ultrasonic-distance-measurement"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "STM32F4 Embedded Rust at the HAL: PWM Buzzer",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-pwm-buzzer"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "STM32F4 Embedded Rust at the HAL: Button Controlled Blinking by Timer Polling",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-button-controlled-blinking-by-timer-polling"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "STM32F4 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-gpio-button-controlled-blinking"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "Demystifying Rust Embedded HAL Split and Constrain Methods",
+    "link": "https://apollolabsblog.hashnode.dev/demystifying-rust-embedded-hal-split-and-constrain-methods"
+  },
+  {
+    "date": "2022-03-30",
+    "title": "Oxide on My Wrist: Hubris on PineTime was the best worst idea",
+    "link": "https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html"
+  },
+  {
+    "date": "2021-09-29",
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The GPIO war: macro bunkers for typestate explosions - cuervo",
+    "link": "https://www.ecorax.net/macro-bunker-1/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Using Rust for a simple hardware project | tonari blog",
+    "link": "https://blog.tonari.no/rust-simple-hardware-project"
+  },
+  {
+    "date": "2020-11-25",
+    "title": "Jitter | Electronic Design and Consultancy",
+    "link": "https://jitter.company/blog/2020/11/23/bootstrapping-support-for-the-stm32wle-with-the-embedded-rust-ecosystem/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Rust Roadmap 2021: Allowing for arbitrary size integer primitives | The subconscious mumblings of therealprof",
+    "link": "https://therealprof.github.io/blog/roadmap-2021-arbitrary-size-primitives/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "As above, so below: Bare metal Rust generics 1/2 - cuervo",
+    "link": "https://www.ecorax.net/as-above-so-below-1/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-25/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/39/why-rust-is-a-great-fit-for-embedded-software"
+  },
+  {
+    "date": "2020-06-02",
+    "title": "Current State of Embedded Rust for Flight Controllers · GitHub",
+    "link": "https://gist.github.com/tstellanova/81c963f556522447dd007a0c3a84ebc3"
+  },
+  {
+    "date": "2019-04-23",
+    "title": "Using DMA to transfer data with Embedded Rust [ant @ flowdsp.io]",
+    "link": "https://flowdsp.io/blog/stm32f3-02-dac-dma/"
+  },
+  {
+    "date": "2018-10-09",
+    "title": "Bluetooth Low Energy with Rust | 219 Design",
+    "link": "https://219design.com/bluetooth-low-energy-with-rust/"
+  },
+  {
+    "date": "2018-06-12",
+    "title": "Sponsor work on Rust! · Aaron Turon",
+    "link": "https://aturon.github.io/sponsor/"
+  },
+  {
+    "date": "2018-05-01",
+    "title": "Embedded Rust Experiments - Flipping some bits high on STM32VLDISCOVERY board",
+    "link": "https://nercury.github.io/rust/embedded/experiments/2018/04/29/rust-embedded-01-discovery-vl-flipping-bits.html"
+  },
+  {
+    "date": "2018-03-06",
+    "title": "An introduction to writing platform agnostic drivers in Rust using the MCP3008 as an example.",
+    "link": "http://pramode.in/2018/02/24/an-introduction-to-writing-embedded-hal-based-drivers-in-rust/"
+  },
+  {
+    "date": "2018-02-27",
+    "title": "Programming an ARM microcontroller in Rust at four different levels of abstraction",
+    "link": "http://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "Brave new I/O | Embedded in Rust",
+    "link": "http://blog.japaric.io/brave-new-io/"
+  },
+  {
+    "date": "2017-05-09",
+    "title": "Fearless concurrency in your microcontroller | Embedded in Rust",
+    "link": "http://blog.japaric.io/fearless-concurrency/"
+  },
+  {
+    "date": "2017-05-02",
+    "title": "Rust your ARM microcontroller! | Embedded in Rust",
+    "link": "http://blog.japaric.io/quickstart/"
+  }
+]

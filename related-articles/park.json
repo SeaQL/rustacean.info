@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2024-01-24",
+    "title": "My Best and Worst Deadlock in Rust",
+    "link": "https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/"
+  },
+  {
+    "date": "2023-11-22",
+    "title": "A close encounter with false sharing | More Stina Blog!",
+    "link": "https://morestina.net/blog/1976/a-close-encounter-with-false-sharing"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "This Month in Rust OSDev: October 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-10/"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Deadlock-free Mutexes and Directed Acyclic Graphs | bertptrs.nl",
+    "link": "https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-impl/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Some mistakes Rust doesn't catch",
+    "link": "https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Rust Any Part 1: Extension Maps in Rust | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2022/1/6/rust-extension-map/"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Upgradable parking_lot::RwLock might not be what you expect | More Stina Blog!",
+    "link": "https://morestina.net/blog/1739/upgradable-parking_lotrwlock-might-not-be-what-you-expect"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The magical applications of Zero-Sized Types in Rust - Hardmo.de",
+    "link": "https://www.hardmo.de/article/2021-03-14-zst-proof-types.md"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Making concurrency fearless with Rust (for C++ developers) | by Radek Vít | Medium",
+    "link": "https://radekvit.medium.com/making-concurrency-fearless-with-rust-for-c-developers-d5d8da50a452"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Rust concurrency — five easy pieces. | by Gregory Terzian | Medium",
+    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-five-easy-pieces-871f1c62906a"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "(Almost) Lockless Stream Buffering - Kyle Simpson",
+    "link": "https://mcfelix.me/blog/shared-buffers/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Spinlocks Considered Harmful",
+    "link": "https://matklad.github.io//2020/01/02/spinlocks-considered-harmful.html"
+  },
+  {
+    "date": "2019-11-05",
+    "title": "Rust concurrency patterns: condvars and locks | by Gregory Terzian | Medium",
+    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-patterns-condvars-and-locks-e278f18db74f"
+  },
+  {
+    "date": "2019-06-25",
+    "title": "swym: Are we lock-free yet?",
+    "link": "https://mtak-blog.github.io/are-we-lock-free-yet"
+  }
+]

@@ -1,53 +1,66 @@
 [
   {
+    "date": "2023-12-06",
     "title": "Getting started with Loco, the one-person web framework for Rust",
     "link": "https://rust.code-maven.com/getting-started-with-loco"
   },
   {
+    "date": "2023-09-06",
     "title": "Use just to manage project specific commands | developerlife.com",
     "link": "https://developerlife.com/2023/08/28/justfile/"
   },
   {
+    "date": "2023-06-07",
     "title": "Episode 5: Putting Lipstick on a Pig - The Way of the Crab",
     "link": "https://wayofthecrab.com/episodes/005/"
   },
   {
+    "date": "2022-10-05",
     "title": "impl Future { }",
     "link": "https://implfuture.dev/blog/rewriting-the-modern-web-in-rust"
   },
   {
+    "date": "2022-08-10",
     "title": "Hot Reloading Rust — for Fun and Faster Feedback Cycles | Robert Krahn",
     "link": "https://robert.kra.hn/posts/hot-reloading-rust/"
   },
   {
+    "date": "2022-04-06",
     "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
     "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
   },
   {
+    "date": "2022-02-09",
     "title": "Crafting A Lox Interpreter In Rust, Part 1 - 💡 Scratching Itches",
     "link": "https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/"
   },
   {
+    "date": "2020-10-14",
     "title": "📽 2 videos about rust code coverage in VSCode • Marco Ieni",
     "link": "https://www.marcoieni.com/2020/10/2-videos-about-rust-code-coverage-in-vscode/"
   },
   {
+    "date": "2020-08-18",
     "title": "Colin Woodbury - Software Development Languages: Rust",
     "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
   },
   {
+    "date": "2020-06-23",
     "title": "Writing Non-Trivial Macros in Rust · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/non-trivial-macros/"
   },
   {
+    "date": "2020-06-10",
     "title": "Setup - Toolchain, IDEs, CI | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/"
   },
   {
+    "date": "2019-11-19",
     "title": "Implementing ArrayVec Using Const Generics · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/const-arrayvec/"
   },
   {
+    "date": "2019-09-24",
     "title": "Top-Level Infrastructure · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/top-level-infrastructure/"
   }

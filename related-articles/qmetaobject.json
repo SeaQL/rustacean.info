@@ -1,21 +1,31 @@
 [
   {
+    "date": "2024-01-03",
     "title": "Open Source Applications written in Rust",
     "link": "https://rust.code-maven.com/applications"
   },
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2022-03-02",
     "title": "21th of February 2022 to 27th of February 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-02-28.html"
   },
   {
+    "date": "2021-10-06",
+    "title": "27th of September to 3rd of October 2021 — This week in Slint",
+    "link": "https://sixtyfps.io/thisweek/2021-10-04.html"
+  },
+  {
+    "date": "2020-05-27",
     "title": "Integrating Qt events into Actix and Rust",
     "link": "https://www.rubdos.be/corona/qt/rust/tokio/actix/2020/05/23/actix-qt.html"
   },
   {
+    "date": "2018-06-12",
     "title": "Integrating QML and Rust: Creating a QMetaObject at Compile Time",
     "link": "https://woboq.com/blog/qmetaobject-from-rust.html"
   }

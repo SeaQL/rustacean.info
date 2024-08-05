@@ -1,13 +1,46 @@
 [
   {
+    "date": "2022-11-09",
+    "title": "Floating Point Arcade · GitHub",
+    "link": "https://gist.github.com/CrockAgile/09065649ae5a52629599ebc5645922d6"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Building an authentication system in Rust using session tokens",
+    "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
+  },
+  {
+    "date": "2022-06-01",
+    "title": "Impl-tools: beyond derive - KAS blog",
+    "link": "https://kas-gui.github.io/blog/impl-tools.html"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "diceroller, a sample Rust project",
+    "link": "https://blog.frankel.ch/start-rust/8/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  },
+  {
+    "date": "2020-10-14",
     "title": "Let's Build Snake with Rust",
     "link": "https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html"
   },
   {
+    "date": "2020-05-05",
     "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
     "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
   },
   {
+    "date": "2019-08-06",
     "title": "Understanding Rust Through AVL Trees",
     "link": "https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/"
   }

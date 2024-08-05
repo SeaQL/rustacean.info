@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-02-16",
     "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
     "link": "https://nullderef.com/blog/plugin-impl/"
   },
   {
+    "date": "2021-10-06",
     "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
     "link": "https://nullderef.com/blog/plugin-dynload/"
   }

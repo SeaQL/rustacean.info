@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-06-12",
     "title": "How-to compile rust faster - Rust.Careers Rust Blog",
     "link": "https://blog.rust.careers/post/compile_rust_faster/"
   },
   {
+    "date": "2024-02-21",
     "title": "Rust Tooling: 8 tools that will increase your productivity",
     "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   }

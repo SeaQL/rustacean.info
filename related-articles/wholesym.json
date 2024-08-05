@@ -1,21 +1,36 @@
 [
   {
+    "date": "2024-01-24",
     "title": "Billion-row challenge: Rust walkthrough | AmineDiro",
     "link": "https://aminediro.com/posts/billion_row/"
   },
   {
+    "date": "2024-01-10",
     "title": "Why stdout is faster than stderr? - Orhun's Blog",
     "link": "https://blog.orhun.dev/stdout-vs-stderr/"
   },
   {
+    "date": "2023-10-25",
+    "title": "Analyzing Data 180,000x Faster with Rust",
+    "link": "https://willcrichton.net/notes/k-corrset/"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "Back-end parallelism in the Rust compiler | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html"
+  },
+  {
+    "date": "2023-05-24",
     "title": "Pavex, progress report #4: performance is a feature | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/pavex-progress-report-04/"
   },
   {
+    "date": "2023-04-05",
     "title": "How to speed up the Rust compiler in March 2023 | Nicholas Nethercote",
     "link": "https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html"
   },
   {
+    "date": "2022-11-30",
     "title": "Improving async Rust codegen",
     "link": "https://swatinem.de/blog/improving-async-codegen/"
   }

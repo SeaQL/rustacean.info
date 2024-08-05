@@ -1,6 +1,22 @@
 [
   {
+    "date": "2023-11-01",
+    "title": "axo blog - System dependencies are hard (so we made them easier)",
+    "link": "https://blog.axo.dev/2023/10/dependencies"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "State Machines: Introduction",
+    "link": "https://blog.yoshuawuyts.com/state-machines/"
+  },
+  {
+    "date": "2019-06-04",
     "title": "Poking the macOS IO Kit with Rust · svartalf",
     "link": "https://svartalf.info/posts/2019-05-31-poking-the-macos-io-kit-with-rust/"
+  },
+  {
+    "date": "2018-11-20",
+    "title": "How to monitor hanging threads in Rust | Programming Servo",
+    "link": "https://medium.com/programming-servo/programming-servo-a-background-hang-monitor-73e89185ce1"
   }
 ]

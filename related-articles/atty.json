@@ -1,10 +1,22 @@
 [
   {
+    "date": "2023-05-17",
     "title": "Build a grep CLI app in Rust | developerlife.com",
     "link": "https://developerlife.com/2022/03/02/rust-grep-cli-app/"
   },
   {
+    "date": "2018-01-02",
     "title": "Dose Response ported to WebAssembly! — Aimlessly Going Forward",
     "link": "https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/"
+  },
+  {
+    "date": "2017-08-29",
+    "title": "GSoC Project: Making Redox Self-hosting, Final Summary - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-final/"
+  },
+  {
+    "date": "2017-08-22",
+    "title": "GSoC Project: Making Redox Self-hosting, Status Report 4 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-4/"
   }
 ]

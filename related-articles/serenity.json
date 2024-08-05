@@ -1,9 +1,16 @@
 [
   {
+    "date": "2024-01-17",
     "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
     "link": "https://nullderef.com/blog/rust-async-sync/"
   },
   {
+    "date": "2022-08-03",
+    "title": "Patterns with Rust types",
+    "link": "https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types"
+  },
+  {
+    "date": "2020-04-29",
     "title": "(Almost) Lockless Stream Buffering - Kyle Simpson",
     "link": "https://mcfelix.me/blog/shared-buffers/"
   }

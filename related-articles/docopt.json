@@ -1,13 +1,31 @@
 [
   {
+    "date": "2016-12-13",
+    "title": "24 days of Rust - static initialization | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-static-initialization/"
+  },
+  {
+    "date": "2015-05-18",
     "title": "Error Handling in Rust - Andrew Gallant's Blog",
     "link": "http://blog.burntsushi.net/rust-error-handling/"
   },
   {
+    "date": "2015-04-20",
+    "title": "BitRust - Breaking Changes in rust-lang/rust",
+    "link": "http://rawgit.com/mrmonday/bitrust/gh-pages/index.html"
+  },
+  {
+    "date": "2015-03-02",
+    "title": "BitRust - Breaking Changes in rust-lang/rust",
+    "link": "http://bitrust.octarineparrot.com/"
+  },
+  {
+    "date": "2015-01-12",
     "title": "Announcing Rust 1.0 Alpha | Hacker News",
     "link": "https://news.ycombinator.com/item?id=8863451"
   },
   {
+    "date": "2014-12-08",
     "title": "24 days of Rust - docopt | siciarz.net",
     "link": "https://siciarz.net/24-days-of-rust-docopt/"
   }

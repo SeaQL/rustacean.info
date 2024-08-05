@@ -1,33 +1,46 @@
 [
   {
+    "date": "2023-04-19",
     "title": "Announcing tuxedo-rs | Eberhardt blog",
     "link": "https://aaronerhardt.github.io/blog/posts/announcing_tuxedo_rs/"
   },
   {
+    "date": "2022-05-04",
     "title": "Time For Crab 🦀",
     "link": "https://gatowololo.github.io/blog/cargo-patch/"
   },
   {
+    "date": "2022-01-19",
     "title": "Rust on Apache NuttX OS",
     "link": "https://lupyuen.github.io/articles/rust2"
   },
   {
+    "date": "2021-11-03",
+    "title": "Anatomy of a Terminal Emulator :: poor.dev",
+    "link": "https://www.poor.dev/blog/terminal-anatomy/"
+  },
+  {
+    "date": "2021-08-25",
     "title": "3128-io-safety - The Rust RFC Book",
     "link": "https://rust-lang.github.io/rfcs/3128-io-safety.html"
   },
   {
+    "date": "2020-09-09",
     "title": "Linux System Call `fork()` in Rust - Knoldus Blogs",
     "link": "https://blog.knoldus.com/linux-system-call-fork-in-rust/"
   },
   {
+    "date": "2019-10-22",
     "title": "Dealing with process termination in Linux (with Rust examples)",
     "link": "https://iximiuz.com/en/posts/dealing-with-processes-termination-in-Linux/"
   },
   {
+    "date": "2016-06-20",
     "title": "Scheduling Timers on OS X with Rust and Kqueue – daschl writes. sometimes.",
     "link": "http://nitschinger.at/Scheduling-Timers-on-OS-X-with-Rust-and-Kqueue/"
   },
   {
+    "date": "2016-04-25",
     "title": "Rust + nix = easier unix systems programming &lt;3",
     "link": "http://kamalmarhubi.com/blog/2016/04/13/rust-nix-easier-unix-systems-programming-3/"
   }

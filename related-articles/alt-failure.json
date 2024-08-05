@@ -1,6 +1,22 @@
 [
   {
+    "date": "2020-10-21",
     "title": "Building Your Own Error Type: Part 1 | New to Me Things",
     "link": "https://yaah.dev/building-your-own-error-type"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Study of std::io::Error",
+    "link": "https://matklad.github.io/2020/10/15/study-of-std-io-error.html"
+  },
+  {
+    "date": "2020-05-19",
+    "title": "Rust: Structuring and handling errors in 2020 - Nick's Blog and Digital Garden",
+    "link": "https://nick.groenen.me/posts/rust-error-handling/"
+  },
+  {
+    "date": "2018-03-13",
+    "title": "Redefining Failure",
+    "link": "https://epage.github.io/blog/2018/03/redefining-failure/"
   }
 ]

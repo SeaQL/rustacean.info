@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-11-03",
     "title": "Working with signals in Rust - some things that signal handlers can't handle",
     "link": "https://www.jameselford.com/blog/working-with-signals-in-rust-pt1-whats-a-signal/"
   }

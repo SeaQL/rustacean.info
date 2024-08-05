@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2023-02-22",
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "BStr — Rust text processing library // Lib.rs",
+    "link": "https://lib.rs/crates/bstr"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "Unlocking greater performance in the MongoDB Rust Driver via raw BSON and zero copy deserialization | patrickfreed's blog",
+    "link": "https://patrickfreed.github.io/rust/2022/04/27/unlocking-greater-performance-in-the-mongodb-rust-driver-via-raw-bson-and-zero-copy-deserialization.html"
+  }
+]

@@ -1,77 +1,106 @@
 [
   {
+    "date": "2024-06-12",
     "title": "How-to compile rust faster - Rust.Careers Rust Blog",
     "link": "https://blog.rust.careers/post/compile_rust_faster/"
   },
   {
+    "date": "2023-08-02",
     "title": "A random assortment of Rust notes – Brian Kung",
     "link": "https://briankung.dev/2023/07/16/rust-notes/"
   },
   {
+    "date": "2023-04-19",
     "title": "BlogWerx: Improving build times for derive macros by 3x or more",
     "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
   },
   {
+    "date": "2023-02-08",
     "title": "Improving incremental test times in Rust",
     "link": "https://blog.waleedkhan.name/rust-incremental-test-times/"
   },
   {
+    "date": "2022-12-21",
     "title": "Faster CI builds for Rust with pre-baked builder images and sccache",
     "link": "https://vadosware.io/post/faster-ci-builds-for-rust-with-builder-images-and-sccache/"
   },
   {
+    "date": "2021-12-22",
     "title": "Rust in Production: Astropad",
     "link": "https://serokell.io/blog/rust-in-production-astropad"
   },
   {
+    "date": "2021-12-01",
+    "title": "Speed up Rust Builds with Cachepot",
+    "link": "https://kflansburg.com/posts/rust-cachepot/"
+  },
+  {
+    "date": "2021-10-27",
     "title": "My ideal Rust workflow",
     "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
   },
   {
+    "date": "2021-08-25",
     "title": "Cross compiling Windows binaries from Linux",
     "link": "https://jake-shadle.github.io/xwin/"
   },
   {
+    "date": "2021-08-10",
     "title": "Rust in Production: Qovery",
     "link": "https://serokell.io/blog/rust-in-production-qovery"
   },
   {
+    "date": "2021-04-14",
     "title": "Rust in Production: MeiliSearch",
     "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
+    "date": "2021-04-14",
     "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
     "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"
   },
   {
+    "date": "2021-01-20",
     "title": "I used Rust in production for 6 months! Here's my feedback",
     "link": "https://www.qovery.com/blog/i-use-rust-in-production-for-6-months-heres-my-feedback"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
   },
   {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust"
   },
   {
+    "date": "2019-06-11",
     "title": "Rusts hidden talents speeding up builds and managing versions - Estada.ch",
     "link": "https://estada.ch/2019/6/7/rusts-hidden-talents/"
   },
   {
+    "date": "2018-12-11",
     "title": "Rust 2019: Think Bigger",
     "link": "http://fitzgeraldnick.com/2018/12/11/rust-2019-think-bigger.html"
   },
   {
+    "date": "2018-08-14",
+    "title": "How to alleviate the pain of Rust compile times",
+    "link": "https://vfoley.xyz/rust-compile-speed-tips/"
+  },
+  {
+    "date": "2017-02-28",
     "title": "Deploying Rust in a large codebase | by Ralph Giles | Mozilla Tech | Medium",
     "link": "https://medium.com/@rillian/deploying-rust-in-a-large-codebase-7e50328074e8"
   },
   {
+    "date": "2016-11-22",
     "title": "Ted's Mozilla Blog  » Blog Archive   » sccache, Mozilla’s distributed compiler cache, now written in Rust",
     "link": "https://blog.mozilla.org/ted/2016/11/21/sccache-mozillas-distributed-compiler-cache-now-written-in-rust/"
   }

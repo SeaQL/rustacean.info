@@ -1,9 +1,11 @@
 [
   {
+    "date": "2016-05-16",
     "title": "Quick check: does your code work?",
     "link": "https://fnordig.de/2016/05/12/quickcheck-does-your-code-work/"
   },
   {
+    "date": "2015-01-19",
     "title": "rdb-rs - fast and efficient RDB parsing utility",
     "link": "http://fnordig.de/2015/01/15/rdb-rs-fast-and-efficient-rdb-parsing-utility/"
   }

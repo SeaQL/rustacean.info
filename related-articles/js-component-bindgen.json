@@ -1,13 +1,21 @@
 [
   {
+    "date": "2024-07-24",
+    "title": "WebAssembly on the server: Compiling Rust to WASM and executing it from Go",
+    "link": "https://blog.arcjet.com/webassembly-on-the-server-compiling-rust-to-wasm-and-executing-it-from-go/"
+  },
+  {
+    "date": "2024-05-15",
     "title": "VS Code Extensions and WebAssembly",
     "link": "https://code.visualstudio.com/blogs/2024/05/08/wasm"
   },
   {
+    "date": "2024-03-20",
     "title": "Compiling Rust to WASI",
     "link": "https://benw.is/posts/compiling-rust-to-wasi"
   },
   {
+    "date": "2024-02-28",
     "title": "Bytecode Alliance — Announcing Jco 1.0",
     "link": "https://bytecodealliance.org/articles/jco-1.0"
   }

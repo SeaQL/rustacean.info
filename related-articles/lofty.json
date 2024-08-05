@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-11-08",
     "title": "Writing Rust Bindings for My Python App",
     "link": "https://dhruv-ahuja.github.io/posts/writing-rust-bindings/"
   }

@@ -1,29 +1,46 @@
 [
   {
+    "date": "2021-05-19",
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "date": "2018-03-20",
     "title": "Building a fast Electron app with Rust",
     "link": "https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/"
   },
   {
+    "date": "2018-01-09",
     "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
     "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
   },
   {
+    "date": "2016-10-04",
     "title": "Even quicker byte count — Llogiq on stuff",
     "link": "https://llogiq.github.io/2016/09/27/count.html"
   },
   {
+    "date": "2016-10-04",
     "title": "Counting Newlines Really Fast — Llogiq on stuff",
     "link": "https://llogiq.github.io/2016/09/24/newline.html"
   },
   {
+    "date": "2016-09-20",
     "title": "RustConf 2016 Travelogue | An Algorithmic Lucidity",
     "link": "http://zackmdavis.net/blog/2016/09/rustconf-2016-travelogue/"
   },
   {
+    "date": "2016-09-20",
     "title": "RustConf 2016 Talks",
     "link": "http://alwayscoding.ca/momentos/2016/09/10/rustconf-2016-talks/"
   },
   {
+    "date": "2016-07-05",
+    "title": "show_notes::interview::_2::part_2 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/_2/part_2/"
+  },
+  {
+    "date": "2016-06-27",
     "title": "show_notes::interview::_2::part_1 - Rust",
     "link": "http://www.newrustacean.com/show_notes/interview/_2/part_1/index.html"
   }

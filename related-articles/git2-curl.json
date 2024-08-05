@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-03-15",
     "title": "Why Turborepo is migrating from Go to Rust – Vercel",
     "link": "https://vercel.com/blog/turborepo-migration-go-rust"
   },
   {
+    "date": "2022-05-25",
+    "title": "Crash reporting in Rust",
+    "link": "https://jake-shadle.github.io/crash-reporting/"
+  },
+  {
+    "date": "2019-11-26",
     "title": "Async-Awaitifying a Rust CLI App - zupzup",
     "link": "https://zupzup.org/async-awaitify-rust-cli/"
   }

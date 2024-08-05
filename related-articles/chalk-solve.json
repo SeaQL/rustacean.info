@@ -1,61 +1,91 @@
 [
   {
+    "date": "2024-01-31",
     "title": "Progress toward a GCC-based Rust compiler [LWN.net]",
     "link": "https://lwn.net/Articles/954787/"
   },
   {
+    "date": "2022-12-28",
     "title": "Rust in 2023",
     "link": "https://azdavis.net/posts/rust-2023/"
   },
   {
+    "date": "2022-08-03",
     "title": "Proc macro support in rust-analyzer for nightly rustc versions",
     "link": "https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions"
   },
   {
+    "date": "2022-03-30",
+    "title": "Async destructors, async genericity and completion futures - Sabrina Jewson",
+    "link": "https://sabrinajewson.org/blog/async-drop"
+  },
+  {
+    "date": "2022-03-30",
     "title": "A thanks to the traits working group in 2021 | Jack Huey’s blog",
     "link": "https://jackh726.github.io/rust/2022/03/25/a-thanks.html"
   },
   {
+    "date": "2022-01-05",
     "title": "rust-analyzer in 2021",
     "link": "https://rust-analyzer.github.io/blog/2021/12/30/2021-recap.html"
   },
   {
+    "date": "2021-01-13",
     "title": "GCC Rust – How it can be achieved – Embecosm",
     "link": "https://www.embecosm.com/2021/01/12/gcc-rust-how-it-can-be-achieved/"
   },
   {
+    "date": "2020-12-16",
     "title": "Rotating the compiler team leads · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2020/12/11/rotating-the-compiler-team-leads/"
   },
   {
+    "date": "2020-10-07",
     "title": "The Rust Project in 2021 - Tyler Mandry",
     "link": "https://tmandry.gitlab.io/blog/posts/rust-2021-project/"
   },
   {
+    "date": "2020-10-07",
     "title": "Rust 2021 - Stability | Jack Huey’s blog",
     "link": "https://jackh726.github.io/rust/2020/10/01/rust-2021.html"
   },
   {
+    "date": "2020-09-30",
     "title": "Type-level Programming in Rust | Will Crichton",
     "link": "https://willcrichton.net/notes/type-level-programming/"
   },
   {
+    "date": "2020-09-30",
     "title": "Rust 2021",
     "link": "https://swatinem.de/blog/rust-2021/"
   },
   {
+    "date": "2020-05-05",
     "title": "Type-level Programming in Rust | Will Crichton",
     "link": "http://willcrichton.net/notes/type-level-programming/"
   },
   {
+    "date": "2020-05-05",
+    "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
+  },
+  {
+    "date": "2020-04-14",
+    "title": "Library-ification and analyzing Rust · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/04/09/libraryification/"
+  },
+  {
+    "date": "2020-03-31",
     "title": "State Machines: Introduction",
     "link": "https://blog.yoshuawuyts.com/state-machines/"
   },
   {
+    "date": "2019-10-29",
     "title": "why async fn in traits are hard · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/"
   },
   {
+    "date": "2019-07-02",
     "title": "Status of rust-analyzer: Achievements and Open Collective  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/rust-analyzer-status-opencollective/"
   }

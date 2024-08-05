@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-01-19",
     "title": "Rust on Apache NuttX OS",
     "link": "https://lupyuen.github.io/articles/rust2"
   },
   {
+    "date": "2021-02-03",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/51/long-range-networking-with-lora-an-overview"
   }

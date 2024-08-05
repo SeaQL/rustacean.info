@@ -1,5 +1,11 @@
 [
   {
+    "date": "2023-11-01",
+    "title": "Fully Automated Releases for Rust Projects - Orhun's Blog",
+    "link": "https://blog.orhun.dev/automated-rust-releases/"
+  },
+  {
+    "date": "2022-04-20",
     "title": "Rewriting sysctl(8) in Rust: systeroid - Orhun's Blog",
     "link": "https://blog.orhun.dev/rewriting-sysctl-in-rust/"
   }

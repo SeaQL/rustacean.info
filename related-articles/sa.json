@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "How does async Rust work | bertptrs.nl",
+    "link": "https://bertptrs.nl/2023/04/27/how-does-async-rust-work.html"
+  },
+  {
+    "date": "2023-01-11",
+    "title": "Potential DoS Vulnerability in Rust Hyper",
+    "link": "https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "How to build a Rust API with the builder pattern - LogRocket Blog",
+    "link": "https://blog.logrocket.com/build-rust-api-builder-pattern/"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "Proc macro support in rust-analyzer for nightly rustc versions",
+    "link": "https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "[libblendinfo] Return information from Rust crate to C library",
+    "link": "https://www.janwalter.org/jekyll/rust/libblendinfo/2022/05/10/libblendinfo.html"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "Crash reporting in Rust",
+    "link": "https://jake-shadle.github.io/crash-reporting/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "An Intro to the Sauron web Framework",
+    "link": "https://blog.chainsafe.io/an-intro-to-the-sauron-web-framework-a6093a2ac9eb"
+  },
+  {
+    "date": "2022-03-02",
+    "title": "IDEs and proc-macros",
+    "link": "https://veykril.github.io/posts/ide-proc-macros/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "Plugins in Rust: Reducing the Pain with Dependencies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-abi-stable/"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The magical applications of Zero-Sized Types in Rust - Hardmo.de",
+    "link": "https://www.hardmo.de/article/2021-03-14-zst-proof-types.md"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2019-03-26",
+    "title": "Tim Diekmann / Safety Guard · GitLab",
+    "link": "https://gitlab.com/tdiekmann/safety-guard"
+  },
+  {
+    "date": "2016-08-16",
+    "title": "Share many as one, with the Collections app - Sandstorm Blog",
+    "link": "https://sandstorm.io/news/2016-08-09-collections-app"
+  }
+]

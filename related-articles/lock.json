@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2024-01-24",
+    "title": "My Best and Worst Deadlock in Rust",
+    "link": "https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "This Month in Rust OSDev: October 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-10/"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Deadlock-free Mutexes and Directed Acyclic Graphs | bertptrs.nl",
+    "link": "https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "This Month in Rust OSDev (May 2021) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2021-05/"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "This Month in Rust OSDev (April 2021) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2021-04/"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The magical applications of Zero-Sized Types in Rust - Hardmo.de",
+    "link": "https://www.hardmo.de/article/2021-03-14-zst-proof-types.md"
+  },
+  {
+    "date": "2020-09-09",
+    "title": "This Month in Rust OSDev (August 2020) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2020-08/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "This Month in Rust OSDev (July 2020) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2020-07/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "date": "2019-07-02",
+    "title": "Heap Allocation | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/heap-allocation/"
+  }
+]

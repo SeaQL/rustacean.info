@@ -1,6 +1,12 @@
 [
   {
+    "date": "2024-01-31",
     "title": "Introducing Foundations - our open source Rust service foundation library",
     "link": "https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library"
+  },
+  {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
   }
 ]

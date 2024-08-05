@@ -1,14 +1,27 @@
 [
   {
+    "date": "2022-07-13",
     "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
     "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
   },
   {
+    "date": "2021-04-21",
     "title": "Using std in embedded Rust",
     "link": "https://timmmm.github.io/std-embedded-rust/index.html"
   },
   {
+    "date": "2021-01-13",
     "title": "This Month in Rust OSDev (December 2020) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2020-12/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Allocator Designs | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/allocator-designs/"
+  },
+  {
+    "date": "2019-07-02",
+    "title": "Heap Allocation | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/heap-allocation/"
   }
 ]

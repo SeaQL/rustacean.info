@@ -1,5 +1,11 @@
 [
   {
+    "date": "2022-06-29",
+    "title": "Reinventing Rust formatting syntax",
+    "link": "https://casualhacks.net/blog/2022-06-24/reinventing-rust-fmt/"
+  },
+  {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
   }

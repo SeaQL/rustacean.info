@@ -1,97 +1,141 @@
 [
   {
+    "date": "2024-07-17",
+    "title": "How to make Rust Desktop App with Egui and ChatGPT - OnlyCoiners",
+    "link": "https://www.onlycoiners.com/user/steadylearner/blog/how-to-make-rust-desktop-app-with-egui-and-chatgpt"
+  },
+  {
+    "date": "2024-01-10",
     "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
     "link": "https://thewolfsound.com/talk016/"
   },
   {
+    "date": "2023-09-20",
+    "title": "Three years of Bevy",
+    "link": "https://trent.kiwi/bevy-three-years"
+  },
+  {
+    "date": "2023-05-03",
     "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
     "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
   },
   {
+    "date": "2023-03-15",
     "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/043/"
   },
   {
+    "date": "2023-03-08",
+    "title": "Bevy 0.10",
+    "link": "https://bevyengine.org/news/bevy-0-10/"
+  },
+  {
+    "date": "2023-02-08",
     "title": "Tauri vs Iced vs egui: Rust GUI framework performance comparison (including startup time, input lag, resize tests) · Lukasʼ Blog",
     "link": "https://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html"
   },
   {
+    "date": "2023-02-08",
     "title": "axo blog - Release Engineering Is Exhausting So Here's cargo-dist",
     "link": "https://blog.axo.dev/2023/02/cargo-dist"
   },
   {
+    "date": "2023-02-01",
+    "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/041/"
+  },
+  {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2022-11-16",
     "title": "Fornjot - Progress Report - 2022-11",
     "link": "https://www.fornjot.app/blog/progress-report-2022-11/"
   },
   {
+    "date": "2022-09-21",
     "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
     "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
   },
   {
+    "date": "2022-07-13",
     "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/035/"
   },
   {
+    "date": "2022-06-08",
     "title": "egui with Emil Ernerfeldt :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/emil-ernerfeldt/"
   },
   {
+    "date": "2022-06-01",
     "title": "This Week in Rust - Issue 443 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/twir-443/"
   },
   {
+    "date": "2022-05-11",
     "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
   },
   {
+    "date": "2022-04-13",
     "title": "This Month in Rust GameDev #32 - March 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/032/"
   },
   {
+    "date": "2022-03-16",
     "title": "This Month in Rust GameDev #31 - February 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/031/"
   },
   {
+    "date": "2022-02-16",
     "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/030/"
   },
   {
+    "date": "2022-02-02",
     "title": "How Prime Video updates its app for more than 8,000 device types - Amazon Science",
     "link": "https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types"
   },
   {
+    "date": "2021-10-13",
     "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/026/"
   },
   {
+    "date": "2021-09-08",
     "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/025/"
   },
   {
+    "date": "2021-08-10",
     "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/024/"
   },
   {
+    "date": "2021-07-21",
     "title": "Franzplot: a teaching software (re)written in Rust | wgpu user stories",
     "link": "https://gfx-rs.github.io/stories/franzplot.html"
   },
   {
+    "date": "2021-07-14",
     "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/023/"
   },
   {
+    "date": "2021-06-16",
     "title": "This Month in Rust GameDev #22 - May 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/022/"
   },
   {
+    "date": "2021-05-12",
     "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/021/"
   },
   {
+    "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"
   }

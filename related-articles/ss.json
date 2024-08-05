@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2024-03-06",
+    "title": "wiktor/ssh-openpgp-auth: This project aims to improve the security of SSH connections by providing a way to verify host keys using OpenPGP certificates. - Codeberg.org",
+    "link": "https://codeberg.org/wiktor/ssh-openpgp-auth"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "Writing an embedded display driver in Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Writing-an-embedded-display-driver-in-Rust/"
+  }
+]

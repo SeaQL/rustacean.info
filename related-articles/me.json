@@ -1,0 +1,102 @@
+[
+  {
+    "date": "2024-07-03",
+    "title": "Rust for Lunch",
+    "link": "https://lunch.rs/"
+  },
+  {
+    "date": "2024-04-24",
+    "title": "A parser in Rust to convert your Medium Blogs to Markdown | by Harshil Jani | Medium",
+    "link": "https://medium.com/@harshiljani2002/a-parser-in-rust-to-convert-your-medium-blogs-to-markdown-84173a6c1300"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "ESP Embedded Rust: Ping CLI App Part 2",
+    "link": "https://apollolabsblog.hashnode.dev/esp-embedded-rust-ping-cli-app-part-2"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "ESP Embedded Rust: Command Line Interface",
+    "link": "https://apollolabsblog.hashnode.dev/esp-embedded-rust-command-line-interface"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Billion-row challenge: Rust walkthrough | AmineDiro",
+    "link": "https://aminediro.com/posts/billion_row/"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "moao's blog",
+    "link": "https://marcos.unsafe.rs/trying-to-invent-a-better-substring-search-algorithm/"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "Regex engine internals as a library - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/regex-internals/"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "3308-offset_of - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3308-offset_of.html"
+  },
+  {
+    "date": "2023-04-19",
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Compiling Brainfuck code - Part 4: A Static Compiler | Rodrigodd",
+    "link": "https://rodrigodd.github.io/2022/12/31/bf_compiler-part4.html"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "You Can't Do That: Abstracting over Ownership in Rust with Higher-Rank Type Bounds. Or Can You? | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
+  },
+  {
+    "date": "2022-07-27",
+    "title": "Aya: your tRusty eBPF companion - Deepfence",
+    "link": "https://deepfence.io/aya-your-trusty-ebpf-companion/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "On self-modifying executables in Rust",
+    "link": "https://blog.dend.ro/self-modifying-rust/"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Investigating Memory Allocations in Rust | Y. Santos Personal Page",
+    "link": "https://ysantos.com/blog/malloc-in-rust"
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Implementing a BLT parser by hand in Rust (vs pest and combine): OpenTally dev log",
+    "link": "https://yingtongli.me/blog/2021/07/30/blt-parser.html"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Building even faster interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2019-04-23",
+    "title": "6 useful Rust macros that you might not have seen before | by Ben | Medium",
+    "link": "https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  }
+]

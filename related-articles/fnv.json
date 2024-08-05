@@ -1,25 +1,31 @@
 [
   {
+    "date": "2022-10-26",
     "title": "Writing a HashMap in Rust without unsafe",
     "link": "https://ecton.dev/writing-a-hashmap-without-unsafe/"
   },
   {
+    "date": "2021-09-08",
     "title": "Let’s overtake go/fasthttp with rust/warp | by Gleb Pomykalov | Medium",
     "link": "https://medium.com/@glebpomykalov/lets-overtake-go-fasthttp-with-rust-hyper-b2d1004914f"
   },
   {
+    "date": "2021-07-28",
     "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
     "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
   },
   {
+    "date": "2019-03-05",
     "title": "Building fast interpreters in Rust",
     "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
   },
   {
+    "date": "2019-02-05",
     "title": "Learning Rust via Advent of Code",
     "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
   },
   {
+    "date": "2017-06-06",
     "title": "Rust Performance Pitfalls — Llogiq on stuff",
     "link": "https://llogiq.github.io/2017/06/01/perf-pitfalls.html"
   }

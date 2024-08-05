@@ -1,17 +1,21 @@
 [
   {
+    "date": "2024-06-12",
     "title": "Latency at the edge with Rust/WebAssembly and Postgres: Part 2 | Exograph",
     "link": "https://exograph.dev/blog/wasm-pg-explorations-2"
   },
   {
+    "date": "2022-12-28",
     "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
     "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
   },
   {
+    "date": "2020-07-14",
     "title": "Using RabbitMQ in Rust - zupzup",
     "link": "https://www.zupzup.org/rmq-in-rust/"
   },
   {
+    "date": "2020-03-10",
     "title": "ExpressJS vs Actix-Web. It is exactly what you think | by Maxim Vorobjov | Medium",
     "link": "https://medium.com/@maxsparr0w/performance-of-node-js-compared-to-actix-web-37f20810fb1a"
   }

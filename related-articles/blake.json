@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2021-07-28",
+    "title": "Rust for Linux redux [LWN.net]",
+    "link": "https://lwn.net/Articles/862018/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Connect devices to blockchains with Léger.",
+    "link": "http://www.cyrilfougeray.com/2020/12/14/leger-rust-wallet-1.html"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rusty Chains: A Basic Blockchain Implementation Written in Pure Rust | HackerNoon",
+    "link": "https://hackernoon.com/rusty-chains-a-basic-blockchain-implementation-written-in-pure-rust-gk2m3uri"
+  }
+]

@@ -1,0 +1,662 @@
+[
+  {
+    "date": "2024-07-03",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust#service-the-heart-of-hexagonal-architecture"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Rust for Lunch",
+    "link": "https://lunch.rs/"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Ergonomic Self-Referential Types for Rust",
+    "link": "https://blog.yoshuawuyts.com/self-referential-types/"
+  },
+  {
+    "date": "2024-06-26",
+    "title": "in-place construction seems surprisingly simple?",
+    "link": "https://blog.yoshuawuyts.com/in-place-construction-seems-surprisingly-simple/"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust#separation-of-concerns-rust-style"
+  },
+  {
+    "date": "2024-06-12",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust"
+  },
+  {
+    "date": "2024-06-12",
+    "title": "Build with Naz : Rust error handling with miette | developerlife.com",
+    "link": "https://developerlife.com/2024/06/10/rust-miette-error-handling/"
+  },
+  {
+    "date": "2024-05-22",
+    "title": "Free Rust ebooks for Amazon Kindle",
+    "link": "https://rust-ebooks.code-maven.com/"
+  },
+  {
+    "date": "2024-05-22",
+    "title": "Using Rust Macros for Custom VTables | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2024/5/16/macro-vtable-magic/"
+  },
+  {
+    "date": "2024-04-24",
+    "title": "A parser in Rust to convert your Medium Blogs to Markdown | by Harshil Jani | Medium",
+    "link": "https://medium.com/@harshiljani2002/a-parser-in-rust-to-convert-your-medium-blogs-to-markdown-84173a6c1300"
+  },
+  {
+    "date": "2024-04-03",
+    "title": "Programming ESP32 with Rust: OTA firmware update",
+    "link": "https://quan.hoabinh.vn/post/2024/3/programming-esp32-with-rust-ota-firmware-update"
+  },
+  {
+    "date": "2024-03-27",
+    "title": "Why choose async/await over threads? – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/why-not-threads/"
+  },
+  {
+    "date": "2024-03-06",
+    "title": "Designing an Async Runtime for WASI 0.2",
+    "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/114/building-an-async-runtime-with-mio"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "ESP Embedded Rust: Ping CLI App Part 2",
+    "link": "https://apollolabsblog.hashnode.dev/esp-embedded-rust-ping-cli-app-part-2"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "ESP Embedded Rust: Command Line Interface",
+    "link": "https://apollolabsblog.hashnode.dev/esp-embedded-rust-command-line-interface"
+  },
+  {
+    "date": "2024-02-21",
+    "title": "FuturesUnordered and the order of futures",
+    "link": "https://without.boats/blog/futures-unordered/"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Billion-row challenge: Rust walkthrough | AmineDiro",
+    "link": "https://aminediro.com/posts/billion_row/"
+  },
+  {
+    "date": "2024-01-17",
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Announcing smol-macros, smol-hyper and smol-axum – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/new-smol-rs-subcrates/"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "Write a Toy VPN in Rust",
+    "link": "https://write.yiransheng.com/vpn"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "What I Learned Making an embedded-hal Driver in Rust (for the MAX6675 Thermocouple Digitizer) - Barrett's Club",
+    "link": "https://barretts.club/posts/max6675-hal/"
+  },
+  {
+    "date": "2023-12-13",
+    "title": "Exploring the AWS Lambda SDK in Rust | Bradford Hovinen's blog",
+    "link": "https://gruebelinchen.wordpress.com/2023/12/07/exploring-the-aws-lambda-sdk-in-rust/"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "How I learned to stop worrying and love byte ordering · udoprog",
+    "link": "https://udoprog.github.io/rust/2023-10-28/stop-worrying.html"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "axo blog - System dependencies are hard (so we made them easier)",
+    "link": "https://blog.axo.dev/2023/10/dependencies"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "A fresh look on incremental zero copy serialization · udoprog",
+    "link": "https://udoprog.github.io/rust/2023-10-19/musli-zerocopy.html"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "moao's blog",
+    "link": "https://marcos.unsafe.rs/trying-to-invent-a-better-substring-search-algorithm/"
+  },
+  {
+    "date": "2023-10-18",
+    "title": "This Month in Rust OSDev: September 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-09/"
+  },
+  {
+    "date": "2023-09-27",
+    "title": "Eyra is an interesting Rust project – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/eyra/"
+  },
+  {
+    "date": "2023-08-09",
+    "title": "This Month in Rust OSDev: July 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-07/"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "This Month in Rust OSDev: June 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-06/"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "Regex engine internals as a library - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/regex-internals/"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "MsgPacker: Enhancing performance and security – Victor Lopez – A Rust flavored crypto perspective.",
+    "link": "https://vlopes11.github.io/msgpacker-refactor/"
+  },
+  {
+    "date": "2023-05-24",
+    "title": "Mocking in Rust: Mockall and alternatives - LogRocket Blog",
+    "link": "https://blog.logrocket.com/mocking-rust-mockall-alternatives"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "3308-offset_of - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3308-offset_of.html"
+  },
+  {
+    "date": "2023-04-19",
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "date": "2023-04-19",
+    "title": "BlogWerx: Improving build times for derive macros by 3x or more",
+    "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "How to write a type-level mock library in Rust - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/how-to-write-a-type-level-mock-library-in-rust/"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "Pavex, progress report #2: route all the things | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-02/"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "The birth of a package manager | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
+  },
+  {
+    "date": "2023-02-08",
+    "title": "Announcing Masonry 0.1, and my vision for Rust UI · PoignardAzur",
+    "link": "https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part02"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Ferris Talk #13: Rust-Web-APIs und Mocking mit Axum | heise online",
+    "link": "https://www.heise.de/hintergrund/Ferris-Talk-13-Rust-Web-APIs-und-Mocking-mit-Axum-7457143.html"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Displaying Images on ESP32 with Rust! - lily's thots",
+    "link": "https://lilymara.xyz/posts/images-esp32/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Youmu | Finding Nice MD5s Using Rust",
+    "link": "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Compiling Brainfuck code - Part 4: A Static Compiler | Rodrigodd",
+    "link": "https://rodrigodd.github.io/2022/12/31/bf_compiler-part4.html"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Building a Simple DB in Rust - Part 1 - Parsing | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part01"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "MySQL connection pooling in Rust for Toolforge - The Lego Mirror",
+    "link": "https://blog.legoktm.com/2022/12/27/mysql-connection-pooling-in-rust-for-toolforge.html"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Rust Embedded Graphics with the MAX7219",
+    "link": "https://apollolabsblog.hashnode.dev/rust-embedded-graphics-with-the-max7219"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Are we reference yet? C++ references in Rust | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/are-we-reference-yet-c-references-in-rust-72c1c6c7015a"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Platform Agnostic Drivers in Rust: Publishing to Crates.io",
+    "link": "https://apollolabsblog.hashnode.dev/platform-agnostic-drivers-in-rust-publishing-to-cratesio"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "You Can't Do That: Abstracting over Ownership in Rust with Higher-Rank Type Bounds. Or Can You? | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Building a gamedev maths library in Rust from scratch – Alex Dixon",
+    "link": "https://www.polymonster.co.uk/blog/maths-rs"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "nt-list: Windows Linked Lists in idiomatic Rust - ColinFinck.de",
+    "link": "https://colinfinck.de/posts/nt-list-windows-linked-lists-in-idiomatic-rust/"
+  },
+  {
+    "date": "2022-07-27",
+    "title": "Aya: your tRusty eBPF companion - Deepfence",
+    "link": "https://deepfence.io/aya-your-trusty-ebpf-companion/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "How to make Rust leak memory (also: how to make it stop) · The Fly Blog",
+    "link": "https://fly.io/blog/rust-memory-leak/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/034/"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "Crash reporting in Rust",
+    "link": "https://jake-shadle.github.io/crash-reporting/"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "Let's talk about this async",
+    "link": "https://conradludgate.com/posts/async"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "Unlocking greater performance in the MongoDB Rust Driver via raw BSON and zero copy deserialization | patrickfreed's blog",
+    "link": "https://patrickfreed.github.io/rust/2022/04/27/unlocking-greater-performance-in-the-mongodb-rust-driver-via-raw-bson-and-zero-copy-deserialization.html"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/fixed-point-math/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/mnemos-initial-release/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Improving Python S3 Client Performance with Rust | by Joshua Robinson | Medium",
+    "link": "https://joshua-robinson.medium.com/improving-python-s3-client-performance-with-rust-e9639359072f"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "Downcasting in Rust | Y. Santos Personal Page",
+    "link": "https://ysantos.com/blog/downcast-rust"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "On self-modifying executables in Rust",
+    "link": "https://blog.dend.ro/self-modifying-rust/"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Investigating Memory Allocations in Rust | Y. Santos Personal Page",
+    "link": "https://ysantos.com/blog/malloc-in-rust"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "How a Single Line of Code Made a 24-core Server Slower Than a Laptop | Piotr Kołaczkowski",
+    "link": "https://pkolaczk.github.io/server-slower-than-a-laptop/"
+  },
+  {
+    "date": "2021-11-17",
+    "title": "Mononym: Type-Level Named Values in Rust - Part 1: Demo and Implementation | MaybeVoid",
+    "link": "https://maybevoid.com/blog/mononym-part-1/"
+  },
+  {
+    "date": "2021-11-17",
+    "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Making slow Rust code fast | patrickfreed's blog",
+    "link": "https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
+    "link": "https://nullderef.com/blog/web-api-client/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "date": "2021-08-25",
+    "title": "3128-io-safety - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3128-io-safety.html"
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Async overloading",
+    "link": "https://blog.yoshuawuyts.com/async-overloading/"
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Implementing a BLT parser by hand in Rust (vs pest and combine): OpenTally dev log",
+    "link": "https://yingtongli.me/blog/2021/07/30/blt-parser.html"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "My first Rust crate, pretend | Sfiet_Konstantin’s blog",
+    "link": "https://sfietkonstantin.github.io/2021/05/10/First-Crate-Pretend.html"
+  },
+  {
+    "date": "2021-04-28",
+    "title": "Move Constructors in Rust: Is it possible? · mcyoung",
+    "link": "https://mcyoung.xyz/2021/04/26/move-ctors/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Const Generic Slipstreem | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/03/28/const-generic-slipstreem.html"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 3) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt3/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "XML parsing in Rust | Mainmatter",
+    "link": "https://simplabs.com/blog/2020/12/31/xml-and-rust/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Rust on the BBC micro:bit — Drogue IoT",
+    "link": "https://blog.drogue.io/rust-and-microbit/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "Rust for Modding Smash Ultimate",
+    "link": "https://jam1.re/blog/rust-for-game-modding"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "The Rust 2021 Experience - Year of the Macro",
+    "link": "https://casualhacks.net/blog/2020-10-05/the-rust-2021-experience-macros/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "| Next-gen Rust Web Apps",
+    "link": "https://blog.shortepic.com/blog/first/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Are we observable yet? An introduction to Rust telemetry | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Building even faster interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-25/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2020-07-21",
+    "title": "Popol: Minimal non-blocking I/O with Rust ~ cloudhead.io",
+    "link": "https://cloudhead.io/popol/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Conway's Game of Life on the NES in Rust",
+    "link": "https://gridbugs.org/conways-game-of-life-on-the-nes-in-rust/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Building a Rust Web Browser",
+    "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "State Machines: Introduction",
+    "link": "https://blog.yoshuawuyts.com/state-machines/"
+  },
+  {
+    "date": "2020-03-03",
+    "title": "Cheap tricks for high-performance Rust - Pascal’s Scribbles",
+    "link": "https://deterministic.space/high-performance-rust.html"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "I Made A Thing: Markedit · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/markedit/"
+  },
+  {
+    "date": "2020-02-04",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-23/"
+  },
+  {
+    "date": "2020-01-28",
+    "title": "Lessons learnt updating a library to std::future",
+    "link": "https://cetra3.github.io/blog/mpart-async-0-3-0/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "date": "2019-10-01",
+    "title": "Figthting The Async Fragmentation | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/09/29/figthting-the-async-fragmentation.html"
+  },
+  {
+    "date": "2019-06-25",
+    "title": "Real Time For the Masses goes multi-core | Embedded in Rust",
+    "link": "https://blog.japaric.io/multicore-rtfm/"
+  },
+  {
+    "date": "2019-06-04",
+    "title": "Poking the macOS IO Kit with Rust · svartalf",
+    "link": "https://svartalf.info/posts/2019-05-31-poking-the-macos-io-kit-with-rust/"
+  },
+  {
+    "date": "2019-05-14",
+    "title": "μAMP: Asymmetric Multi-Processing on microcontrollers | Embedded in Rust",
+    "link": "https://blog.japaric.io/microamp/"
+  },
+  {
+    "date": "2019-04-23",
+    "title": "6 useful Rust macros that you might not have seen before | by Ben | Medium",
+    "link": "https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5"
+  },
+  {
+    "date": "2019-03-26",
+    "title": "How to Debug Rust with Visual Studio Code",
+    "link": "https://www.forrestthewoods.com/blog/how-to-debug-rust-with-visual-studio-code/"
+  },
+  {
+    "date": "2019-03-12",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-16/"
+  },
+  {
+    "date": "2019-01-08",
+    "title": "Are we async yet?",
+    "link": "https://areweasyncyet.rs/"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  },
+  {
+    "date": "2018-12-11",
+    "title": "Wherefore art thou Romio?",
+    "link": "https://boats.gitlab.io/blog/post/romio/"
+  },
+  {
+    "date": "2018-11-20",
+    "title": "How to monitor hanging threads in Rust | Programming Servo",
+    "link": "https://medium.com/programming-servo/programming-servo-a-background-hang-monitor-73e89185ce1"
+  },
+  {
+    "date": "2018-08-21",
+    "title": "Rust GraphQL webserver with Warp, Juniper and MongoDB",
+    "link": "http://alex.amiran.it/post/2018-08-16-rust-graphql-webserver-with-warp-juniper-and-mongodb.html"
+  },
+  {
+    "date": "2018-08-07",
+    "title": "intl_pluralrules: A Rust Crate for Handling Plural Forms with CLDR Plural Rules – Mozilla L10N",
+    "link": "https://blog.mozilla.org/l10n/2018/08/03/intl_pluralrules-a-rust-crate-for-handling-plural-forms-with-cldr-plural-rules/"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "Brave new I/O | Embedded in Rust",
+    "link": "http://blog.japaric.io/brave-new-io/"
+  },
+  {
+    "date": "2017-12-19",
+    "title": "Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up : Caffeinated Bitstream",
+    "link": "https://cafbit.com/post/tokio_internals/"
+  },
+  {
+    "date": "2017-09-26",
+    "title": "Gnirehtet rewritten in Rust · ~rom1v/blog",
+    "link": "https://blog.rom1v.com/2017/09/gnirehtet-rewritten-in-rust/"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "Debugging a Race Condition in a Release Target",
+    "link": "http://blog.boxofrox.me/2017/08/debugging-a-rust-release-build.html"
+  },
+  {
+    "date": "2017-08-01",
+    "title": "RTFM v2: simpler, less overhead and more device support | Embedded in Rust",
+    "link": "http://blog.japaric.io/rtfm-v2/"
+  },
+  {
+    "date": "2017-05-02",
+    "title": "Karol Kuczmarski's Blog – Asynchronous Rust for fun &amp;&nbsp;profit",
+    "link": "http://xion.io/post/programming/rust-async-closer-look.html"
+  },
+  {
+    "date": "2017-01-17",
+    "title": "Rust severely disappoints me – Armed and Dangerous",
+    "link": "http://esr.ibiblio.org/?p=7294"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "24 days of Rust - lettre | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-lettre/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - tera | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-tera/"
+  },
+  {
+    "date": "2016-09-27",
+    "title": "My adventures in Rust webdev. People who know me in the Rust… | by tomaka | Medium",
+    "link": "https://medium.com/@tomaka/my-adventures-in-rust-webdev-850c67be6c40"
+  },
+  {
+    "date": "2016-06-20",
+    "title": "Scheduling Timers on OS X with Rust and Kqueue – daschl writes. sometimes.",
+    "link": "http://nitschinger.at/Scheduling-Timers-on-OS-X-with-Rust-and-Kqueue/"
+  },
+  {
+    "date": "2016-05-30",
+    "title": "Connecting a webservice to a database in Rust",
+    "link": "http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html"
+  },
+  {
+    "date": "2016-04-04",
+    "title": "gemm: a rabbit hole",
+    "link": "https://bluss.github.io/rust/2016/03/28/a-gemmed-rabbit-hole/"
+  },
+  {
+    "date": "2016-02-01",
+    "title": "Rust for the Web. RESTful API in Rust, impressions | by 🪄 OZ 🎩 | Medium",
+    "link": "https://medium.com/@eugeniyoz/restful-api-in-rust-impressions-63250d611d15"
+  },
+  {
+    "date": "2015-08-31",
+    "title": "MongoDB Rust Driver - Rust Driver v3.0",
+    "link": "https://www.mongodb.com/blog/post/the-new-mongodb-rust-driver"
+  }
+]

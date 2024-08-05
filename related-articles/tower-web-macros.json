@@ -1,21 +1,26 @@
 [
   {
+    "date": "2020-06-23",
     "title": "Rust at CNCF | CNCF",
     "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2019-10-08",
     "title": "Tonic: gRPC has come to async/await!",
     "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
   },
   {
+    "date": "2018-09-11",
     "title": "Tower Web — Expanding the middleware stack | by Carl Lerche | Medium",
     "link": "https://medium.com/@carllerche/tower-web-expanding-the-middleware-stack-f9bf55bfa109"
   },
   {
+    "date": "2018-08-14",
     "title": "Tower Web — A new web framework for Rust | by Carl Lerche | Medium",
     "link": "https://medium.com/@carllerche/tower-web-a-new-web-framework-for-rust-e2912856851b"
   }

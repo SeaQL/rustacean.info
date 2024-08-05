@@ -1,21 +1,31 @@
 [
   {
+    "date": "2023-11-29",
     "title": "Create a Lambda in Rust using Terraform - maahl.net",
     "link": "https://maahl.net/blog/rust-aws-lambda/"
   },
   {
+    "date": "2021-10-13",
     "title": "Running Rust on AWS Lambda on ARM64",
     "link": "https://www.ballpointcarrot.net/posts/rust-arm-lambdas/"
   },
   {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-06-23",
+    "title": "Rust and AWS Lambda",
+    "link": "https://mitchgollub.com/rust-and-aws-lambda/"
+  },
+  {
+    "date": "2021-03-31",
     "title": "AWS Rust Lambdas and Bioinformatics | UMCCR Genomics Platform Group",
     "link": "https://umccr.org/blog/aws-bioinformatics-rust/"
   },
   {
+    "date": "2018-12-04",
     "title": "Rust Runtime for AWS Lambda | AWS Open Source Blog",
     "link": "https://aws.amazon.com/blogs/opensource/rust-runtime-for-aws-lambda/"
   }

@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-01-25",
     "title": "`toml` vs `toml_edit`",
     "link": "https://epage.github.io/blog/2023/01/toml-vs-toml-edit/"
   },
   {
+    "date": "2022-01-26",
     "title": "tyty",
     "link": "https://zackoverflow.dev/writing/tyty"
   }

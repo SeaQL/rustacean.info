@@ -1,6 +1,12 @@
 [
   {
+    "date": "2018-01-23",
     "title": "Eight million pixels and counting\n– Introduction to lyon: 2D vector graphics rendering on the GPU in rust",
     "link": "https://nical.github.io/posts/lyon-intro.html"
+  },
+  {
+    "date": "2017-07-11",
+    "title": "ggez: Rust game thing",
+    "link": "http://ggez.rs/"
   }
 ]

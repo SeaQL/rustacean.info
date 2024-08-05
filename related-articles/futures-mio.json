@@ -1,53 +1,96 @@
 [
   {
+    "date": "2020-06-02",
     "title": "Rust at OneSignal",
     "link": "https://onesignal.com/blog/rust-at-onesignal/"
   },
   {
+    "date": "2018-03-06",
     "title": "Writing a Microservice in Rust – Peter Goldsborough",
     "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
   },
   {
+    "date": "2017-12-19",
+    "title": "Tokio internals: Understanding Rust's asynchronous I/O framework from the bottom up : Caffeinated Bitstream",
+    "link": "https://cafbit.com/post/tokio_internals/"
+  },
+  {
+    "date": "2017-10-03",
+    "title": "Looking into the Future.md · GitHub",
+    "link": "https://gist.github.com/Diggsey/6f924bf3f741bcdffd240faee102fe92"
+  },
+  {
+    "date": "2017-08-01",
+    "title": "Writing GStreamer Applications in Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2017/07/writing-gstreamer-applications-in-rust/"
+  },
+  {
+    "date": "2017-04-04",
     "title": "Async, Futures, AMQP, pick three | Clever Cloud",
     "link": "https://www.clever-cloud.com/blog/engineering/2017/03/28/lapin-new-rust-amqp-library/"
   },
   {
+    "date": "2017-03-07",
     "title": "The Future With Futures",
     "link": "http://asquera.de/blog/2017-03-01/the-future-with-futures/"
   },
   {
+    "date": "2017-01-24",
     "title": "Parallelizing Enjarify in Go and Rust | by Robert Grosse | Medium",
     "link": "https://medium.com/@robertgrosse/parallelizing-enjarify-in-go-and-rust-21055d64af7e"
   },
   {
+    "date": "2017-01-03",
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  },
+  {
+    "date": "2017-01-03",
     "title": "show_notes::news::_2 - Rust",
     "link": "http://www.newrustacean.com/show_notes/news/_2/index.html"
   },
   {
+    "date": "2016-12-27",
     "title": "Getting Started with Tokio",
     "link": "https://lukesteensen.com/2016/12/getting-started-with-tokio/"
   },
   {
+    "date": "2016-09-20",
     "title": "Using and_then and map combinators on the Rust Result Type",
     "link": "http://hermanradtke.com/2016/09/12/rust-using-and_then-and-map-combinators-on-result-type.html"
   },
   {
+    "date": "2016-09-13",
     "title": "The relationship between async libraries in Rust | \nJimmy Cuadra",
     "link": "https://www.jimmycuadra.com/posts/the-relationship-between-async-libraries-in-rust/"
   },
   {
+    "date": "2016-09-13",
+    "title": "Writing GStreamer Elements in Rust (Part 2): Don’t panic, we have better assertions now – and other updates – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2016/09/writing-gstreamer-elements-in-rust-part-2-dont-panic-we-have-better-assertions-now-and-other-updates/"
+  },
+  {
+    "date": "2016-09-13",
     "title": "Designing futures for Rust · Aaron Turon",
     "link": "https://aturon.github.io/blog/2016/09/07/futures-design/"
   },
   {
+    "date": "2016-08-23",
     "title": "show_notes::bonus::_6 - Rust",
     "link": "http://www.newrustacean.com/show_notes/bonus/_6/"
   },
   {
+    "date": "2016-08-16",
     "title": "Zero-cost futures in Rust · Aaron Turon",
     "link": "https://aturon.github.io/blog/2016/08/11/futures/"
   },
   {
+    "date": "2016-08-16",
+    "title": "Futures in Rust",
+    "link": "http://www.ishbir.com/post/2016-08-14-futures-in-rust/"
+  },
+  {
+    "date": "2016-08-02",
     "title": "Hidden treasures of the Rust ecosystem - Pascal’s Scribbles",
     "link": "https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html"
   }

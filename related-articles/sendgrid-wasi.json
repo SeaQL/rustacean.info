@@ -1,6 +1,17 @@
 [
   {
+    "date": "2022-12-14",
     "title": "Sending Emails from the Edge with Rust | Mainmatter",
     "link": "https://mainmatter.com/blog/2022/12/09/sending-emails-from-the-edge-with-rust/"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "How To Write A REST Client In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/how-to-write-a-rest-client-in-rust-with-reqwest-and-wiremock/"
+  },
+  {
+    "date": "2015-07-20",
+    "title": "404 error | Twilio",
+    "link": "https://www.twilio.com/blog/2015/07/building-a-random-friend-dialer-part-1-getting-started-with-rust-and-iron.html"
   }
 ]

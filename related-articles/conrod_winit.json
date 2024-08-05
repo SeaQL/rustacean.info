@@ -1,29 +1,36 @@
 [
   {
+    "date": "2023-05-03",
     "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
     "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
   },
   {
+    "date": "2019-06-11",
     "title": "Nannou Update - Vulkan, LASERs and more! | Nannou",
     "link": "https://nannou.cc/posts/nannou_v0.9"
   },
   {
+    "date": "2016-09-20",
     "title": "What is happening 3 · Piston",
     "link": "http://blog.piston.rs/2016/09/19/what-is-happening-3/"
   },
   {
+    "date": "2016-03-07",
     "title": "How to use Eco · Piston",
     "link": "http://blog.piston.rs/2016/03/04/how-to-use-eco/"
   },
   {
+    "date": "2015-11-23",
     "title": "What is happening · Piston",
     "link": "http://blog.piston.rs/2015/11/17/what-is-happening/"
   },
   {
+    "date": "2015-04-13",
     "title": "Piston 0.1 is released · Piston",
     "link": "http://blog.piston.rs/2015/04/07/piston-0.1/"
   },
   {
+    "date": "2015-02-16",
     "title": "Duck Typing in Piston · Piston",
     "link": "http://blog.piston.rs/2015/02/10/duck-typing-in-piston/"
   }

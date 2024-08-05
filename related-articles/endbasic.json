@@ -1,33 +1,41 @@
 [
   {
+    "date": "2023-10-11",
     "title": "5 ways to instantiate Rust structs in tests - Julio Merino (jmmv.dev)",
     "link": "https://jmmv.dev/2023/10/rust-test-structs.html"
   },
   {
+    "date": "2023-08-09",
     "title": "A failed experiment with Rust static dispatch - Julio Merino (jmmv.dev)",
     "link": "https://jmmv.dev/2023/08/rust-static-dispatch-failed-experiment.html"
   },
   {
+    "date": "2023-07-12",
     "title": "Unit-testing a web service in Rust - Julio Merino (jmmv.dev)",
     "link": "https://jmmv.dev/2023/07/unit-testing-a-web-service.html"
   },
   {
+    "date": "2023-07-05",
     "title": "A persistent task queue in Rust - Julio Merino (jmmv.dev)",
     "link": "https://jmmv.dev/2023/06/iii-iv-task-queue.html"
   },
   {
+    "date": "2022-04-27",
     "title": "Rust traits and dependency injection - Julio Merino (jmmv.dev)",
     "link": "https://jmmv.dev/2022/04/rust-traits-and-dependency-injection.html"
   },
   {
+    "date": "2021-07-14",
     "title": "EndBASIC",
     "link": "https://www.endbasic.dev"
   },
   {
+    "date": "2020-12-9-",
     "title": "Unit-testing a console app (a text editor) - Julio Merino (jmmv.dev)",
     "link": "https://jmmv.dev/2020/12/unit-testing-a-console-app.html"
   },
   {
+    "date": "2020-12-9-",
     "title": "Using the builder pattern to define test scenarios - Julio Merino (jmmv.dev)",
     "link": "https://jmmv.dev/2020/12/builder-pattern-for-tests.html"
   }

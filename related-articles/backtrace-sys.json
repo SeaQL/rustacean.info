@@ -1,5 +1,6 @@
 [
   {
+    "date": "2018-11-20",
     "title": "How to monitor hanging threads in Rust | Programming Servo",
     "link": "https://medium.com/programming-servo/programming-servo-a-background-hang-monitor-73e89185ce1"
   }

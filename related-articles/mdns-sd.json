@@ -1,5 +1,6 @@
 [
   {
+    "date": "2024-01-31",
     "title": "Fearless concurrency with Rust, cats, and a few Raspberry PIs - Manuel Bernhardt",
     "link": "https://manuel.bernhardt.io/posts/2024-01-26-rust-fearless-concurrency-cats-raspberry-pi/"
   }

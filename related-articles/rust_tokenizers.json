@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-06-10",
     "title": "A Rust SentencePiece implementation | Rust NLP tales",
     "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
   }

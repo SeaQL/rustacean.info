@@ -1,9 +1,16 @@
 [
   {
+    "date": "2017-02-28",
+    "title": "Deploying Rust in a large codebase | by Ralph Giles | Mozilla Tech | Medium",
+    "link": "https://medium.com/@rillian/deploying-rust-in-a-large-codebase-7e50328074e8"
+  },
+  {
+    "date": "2016-09-13",
     "title": "Writing GStreamer plugins and elements in Rust – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2016/05/writing-gstreamer-plugins-and-elements-in-rust/"
   },
   {
+    "date": "2016-07-19",
     "title": "Shipping Rust in Firefox - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2016/07/shipping-rust-in-firefox/"
   }

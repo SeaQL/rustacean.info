@@ -1,0 +1,227 @@
+[
+  {
+    "date": "2024-07-10",
+    "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
+    "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Polars — Announcing Polars 1.0",
+    "link": "https://pola.rs/posts/announcing-polars-1/"
+  },
+  {
+    "date": "2024-04-10",
+    "title": "Working with OpenAPI using Rust",
+    "link": "https://www.shuttle.rs/blog/2024/04/04/using-openapi-rust"
+  },
+  {
+    "date": "2024-04-03",
+    "title": "Explaining the internals of async-task from the ground up – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/async-task-explained-part1/"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "biscotti, a new crate for HTTP cookies | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/biscotti-http-cookies-in-rust/"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
+  },
+  {
+    "date": "2024-03-06",
+    "title": "Designing an Async Runtime for WASI 0.2",
+    "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Let futures be futures",
+    "link": "https://without.boats/blog/let-futures-be-futures/"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Polars — Why we have rewritten the string data type",
+    "link": "https://pola.rs/posts/polars-string-type/"
+  },
+  {
+    "date": "2024-01-10",
+    "title": "Polars — Polars in Aggregate: Going from 0.19.0 to 0.20.2",
+    "link": "https://pola.rs/posts/polars_in_aggregrate-0.20/"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "My reference was dropped, why is the compiler complaining about multiple borrows? | nicole@web",
+    "link": "https://ntietz.com/blog/my-reference-was-dropped-why-is-the-compiler-complaining-about-multiple-borrows/"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "The rabbit hole of unsafe Rust bugs – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/cautionary-unsafe-tale/"
+  },
+  {
+    "date": "2023-10-18",
+    "title": "Why async Rust?",
+    "link": "https://without.boats/blog/why-async-rust/"
+  },
+  {
+    "date": "2023-09-27",
+    "title": "Eyra is an interesting Rust project – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/eyra/"
+  },
+  {
+    "date": "2023-09-13",
+    "title": "Why you might actually want async in your project – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/why-you-want-async/"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Pavex DevLog #6: designing safe and ergonomic middlewares | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-06/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "How does async Rust work | bertptrs.nl",
+    "link": "https://bertptrs.nl/2023/04/27/how-does-async-rust-work.html"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "winnow = toml_edit + combine + nom",
+    "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Using Rust to write a Data Pipeline. Thoughts. Musings. - Confessions of a Data Guy",
+    "link": "https://www.confessionsofadataguy.com/using-rust-to-write-a-data-pipeline-thoughts-musings/"
+  },
+  {
+    "date": "2023-01-11",
+    "title": "Introducing OkayWAL: A write-ahead log for Rust",
+    "link": "https://bonsaidb.io/blog/introducing-okaywal/"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "Bevy 0.9",
+    "link": "https://bevyengine.org/news/bevy-0-9/"
+  },
+  {
+    "date": "2022-08-24",
+    "title": "State Machines II: an enum-based design",
+    "link": "https://blog.yoshuawuyts.com/state-machines-2/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "So Zero It's ... Negative? (Zero-Copy #3) - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Zero-Copy All the Things! (Zero-Copy #2) - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-2-zero-copy-all-the-things/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Not a Yoking Matter (Zero-Copy #1) - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-1-not-a-yoking-matter/"
+  },
+  {
+    "date": "2022-07-13",
+    "title": "Minimalist Guide to Poem",
+    "link": "https://tech.marksblogg.com/poem-rust-web-framework.html"
+  },
+  {
+    "date": "2022-06-22",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Caches In Rust",
+    "link": "https://matklad.github.io/2022/06/11/caches-in-rust.html"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/mnemos-initial-release/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "What's new in postage v0.5.0",
+    "link": "https://implaustin.hashnode.dev/whats-new-in-postage-v050"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Mapping my walks with OSRM and Rust",
+    "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Async overloading",
+    "link": "https://blog.yoshuawuyts.com/async-overloading/"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "From Julia to Rust",
+    "link": "https://miguelraz.github.io/blog/juliatorust/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
+    "date": "2020-11-25",
+    "title": "Levenshtein Heuristic in Poi | advancedresearch.github.io",
+    "link": "https://advancedresearch.github.io/blog/2020-11-21-levenshtein-heuristic-in-poi"
+  },
+  {
+    "date": "2020-07-21",
+    "title": "Popol: Minimal non-blocking I/O with Rust ~ cloudhead.io",
+    "link": "https://cloudhead.io/popol/"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "This June in my Database project written in Rust",
+    "link": "https://alex-dukhno.github.io/2020-06-27-This-June-in-my-Database-project-written-in-rust/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Memory efficient serialization of tagged union",
+    "link": "https://robinmoussu.gitlab.io/blog/post/binary_serialisation_of_enum/"
+  },
+  {
+    "date": "2019-04-23",
+    "title": "Learning Parser Combinators With Rust : Bodil dot lol",
+    "link": "https://bodil.lol/parser-combinators/"
+  },
+  {
+    "date": "2018-09-18",
+    "title": "Postgres over TLS with postgres and r2d2_postgres · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/postgres-tls/"
+  },
+  {
+    "date": "2016-09-27",
+    "title": "My adventures in Rust webdev. People who know me in the Rust… | by tomaka | Medium",
+    "link": "https://medium.com/@tomaka/my-adventures-in-rust-webdev-850c67be6c40"
+  },
+  {
+    "date": "2016-05-30",
+    "title": "Connecting a webservice to a database in Rust",
+    "link": "http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html"
+  },
+  {
+    "date": "2014-12-15",
+    "title": "24 days of Rust - postgres | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-postgres/"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-01-18",
+    "title": "Youmu | Finding Nice MD5s Using Rust",
+    "link": "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "Evolution of a simple `du -s` clone - blog by durka",
+    "link": "https://durka.github.io/blog/2017/08/06/du-evolution.html"
+  }
+]

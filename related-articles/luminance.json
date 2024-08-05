@@ -1,17 +1,156 @@
 [
   {
+    "date": "2023-09-06",
+    "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/048/"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "This Month in Rust GameDev #46 - May 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/046/"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "This Month in Rust GameDev #45 - April 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/045/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/044/"
+  },
+  {
+    "date": "2023-03-15",
+    "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/043/"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "This Month in Rust GameDev #42 - January 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/042/"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/041/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "This Month in Rust GameDev #40 - November 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/040/"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/039/"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "This Month in Rust GameDev #38 - September 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/038/"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "date": "2022-07-13",
+    "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/035/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/034/"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "This Month in Rust GameDev #33 - April 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/033/"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "This Month in Rust GameDev #32 - March 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/032/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "This Month in Rust GameDev #31 - February 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/031/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/030/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/029/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "This Month in Rust GameDev #27 - October 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/027/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/025/"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/024/"
+  },
+  {
+    "date": "2021-07-14",
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "date": "2021-06-16",
     "title": "This Month in Rust GameDev #22 - May 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/022/"
   },
   {
+    "date": "2021-05-12",
+    "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/021/"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/020/"
+  },
+  {
+    "date": "2018-10-09",
     "title": "strongly-typed-thoughts.net",
     "link": "https://phaazon.net/blog/glsl-quasiquoting"
   },
   {
+    "date": "2018-02-20",
     "title": "strongly-typed-thoughts.net",
     "link": "http://phaazon.net/blog/spectra_plugins"
   },
   {
+    "date": "2016-07-12",
+    "title": "Overview of Open Source Game Engines in Rust",
+    "link": "http://www.shadercat.com/overview-of-open-source-game-engines-in-rust/"
+  },
+  {
+    "date": "2016-05-02",
     "title": "Graphics and FPL: Porting a Haskell graphics framework to Rust (luminance)",
     "link": "http://phaazon.blogspot.in/2016/04/porting-haskell-graphics-framework-to.html"
   }

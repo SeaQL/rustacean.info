@@ -1,0 +1,97 @@
+[
+  {
+    "date": "2023-11-22",
+    "title": "~/arindas • Building Segmented Logs in Rust: From Theory to Production!",
+    "link": "https://arindas.github.io/blog/segmented-log-rust/"
+  },
+  {
+    "date": "2023-08-16",
+    "title": "Our latest adventures with bindgen  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/bindgen/"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "ROFL with a LOL: rewriting an NGINX module in Rust",
+    "link": "https://blog.cloudflare.com/rust-nginx-module/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Rust FFI and bindgen: Integrating Embedded C Code in Rust",
+    "link": "https://apollolabsblog.hashnode.dev/rust-ffi-and-bindgen-integrating-embedded-c-code-in-rust"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "Bevy 0.9",
+    "link": "https://bevyengine.org/news/bevy-0-9/"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "Kernel Driver with Rust in 2022",
+    "link": "https://not-matthias.github.io/posts/kernel-driver-with-rust-2022/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Flavors of enums with Rust bindgen",
+    "link": "https://www.mdaverde.com/posts/rust-bindgen-enum/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "date": "2021-12-29",
+    "title": "Thoughts on Context and Capabilities in Rust",
+    "link": "https://jam1.re/blog/thoughts-on-contexts-and-capabilities-in-rust"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Plugins in Rust: Getting Started | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-start/"
+  },
+  {
+    "date": "2021-06-30",
+    "title": "Deserializing Binary Data Files in Rust · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/deserializing-binary-data-files/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "Extracting Files From an Archive Format I Understand Way Too Much",
+    "link": "https://jam1.re/blog/extracting-files-from-an-archive-format-i-understand-way-too-much"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Down the Yak Hole of TLS — Drogue IoT",
+    "link": "https://blog.drogue.io/yak-hole-of-tls/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "How to RiiR · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/how-to-riir/index.html"
+  },
+  {
+    "date": "2019-07-16",
+    "title": "Rust as the new C: building and combining native libs into C API · Victor Baybekov",
+    "link": "http://hotforknowledge.com/2019/07/14/6-rust-the-new-c/"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  },
+  {
+    "date": "2018-05-29",
+    "title": "Fuzz testing in Rust with Cargo-fuzz | by Seasoned Software | Medium",
+    "link": "https://medium.com/@seasoned_sw/fuzz-testing-in-rust-with-cargo-fuzz-13b89feecc30"
+  }
+]

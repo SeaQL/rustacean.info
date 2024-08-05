@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-05-15",
+    "title": "Error Handling for Large Rust Projects - A Deep Dive into GreptimeDB's Practices | Greptime",
+    "link": "https://greptime.com/blogs/2024-05-07-error-rust"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "ROAPI: An API Server for Static Datasets",
+    "link": "https://tech.marksblogg.com/roapi-rust-data-api.html"
+  }
+]

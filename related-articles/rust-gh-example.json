@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-12-9-",
     "title": "Rust makes cross compilation child's play • Marco Ieni",
     "link": "https://www.marcoieni.com/2020/12/rust-makes-cross-compilation-childs-play/"
   },
   {
+    "date": "2020-09-09",
     "title": "Create an amazing Rust GitHub project in no time • Marco Ieni",
     "link": "https://www.marcoieni.com/2020/09/create-an-amazing-rust-github-project-in-no-time/"
   }

@@ -1,18 +1,52 @@
 [
   {
+    "date": "2024-04-24",
+    "title": "Tantivy 0.22 | Quickwit",
+    "link": "https://quickwit.io/blog/tantivy-0.22"
+  },
+  {
+    "date": "2024-04-10",
+    "title": "Rust Indexed - search in Rust books and tutorials",
+    "link": "https://rust-indexed.com/"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "Quickwit 0.7: Elasticsearch API compatibility and 30% performance gains | Quickwit",
+    "link": "https://quickwit.io/blog/quickwit-0.7"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "A compressed indexable bitset | Quickwit",
+    "link": "https://quickwit.io/blog/compressed-indexable-bitset"
+  },
+  {
+    "date": "2023-06-21",
+    "title": "Tantivy 0.20: Schemaless | Quickwit",
+    "link": "https://quickwit.io/blog/tantivy-0.20"
+  },
+  {
+    "date": "2023-06-21",
     "title": "How we built the Grafbase local development experience in Rust",
     "link": "https://grafbase.com/blog/how-we-built-the-grafbase-cli-in-rust"
   },
   {
+    "date": "2023-05-24",
     "title": "Whichlang: A fast language detection library for Rust | Quickwit",
     "link": "https://quickwit.io/blog/whichlang-language-detection-library"
   },
   {
+    "date": "2023-03-01",
     "title": "Through the looking glass • Create a launchbar app w/ Tauri",
     "link": "https://blog.spyglass.fyi/posts/2023/creating-a-launcher-in-tauri/"
   },
   {
+    "date": "2022-04-20",
     "title": "Full-text search for DynamoDB using Lambda, EFS, Tantivy and Rust.",
     "link": "https://jakejscott.com/full-text-search-for-dynamodb-using-lambda-efs-tantivy-and-rust"
+  },
+  {
+    "date": "2021-11-24",
+    "title": "How lnx does fuzzy searching over 5x faster with SymSpell",
+    "link": "https://chillfish8.ghost.io/fuzzy-searching-5x-faster-with-symspell/"
   }
 ]

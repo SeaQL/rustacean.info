@@ -1,10 +1,32 @@
 [
   {
+    "date": "2024-06-12",
     "title": "Latency at the Edge with Rust/WebAssembly and Postgres: Part 1 | Exograph",
     "link": "https://exograph.dev/blog/wasm-pg-explorations-1"
   },
   {
+    "date": "2023-08-30",
+    "title": "A Simple CRUD API in Rust with Cloudflare Workers, Cloudflare KV, and the Rust Router | by Damian Esteban | Medium",
+    "link": "https://medium.com/@estebanrules/a-simple-crud-api-in-rust-with-cloudflare-workers-cloudflare-kv-and-the-rust-router-cbc1b9015e7b"
+  },
+  {
+    "date": "2022-07-13",
     "title": "Logan Keenan - A Rust app in a Cloudflare Worker",
     "link": "https://logankeenan.com/posts/running-a-rust-server-in-a-cloudflare-worker/"
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Reality check for Cloudflare Wasm Workers and Rust",
+    "link": "https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust"
+  },
+  {
+    "date": "2019-03-05",
+    "title": "Building fast interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
+  },
+  {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
   }
 ]

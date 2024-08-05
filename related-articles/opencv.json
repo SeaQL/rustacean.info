@@ -1,6 +1,17 @@
 [
   {
+    "date": "2021-11-24",
     "title": "http://cmoran.xyz/writing/adventures_in_photogrammetry",
     "link": "http://cmoran.xyz/writing/adventures_in_photogrammetry"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Subvisual | Real-time video processing with Rust, FFmpeg and OpenCV",
+    "link": "https://subvisual.com/blog/posts/real-time-video-processing-with-rust-ffmpeg-opencv/"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "Tracking eye centers location with Rust &amp; OpenCV – NoDrama – Clojure | Clojurescript | DevOps | Rust",
+    "link": "https://www.blog.nodrama.io/rust-opencv-eye-center-localisation/"
   }
 ]

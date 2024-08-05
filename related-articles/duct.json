@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
   },
   {
+    "date": "2022-01-12",
     "title": "Crate of the Week second chance list – Brian Kung",
     "link": "https://briankung.dev/2022/01/07/crate-of-the-week-second-chance-list/"
   }

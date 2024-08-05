@@ -1,9 +1,21 @@
 [
   {
+    "date": "2024-05-29",
+    "title": "Report on variadic generics discussion at RustNL. · PoignardAzur",
+    "link": "https://poignardazur.github.io/2024/05/25/report-on-rustnl-variadics/"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Roadmap for the Xilem backend in 2024 - Linebender",
+    "link": "https://linebender.org/blog/xilem-backend-roadmap/#2"
+  },
+  {
+    "date": "2023-05-03",
     "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
     "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
   },
   {
+    "date": "2022-12-14",
     "title": "Catch 22! Rust in Review — Llogiq on stuff",
     "link": "https://llogiq.github.io/2022/12/11/catch22.html"
   }

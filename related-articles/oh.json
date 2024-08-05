@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2022-04-06",
+    "title": "Futures Nostalgia",
+    "link": "https://fasterthanli.me/articles/futures-nostalgia"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  }
+]

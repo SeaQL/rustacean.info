@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2023-07-12",
+    "title": "bridging fuzzing and property testing",
+    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
+  },
+  {
+    "date": "2022-03-02",
+    "title": "Modern Telecom Network Tracing - OXIO",
+    "link": "https://oxio.com/blog/modern-telecom-network-tracing/"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Saving Some Allocations | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/01/31/saving-some-allocations.html"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "parsing baseball files in Rust instead of Python for an 8x speedup! – Greg's Blog",
+    "link": "https://gregstoll.wordpress.com/2021/01/10/parsing-baseball-files-in-rust-instead-of-python-for-an-8x-speedup/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – Porting Details – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust-porting-details/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "How to write CRaP Rust code - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Working with strings in Rust",
+    "link": "https://fasterthanli.me/blog/2020/working-with-strings-in-rust/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "date": "2018-05-22",
+    "title": "Improving SmallVec's speed by 60% and why that shouldn't matter to you",
+    "link": "http://troubles.md/posts/improving-smallvec/"
+  },
+  {
+    "date": "2017-07-04",
+    "title": "Request For Explanation #1 - Constermash",
+    "link": "https://request-for-explanation.github.io/podcast/ep1-constermash/index.html"
+  }
+]

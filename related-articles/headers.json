@@ -1,74 +1,237 @@
 [
   {
+    "date": "2024-05-08",
+    "title": "curl with Daniel Stenberg - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e01-curl/"
+  },
+  {
+    "date": "2024-04-10",
+    "title": "hyper HTTP/2 Continuation Flood - seanmonstar",
+    "link": "https://seanmonstar.com/blog/hyper-http2-continuation-flood/"
+  },
+  {
+    "date": "2024-03-27",
     "title": "reqwest v0.12 - seanmonstar",
     "link": "https://seanmonstar.com/blog/reqwest-v012/"
   },
   {
+    "date": "2024-03-27",
+    "title": "Hyper 1.0 with Sean McArthur :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/sean-mcarthur/"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "Lambda on hard mode: Inside Modal's web infrastructure | Modal Blog",
+    "link": "https://modal.com/blog/serverless-http"
+  },
+  {
+    "date": "2024-01-17",
     "title": "2023 in review - seanmonstar",
     "link": "https://seanmonstar.com/blog/2023-in-review/"
   },
   {
+    "date": "2023-12-06",
+    "title": "Fredrik Park | Making a secure Axum route",
+    "link": "https://blog.sedrik.se/posts/secure-axum"
+  },
+  {
+    "date": "2023-11-29",
     "title": "tokio_graceful - Rust",
     "link": "https://docs.rs/tokio-graceful"
   },
   {
+    "date": "2023-11-22",
     "title": "hyper v1 - seanmonstar",
     "link": "https://seanmonstar.com/blog/hyper-v1/"
   },
   {
+    "date": "2023-01-11",
+    "title": "Potential DoS Vulnerability in Rust Hyper",
+    "link": "https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "date": "2022-11-02",
     "title": "Rust microservices in server-side WebAssembly - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-microservices-server-side-webassembly/"
   },
   {
+    "date": "2022-08-10",
+    "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Futures Nostalgia",
+    "link": "https://fasterthanli.me/articles/futures-nostalgia"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "curl with rust | daniel.haxx.se",
+    "link": "https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Creating social sharing images in Rust",
+    "link": "https://hashrust.com/blog/creating-social-sharing-images-in-rust/"
+  },
+  {
+    "date": "2021-12-08",
+    "title": "AWS SDK for Rust (Developer Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-rust-developer-preview/"
+  },
+  {
+    "date": "2021-11-17",
     "title": "BonsaiDb November update: Working towards alpha 1 - BonsaiDb - Khonsu Labs Community",
     "link": "https://community.khonsulabs.com/t/bonsaidb-november-update-working-towards-alpha-1/86"
   },
   {
+    "date": "2021-10-27",
+    "title": "Rust Web Development with Bastian Gruber :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/043-bastian-gruber/"
+  },
+  {
+    "date": "2021-09-22",
     "title": "Combining Axum, Hyper, Tonic, and Tower for hybrid web/gRPC apps: Part 2",
     "link": "https://www.fpcomplete.com/blog/axum-hyper-tonic-tower-part2"
   },
   {
+    "date": "2021-09-22",
+    "title": "Rocket: A Web Framework for Rust",
+    "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Exploring the top Rust web frameworks - LogRocket Blog",
+    "link": "https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Captures in closures and async blocks",
+    "link": "https://www.fpcomplete.com/blog/captures-closures-async/"
+  },
+  {
+    "date": "2021-02-03",
     "title": "Saving Some Allocations | Vorner’s random stuff",
     "link": "https://vorner.github.io/2021/01/31/saving-some-allocations.html"
   },
   {
+    "date": "2020-11-18",
+    "title": "An ownership puzzle with Rust, async, and hyper",
+    "link": "https://www.fpcomplete.com/blog/ownership-puzzle-rust-async-hyper/"
+  },
+  {
+    "date": "2020-10-14",
+    "title": "Memory Safe ‘curl’ for a More Secure Internet -  Internet Security Research Group",
+    "link": "https://www.abetterinternet.org/post/memory-safe-curl/"
+  },
+  {
+    "date": "2020-10-14",
+    "title": "rust in curl with hyper | daniel.haxx.se",
+    "link": "https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/"
+  },
+  {
+    "date": "2020-06-16",
     "title": "Hyper Traps | Vorner’s random stuff",
     "link": "https://vorner.github.io/2020/04/13/hyper-traps.html"
   },
   {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-01-28",
     "title": "Lessons learnt updating a library to std::future",
     "link": "https://cetra3.github.io/blog/mpart-async-0-3-0/"
   },
   {
+    "date": "2019-11-26",
     "title": "Announcing Tokio 0.2 and a Roadmap to 1.0 | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-11-tokio-0-2/"
   },
   {
+    "date": "2019-05-21",
     "title": "Rust In Avast | Vorner’s random stuff",
     "link": "https://vorner.github.io/2019/05/19/rust-in-avast.html"
   },
   {
-    "title": "A great 2018, an even better 2019 | Tokio - An asynchronous Rust runtime",
-    "link": "https://tokio.rs/blog/2018-12-recap-2018/"
+    "date": "2018-12-04",
+    "title": "Rust Runtime for AWS Lambda | AWS Open Source Blog",
+    "link": "https://aws.amazon.com/blogs/opensource/rust-runtime-for-aws-lambda/"
   },
   {
-    "title": "Experimental async / await support for Tokio | Tokio - An asynchronous Rust runtime",
-    "link": "https://tokio.rs/blog/2018-08-async-await/"
+    "date": "2018-08-14",
+    "title": "Tower Web — A new web framework for Rust | by Carl Lerche | Medium",
+    "link": "https://medium.com/@carllerche/tower-web-a-new-web-framework-for-rust-e2912856851b"
   },
   {
+    "date": "2018-04-10",
+    "title": "Announcing Tower — A library for writing robust network services with Rust. | by Carl Lerche | Medium",
+    "link": "https://medium.com/@carllerche/announcing-tower-a-library-for-writing-robust-network-services-with-rust-67273f052c40"
+  },
+  {
+    "date": "2018-03-06",
     "title": "Writing a Microservice in Rust – Peter Goldsborough",
     "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
   },
   {
+    "date": "2018-01-09",
+    "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
+    "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
+  },
+  {
+    "date": "2017-08-15",
     "title": "Gotham web framework",
     "link": "https://gotham.rs/blog"
   },
   {
+    "date": "2017-07-04",
     "title": "show_notes::cysk::rocket - Rust",
     "link": "http://www.newrustacean.com/show_notes/cysk/rocket/"
   },
   {
+    "date": "2017-05-23",
+    "title": "My first PR for a Rust project. I’ve been doing a lot of Rust recently… | by Steve Robinson | Adventures in Rust | Medium",
+    "link": "https://medium.com/adventures-in-rust/my-first-pr-for-a-rust-project-364d8c02220b"
+  },
+  {
+    "date": "2017-05-02",
     "title": "Karol Kuczmarski's Blog – Asynchronous Rust for fun &amp;&nbsp;profit",
     "link": "http://xion.io/post/programming/rust-async-closer-look.html"
+  },
+  {
+    "date": "2017-01-03",
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "24 days of Rust - reqwest | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-reqwest/"
+  },
+  {
+    "date": "2016-08-09",
+    "title": "Announcing Tokio. A Finagle inspired network application… | by Carl Lerche | Medium",
+    "link": "https://medium.com/@carllerche/announcing-tokio-df6bb4ddb34"
+  },
+  {
+    "date": "2016-07-12",
+    "title": "Rust and Rest | Armin Ronacher's Thoughts and Writings",
+    "link": "http://lucumr.pocoo.org/2016/7/10/rust-rest/"
+  },
+  {
+    "date": "2016-06-20",
+    "title": "REST in Rust - Garrett's Blog",
+    "link": "https://gsquire.github.io/static/post/rest-in-rust/"
   }
 ]

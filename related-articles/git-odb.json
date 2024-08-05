@@ -1,13 +1,21 @@
 [
   {
+    "date": "2024-04-10",
     "title": "Ratatui Received Funding: What's Next? - Orhun's Blog",
     "link": "https://blog.orhun.dev/open-source-funding-with-ratatui/"
   },
   {
+    "date": "2022-06-29",
+    "title": "Release-plz: release Rust packages from CI • Marco Ieni",
+    "link": "https://www.marcoieni.com/2022/06/release-plz-release-rust-packages-from-ci/"
+  },
+  {
+    "date": "2022-05-25",
     "title": "Crash reporting in Rust",
     "link": "https://jake-shadle.github.io/crash-reporting/"
   },
   {
+    "date": "2022-01-26",
     "title": "Gitoxide with Sebastian Thiel :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/055-sebastian-thiel/"
   }

@@ -1,13 +1,16 @@
 [
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2016-10-11",
     "title": "Using Rust for Webdev as a Hobby Programmer",
     "link": "http://neikos.me/Using_Rust_for_Webdev_as_a_Hobby_Programmer.html"
   },
   {
+    "date": "2015-06-08",
     "title": "Introduction · Maud: a compile-time template engine for Rust",
     "link": "http://lfairy.gitbooks.io/maud/content/"
   }

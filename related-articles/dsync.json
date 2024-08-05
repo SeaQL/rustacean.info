@@ -1,9 +1,11 @@
 [
   {
+    "date": "2017-03-28",
     "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
     "link": "https://diesel.rs"
   },
   {
+    "date": "2016-10-11",
     "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
     "link": "http://diesel.rs/"
   }

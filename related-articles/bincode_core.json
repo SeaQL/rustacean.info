@@ -1,17 +1,21 @@
 [
   {
+    "date": "2020-04-29",
     "title": "Memory efficient serialization of tagged union",
     "link": "https://robinmoussu.gitlab.io/blog/post/binary_serialisation_of_enum/"
   },
   {
+    "date": "2016-01-04",
     "title": "Will Usher",
     "link": "http://www.willusher.io/2016/01/02/distributed-rendering-with-rust-and-mio/"
   },
   {
+    "date": "2015-08-10",
     "title": "Serde 0.5.0 - Many Many Changes - Chasing Rabbits",
     "link": "https://erickt.github.io/blog/2015/08/07/serde-0-dot-5-0-many-many-changes/"
   },
   {
+    "date": "2014-11-17",
     "title": "Rewriting Rust Serialization, Part 2.2: More Benchmarks - Chasing Rabbits",
     "link": "http://erickt.github.io/blog/2014/11/13/benchmarks-2/"
   }

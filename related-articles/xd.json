@@ -1,5 +1,11 @@
 [
   {
+    "date": "2021-02-17",
+    "title": "The XDG base directory specification and Rust",
+    "link": "https://blog.liw.fi/posts/2021/02/14/xdg-base-dirs-rust/"
+  },
+  {
+    "date": "2020-11-18",
     "title": "Introducing xd(1) | delan azabani",
     "link": "https://www.azabani.com/2020/11/15/xd.html"
   }

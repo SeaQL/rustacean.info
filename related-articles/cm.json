@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2023-04-19",
+    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+  },
+  {
+    "date": "2021-09-29",
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "date": "2020-03-03",
+    "title": "A look into ways to implement and share data with interrupt handlers in Rust (Update 1) | The subconscious mumblings of therealprof",
+    "link": "https://therealprof.github.io/blog/interrupt-comparison/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-21/"
+  },
+  {
+    "date": "2019-07-16",
+    "title": "Rust as the new C: building and combining native libs into C API · Victor Baybekov",
+    "link": "http://hotforknowledge.com/2019/07/14/6-rust-the-new-c/"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  }
+]

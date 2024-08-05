@@ -1,6 +1,17 @@
 [
   {
+    "date": "2024-01-17",
     "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
     "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Evolution of kube | probes",
+    "link": "https://clux.github.io/probes/post/2021-02-28-kube-evolution/"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/introducing-krator/"
   }
 ]

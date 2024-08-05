@@ -1,5 +1,11 @@
 [
   {
+    "date": "2023-03-08",
+    "title": "Bevy 0.10",
+    "link": "https://bevyengine.org/news/bevy-0-10/"
+  },
+  {
+    "date": "2021-01-13",
     "title": "Testing Hardware Using Rust",
     "link": "https://www.jaredwolff.com/testing-hardware-using-rust/"
   }

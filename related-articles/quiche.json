@@ -1,37 +1,51 @@
 [
   {
+    "date": "2024-07-03",
+    "title": "sans-IO: The secret to effective Rust for network services",
+    "link": "https://www.firezone.dev/blog/sans-io"
+  },
+  {
+    "date": "2024-05-08",
     "title": "curl with Daniel Stenberg - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s02e01-curl/"
   },
   {
+    "date": "2024-02-07",
     "title": "Let futures be futures",
     "link": "https://without.boats/blog/let-futures-be-futures/"
   },
   {
+    "date": "2023-03-08",
     "title": "Oxy is Cloudflare's Rust-based next generation proxy framework",
     "link": "https://blog.cloudflare.com/introducing-oxy/"
   },
   {
+    "date": "2022-01-12",
     "title": "Could Rust be the Future of JavaScript Infrastructure? - The New Stack",
     "link": "https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/"
   },
   {
+    "date": "2021-06-09",
     "title": "QUIC Version 1 is live on Cloudflare",
     "link": "https://blog.cloudflare.com/quic-version-1-is-live-on-cloudflare/"
   },
   {
+    "date": "2020-10-14",
     "title": "rust in curl with hyper | daniel.haxx.se",
     "link": "https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/"
   },
   {
+    "date": "2020-07-21",
     "title": "TCPが遅すぎる？QUICを使おう！. 「それ、QUIC使えないの？」 | by FUJITA Tomonori | nttlabs | Medium",
     "link": "https://medium.com/nttlabs/quic-with-rust-9cf9b44596ad"
   },
   {
+    "date": "2020-02-04",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-23/"
   },
   {
+    "date": "2019-01-29",
     "title": "Enjoy a slice of QUIC, and Rust!",
     "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
   }

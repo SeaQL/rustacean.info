@@ -1,17 +1,61 @@
 [
   {
+    "date": "2023-09-27",
     "title": "Logging in Rust - How to Get Started",
     "link": "https://www.shuttle.rs/blog/2023/09/20/logging-in-rust"
   },
   {
+    "date": "2023-03-22",
+    "title": "The Importance of Logging :: The Coded Message",
+    "link": "https://www.thecodedmessage.com/posts/logging/"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "Protohackers in Rust, Part 00: Dipping the toe in async and Tokio",
+    "link": "https://d2718.net/blog/posts/protohax_00.html"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "Extending SQLite with Rust - rand[om]",
+    "link": "https://ricardoanderegg.com/posts/extending-sqlite-with-rust/"
+  },
+  {
+    "date": "2021-11-10",
     "title": "Knurling toolset v0.3 has been released!  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/defmt-3/"
   },
   {
+    "date": "2021-10-13",
+    "title": "Knurling-rs changelog #32  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-32/"
+  },
+  {
+    "date": "2021-04-07",
     "title": "Hello: push button - Kas Tutorials",
     "link": "https://kas-gui.github.io/tutorials/hello.html"
   },
   {
+    "date": "2020-10-21",
+    "title": "Learn Rust With Benford's Law&nbsp;–&nbsp;gliderkite.io",
+    "link": "https://gliderkite.github.io/posts/learn-rust-with-benford/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Are we observable yet? An introduction to Rust telemetry | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Throw Away Code | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/09/20/throw-away-code.html"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  },
+  {
+    "date": "2019-08-20",
     "title": "Diagnostics with Tracing | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-08-tracing/"
   }

@@ -1,5 +1,6 @@
 [
   {
+    "date": "2024-02-21",
     "title": "Deploying Axum to Lambda and ECS, using Lambda Web Adapter | by Sam Van Overmeire | Medium",
     "link": "https://medium.com/@sam.van.overmeire/deploying-axum-to-lambda-and-ecs-using-lambda-web-adapter-2273bd56bb81"
   }

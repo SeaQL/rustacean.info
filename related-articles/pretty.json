@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2023-07-12",
+    "title": "Learning Rust - after one month",
+    "link": "https://szabgab.com/learning-rust-after-one-month.html"
+  },
+  {
+    "date": "2022-11-30",
+    "title": "Unimock 0.4 - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/unimock-0-4/"
+  },
+  {
+    "date": "2021-04-28",
+    "title": "Writing a Postgres SQL Pretty Printer in Rust: Part 2 - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2021/04/24/writing-a-postgres-sql-pretty-printer-in-rust-part-2/"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Building TodoMVC With vgtk : Bodil dot lol",
+    "link": "https://bodil.lol/vgtk/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  }
+]

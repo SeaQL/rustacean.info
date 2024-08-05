@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-07-17",
     "title": "Playing guitar tablatures in Rust",
     "link": "https://agourlay.github.io/ruxguitar-tablature-player/"
   },
   {
+    "date": "2022-08-10",
     "title": "A performance retrospective using Rust (part 3)",
     "link": "https://agourlay.github.io/rust-performance-retrospective-part3/"
   },
   {
+    "date": "2022-07-27",
     "title": "A performance retrospective using Rust (part 2)",
     "link": "https://agourlay.github.io/rust-performance-retrospective-part2/"
   }

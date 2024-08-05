@@ -1,5 +1,6 @@
 [
   {
+    "date": "2015-06-08",
     "title": "Unsafe Rust: An Intro and Open Questions",
     "link": "http://cglab.ca/~abeinges/blah/rust-unsafe-intro/"
   }

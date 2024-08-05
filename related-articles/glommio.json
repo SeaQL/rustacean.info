@@ -1,22 +1,52 @@
 [
   {
+    "date": "2024-03-06",
+    "title": "Designing an Async Runtime for WASI 0.2",
+    "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"
+  },
+  {
+    "date": "2023-09-20",
     "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/async/"
   },
   {
+    "date": "2023-01-18",
+    "title": "The Hidden Control Flow — Some Insights on an Async Cancellation Problem in Rust | Greptime",
+    "link": "https://greptime.com/blogs/2023-01-12-hidden-control-flow"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Static streams for faster async proxies",
+    "link": "https://blog.adamchalmers.com/streaming-proxy/"
+  },
+  {
+    "date": "2022-06-15",
     "title": "Local Async Executors and Why They Should be the Default",
     "link": "https://maciej.codes/2022-06-09-local-async.html"
   },
   {
+    "date": "2022-03-30",
+    "title": "Async destructors, async genericity and completion futures - Sabrina Jewson",
+    "link": "https://sabrinajewson.org/blog/async-drop"
+  },
+  {
+    "date": "2022-03-16",
     "title": "Async IO with completion-model IO systems",
     "link": "https://www.ncameron.org/blog/async-io-with-completion-model-io-systems/"
   },
   {
+    "date": "2021-11-17",
     "title": "What is an async runtime?",
     "link": "https://ncameron.org/blog/what-is-an-async-runtime/"
   },
   {
+    "date": "2021-10-06",
     "title": "Scalable server design in Rust with Tokio | by FUJITA Tomonori | Medium",
     "link": "https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c81a5f350a3"
+  },
+  {
+    "date": "2020-09-09",
+    "title": "C++ vs Rust: an async Thread-per-Core story | by Glauber Costa | Medium",
+    "link": "https://medium.com/@glaubercosta_11125/c-vs-rust-an-async-thread-per-core-story-28c4b43c410c"
   }
 ]

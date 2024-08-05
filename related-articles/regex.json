@@ -1,74 +1,197 @@
 [
   {
+    "date": "2024-03-20",
+    "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
+  },
+  {
+    "date": "2023-09-27",
     "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
   },
   {
+    "date": "2023-07-12",
+    "title": "Regex engine internals as a library - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/regex-internals/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "The Git source code audit, viewed as a Rust programmer | Blog of Litchi Pi",
+    "link": "https://litchipi.github.io/infosec/2023/01/24/git-code-audit-viewed-as-rust-programmer.html"
+  },
+  {
+    "date": "2022-10-26",
     "title": "Enums and Pattern Matching in Rust",
     "link": "https://serokell.io/blog/enums-and-pattern-matching"
   },
   {
+    "date": "2022-10-26",
+    "title": "Contention on multi-threaded regex matching | More Stina Blog!",
+    "link": "https://morestina.net/blog/1827/multi-threaded-regex"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Using unwrap() in Rust is Okay - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/unwrap/"
+  },
+  {
+    "date": "2022-06-22",
     "title": "Build a simple template engine in &lt;100 lines of Rust code",
     "link": "https://blog.spike.codes/build-a-template-engine"
   },
   {
+    "date": "2022-02-09",
     "title": "ESP32 MQTT Publish with Rust. Here at IOTICS, we are in the habit of… | by Mihai Dinculescu | IOTICS | Medium",
     "link": "https://medium.com/iotics/esp32-mqtt-publish-with-rust-678d1068ee2"
   },
   {
+    "date": "2022-01-12",
+    "title": "How to Implement a Naive Bayes Classifier with Rust",
+    "link": "https://www.freecodecamp.org/news/implement-naive-bayes-with-rust/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "Discover Hidden Secrets in Git Repos with Rust",
+    "link": "https://blog.jonaylor.xyz/discover-hidden-secrets-in-git-repos-with-rust"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "How to think of unwrap&nbsp;- OwenGage.com",
+    "link": "https://owengage.com/writing/2021-08-30-how-to-think-of-unwrap/"
+  },
+  {
+    "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
+    "date": "2021-01-13",
     "title": "Rust Language Cheat Sheet",
     "link": "https://cheats.rs/"
   },
   {
+    "date": "2020-11-11",
     "title": "gpg",
     "link": "https://andrewhalle.github.io/build-your-own/gpg"
   },
   {
+    "date": "2020-09-30",
     "title": "Building even faster interpreters in Rust",
     "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
   },
   {
+    "date": "2020-09-23",
+    "title": "Porting PineTime Watch Face from C to Rust On RIOT with LVGL",
+    "link": "https://lupyuen.github.io/pinetime-rust-riot/articles/watch_face"
+  },
+  {
+    "date": "2020-07-21",
+    "title": "Geometric Constraint Solvers Part 1: Algebraic Expressions · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/?utm_source=reddit&utm_medium=social&utm_campaign=constraint-solver-1-expression-trees"
+  },
+  {
+    "date": "2020-07-14",
+    "title": "Geometric Constraint Solvers Part 1: Algebraic Expressions · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/"
+  },
+  {
+    "date": "2020-06-16",
     "title": "BlogWerx: The Rust compiler isn't slow; we are.",
     "link": "https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html"
   },
   {
+    "date": "2020-06-02",
+    "title": "Rust as a High Level Language — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2020/05/30/hi.html"
+  },
+  {
+    "date": "2020-05-05",
     "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
     "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
   },
   {
+    "date": "2020-05-05",
     "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
   },
   {
+    "date": "2020-01-21",
     "title": "What is Rust and why is it so popular? - Stack Overflow",
     "link": "https://stackoverflow.blog/2020/01/20/what-is-rust-and-why-is-it-so-popular/"
   },
   {
+    "date": "2019-07-09",
+    "title": "Rustexp",
+    "link": "https://rustexp.lpil.uk/"
+  },
+  {
+    "date": "2019-07-02",
+    "title": "Optimizing jieba-rs to be 33% faster than cppjieba",
+    "link": "https://blog.paulme.ng/posts/2019-06-30-optimizing-jieba-rs-to-be-33percents-faster-than-cppjieba.html"
+  },
+  {
+    "date": "2019-02-05",
     "title": "Learning Rust via Advent of Code",
     "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
   },
   {
+    "date": "2018-11-27",
     "title": "Rust Language Cheat Sheet",
     "link": "https://cheats.rs"
   },
   {
+    "date": "2018-10-30",
+    "title": "Parsing logs 230x faster with Rust",
+    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
+  },
+  {
+    "date": "2018-01-30",
+    "title": "1946-intra-rustdoc-links - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/1946-intra-rustdoc-links"
+  },
+  {
+    "date": "2017-12-05",
     "title": "Replacing Elasticsearch with Rust and SQLite",
     "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"
   },
   {
+    "date": "2017-12-05",
     "title": "The Rise of Rust in DevOps | D2iQ",
     "link": "https://mesosphere.com/blog/rust-devops/"
   },
   {
+    "date": "2017-06-06",
     "title": "Rust Performance Pitfalls — Llogiq on stuff",
     "link": "https://llogiq.github.io/2017/06/01/perf-pitfalls.html"
   },
   {
+    "date": "2017-04-04",
+    "title": "Fuzzing is magic - Or how I found a panic in Rust's regex library",
+    "link": "https://www.nibor.org/blog/fuzzing-is-magic---or-how-i-found-a-panic-in-rusts-regex-library/"
+  },
+  {
+    "date": "2017-04-04",
+    "title": "A comparison of regex engines – Rust Leipzig",
+    "link": "https://rust-leipzig.github.io/regex/2017/03/28/comparison-of-regex-engines/"
+  },
+  {
+    "date": "2017-01-17",
     "title": "Rust and the limits of swarm design – Armed and Dangerous",
     "link": "http://esr.ibiblio.org/?p=7303"
+  },
+  {
+    "date": "2016-09-27",
+    "title": "ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/ripgrep/"
+  },
+  {
+    "date": "2015-01-19",
+    "title": "A Quick Comparison of Nim vs. Rust | Hacker News",
+    "link": "http://news.ycombinator.com/item?id=8883791"
   }
 ]

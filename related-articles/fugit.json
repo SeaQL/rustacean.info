@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2022-07-27",
+    "title": "STM32F4 Embedded Rust at the HAL: Timer Ultrasonic Distance Measurement",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-timer-ultrasonic-distance-measurement"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "STM32F4 Embedded Rust at the HAL: Button Controlled Blinking by Timer Polling",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-button-controlled-blinking-by-timer-polling"
+  }
+]

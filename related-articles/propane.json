@@ -1,13 +1,16 @@
 [
   {
+    "date": "2023-03-15",
     "title": "The registers of Rust",
     "link": "https://without.boats/blog/the-registers-of-rust/"
   },
   {
+    "date": "2021-11-17",
     "title": "Rust Iterator Items An exploration of syntax | estebank.github.io",
     "link": "https://estebank.github.io/rust-iterator-item-syntax.html"
   },
   {
+    "date": "2020-08-11",
     "title": "Propane: an experimental generator syntax for Rust",
     "link": "https://without.boats/blog/propane/"
   }

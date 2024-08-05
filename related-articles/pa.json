@@ -1,0 +1,322 @@
+[
+  {
+    "date": "2024-06-26",
+    "title": "v0.27.0 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v027/"
+  },
+  {
+    "date": "2024-06-05",
+    "title": "Enter paradis — A new chapter in Rust's parallelism story\n | Andreas Longva",
+    "link": "https://andreaslongva.com/blog/enter-paradis/"
+  },
+  {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "Fighting back: Turning the Tables on Web Scrapers Using Rust | by Emil Jonathan Eriksson | Medium",
+    "link": "https://medium.com/p/564df967511a"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "This month in Pavex, #9 | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/this-month-in-pavex-09/"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "Palette 0.7.4",
+    "link": "https://ogeon.github.io/2024/01/28/palette-0.7.4.html"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "My Best and Worst Deadlock in Rust",
+    "link": "https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/"
+  },
+  {
+    "date": "2023-11-22",
+    "title": "A close encounter with false sharing | More Stina Blog!",
+    "link": "https://morestina.net/blog/1976/a-close-encounter-with-false-sharing"
+  },
+  {
+    "date": "2023-11-15",
+    "title": "Rust without crates.io",
+    "link": "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "This Month in Rust OSDev: October 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-10/"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "Leveraging Rust in our high-performance Java database",
+    "link": "https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "We’re Open-Sourcing the Library that Powers 1Password’s Passwordless Authentication | 1Password",
+    "link": "https://blog.1password.com/passkey-crates/"
+  },
+  {
+    "date": "2023-07-19",
+    "title": "ratatui - Rust",
+    "link": "https://docs.rs/ratatui"
+  },
+  {
+    "date": "2023-07-19",
+    "title": "Tony's Blog",
+    "link": "https://antoniosbarotsis.github.io/posts/simple_rust_macros/"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "parsel - Rust",
+    "link": "https://docs.rs/parsel"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "This Month in Rust OSDev: March 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-03/"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "This Month in Rust OSDev: November 2022 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2022-11/"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "Pathfinding in Rust: A tutorial with examples - LogRocket Blog",
+    "link": "https://blog.logrocket.com/pathfinding-rust-tutorial-examples/"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Deadlock-free Mutexes and Directed Acyclic Graphs | bertptrs.nl",
+    "link": "https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-impl/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Some mistakes Rust doesn't catch",
+    "link": "https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "println!(\"Hello, World!\")",
+    "link": "https://www.printlnhello.world/blog/publishing-to-crates-io/"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!",
+    "link": "https://parceljs.org/blog/parcel-css/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Rust Any Part 1: Extension Maps in Rust | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2022/1/6/rust-extension-map/"
+  },
+  {
+    "date": "2021-12-22",
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Fast Rust Builds",
+    "link": "https://matklad.github.io/2021/09/04/fast-rust-builds.html"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Password auth in Rust, from scratch - Attacks and best practices | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/password-authentication-in-rust/"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "diziet | partial-borrow: references to restricted views of a Rust struct",
+    "link": "https://diziet.dreamwidth.org/9019.html"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "SIMD usage in C++, C# and Rust | vkSegfault",
+    "link": "https://vksegfault.github.io/posts/simd-usage-cpp-csharp-rust/"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "diceroller, a sample Rust project",
+    "link": "https://blog.frankel.ch/start-rust/8/"
+  },
+  {
+    "date": "2021-05-26",
+    "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
+    "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Upgradable parking_lot::RwLock might not be what you expect | More Stina Blog!",
+    "link": "https://morestina.net/blog/1739/upgradable-parking_lotrwlock-might-not-be-what-you-expect"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Const Generic Slipstreem | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/03/28/const-generic-slipstreem.html"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The magical applications of Zero-Sized Types in Rust - Hardmo.de",
+    "link": "https://www.hardmo.de/article/2021-03-14-zst-proof-types.md"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The GPIO war: macro bunkers for typestate explosions - cuervo",
+    "link": "https://www.ecorax.net/macro-bunker-1/"
+  },
+  {
+    "date": "2021-02-24",
+    "title": "Application-wide panic handling",
+    "link": "https://domwillia.ms/panik/"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Making concurrency fearless with Rust (for C++ developers) | by Radek Vít | Medium",
+    "link": "https://radekvit.medium.com/making-concurrency-fearless-with-rust-for-c-developers-d5d8da50a452"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Using Rust for a simple hardware project | tonari blog",
+    "link": "https://blog.tonari.no/rust-simple-hardware-project"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Rust 2021 Roadmap Wishlist",
+    "link": "https://aldaronlau.com/rust-2021/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Async Iteration I: Iteration Semantics",
+    "link": "https://blog.yoshuawuyts.com/async-iteration/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "partial-io — async Rust library // Lib.rs",
+    "link": "https://lib.rs/crates/partial-io"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Simd Library Plans | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/05/08/simd-library-plans.html"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Rust concurrency — five easy pieces. | by Gregory Terzian | Medium",
+    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-five-easy-pieces-871f1c62906a"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "(Almost) Lockless Stream Buffering - Kyle Simpson",
+    "link": "https://mcfelix.me/blog/shared-buffers/"
+  },
+  {
+    "date": "2020-04-07",
+    "title": "This month in rustsim #10 (March 2020) · The rustsim organization",
+    "link": "https://www.rustsim.org/blog/2020/04/01/this-month-in-rustsim/"
+  },
+  {
+    "date": "2020-03-17",
+    "title": "parallel-stream",
+    "link": "https://blog.yoshuawuyts.com/parallel-stream/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Spinlocks Considered Harmful",
+    "link": "https://matklad.github.io//2020/01/02/spinlocks-considered-harmful.html"
+  },
+  {
+    "date": "2019-12-17",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/fmt-unreasonably-expensive/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-21/"
+  },
+  {
+    "date": "2019-11-05",
+    "title": "Rust concurrency patterns: condvars and locks | by Gregory Terzian | Medium",
+    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-patterns-condvars-and-locks-e278f18db74f"
+  },
+  {
+    "date": "2019-10-29",
+    "title": "FastSpark: A New Fast Native Implementation of Spark from Scratch | by Raja Sekar | Medium",
+    "link": "https://medium.com/@rajasekar3eg/fastspark-a-new-fast-native-implementation-of-spark-from-scratch-368373a29a5c"
+  },
+  {
+    "date": "2019-08-12",
+    "title": "Functional Programming Jargon in Rust",
+    "link": "https://functional.works-hub.com/learn/functional-programming-jargon-in-rust-1b555"
+  },
+  {
+    "date": "2019-06-25",
+    "title": "swym: Are we lock-free yet?",
+    "link": "https://mtak-blog.github.io/are-we-lock-free-yet"
+  },
+  {
+    "date": "2019-02-05",
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "date": "2016-02-01",
+    "title": "Palette 0.2.0: A Different Shade",
+    "link": "https://ogeon.github.io/2016/01/31/palette-0-2-0-a-different-shade.html"
+  },
+  {
+    "date": "2015-09-21",
+    "title": "LALRPOP · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/"
+  }
+]

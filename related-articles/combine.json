@@ -1,33 +1,41 @@
 [
   {
+    "date": "2023-02-22",
     "title": "winnow = toml_edit + combine + nom",
     "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"
   },
   {
+    "date": "2021-08-04",
     "title": "Implementing a BLT parser by hand in Rust (vs pest and combine): OpenTally dev log",
     "link": "https://yingtongli.me/blog/2021/07/30/blt-parser.html"
   },
   {
+    "date": "2019-04-23",
     "title": "Learning Parser Combinators With Rust : Bodil dot lol",
     "link": "https://bodil.lol/parser-combinators/"
   },
   {
+    "date": "2019-03-05",
     "title": "Building fast interpreters in Rust",
     "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
   },
   {
+    "date": "2016-11-29",
     "title": "Writing GStreamer Elements in Rust (Part 3): Parsing data from untrusted sources like it’s 2016 – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2016/11/writing-gstreamer-elements-in-rust-part-3-parsing-data-from-untrusted-sources-like-its-2016/"
   },
   {
+    "date": "2015-12-07",
     "title": "embed_lang - An embeddable language written in Rust",
     "link": "https://marwes.github.io/2015/12/06/embed_lang-An-embeddable-language-written-in-Rust.html"
   },
   {
+    "date": "2015-09-21",
     "title": "LALRPOP · baby steps",
     "link": "http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/"
   },
   {
+    "date": "2015-09-07",
     "title": "Combine 1.0.0 and a simple INI parser",
     "link": "https://marwes.github.io/2015/08/28/combine-1.0.0.html"
   }

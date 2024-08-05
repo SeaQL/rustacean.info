@@ -1,37 +1,46 @@
 [
   {
+    "date": "2024-07-10",
     "title": "Defaults and overrides for any data — Rerun",
     "link": "https://rerun.io/blog/blueprint-overrides"
   },
   {
+    "date": "2024-02-14",
     "title": "Real-time kHz time series in a multimodal visualizer — Rerun",
     "link": "https://www.rerun.io/blog/fast-plots"
   },
   {
+    "date": "2023-09-06",
     "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/048/"
   },
   {
+    "date": "2023-08-02",
     "title": "This Month in Rust GameDev #47 - June 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/047/"
   },
   {
+    "date": "2023-07-05",
     "title": "This Month in Rust GameDev #46 - May 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/046/"
   },
   {
+    "date": "2023-05-03",
     "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/044/"
   },
   {
+    "date": "2023-03-15",
     "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/043/"
   },
   {
+    "date": "2023-02-01",
     "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/041/"
   },
   {
+    "date": "2022-10-19",
     "title": "Why Rust? — Rerun",
     "link": "https://www.rerun.io/blog/why-rust"
   }

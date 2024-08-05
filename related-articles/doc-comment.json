@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-05-15",
     "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
   },
   {
+    "date": "2019-04-16",
     "title": "Keeping Rust projects' README.md code examples up-to-date",
     "link": "https://blog.guillaume-gomez.fr/articles/2019-04-13+Keeping+Rust+projects%27+README.md+code+examples+up-to-date"
   }

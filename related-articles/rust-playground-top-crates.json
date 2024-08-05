@@ -1,6 +1,12 @@
 [
   {
+    "date": "2019-01-08",
     "title": "show_notes::interview::integer32 - Rust",
     "link": "https://newrustacean.com/show_notes/interview/integer32/"
+  },
+  {
+    "date": "2018-05-01",
+    "title": "Installing Rust Offline - Small Signal",
+    "link": "https://hatsunearu.github.io/2018/04/29/rust-offline/"
   }
 ]

@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-05-24",
     "title": "Compress-a-Palooza: Unpacking 5 Billion Varints in only 4 Billion CPU Cycles · bazhenov.me",
     "link": "https://www.bazhenov.me/posts/rust-stream-vbyte-varint-decoding/"
   }

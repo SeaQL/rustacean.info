@@ -1,49 +1,81 @@
 [
   {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2024-03-27",
+    "title": "Why choose async/await over threads? – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/why-not-threads/"
+  },
+  {
+    "date": "2023-08-02",
     "title": "This Month in Rust GameDev #47 - June 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/047/"
   },
   {
+    "date": "2023-05-03",
     "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/044/"
   },
   {
+    "date": "2023-03-15",
+    "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/043/"
+  },
+  {
+    "date": "2023-02-01",
     "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/041/"
   },
   {
+    "date": "2022-08-10",
     "title": "Hot Reloading Rust — for Fun and Faster Feedback Cycles | Robert Krahn",
     "link": "https://robert.kra.hn/posts/hot-reloading-rust/"
   },
   {
+    "date": "2022-07-13",
     "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/035/"
   },
   {
+    "date": "2022-01-19",
     "title": "Tutorial: Writing a Tiny Rust Game Engine for Web",
     "link": "https://ianjk.com/game-engine-in-rust/"
   },
   {
+    "date": "2021-12-15",
     "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/028/"
   },
   {
+    "date": "2021-10-13",
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "date": "2021-09-08",
     "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/025/"
   },
   {
+    "date": "2021-08-10",
     "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/024/"
   },
   {
+    "date": "2021-07-14",
     "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/023/"
   },
   {
+    "date": "2021-05-12",
     "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/021/"
   },
   {
+    "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"
   }

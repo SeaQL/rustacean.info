@@ -1,5 +1,6 @@
 [
   {
+    "date": "2016-01-18",
     "title": "A type-safe and zero-allocation library for reading and navigating ELF files",
     "link": "http://www.ncameron.org/blog/a-type-safe-and-zero-allocation-library-for-reading-and-navigating-elf-files/"
   }

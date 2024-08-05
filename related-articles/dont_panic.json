@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-03-16",
     "title": "Things I hate about Rust, redux",
     "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"
   },
   {
+    "date": "2021-09-08",
     "title": "Writing software that's reliable enough for production",
     "link": "https://pythonspeed.com/fil/docs/fil4prod/reliable.html"
   }

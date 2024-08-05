@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-01-14",
     "title": "Way Cooler Post Mortem",
     "link": "http://way-cooler.org/blog/2020/01/09/way-cooler-post-mortem.html"
   },
   {
+    "date": "2015-04-27",
     "title": "hlua’s stack handling. hlua is a Rust wrapper for the Lua… | by tomaka | Medium",
     "link": "https://medium.com/@tomaka/hlua-s-stack-handling-6b15ab309b17"
   }

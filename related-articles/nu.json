@@ -1,30 +1,157 @@
 [
   {
+    "date": "2024-06-05",
+    "title": "The ultimate guide to Rust newtypes",
+    "link": "https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Rust impact on engineering management | by Bastien Vigneron | Medium",
+    "link": "https://bastienvigneron.medium.com/rust-impact-on-engineering-management-59647e5d0265"
+  },
+  {
+    "date": "2023-09-20",
     "title": "tuify your clap CLI apps and make them more interactive | developerlife.com",
     "link": "https://developerlife.com/2023/09/17/tuify-clap/"
   },
   {
+    "date": "2023-06-28",
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "Ordering Numbers, How Hard Can It Be? | orlp.net",
+    "link": "https://orlp.net/blog/ordering-numbers/"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Parsing TFTP in Rust",
+    "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Rust Embedded Graphics with the MAX7219",
+    "link": "https://apollolabsblog.hashnode.dev/rust-embedded-graphics-with-the-max7219"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "date": "2022-03-23",
     "title": "Nushell 0.60 | Nushell",
     "link": "https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html"
   },
   {
+    "date": "2022-03-23",
+    "title": "Rust talks I2C on Apache NuttX RTOS",
+    "link": "https://lupyuen.github.io/articles/rusti2c"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "What's New in Rust 1.58 and 1.59 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/058-rust-1.58-1.59/"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Nushell 0.44 | Nushell",
     "link": "https://www.nushell.sh/blog/2022-02-08-nushell_0_44.html"
   },
   {
+    "date": "2022-01-26",
+    "title": "println!(\"Hello, World!\")",
+    "link": "https://www.printlnhello.world/blog/publishing-to-crates-io/"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  },
+  {
+    "date": "2021-12-29",
     "title": "Nushell 0.42 | Nushell",
     "link": "https://www.nushell.sh/blog/2021-12-28-nushell_0_42.html"
   },
   {
+    "date": "2021-12-08",
     "title": "Nushell 0.41 | Nushell",
     "link": "https://www.nushell.sh/blog/2021-12-07-nushell_0_41.html"
   },
   {
+    "date": "2021-12-08",
+    "title": "My Cryptography Final Project - The Codegito",
+    "link": "https://codegito.xyz/2021/12/05/cryptography-final-project/"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Renato Athaydes",
+    "link": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html"
+  },
+  {
+    "date": "2021-04-21",
     "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
   },
   {
+    "date": "2021-04-14",
+    "title": "Easy Cast - KAS blog",
+    "link": "https://kas-gui.github.io/blog/easy-cast.html"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "ThatGeoGuy - Rust is cool – Enums",
+    "link": "https://thatgeoguy.ca/blog/2021/02/15/rust-is-cool-enums/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "One Hundred Rust Binaries - Wesley Moore",
+    "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
+  },
+  {
+    "date": "2020-11-11",
+    "title": "gpg",
+    "link": "https://andrewhalle.github.io/build-your-own/gpg"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Nushell",
+    "link": "http://www.nushell.sh/blog/2020/08/23/year_of_nushell.html"
+  },
+  {
+    "date": "2020-08-18",
     "title": "Stream episode AWPY - 06 Jonathan Turner by AreWePodcastYet podcast | Listen online for free on SoundCloud",
     "link": "https://soundcloud.com/arewepodcastyet/awpy-06-jonathan-turner"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Managing Rust bloat with Github Actions",
+    "link": "https://tomforb.es/managing-rust-bloat-with-github-actions/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "date": "2019-09-03",
+    "title": "udeps.md · GitHub",
+    "link": "https://gist.github.com/est31/3d9e880be746c3a443c699d9ff1888d2"
+  },
+  {
+    "date": "2019-03-19",
+    "title": "Generics And Zero-cost Abstractions | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2019-03-12-scientific-computing-a-rust-adventure-part-1-zero-cost-abstractions/"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  },
+  {
+    "date": "2018-01-16",
+    "title": "#Rust2018 — Aimlessly Going Forward",
+    "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
   }
 ]

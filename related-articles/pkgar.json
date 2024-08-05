@@ -1,9 +1,16 @@
 [
   {
+    "date": "2020-12-30",
+    "title": "Redox OS 0.6.0 - Redox - Your Next(Gen) OS",
+    "link": "https://www.redox-os.org/news/release-0.6.0/"
+  },
+  {
+    "date": "2020-03-17",
     "title": "pkgar introduction - Redox - Your Next(Gen) OS",
     "link": "https://www.redox-os.org/news/pkgar-introduction/"
   },
   {
+    "date": "2019-12-03",
     "title": "Real hardware breakthroughs, and focusing on rustc - Redox - Your Next(Gen) OS",
     "link": "https://www.redox-os.org/news/focusing-on-rustc/"
   }

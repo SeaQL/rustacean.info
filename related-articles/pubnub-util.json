@@ -1,5 +1,11 @@
 [
   {
+    "date": "2021-07-07",
+    "title": "Introducing Fluvio: The Programmable Data Platform",
+    "link": "https://www.infinyon.com/blog/2021/06/introducing-fluvio/"
+  },
+  {
+    "date": "2020-06-10",
     "title": "Why the developers who use Rust love it so much - Stack Overflow",
     "link": "https://stackoverflow.blog/2020/06/05/why-the-developers-who-use-rust-love-it-so-much/?cb=1"
   }

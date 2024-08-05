@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-09-30",
     "title": "Playing Codenames in Rust with word vectors",
     "link": "https://rolisz.ro/2020/09/26/playing-codenames-in-rust-with-word-vectors/"
   }

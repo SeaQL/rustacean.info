@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-01-24",
     "title": "Writing your own Rust linter",
     "link": "https://blog.guillaume-gomez.fr/articles/2024-01-18+Writing+your+own+Rust+linter"
   },
   {
+    "date": "2021-11-10",
     "title": "Write Rust lints without forking Clippy | Trail of Bits Blog",
     "link": "https://blog.trailofbits.com/2021/11/09/write-rust-lints-without-forking-clippy/"
   },
   {
+    "date": "2021-09-01",
     "title": "RiB Newsletter #27 - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/rib-newsletter-27/"
   }

@@ -1,0 +1,7 @@
+[
+  {
+    "date": "2021-09-08",
+    "title": "Using SIMD in rust to `tac` at breakneck speeds",
+    "link": "https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/"
+  }
+]

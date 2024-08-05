@@ -1,42 +1,157 @@
 [
   {
+    "date": "2024-06-19",
+    "title": "Making Your First Real-World Rust Project a Success | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/successful-rust-business-adoption-checklist/"
+  },
+  {
+    "date": "2024-06-05",
+    "title": "On Dependency Usage in Rust | lander's posts",
+    "link": "https://landaire.net/on-dependency-usage-in-rust/"
+  },
+  {
+    "date": "2024-05-15",
     "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
   },
   {
+    "date": "2024-03-27",
+    "title": "diziet | How to use Rust on Debian (and Ubuntu, etc.)",
+    "link": "https://diziet.dreamwidth.org/18122.html"
+  },
+  {
+    "date": "2024-02-21",
     "title": "Rust Tooling: 8 tools that will increase your productivity",
     "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
   },
   {
+    "date": "2024-02-14",
     "title": "Rust in Production: Interview with FOSSA",
     "link": "https://serokell.io/blog/rust-in-production-fossa"
   },
   {
+    "date": "2023-11-01",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs - Orhun's Blog",
+    "link": "https://blog.orhun.dev/ratatui-0-23-0/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "date": "2023-01-11",
+    "title": "Potential DoS Vulnerability in Rust Hyper",
+    "link": "https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Buffers on the edge: Python and Rust · Alex Gaynor",
+    "link": "https://alexgaynor.net/2022/oct/23/buffers-on-the-edge/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "GitHub brings supply chain security features to the Rust community - The GitHub Blog",
+    "link": "https://github.blog/2022-06-06-github-brings-supply-chain-security-features-to-the-rust-community/"
+  },
+  {
+    "date": "2022-06-01",
     "title": "How I speeded up my Rust builds on GitHub ~30 times | Ectobit",
     "link": "https://ectobit.com/blog/speed-up-github-actions-rust-pipelines/"
   },
   {
+    "date": "2022-05-18",
+    "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
+    "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "How hard upgrading a Rust JWT library could be? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/upgrading-rust-jwt/"
+  },
+  {
+    "date": "2022-02-02",
     "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
     "link": "https://blog.nindalf.com/posts/rust-stdlib/"
   },
   {
+    "date": "2022-01-05",
+    "title": "Rust 2021 – Looking Back and Forth — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2021/12/30/review.html"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "diziet | Debian’s approach to Rust - Dependency handling",
+    "link": "https://diziet.dreamwidth.org/10559.html"
+  },
+  {
+    "date": "2021-11-03",
+    "title": "Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale",
+    "link": "https://www.micahlerner.com/2021/10/31/rudra-finding-memory-safety-bugs-in-rust-at-the-ecosystem-scale.html"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "2021 | No Time for Chrono - Félix Saparelli",
+    "link": "https://passcod.name/technical/no-time-for-chrono.html"
+  },
+  {
+    "date": "2021-09-29",
+    "title": "GitHub Advisory Database now supports Rust - The GitHub Blog",
+    "link": "https://github.blog/2021-09-23-github-advisory-database-now-supports-rust/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Writing software that's reliable enough for production",
+    "link": "https://pythonspeed.com/fil/docs/fil4prod/reliable.html"
+  },
+  {
+    "date": "2021-08-10",
     "title": "Rust in Production: Qovery",
     "link": "https://serokell.io/blog/rust-in-production-qovery"
   },
   {
+    "date": "2021-04-14",
     "title": "Rust in Production: MeiliSearch",
     "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
+    "date": "2021-01-27",
     "title": "24 Awesome Open-Source Rust Projects",
     "link": "https://serokell.io/blog/open-source-rust"
   },
   {
+    "date": "2021-01-27",
+    "title": "Unsafe Rust: How and when (not) to use it - LogRocket Blog",
+    "link": "https://blog.logrocket.com/unsafe-rust-how-and-when-not-to-use-it/"
+  },
+  {
+    "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "date": "2019-09-17",
     "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
     "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
+  },
+  {
+    "date": "2018-10-02",
+    "title": "How I’ve found vulnerability in a popular Rust crate (and you can too) | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb"
+  },
+  {
+    "date": "2015-02-02",
+    "title": "heartbleed in rust",
+    "link": "http://www.tedunangst.com/flak/post/heartbleed-in-rust"
   }
 ]

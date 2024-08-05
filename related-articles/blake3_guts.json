@@ -1,6 +1,32 @@
 [
   {
+    "date": "2022-05-11",
+    "title": "GCC Rust Monthly Report #16 April 2022 – Philip Herrons Personal Blog",
+    "link": "https://thephilbert.io/2022/05/04/gcc-rust-monthly-report-16-april-2022/"
+  },
+  {
+    "date": "2022-05-04",
     "title": "BonsaiDb April Update: Dogfooding and Fixing Bugs",
     "link": "https://bonsaidb.io/blog/april-2022-update/"
+  },
+  {
+    "date": "2021-11-03",
+    "title": "GCC Rust Monthly Report #11 October 2021 – Philip Herrons Personal Blog",
+    "link": "https://thephilbert.io/2021/11/01/gcc-rust-monthly-report-11-october-2021/"
+  },
+  {
+    "date": "2021-10-06",
+    "title": "GCC Rust Monthly Report #10 September 2021 – Philip Herrons Personal Blog",
+    "link": "https://thephilbert.io/2021/10/04/gcc-rust-monthly-report-10-september-2021/"
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Cross compiling Windows binaries from Linux",
+    "link": "https://jake-shadle.github.io/xwin/"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Rust for Linux redux [LWN.net]",
+    "link": "https://lwn.net/Articles/862018/"
   }
 ]

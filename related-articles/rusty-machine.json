@@ -1,37 +1,46 @@
 [
   {
+    "date": "2021-01-27",
     "title": "Index",
     "link": "https://www.arewelearningyet.com/"
   },
   {
+    "date": "2019-05-14",
     "title": "The State of Machine Learning in Rust - Ehsan's Blog",
     "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
   },
   {
+    "date": "2016-09-20",
     "title": "RustConf 2016 Travelogue | An Algorithmic Lucidity",
     "link": "http://zackmdavis.net/blog/2016/09/rustconf-2016-travelogue/"
   },
   {
+    "date": "2016-08-30",
     "title": "In-place Transposition in Rust",
     "link": "https://athemathmo.github.io/2016/08/29/inplace-transpose.html"
   },
   {
+    "date": "2016-08-30",
     "title": "Index",
     "link": "http://www.arewelearningyet.com/"
   },
   {
+    "date": "2016-06-27",
     "title": "Using GMMs in Rust",
     "link": "https://athemathmo.github.io/2016/06/24/using-gmm-in-rust.html"
   },
   {
+    "date": "2016-04-11",
     "title": "Naive Bayes Classifiers in Rust",
     "link": "https://athemathmo.github.io/2016/04/08/naive-bayes-rusty-machine.html"
   },
   {
+    "date": "2016-03-28",
     "title": "Linear Algebra in Rust",
     "link": "https://athemathmo.github.io/2016/03/23/linear-algebra-in-rust.html"
   },
   {
+    "date": "2016-03-14",
     "title": "Machine Learning in Rust",
     "link": "https://athemathmo.github.io/2016/03/07/rusty-machine.html"
   }

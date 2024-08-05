@@ -1,13 +1,16 @@
 [
   {
+    "date": "2016-12-13",
     "title": "24 days of Rust - nom, part 2 | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-nom-part-2/"
   },
   {
+    "date": "2015-07-20",
     "title": "omnomnom - Parsing ISO8601 dates using nom",
     "link": "https://fnordig.de/2015/07/16/omnomnom-parsing-iso8601-dates-using-nom/"
   },
   {
+    "date": "2015-01-19",
     "title": "rdb-rs - fast and efficient RDB parsing utility",
     "link": "http://fnordig.de/2015/01/15/rdb-rs-fast-and-efficient-rdb-parsing-utility/"
   }

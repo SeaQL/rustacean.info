@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-10-05",
     "title": "impl Future { }",
     "link": "https://implfuture.dev/blog/rewriting-the-modern-web-in-rust"
   }

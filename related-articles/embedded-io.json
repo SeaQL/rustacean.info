@@ -1,42 +1,72 @@
 [
   {
+    "date": "2024-02-14",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/113/rust-for-hardware-vendors"
   },
   {
+    "date": "2024-01-10",
     "title": "Rust Embedded Working Group",
     "link": "https://blog.rust-embedded.org/embedded-hal-v1/"
   },
   {
+    "date": "2023-10-11",
+    "title": "esp-rs Quarterly Planning: Q4 2023 | Beta7",
+    "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q4-2023/"
+  },
+  {
+    "date": "2023-07-19",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/96/why-rust-is-a-great-fit-for-embedded-software-2023-update"
   },
   {
+    "date": "2023-07-12",
+    "title": "esp-rs Quarterly Planning: Q3 2023 | Beta7",
+    "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q3-2023/"
+  },
+  {
+    "date": "2022-07-13",
     "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
     "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
   },
   {
+    "date": "2022-06-29",
     "title": "STM32F4 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
     "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-gpio-button-controlled-blinking"
   },
   {
+    "date": "2021-12-29",
     "title": "Rust Embedded Working Group",
     "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
   },
   {
+    "date": "2021-01-06",
     "title": "Introducing Rustybot (part 1 of n) | Object Disoriented",
     "link": "https://objectdisoriented.evokewonder.com/posts/introducing-rustybot-part-1/"
   },
   {
+    "date": "2020-12-16",
+    "title": "Debug Rust on PineCone BL602 with VSCode and GDB",
+    "link": "https://lupyuen.github.io/articles/debug"
+  },
+  {
+    "date": "2020-11-18",
     "title": "Writing an embedded display driver in Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Writing-an-embedded-display-driver-in-Rust/"
   },
   {
+    "date": "2020-09-30",
     "title": "Rusty-PID: Porting the TSic sensor from C to Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Rusty-PID-Porting-the-TSic-sensor-from-C-to-Rust/"
   },
   {
+    "date": "2020-09-30",
     "title": "Rust on the ESP32 &amp; ESP8266 - Building an ecosystem",
     "link": "https://mabez.dev/blog/posts/esp-rust-ecosystem/"
+  },
+  {
+    "date": "2019-10-08",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-19/"
   }
 ]

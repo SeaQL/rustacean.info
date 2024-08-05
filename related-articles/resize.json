@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-07-21",
     "title": "Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG",
     "link": "https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg"
   }

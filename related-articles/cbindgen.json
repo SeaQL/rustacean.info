@@ -1,25 +1,51 @@
 [
   {
+    "date": "2024-07-10",
+    "title": "Rust for filesystems [LWN.net]",
+    "link": "https://lwn.net/Articles/978738/"
+  },
+  {
+    "date": "2024-05-08",
     "title": "How to rewrite a C++ codebase successfully",
     "link": "https://gaultier.github.io/blog/how_to_rewrite_a_cpp_codebase_successfully.html"
   },
   {
+    "date": "2024-05-01",
     "title": "Giving Rust a chance for in-kernel codecs [LWN.net]",
     "link": "https://lwn.net/SubscriberLink/970565/ac5ffc2e9ad20f1e/"
   },
   {
+    "date": "2024-02-14",
     "title": "Rust/C++ Interop Part 1 - Just the Basics |",
     "link": "https://tylerjw.dev/posts/rust-cpp-interop/"
   },
   {
+    "date": "2024-02-14",
+    "title": "Calling Rust FFI libraries from Go",
+    "link": "https://blog.arcjet.com/calling-rust-ffi-libraries-from-go/"
+  },
+  {
+    "date": "2024-01-10",
     "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
     "link": "https://thewolfsound.com/talk016/"
   },
   {
+    "date": "2023-01-25",
+    "title": "Rust FFI and cbindgen: Integrating Embedded Rust Code in C",
+    "link": "https://apollolabsblog.hashnode.dev/rust-ffi-and-cbindgen-integrating-embedded-rust-code-in-c"
+  },
+  {
+    "date": "2021-11-10",
     "title": "Plugins in Rust: Reducing the Pain with Dependencies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-abi-stable/"
   },
   {
+    "date": "2021-01-13",
+    "title": "Expose a Rust Library to Other Languages — Slint Blog",
+    "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
+  },
+  {
+    "date": "2019-03-05",
     "title": "Exposing FFI from the Rust library · svartalf",
     "link": "https://svartalf.info/posts/2019-03-01-exposing-ffi-from-the-rust-library/"
   }

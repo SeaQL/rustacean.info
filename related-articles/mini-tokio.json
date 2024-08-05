@@ -1,17 +1,21 @@
 [
   {
+    "date": "2024-03-06",
     "title": "Async Rust in a Nutshell",
     "link": "https://www.shuttle.rs/blog/2024/02/29/async-rust"
   },
   {
+    "date": "2023-05-03",
     "title": "Write code using async/await in Rust | developerlife.com",
     "link": "https://developerlife.com/2022/03/12/rust-tokio/"
   },
   {
+    "date": "2022-10-19",
     "title": "Asynchronous programming in Rust | Opensource.com",
     "link": "https://opensource.com/article/22/10/asynchronous-programming-rust"
   },
   {
+    "date": "2021-02-10",
     "title": "Async Rust: Futures, Tasks, Wakers—Oh My! | Matt's blog",
     "link": "https://msarmi9.github.io/posts/async-rust/"
   }

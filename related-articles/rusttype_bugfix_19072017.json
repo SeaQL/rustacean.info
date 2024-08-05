@@ -1,13 +1,16 @@
 [
   {
+    "date": "2017-05-16",
     "title": "I Made a Game in Rust",
     "link": "https://michaelfairley.com/blog/i-made-a-game-in-rust/"
   },
   {
+    "date": "2016-09-13",
     "title": "This Year In Conrod · Piston",
     "link": "http://blog.piston.rs/2016/09/13/this-year-in-conrod/"
   },
   {
+    "date": "2016-08-02",
     "title": "The Internet on Redox - Redox - Your Next(Gen) OS",
     "link": "https://www.redox-os.org/news/the-internet-on-redox/"
   }

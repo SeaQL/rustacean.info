@@ -1,10 +1,22 @@
 [
   {
+    "date": "2024-07-24",
+    "title": "Bevy Jam 5, Radiance Cascades, and Calculators in many ui kits",
+    "link": "https://thisweekinbevy.com/issue/2024-07-22-bevy-jam-5-radiance-cascades-and-calculators-in-many-ui-kits"
+  },
+  {
+    "date": "2020-10-28",
     "title": "Building a Recipe Manager - Part 3 - Parsing and more Druid | bheisler.github.io",
     "link": "https://bheisler.github.io/post/recipe-manager-part-3-parsing-and-more-druid/"
   },
   {
+    "date": "2020-10-21",
     "title": "Building a Recipe Manager - Part 2 - Druid Experience Report | bheisler.github.io",
     "link": "https://bheisler.github.io/post/recipe-manager-part-2-druid-experience-report/"
+  },
+  {
+    "date": "2019-10-22",
+    "title": "Simple Automation Sequences · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/simple-automation-sequences/"
   }
 ]

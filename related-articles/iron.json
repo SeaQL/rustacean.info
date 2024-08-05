@@ -1,26 +1,57 @@
 [
   {
+    "date": "2023-09-20",
     "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/async/"
   },
   {
+    "date": "2021-09-08",
+    "title": "diziet | Wanted: Rust sync web framework",
+    "link": "https://diziet.dreamwidth.org/9336.html"
+  },
+  {
+    "date": "2021-01-20",
     "title": "Rust is a hard way to make a web API - macwright.com",
     "link": "https://macwright.com/2021/01/15/rust.html"
   },
   {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2017-10-10",
     "title": "Wiki - AnOpinionatedGuideToRustWebServers",
     "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
   },
   {
+    "date": "2016-09-13",
     "title": "The relationship between async libraries in Rust | \nJimmy Cuadra",
     "link": "https://www.jimmycuadra.com/posts/the-relationship-between-async-libraries-in-rust/"
   },
   {
+    "date": "2016-07-19",
+    "title": "A Rust-powered public web page in 5 minutes | by Raphaël Huchet | Medium",
+    "link": "https://medium.com/@rap2h/a-rust-powered-public-website-in-5-minutes-b682d8527b6b"
+  },
+  {
+    "date": "2016-06-20",
     "title": "REST in Rust - Garrett's Blog",
     "link": "https://gsquire.github.io/static/post/rest-in-rust/"
   },
   {
+    "date": "2015-07-27",
     "title": "Maniagnosis - Reimplementing ashurbanipal.web in Rust",
     "link": "http://maniagnosis.crsr.net/2015/07/reimplementing-ashurbanipalweb-in-rust.html"
+  },
+  {
+    "date": "2015-04-20",
+    "title": "Contributing to Rust",
+    "link": "http://www.ncameron.org/rust.html"
+  },
+  {
+    "date": "2014-12-29",
+    "title": "Rust, an Anti-Sloppy Programming Language",
+    "link": "http://arthurtw.github.io/2014/12/21/rust-anti-sloppy-programming-language.html"
   }
 ]

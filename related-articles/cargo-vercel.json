@@ -1,14 +1,52 @@
 [
   {
+    "date": "2024-02-14",
     "title": "Finishing Turborepo's migration from Go to Rust – Vercel",
     "link": "https://vercel.com/blog/finishing-turborepos-migration-from-go-to-rust"
   },
   {
+    "date": "2023-12-20",
     "title": "Rust is growing",
     "link": "https://flawless.dev/essays/rust-is-growing/"
   },
   {
+    "date": "2023-03-15",
     "title": "Why Turborepo is migrating from Go to Rust – Vercel",
     "link": "https://vercel.com/blog/turborepo-migration-go-rust"
+  },
+  {
+    "date": "2023-03-15",
+    "title": "Rewriting the CLI in Rust: Was It Worth It?",
+    "link": "https://blog.railway.app/p/rust-cli-rewrite"
+  },
+  {
+    "date": "2023-01-11",
+    "title": "Running Zola on WebAssembly - Dylan Staley",
+    "link": "https://dstaley.com/posts/running-zola-on-wasm/"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "Sending Emails from the Edge with Rust | Mainmatter",
+    "link": "https://mainmatter.com/blog/2022/12/09/sending-emails-from-the-edge-with-rust/"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "Meilisearch raised a $5M Seed to change the world of search",
+    "link": "https://blog.meilisearch.com/meilisearch-raised-5meu-seed-fundraising/"
+  },
+  {
+    "date": "2021-12-29",
+    "title": "Announcing NAPI-RS v2 – NAPI-RS",
+    "link": "https://napi.rs/blog/announce-v2"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Rust and WebAssembly Serverless Functions in Vercel - The New Stack",
+    "link": "https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "Home – NAPI-RS",
+    "link": "https://napi.rs"
   }
 ]

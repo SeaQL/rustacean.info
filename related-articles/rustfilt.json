@@ -1,13 +1,16 @@
 [
   {
+    "date": "2022-01-05",
     "title": "Why is my Rust build so slow?",
     "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
   },
   {
+    "date": "2020-05-12",
     "title": "Magnifying Glasses for Rust Assembly • Ryan James Spencer",
     "link": "https://www.justanotherdot.com/posts/magnifying-glasses-for-rust-assembly.html"
   },
   {
+    "date": "2018-10-02",
     "title": "The relative performance of C and Rust – The Observation Deck",
     "link": "http://dtrace.org/blogs/bmc/2018/09/28/the-relative-performance-of-c-and-rust/"
   }

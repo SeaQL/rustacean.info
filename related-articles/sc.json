@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2024-06-05",
+    "title": "Highlights from “I spent 6 years developing a game in Rust and it just shipped, AMA” | Games by Mason",
+    "link": "https://gamesbymason.com/2024/06/01/wor-ama/"
+  },
+  {
+    "date": "2023-12-13",
+    "title": "Common Mistakes with Rust Async",
+    "link": "https://www.qovery.com/blog/common-mistakes-with-rust-async/"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Investigating crazy compile times",
+    "link": "https://blog.adamchalmers.com/crazy-compile-time/"
+  },
+  {
+    "date": "2023-03-29",
+    "title": "Announcing `scoped-trace`.",
+    "link": "https://jack.wrenn.fyi/blog/scoped-trace/"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "Scoped threads in Rust, and why its async counterpart would be unsound | Wisha Wanichwecharungruang",
+    "link": "https://wishawa.github.io/posts/thread-scoped-async/"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Jonas Hietala: Rewriting my blog in Rust for fun and profit",
+    "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "The Magic of zerocopy",
+    "link": "https://swatinem.de/blog/magic-zerocopy/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "Web Scraping in Rust with Reqwest and Scraper | ScrapingBee",
+    "link": "https://www.scrapingbee.com/blog/web-scraping-rust/"
+  },
+  {
+    "date": "2022-05-04",
+    "title": "Domenico Luciani - Save 5 minutes web scraping with Rust",
+    "link": "https://domenicoluciani.com/2021/04/30/save-5-minutes-web-scraping-with-rust.html"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "3184-thread-local-cell-methods - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3184-thread-local-cell-methods.html"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf",
+    "link": "https://tiemoko.com/slides/SafeAndPortableDataStructureDesign_CodeAndSupply_Dec2021.pdf"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Tiemoko Ballo",
+    "link": "https://tiemoko.com/blog/diff-fuzz/"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "12 Rust Tips and Tricks you might not know yet - Federico Terzi - A Software Engineering Journey",
+    "link": "https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Why is my Rust build so slow?",
+    "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
+  },
+  {
+    "date": "2021-11-17",
+    "title": "Async Cancellation I",
+    "link": "https://blog.yoshuawuyts.com/async-cancellation-1/"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "serde_with - Rust",
+    "link": "https://docs.rs/serde_with"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "Generating a Config File Reference for a CLI Tool in Rust - tarquin-the-brave",
+    "link": "https://tarquin-the-brave.github.io/blog/posts/generating-config-reference-rust-cli/"
+  },
+  {
+    "date": "2019-10-15",
+    "title": "The Communications System: Part 2 · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/comms-part-2/"
+  }
+]

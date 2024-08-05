@@ -1,9 +1,16 @@
 [
   {
+    "date": "2024-06-12",
+    "title": "This Month in Rust OSDev: May 2024 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2024-05/"
+  },
+  {
+    "date": "2024-05-15",
     "title": "Rust 1.78: Performance Impact of the 128-bit Memory Alignment Fix - CodSpeed",
     "link": "https://codspeed.io/blog/rust-1-78-performance-impact-of-the-128-bit-memory-alignment-fix"
   },
   {
+    "date": "2023-10-11",
     "title": "Why Rust doesn't need a standard div_rem: An LLVM tale - CodSpeed",
     "link": "https://codspeed.io/blog/why-rust-doesnt-need-a-standard-divrem"
   }

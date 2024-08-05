@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-06-28",
     "title": "Auto-Generating &amp; Validating OpenAPI Docs in Rust: A Streamlined Approach with Utoipa and Schemathesis – Identeco",
     "link": "https://identeco.de/en/blog/generating_and_validating_openapi_docs_in_rust/"
   }

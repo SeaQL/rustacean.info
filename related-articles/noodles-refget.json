@@ -1,6 +1,12 @@
 [
   {
+    "date": "2021-09-01",
     "title": "GSoC 2021, GA4GH and htsget-rs | UMCCR Genomics Platform Group",
     "link": "https://umccr.org/blog/htsget-rs/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "AWS Rust Lambdas and Bioinformatics | UMCCR Genomics Platform Group",
+    "link": "https://umccr.org/blog/aws-bioinformatics-rust/"
   }
 ]

@@ -1,13 +1,31 @@
 [
   {
+    "date": "2023-12-13",
     "title": "Exploring the AWS Lambda SDK in Rust | Bradford Hovinen's blog",
     "link": "https://gruebelinchen.wordpress.com/2023/12/07/exploring-the-aws-lambda-sdk-in-rust/"
   },
   {
+    "date": "2022-07-06",
+    "title": "Announcing lettre 0.10 - lettre",
+    "link": "https://lettre.rs/post/lettre-0-10/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "Rust on Nails | Cloak",
+    "link": "https://cloak.software/blog/rust-on-nails/"
+  },
+  {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   },
   {
+    "date": "2021-05-26",
+    "title": "Announcing lettre 0.10.0-rc.1 - lettre",
+    "link": "https://lettre.rs/post/lettre-0-10-0-rc-1/"
+  },
+  {
+    "date": "2016-12-27",
     "title": "24 days of Rust - lettre | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-lettre/"
   }

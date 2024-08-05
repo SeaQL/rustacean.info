@@ -1,6 +1,12 @@
 [
   {
+    "date": "2022-03-16",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/release-020"
+  },
+  {
+    "date": "2022-02-23",
+    "title": "Checking Tailwind Class Names at Compile Time with Rust - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2022/02/21/checking-tailwind-class-names-at-compile-time-with-rust/"
   }
 ]

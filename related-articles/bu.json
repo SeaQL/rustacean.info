@@ -1,142 +1,77 @@
 [
   {
-    "title": "This Month in Rust OSDev: June 2024 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2024-06/"
+    "date": "2023-11-08",
+    "title": "Creating High Performance Asynchronous Backends With Burn-Compute",
+    "link": "https://burn.dev/blog/creating-high-performance-asynchronous-backends-with-burn-compute"
   },
   {
-    "title": "This Month in Rust OSDev: May 2024 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2024-05/"
+    "date": "2023-08-09",
+    "title": "nesting allocators",
+    "link": "https://blog.yoshuawuyts.com/nesting-allocators/"
   },
   {
-    "title": "This Month in Rust OSDev: April 2024 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2024-04/"
+    "date": "2023-04-12",
+    "title": "Eight million pixels and counting\n– Custom allocators in Rust",
+    "link": "https://nical.github.io/posts/rust-custom-allocators.html"
   },
   {
-    "title": "This Month in Rust OSDev: March 2024 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2024-03/"
+    "date": "2022-12-21",
+    "title": "How to build a Rust API with the builder pattern - LogRocket Blog",
+    "link": "https://blog.logrocket.com/build-rust-api-builder-pattern/"
   },
   {
-    "title": "Lambda on hard mode: Inside Modal's web infrastructure | Modal Blog",
-    "link": "https://modal.com/blog/serverless-http"
+    "date": "2022-11-30",
+    "title": "Measuring the overhead of HashMaps in Rust | nicole@web",
+    "link": "https://ntietz.com/blog/rust-hashmap-overhead/"
   },
   {
-    "title": "This Month in Rust OSDev: February 2024 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2024-02/"
+    "date": "2022-03-02",
+    "title": "El malabarista - TreeFlat: Building a (possible) faster tree for Rust, inspired by APL",
+    "link": "https://www.elmalabarista.com/blog/2022-flat-tree/"
   },
   {
-    "title": "Designing an Async Runtime for WASI 0.2",
-    "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"
+    "date": "2021-12-08",
+    "title": "A better cargo-readme - Issue 0: Humble Beginning | S🦀sha's blog",
+    "link": "https://scrabsha.github.io/abcr-issue-0/"
   },
   {
-    "title": "This Month in Rust OSDev: January 2024 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2024-01/"
+    "date": "2021-07-14",
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
   },
   {
-    "title": "WebSockets - The Beginner's Guide | Vaktibabat",
-    "link": "https://vaktibabat.github.io/posts/websockets/"
+    "date": "2021-05-12",
+    "title": "Speeding up algorithms with arena allocators | by Mikhail Panfilov | Medium",
+    "link": "https://mnwa.medium.com/speeding-up-algorithms-with-arena-allocators-d72d06f23607"
   },
   {
-    "title": "This Month in Rust OSDev: December 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-12/"
+    "date": "2021-03-17",
+    "title": "Arenas in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/"
   },
   {
-    "title": "This Month in Rust OSDev: November 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-11/"
+    "date": "2021-02-03",
+    "title": "Saving Some Allocations | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/01/31/saving-some-allocations.html"
   },
   {
-    "title": "Function interposition in Rust with upgrayedd",
-    "link": "https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd"
+    "date": "2020-10-21",
+    "title": "Assorted thoughts on zig (and rust)",
+    "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
   },
   {
-    "title": "This Month in Rust OSDev: October 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-10/"
+    "date": "2020-09-23",
+    "title": "Throw Away Code | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/09/20/throw-away-code.html"
   },
   {
-    "title": "This Month in Rust OSDev: September 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-09/"
+    "date": "2020-09-09",
+    "title": "Performance Cheating | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/09/03/performance-cheating.html"
   },
   {
-    "title": "This Month in Rust OSDev: August 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-08/"
-  },
-  {
-    "title": "This Month in Rust OSDev: July 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-07/"
-  },
-  {
-    "title": "Rust Server Components - Articles - Antonio Pitasi",
-    "link": "https://anto.pt/articles/rust-server-components"
-  },
-  {
-    "title": "This Month in Rust OSDev: June 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-06/"
-  },
-  {
-    "title": "How To Wrap Your Errors With Enums When Using Error-Stack | by Mustafa Dhuleb | Better Programming",
-    "link": "https://betterprogramming.pub/how-to-wrap-your-errors-with-enums-when-using-error-stack-77b122016e6e"
-  },
-  {
-    "title": "This Month in Rust OSDev: May 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-05/"
-  },
-  {
-    "title": "This Month in Rust OSDev: April 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-04/"
-  },
-  {
-    "title": "This Month in Rust OSDev: March 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-03/"
-  },
-  {
-    "title": "This Month in Rust OSDev: February 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-02/"
-  },
-  {
-    "title": "This Month in Rust OSDev: January 2023 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2023-01/"
-  },
-  {
-    "title": "This Month in Rust OSDev: December 2022 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2022-12/"
-  },
-  {
-    "title": "Cross compiling Rust with Drone | Jacob Kiers",
-    "link": "https://jacobkiers.net/post/rust-cross-compilation-on-drone/"
-  },
-  {
-    "title": "This Month in Rust OSDev: November 2022 | Rust OSDev",
-    "link": "https://rust-osdev.com/this-month/2022-11/"
-  },
-  {
-    "title": "A practical guide to async in Rust - LogRocket Blog",
-    "link": "https://blog.logrocket.com/a-practical-guide-to-async-in-rust/"
-  },
-  {
-    "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
-    "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
-  },
-  {
-    "title": "Async HTTP",
-    "link": "https://blog.yoshuawuyts.com/async-http/"
-  },
-  {
-    "title": "I Made A Thing: Markedit · Michael-F-Bryan",
-    "link": "http://adventures.michaelfbryan.com/posts/markedit/"
-  },
-  {
-    "title": "Async Builders",
-    "link": "https://blog.yoshuawuyts.com/async-finalizers/"
-  },
-  {
-    "title": "A collection of notable Rust blog posts · GitHub",
-    "link": "https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e"
-  },
-  {
-    "title": "show_notes::interview::_3 - Rust",
-    "link": "http://www.newrustacean.com/show_notes/interview/_3/"
-  },
-  {
-    "title": "Site not found · GitHub Pages",
-    "link": "http://rustbyexample.com"
+    "date": "2019-12-17",
+    "title": "The Burger Problem | Rust Malaysia",
+    "link": "https://rust-malaysia.github.io/code/2019/12/15/the-burger-problem.html"
   }
 ]

@@ -1,6 +1,12 @@
 [
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2019-05-21",
+    "title": "How to start Rust Chat App. In this post, we will learn how to… | by Steadylearner | Medium",
+    "link": "https://medium.com/@steadylearner/how-to-start-rust-chat-app-499a194d0820"
   }
 ]

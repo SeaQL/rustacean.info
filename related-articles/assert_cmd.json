@@ -1,17 +1,26 @@
 [
   {
+    "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
   },
   {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-11-11",
     "title": "gpg",
     "link": "https://andrewhalle.github.io/build-your-own/gpg"
   },
   {
+    "date": "2020-05-19",
     "title": "What's New in Rust 1.42 and 1.43 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/014-rust-1.42-1.43/"
   },
   {
+    "date": "2018-01-16",
     "title": "clap - Rust",
     "link": "https://clap.rs/2018/01/09/new-years-weight-loss/"
   }

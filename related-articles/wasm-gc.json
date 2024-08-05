@@ -1,17 +1,21 @@
 [
   {
+    "date": "2020-06-23",
     "title": "Building A Blockchain in Rust &amp; Substrate: [A Step-by-Step Guide for Developers] | HackerNoon",
     "link": "https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp"
   },
   {
+    "date": "2018-02-13",
     "title": "A Wee Allocator for WebAssembly",
     "link": "http://fitzgeraldnick.com/2018/02/09/wee-alloc.html"
   },
   {
+    "date": "2018-01-23",
     "title": "Oxidizing Source Maps with Rust and WebAssembly - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2018/01/oxidizing-source-maps-with-rust-and-webassembly/"
   },
   {
+    "date": "2017-12-19",
     "title": "Writing a CHIP-8 emulator with Rust and WebAssembly",
     "link": "http://blog.scottlogic.com/2017/12/13/chip8-emulator-webassembly-rust.html"
   }

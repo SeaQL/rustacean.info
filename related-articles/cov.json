@@ -1,6 +1,12 @@
 [
   {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-06-02",
+    "title": "Coverage Marks  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/coverage-marks/"
   }
 ]

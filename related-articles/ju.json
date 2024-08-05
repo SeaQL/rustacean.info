@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2024-05-01",
+    "title": "Tasks are the wrong abstraction",
+    "link": "https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "My ideal Rust workflow",
+    "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
+  },
+  {
+    "date": "2018-08-21",
+    "title": "Rust GraphQL webserver with Warp, Juniper and MongoDB",
+    "link": "http://alex.amiran.it/post/2018-08-16-rust-graphql-webserver-with-warp-juniper-and-mongodb.html"
+  }
+]

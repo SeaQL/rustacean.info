@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-11-22",
     "title": "Function interposition in Rust with upgrayedd",
     "link": "https://blog.yossarian.net/2023/11/19/Function-interposition-in-Rust-with-upgrayedd"
   }

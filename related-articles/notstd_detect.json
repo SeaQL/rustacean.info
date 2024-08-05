@@ -1,6 +1,27 @@
 [
   {
+    "date": "2022-10-12",
+    "title": "rustc_codegen_gcc: Progress Report #16",
+    "link": "https://blog.antoyo.xyz/rustc_codegen_gcc-progress-report-16"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "C2Rust is Back :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2022/06/back/"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
     "link": "https://tinkering.xyz/fmo-optimization-story/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Progress report on rustc_codegen_cranelift (Sep 2020) | bjorn3",
+    "link": "https://bjorn3.github.io/2020/09/28/progress-report-sep-2020.html"
+  },
+  {
+    "date": "2020-07-14",
+    "title": "Faster Integer Parsing | Rust Malaysia",
+    "link": "https://rust-malaysia.github.io/code/2020/07/11/faster-integer-parsing.html"
   }
 ]

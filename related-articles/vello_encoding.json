@@ -1,25 +1,36 @@
 [
   {
+    "date": "2024-03-20",
     "title": "Foundations, Meetups, and more Bevy Cheatbook updates",
     "link": "https://thisweekinbevy.com/issue/2024-03-18-foundations-meetups-and-more-bevy-cheatbook-updates"
   },
   {
+    "date": "2024-01-31",
     "title": "High performance vector graphic video games | Spencer C. Imbleau’s blog",
     "link": "https://simbleau.github.io/rust/graphics/2023/11/20/using-vello-for-video-games.html"
   },
   {
+    "date": "2024-01-17",
     "title": "Xilem 2024 plans - Linebender",
     "link": "https://linebender.org/blog/xilem-2024/"
   },
   {
+    "date": "2023-09-06",
     "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/048/"
   },
   {
+    "date": "2023-03-15",
+    "title": "Leveraging Rust and the GPU to render user interfaces at 120 FPS",
+    "link": "https://zed.dev/blog/videogame"
+  },
+  {
+    "date": "2022-12-28",
     "title": "Rust in 2023 - GBurghoorn",
     "link": "https://gburghoorn.com/posts/rust-in-2023/"
   },
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   }

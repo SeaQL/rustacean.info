@@ -1,26 +1,37 @@
 [
   {
+    "date": "2023-09-20",
     "title": "Choosing a more optimal `String` type",
     "link": "https://swatinem.de/blog/optimized-strings/"
   },
   {
+    "date": "2021-01-13",
     "title": "parsing baseball files in Rust instead of Python for an 8x speedup! – Greg's Blog",
     "link": "https://gregstoll.wordpress.com/2021/01/10/parsing-baseball-files-in-rust-instead-of-python-for-an-8x-speedup/"
   },
   {
+    "date": "2020-09-30",
     "title": "Optimization - Making Rust Code Go Brrrr",
     "link": "https://aspenuwu.me/posts/rust-optimization.html"
   },
   {
+    "date": "2020-07-21",
     "title": "Geometric Constraint Solvers Part 1: Algebraic Expressions · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/?utm_source=reddit&utm_medium=social&utm_campaign=constraint-solver-1-expression-trees"
   },
   {
+    "date": "2020-07-14",
     "title": "Geometric Constraint Solvers Part 1: Algebraic Expressions · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/"
   },
   {
+    "date": "2020-07-07",
     "title": "Small strings in Rust",
     "link": "https://fasterthanli.me/articles/small-strings-in-rust"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Working with strings in Rust",
+    "link": "https://fasterthanli.me/blog/2020/working-with-strings-in-rust/"
   }
 ]

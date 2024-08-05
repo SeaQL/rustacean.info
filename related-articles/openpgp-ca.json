@@ -1,5 +1,16 @@
 [
   {
+    "date": "2024-03-06",
+    "title": "wiktor/ssh-openpgp-auth: This project aims to improve the security of SSH connections by providing a way to verify host keys using OpenPGP certificates. - Codeberg.org",
+    "link": "https://codeberg.org/wiktor/ssh-openpgp-auth"
+  },
+  {
+    "date": "2024-02-21",
+    "title": "openpgp-card/openpgp-card-tools: The oct CLI tool for inspecting, configuring and using OpenPGP card devices. - Codeberg.org",
+    "link": "https://codeberg.org/openpgp-card/openpgp-card-tools"
+  },
+  {
+    "date": "2020-09-16",
     "title": "OpenPGP in Rust: the Sequoia project [LWN.net]",
     "link": "https://lwn.net/SubscriberLink/830902/b751810a99460a39/"
   }

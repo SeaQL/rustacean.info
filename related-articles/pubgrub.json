@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-02-21",
     "title": "uv: Python packaging in Rust",
     "link": "https://astral.sh/blog/uv"
   },
   {
+    "date": "2023-03-22",
     "title": "The birth of a package manager | Adolfo Ochagavía",
     "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
   }

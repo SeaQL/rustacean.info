@@ -1,41 +1,61 @@
 [
   {
+    "date": "2023-06-21",
     "title": "How we built the Grafbase local development experience in Rust",
     "link": "https://grafbase.com/blog/how-we-built-the-grafbase-cli-in-rust"
   },
   {
+    "date": "2023-04-19",
+    "title": "BlogWerx: Improving build times for derive macros by 3x or more",
+    "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
+  },
+  {
+    "date": "2022-11-02",
+    "title": "Fathomable Rust Macros - GeekLaunch",
+    "link": "https://geeklaunch.net/blog/fathomable-rust-macros/"
+  },
+  {
+    "date": "2022-07-06",
     "title": "More than you've ever wanted to know about errors in Rust",
     "link": "https://www.shuttle.rs/blog/2022/06/30/error-handling"
   },
   {
+    "date": "2021-12-15",
     "title": "Rust Error Handling",
     "link": "https://www.unwoundstack.com/blog/rust-error-handling.html"
   },
   {
+    "date": "2021-05-19",
     "title": "Error Handling In Rust - A Deep Dive | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/error-handling-rust/"
   },
   {
+    "date": "2021-02-03",
     "title": "Learning to Fly: Let's simulate evolution in Rust (pt 2) | pwy.io",
     "link": "https://pwy.io/en/posts/learning-to-fly-pt2/"
   },
   {
+    "date": "2021-01-27",
     "title": "Wrapping errors in Rust",
     "link": "https://edgarluque.com/blog/wrapping-errors-in-rust"
   },
   {
+    "date": "2020-10-28",
     "title": "Building a Recipe Manager - Part 3 - Parsing and more Druid | bheisler.github.io",
     "link": "https://bheisler.github.io/post/recipe-manager-part-3-parsing-and-more-druid/"
   },
   {
+    "date": "2020-08-04",
     "title": "Beginner's guide to Error Handling in Rust",
     "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
   },
   {
+    "date": "2020-06-16",
     "title": "Errors in Rust: A Deep Dive :: the halcyon blog",
     "link": "https://www.halcyon.hr/posts/error-handling-in-rust/"
   },
   {
+    "date": "2019-11-26",
     "title": "Async-Awaitifying a Rust CLI App - zupzup",
     "link": "https://zupzup.org/async-awaitify-rust-cli/"
   }

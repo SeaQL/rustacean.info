@@ -1,69 +1,91 @@
 [
   {
+    "date": "2022-02-16",
     "title": "Computing image filters with wgpu-rs",
     "link": "https://blog.redwarp.app/image-filters/"
   },
   {
+    "date": "2022-02-09",
+    "title": "Sayonara, Mozilla",
+    "link": "https://kvark.github.io/mozilla/2022/02/02/leaving-mozilla.html"
+  },
+  {
+    "date": "2022-01-12",
     "title": "Bevy 0.6",
     "link": "https://bevyengine.org/news/bevy-0-6/"
   },
   {
+    "date": "2021-12-29",
     "title": "This Year in Wgpu - 2021 - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/12/25/this-year.html"
   },
   {
+    "date": "2021-10-13",
     "title": "Release of wgpu v0.11 and naga v0.7 - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/10/07/release-0.11.html"
   },
   {
+    "date": "2021-09-22",
     "title": "wgpu alliance with Deno - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/09/16/deno-webgpu.html"
   },
   {
+    "date": "2021-09-08",
     "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/025/"
   },
   {
+    "date": "2021-08-18",
     "title": "Release of a Pure-Rust v0.10 and a Call For Testing - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/08/18/release-0.10.html"
   },
   {
+    "date": "2021-08-10",
     "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/024/"
   },
   {
+    "date": "2021-07-21",
     "title": "Release of v0.9 and the Future of wgpu - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/07/16/release-0.9-future.html"
   },
   {
+    "date": "2021-06-16",
     "title": "This Month in Rust GameDev #22 - May 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/022/"
   },
   {
+    "date": "2021-05-12",
     "title": "Shader translation benchmark on Dota2/Metal - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/05/09/dota2-msl-compilation.html"
   },
   {
+    "date": "2021-05-12",
     "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/021/"
   },
   {
+    "date": "2021-05-05",
     "title": "Release of v0.8 - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/04/30/release-0.8.html"
   },
   {
+    "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"
   },
   {
+    "date": "2021-02-03",
     "title": "Release of v0.7 - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/02/02/release-0.7.html"
   },
   {
+    "date": "2020-11-18",
     "title": "The Big Picture - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
   },
   {
+    "date": "2020-04-29",
     "title": "A Taste of WebGPU in Firefox - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2020/04/experimental-webgpu-in-firefox/"
   }

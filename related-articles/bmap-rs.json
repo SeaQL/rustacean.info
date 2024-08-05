@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-04-19",
     "title": "Oxidizing bmap-tools: rewriting a Python project in Rust",
     "link": "https://www.collabora.com/news-and-blog/blog/2023/03/03/oxidizing-bmap-tools-rewriting-a-python-project-in-rust/"
   }

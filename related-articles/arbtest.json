@@ -1,5 +1,11 @@
 [
   {
+    "date": "2024-07-10",
+    "title": "Properly Testing Concurrent Data Structures",
+    "link": "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"
+  },
+  {
+    "date": "2022-11-02",
     "title": "Property-Based Testing in Rust with Arbitrary | Serhii Potapov (greyblake)",
     "link": "https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/"
   }

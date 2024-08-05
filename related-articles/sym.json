@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2024-01-10",
+    "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
+    "link": "https://thewolfsound.com/talk016/"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "Symphonia — Rust audio library // Lib.rs",
+    "link": "https://lib.rs/crates/symphonia"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Better stack fixing for Firefox – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2020/04/15/better-stack-fixing-for-firefox/"
+  }
+]

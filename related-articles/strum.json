@@ -1,10 +1,27 @@
 [
   {
+    "date": "2023-08-30",
     "title": "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs - Orhun's Blog",
     "link": "https://blog.orhun.dev/ratatui-0-23-0/"
   },
   {
+    "date": "2023-08-02",
+    "title": "A JVM in Rust part 3 - Parsing class files · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2023/07/a-jvm-in-rust-part-3-parsing-class-files/"
+  },
+  {
+    "date": "2022-11-02",
     "title": "Property-Based Testing in Rust with Arbitrary | Serhii Potapov (greyblake)",
     "link": "https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "variadics_analysis.md · GitHub",
+    "link": "https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Building TodoMVC With vgtk : Bodil dot lol",
+    "link": "https://bodil.lol/vgtk/"
   }
 ]

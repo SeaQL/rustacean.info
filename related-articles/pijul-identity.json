@@ -1,9 +1,21 @@
 [
   {
+    "date": "2021-01-20",
+    "title": "Pijul - Implementing cross-process Sanakirja locks",
+    "link": "https://pijul.org/posts/2021-01-15-sanakirja-locks/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "Pijul - How to survive?",
+    "link": "https://pijul.org/posts/2021-01-05-how-to-survive/"
+  },
+  {
+    "date": "2020-12-2-",
     "title": "Pijul - The Mathematically Sound Version Control System Written in Rust",
     "link": "https://initialcommit.com/blog/pijul-version-control-system"
   },
   {
+    "date": "2016-02-08",
     "title": "Pijul",
     "link": "https://pijul.org/"
   }

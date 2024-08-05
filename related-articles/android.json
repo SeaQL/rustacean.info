@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2024-07-03",
+    "title": "#![doc = include_str!()] with intra-doc links - Linebender",
+    "link": "https://linebender.org/blog/doc-include/"
+  },
+  {
+    "date": "2023-11-15",
+    "title": "Slint 1.3 Released with Revamped Native Styles and JavaScript API — Slint Blog",
+    "link": "https://slint.dev/blog/slint-1.3-released"
+  },
+  {
+    "date": "2022-03-02",
+    "title": "Integrating Rust With Android Development | by Kofi Otuo | Level Up Coding",
+    "link": "https://blog.devgenius.io/integrating-rust-with-android-development-ef341c2f9cca"
+  }
+]

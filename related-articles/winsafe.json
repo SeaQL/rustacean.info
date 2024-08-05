@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2021-06-16",
     "title": "Cacao: Building macOS (and iOS) Apps in Rust | Ryan McGrath",
     "link": "https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/"
   }

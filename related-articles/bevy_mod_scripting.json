@@ -1,13 +1,26 @@
 [
   {
+    "date": "2024-05-15",
     "title": "ClearCoat, new examples, and game updates",
     "link": "https://thisweekinbevy.com/issue/2024-05-13-clearcoat-new-examples-and-game-updates"
   },
   {
+    "date": "2024-04-10",
     "title": "Bevy 0.13.2, Curves, Gizmos, and Games",
     "link": "https://thisweekinbevy.com/issue/2024-04-08-bevy-0-13-2-curves-gizmos-and-games"
   },
   {
+    "date": "2023-09-06",
+    "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/048/"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "This Month in Rust GameDev #46 - May 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/046/"
+  },
+  {
+    "date": "2022-06-08",
     "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/034/"
   }

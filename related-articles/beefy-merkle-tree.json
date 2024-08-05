@@ -1,18 +1,77 @@
 [
   {
+    "date": "2023-07-05",
+    "title": "Nine Rules for Running Rust on the Web and on Embedded | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2"
+  },
+  {
+    "date": "2022-08-17",
     "title": "Get Started with Rust: Structs",
     "link": "https://serokell.io/blog/structs-in-rust"
   },
   {
+    "date": "2022-02-02",
+    "title": "001. 与 Folyd 聊他的 Rust 使用经历 – RustTalk",
+    "link": "https://rusttalk.github.io/podcast/001/"
+  },
+  {
+    "date": "2021-10-06",
+    "title": "RiB Newsletter #28 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-28/"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "RiB Newsletter #27 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-27/"
+  },
+  {
+    "date": "2021-06-02",
+    "title": "A Polkadot Postmortem - 24.05.2021",
+    "link": "https://polkadot.network/a-polkadot-postmortem-24-05-2021/"
+  },
+  {
+    "date": "2021-03-31",
     "title": "A look back at asynchronous Rust. In 2013, I discovered the Rust… | by tomaka | Medium",
     "link": "https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c"
   },
   {
+    "date": "2021-01-27",
     "title": "24 Awesome Open-Source Rust Projects",
     "link": "https://serokell.io/blog/open-source-rust"
   },
   {
+    "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "RiB Newsletter #16 – Secure Enclaves à la Crab - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-09-30-secure-enclaves-a-la-crab/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "RiB Newsletter #15 – Turbofish in the Blocksea - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-09-02-turbofish-in-the-blocksea/"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "RiB Newsletter #13 – Stuck inside, hacking away - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-07-01-stuck-inside-hacking-away/"
+  },
+  {
+    "date": "2020-06-10",
+    "title": "RiB Newsletter #12 – ZK-Rustups - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-06-03-zk-rustups/"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "RiB Newsletter #10 – Keep Calm and Hack More - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-04-01-keep-calm-and-hack-more/"
   }
 ]

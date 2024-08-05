@@ -1,5 +1,11 @@
 [
   {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2017-05-16",
     "title": "Rust on AVR: Beyond Blinking (12 May 2017)",
     "link": "https://gergo.erdi.hu/blog/2017-05-12-rust_on_avr__beyond_blinking/"
   }

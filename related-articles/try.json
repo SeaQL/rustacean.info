@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2023-06-14",
+    "title": "Iterating on Testing in Rust",
+    "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
+  },
+  {
+    "date": "2021-12-29",
+    "title": "Procedural Macros: Parsing custom syntax | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-parsing/"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "date": "2018-01-16",
+    "title": "clap - Rust",
+    "link": "https://clap.rs/2018/01/09/new-years-weight-loss/"
+  },
+  {
+    "date": "2016-08-09",
+    "title": "Convenient and idiomatic conversions in Rust",
+    "link": "https://ricardomartins.cc/2016/08/03/convenient_and_idiomatic_conversions_in_rust"
+  }
+]

@@ -1,9 +1,36 @@
 [
   {
+    "date": "2023-10-04",
+    "title": "Async Iteration III: The Async Iterator Trait",
+    "link": "https://blog.yoshuawuyts.com/async-iterator-trait/"
+  },
+  {
+    "date": "2022-12-07",
+    "title": "Self-referential types for fun and profit | More Stina Blog!",
+    "link": "https://morestina.net/blog/1868/self-referential-types-for-fun-and-profit"
+  },
+  {
+    "date": "2022-10-19",
     "title": "Asynchronous programming in Rust | Opensource.com",
     "link": "https://opensource.com/article/22/10/asynchronous-programming-rust"
   },
   {
+    "date": "2022-03-09",
+    "title": "Safe Pin Projections Through View Types",
+    "link": "https://blog.yoshuawuyts.com/safe-pin-projections-through-view-types/"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "A Tour of Safe Tracing GC Designs in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "Async/Await | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/async-await/"
+  },
+  {
+    "date": "2018-10-30",
     "title": "Shifgrethor III: Rooting",
     "link": "https://boats.gitlab.io/blog/post/shifgrethor-iii/"
   }

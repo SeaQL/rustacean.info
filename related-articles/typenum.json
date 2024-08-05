@@ -1,37 +1,66 @@
 [
   {
+    "date": "2024-02-07",
+    "title": "Non-affine types, ManuallyDrop and Invariant Lifetimes in Rust - Part One - Move into the Future",
+    "link": "https://asyncmove.com/blog/2024/02/non-affine-types-manuallydrop-and-invariant-lifetimes-in-rust-part-one/"
+  },
+  {
+    "date": "2024-01-10",
     "title": "Felix Prasanna",
     "link": "https://fprasx.github.io/articles/type-system-arithmetic/"
   },
   {
+    "date": "2022-01-26",
+    "title": "Why Static Languages Suffer From Complexity",
+    "link": "https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "It's Time to Get Hyped About Const Generics in Rust | Nora Codes",
+    "link": "https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/"
+  },
+  {
+    "date": "2021-03-10",
     "title": "Rust's Type System is Turing-Complete – Recursive Descent into Madness – A countable set of sanities and insanities, by Shea Leffler.",
     "link": "https://sdleffler.github.io/RustTypeSystemTuringComplete/"
   },
   {
+    "date": "2020-10-21",
+    "title": "Private Methods on a Public Trait",
+    "link": "https://jack.wrenn.fyi/blog/private-trait-methods/"
+  },
+  {
+    "date": "2020-09-30",
     "title": "Rust in 2021: Leveraging the Type System for Infallible Message Buffers",
     "link": "https://christian.amsuess.com/blog/website/2020-09-24_rust_2021/"
   },
   {
+    "date": "2019-05-14",
     "title": "The State of Machine Learning in Rust - Ehsan's Blog",
     "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
   },
   {
+    "date": "2018-12-11",
     "title": "Rust 2019 -- The Road Ahead — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/12/08/rust.html"
   },
   {
+    "date": "2018-08-07",
     "title": "Solving the Generalized Streaming Iterator Problem without GATs · Lukasʼ Blog",
     "link": "https://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html"
   },
   {
+    "date": "2017-07-04",
     "title": "Request For Explanation #1 - Constermash",
     "link": "https://request-for-explanation.github.io/podcast/ep1-constermash/index.html"
   },
   {
+    "date": "2016-08-02",
     "title": "Hidden treasures of the Rust ecosystem - Pascal’s Scribbles",
     "link": "https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html"
   },
   {
+    "date": "2015-12-14",
     "title": "Type-Level Shenanigans — Llogiq on stuff",
     "link": "https://llogiq.github.io/2015/12/12/types.html"
   }

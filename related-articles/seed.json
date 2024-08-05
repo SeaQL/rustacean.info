@@ -1,18 +1,82 @@
 [
   {
+    "date": "2023-05-03",
     "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
     "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
   },
   {
+    "date": "2022-02-23",
+    "title": "Checking Tailwind Class Names at Compile Time with Rust - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2022/02/21/checking-tailwind-class-names-at-compile-time-with-rust/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Frontend Rust Without Node - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2022/02/14/frontend-rust-without-node/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "My Rust Frontend Experiences - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2022/02/08/my-rust-frontend-experiences/"
+  },
+  {
+    "date": "2022-01-12",
     "title": "Could Rust be the Future of JavaScript Infrastructure? - The New Stack",
     "link": "https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/"
   },
   {
+    "date": "2022-01-12",
+    "title": "Lishwist (beta) | Polaris64's blog",
+    "link": "https://blog.polaris64.net/post/lishwist-beta/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "Rust on the Frontend and Backend - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/moonzoon"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "Building an OpenStreetMap app in Rust, Part VI | by Tor Hovland | Bekk",
+    "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-vi-8cfc8c3f7798"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Building an OpenStreetMap app in Rust, Part IV | by Tor Hovland | Bekk",
+    "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-iv-d82ebc245381"
+  },
+  {
+    "date": "2021-02-24",
     "title": "Why building a front-end framework in Rust is hard",
     "link": "https://lik.ai/blog/why-building-a-front-end-framework-in-rust-is-hard"
   },
   {
+    "date": "2021-02-24",
+    "title": "Building an OpenStreetMap app in Rust, Part III | by Tor Hovland | Bekk",
+    "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-iii-ab9ad4b83bd8"
+  },
+  {
+    "date": "2020-10-28",
     "title": "Are we web yet? Yes, and it's freaking fast!",
     "link": "http://www.arewewebyet.org/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-03-03",
+    "title": "slowtec | Porting a JavaScript App to WebAssembly with Rust (Part 3)",
+    "link": "https://www.slowtec.de/posts/2020-02-28-porting-javascript-to-rust-part-3.html"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "Creating Interactive Applications While Maintaining Your Sanity · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/implementing-interactive-applications/"
+  },
+  {
+    "date": "2019-12-24",
+    "title": "slowtec | Porting a JavaScript App to WebAssembly with Rust (Part 1)",
+    "link": "https://slowtec.de/posts/2019-12-20-porting-javascript-to-rust-part-1.html"
   }
 ]

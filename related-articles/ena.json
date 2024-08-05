@@ -1,9 +1,11 @@
 [
   {
+    "date": "2018-02-06",
     "title": "In Rust, ordinary vectors are values · baby steps",
     "link": "http://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/"
   },
   {
+    "date": "2017-04-25",
     "title": "Unification in Chalk, part 2 · baby steps",
     "link": "http://smallcultfollowing.com/babysteps/blog/2017/04/23/unification-in-chalk-part-2/"
   }

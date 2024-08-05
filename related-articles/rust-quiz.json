@@ -1,9 +1,16 @@
 [
   {
+    "date": "2024-07-03",
     "title": "Rust for Lunch",
     "link": "https://lunch.rs/"
   },
   {
+    "date": "2019-12-10",
+    "title": "Generalized Autoref-Based Specialization · Lukasʼ Blog",
+    "link": "https://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html"
+  },
+  {
+    "date": "2018-12-04",
     "title": "Rust Quiz",
     "link": "https://dtolnay.github.io/rust-quiz/18"
   }

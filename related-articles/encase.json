@@ -1,9 +1,16 @@
 [
   {
+    "date": "2024-06-19",
+    "title": "Meshlets, Stable Interpolation, and Generalized ECS Reactivity with Observers!",
+    "link": "https://thisweekinbevy.com/issue/2024-06-17-meshlets-stable-interpolation-and-generalized-ecs-reactivity-with-observers"
+  },
+  {
+    "date": "2022-08-03",
     "title": "Bevy 0.8",
     "link": "https://bevyengine.org/news/bevy-0-8/"
   },
   {
+    "date": "2022-03-16",
     "title": "This Month in Rust GameDev #31 - February 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/031/"
   }

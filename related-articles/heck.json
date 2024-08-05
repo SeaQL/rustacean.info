@@ -1,13 +1,21 @@
 [
   {
+    "date": "2024-03-20",
     "title": "heck - Rust",
     "link": "https://docs.rs/heck"
   },
   {
+    "date": "2023-07-12",
+    "title": "bridging fuzzing and property testing",
+    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
+  },
+  {
+    "date": "2021-02-03",
     "title": "Parsing PDF Documents in Rust · Michael-F-Bryan",
     "link": "https://adventures.michaelfbryan.com/posts/parsing-pdfs-in-rust/?utm_source=reddit&utm_medium=social&utm_campaign=parsing-pdf-documents"
   },
   {
+    "date": "2020-08-04",
     "title": "Rust for a Pythonista #1: Why and when?",
     "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
   }

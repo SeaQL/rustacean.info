@@ -1,61 +1,81 @@
 [
   {
+    "date": "2023-10-04",
     "title": "Nine Rules to Formally Validate Rust Algorithms with&nbsp;Dafny by Carl Kadie &amp; Divyanshu Ranjan | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-to-formally-validate-rust-algorithms-with-dafny-part-1-5cb8c8a0bb92"
   },
   {
+    "date": "2023-06-14",
     "title": "Check AI-Generated Code Perfectly and Automatically | by Carl M. Kadie | Medium",
     "link": "https://medium.com/p/d5b61acff741"
   },
   {
+    "date": "2023-04-12",
     "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
   },
   {
+    "date": "2021-11-17",
     "title": "Mononym: Type-Level Named Values in Rust - Part 1: Demo and Implementation | MaybeVoid",
     "link": "https://maybevoid.com/blog/mononym-part-1/"
   },
   {
+    "date": "2021-07-14",
+    "title": "How to Simplify Working With Time-Series Data in PostgreSQL",
+    "link": "https://blog.timescale.com/blog/introducing-hyperfunctions-new-sql-functions-to-simplify-working-with-time-series-data-in-postgresql/?utm_source=timescaledb&utm_medium=social&utm_campaign=hyperfunctions-1-0-release&utm_content=blog-introducing-hyperfunctions"
+  },
+  {
+    "date": "2020-10-14",
     "title": "Learning Rust through open source and live code reviews",
     "link": "https://loige.co/learning-rust-through-open-source-and-live-code-reviews/"
   },
   {
+    "date": "2019-08-06",
     "title": "Understanding Rust Through AVL Trees",
     "link": "https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/"
   },
   {
+    "date": "2018-12-18",
     "title": "Rust and WebAssembly in 2019",
     "link": "http://fitzgeraldnick.com/2018/12/14/rust-and-webassembly-in-2019.html"
   },
   {
+    "date": "2018-08-21",
     "title": "How Rust’s standard library was vulnerable for years and nobody noticed | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/how-rusts-standard-library-was-vulnerable-for-years-and-nobody-noticed-aebf0503c3d6"
   },
   {
+    "date": "2018-05-29",
     "title": "Fuzz testing in Rust with Cargo-fuzz | by Seasoned Software | Medium",
     "link": "https://medium.com/@seasoned_sw/fuzz-testing-in-rust-with-cargo-fuzz-13b89feecc30"
   },
   {
+    "date": "2017-05-30",
     "title": "Rust: A Scala Engineer's Perspective - BeachApe.",
     "link": "https://beachape.com/blog/2017/05/24/rust-from-scala/"
   },
   {
+    "date": "2016-08-02",
     "title": "Hidden treasures of the Rust ecosystem - Pascal’s Scribbles",
     "link": "https://scribbles.pascalhertleif.de/hidden-treasures-of-the-rust-ecosystems.html"
   },
   {
+    "date": "2016-08-02",
     "title": "Another happy quickcheck customer — Llogiq on stuff",
     "link": "https://llogiq.github.io/2016/07/29/quickcheck.html"
   },
   {
+    "date": "2016-05-16",
     "title": "Quick check: does your code work?",
     "link": "https://fnordig.de/2016/05/12/quickcheck-does-your-code-work/"
   },
   {
+    "date": "2015-09-28",
     "title": "QuickCheck - Wikipedia",
     "link": "https://en.wikipedia.org/wiki/Quickcheck"
   },
   {
+    "date": "2015-08-31",
     "title": "An Optimising BF Compiler – Wilfred Hughes::Blog",
     "link": "http://www.wilfred.me.uk/blog/2015/08/29/an-optimising-bf-compiler/"
   }

@@ -1,6 +1,27 @@
 [
   {
+    "date": "2023-05-03",
+    "title": "Rust on Espressif chips - 28-04-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-28-04-2023/"
+  },
+  {
+    "date": "2021-12-15",
     "title": "y|sndr - Rust as a platform for IoT",
     "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Introducing Drogue Device — Drogue IoT",
+    "link": "https://blog.drogue.io/introducing-drogue-device/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Rust on the BBC micro:bit — Drogue IoT",
+    "link": "https://blog.drogue.io/rust-and-microbit/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Down the Yak Hole of TLS — Drogue IoT",
+    "link": "https://blog.drogue.io/yak-hole-of-tls/"
   }
 ]

@@ -1,13 +1,21 @@
 [
   {
+    "date": "2024-02-07",
     "title": "Let futures be futures",
     "link": "https://without.boats/blog/let-futures-be-futures/"
   },
   {
+    "date": "2023-10-18",
+    "title": "Why async Rust?",
+    "link": "https://without.boats/blog/why-async-rust/"
+  },
+  {
+    "date": "2023-09-13",
     "title": "Why you might actually want async in your project – notgull – The world's number one source of notgull",
     "link": "https://notgull.net/why-you-want-async/"
   },
   {
+    "date": "2023-05-03",
     "title": "How does async Rust work | bertptrs.nl",
     "link": "https://bertptrs.nl/2023/04/27/how-does-async-rust-work.html"
   }

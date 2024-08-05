@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2023-01-25",
+    "title": "Rust FFI and cbindgen: Integrating Embedded Rust Code in C",
+    "link": "https://apollolabsblog.hashnode.dev/rust-ffi-and-cbindgen-integrating-embedded-rust-code-in-c"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "Plugins in Rust: Reducing the Pain with Dependencies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-abi-stable/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "Expose a Rust Library to Other Languages — Slint Blog",
+    "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
+  },
+  {
+    "date": "2019-03-05",
+    "title": "Exposing FFI from the Rust library · svartalf",
+    "link": "https://svartalf.info/posts/2019-03-01-exposing-ffi-from-the-rust-library/"
+  }
+]

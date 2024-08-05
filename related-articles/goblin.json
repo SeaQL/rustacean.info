@@ -1,13 +1,26 @@
 [
   {
+    "date": "2023-11-01",
     "title": "axo blog - System dependencies are hard (so we made them easier)",
     "link": "https://blog.axo.dev/2023/10/dependencies"
   },
   {
+    "date": "2022-03-23",
+    "title": "A Tour of the Rust and C++ interoperability ecosystem",
+    "link": "https://blog.tetrane.com/2022/Rust-Cxx-interop.html"
+  },
+  {
+    "date": "2020-11-25",
+    "title": "pwintln uwu and other fun with elves and dynamic linkers - jade's www site",
+    "link": "https://lfcode.ca/blog/pwintln-uwu"
+  },
+  {
+    "date": "2020-10-14",
     "title": "Rust after the honeymoon – The Observation Deck",
     "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
   },
   {
+    "date": "2020-04-21",
     "title": "Better stack fixing for Firefox – Nicholas Nethercote",
     "link": "https://blog.mozilla.org/nnethercote/2020/04/15/better-stack-fixing-for-firefox/"
   }

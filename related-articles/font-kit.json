@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-02-28",
     "title": "Text labels rendering on a map with Rust - research and design | Galileo",
     "link": "https://maximkaaa.github.io/galileo/blog/posts/text_rendering_design/"
   },
   {
+    "date": "2020-04-21",
     "title": "Building a Rust Web Browser",
     "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
   }

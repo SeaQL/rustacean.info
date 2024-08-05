@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2024-07-17",
+    "title": "Global Registration",
+    "link": "https://donsz.nl/blog/global-registration/"
+  },
+  {
+    "date": "2023-10-04",
+    "title": "Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez",
+    "link": "https://nikolaivazquez.com/blog/divan/"
+  },
+  {
+    "date": "2023-06-14",
+    "title": "Iterating on Testing in Rust",
+    "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "How to Build a Machine Learning Model in Rust",
+    "link": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "The Tower of Weakenings: Memory Models For Everyone - Faultlore",
+    "link": "https://gankra.github.io/blah/tower-of-weakenings/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Allocator Designs | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/allocator-designs/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "Taking ML to production with Rust: a 25x speedup | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/"
+  },
+  {
+    "date": "2019-07-02",
+    "title": "Heap Allocation | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/heap-allocation/"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "Brave new I/O | Embedded in Rust",
+    "link": "http://blog.japaric.io/brave-new-io/"
+  }
+]

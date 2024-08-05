@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2024-03-27",
+    "title": "How I learned to stop worrying and love the global state – Symbolica | Modern Computer Algebra",
+    "link": "https://symbolica.io/posts/global_state/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Gregory Szorc's Digital Home\n  | Achieving A Completely Open Source Implementation of Apple Code Signing and Notarization",
+    "link": "https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 2) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt2/"
+  },
+  {
+    "date": "2019-04-09",
+    "title": "ndarray::Array1 | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2019-04-07-scientific-computing-a-rust-adventure-part-2-array1/"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "24 days of Rust - app_dirs and preferences | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-app_dirs-and-preferences/"
+  }
+]

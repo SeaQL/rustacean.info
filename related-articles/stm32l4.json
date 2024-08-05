@@ -1,9 +1,21 @@
 [
   {
+    "date": "2023-02-08",
     "title": "STM32F4 Embedded Rust at the PAC: svd2rust",
     "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-svd2rust"
   },
   {
+    "date": "2021-09-29",
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "date": "2021-03-10",
+    "title": "Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun",
+    "link": "https://kevinlynagh.com/rust-zig/"
+  },
+  {
+    "date": "2020-11-25",
     "title": "Jitter | Electronic Design and Consultancy",
     "link": "https://jitter.company/blog/2020/11/23/bootstrapping-support-for-the-stm32wle-with-the-embedded-rust-ecosystem/"
   }

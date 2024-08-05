@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2024-01-10",
+    "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
+    "link": "https://thewolfsound.com/talk016/"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "0xC45 - Digital Audio Synthesizer in Rust",
+    "link": "https://0xc45.com/blog/digital-audio-synthesizer-in-rust/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "nonymous + bore(1): DNS toys for Rust | delan azabani",
+    "link": "https://www.azabani.com/2021/01/03/nonymous-bore.html"
+  },
+  {
+    "date": "2018-06-12",
+    "title": "Integrating QML and Rust: Creating a QMetaObject at Compile Time",
+    "link": "https://woboq.com/blog/qmetaobject-from-rust.html"
+  },
+  {
+    "date": "2017-02-28",
+    "title": "Demangling C++ Symbols",
+    "link": "http://fitzgeraldnick.com/2017/02/22/cpp-demangle.html"
+  }
+]

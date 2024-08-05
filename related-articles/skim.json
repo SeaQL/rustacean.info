@@ -1,9 +1,21 @@
 [
   {
+    "date": "2023-01-25",
+    "title": "14 Rust Tools for Linux Terminal Dwellers",
+    "link": "https://itsfoss.com/rust-cli-tools/"
+  },
+  {
+    "date": "2021-06-30",
+    "title": "Cross Compiling Rust Binaries with Github Actions",
+    "link": "https://www.rohanjain.in/cargo-cross/"
+  },
+  {
+    "date": "2020-11-4-",
     "title": "One Hundred Rust Binaries - Wesley Moore",
     "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
   },
   {
+    "date": "2016-10-04",
     "title": "musicmatzes blog",
     "link": "http://beyermatthias.de"
   }

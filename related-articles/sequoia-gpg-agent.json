@@ -1,29 +1,36 @@
 [
   {
+    "date": "2023-11-08",
     "title": "Migrating SecureDrop’s PGP backend from GnuPG to Sequoia",
     "link": "https://securedrop.org/news/migrating-securedrops-pgp-backend-from-gnupg-to-sequoia/"
   },
   {
+    "date": "2022-12-28",
     "title": "Blog - The Sequoia GnuPG Chameleon 0.1 is Released",
     "link": "https://sequoia-pgp.org/blog/2022/12/19/202212-chameleon-0.1/"
   },
   {
+    "date": "2022-02-02",
     "title": "Blog - Looking for sq stakeholders",
     "link": "https://sequoia-pgp.org/blog/2022/02/01/202202-sq-stakeholders/"
   },
   {
+    "date": "2020-12-16",
     "title": "Sequoia-PGP",
     "link": "https://www.sequoia-pgp.org/"
   },
   {
+    "date": "2020-12-16",
     "title": "Blog - Sequoia PGP v1.0 Released: The Seedling's a Sapling",
     "link": "https://sequoia-pgp.org/blog/2020/12/16/202012-1.0/"
   },
   {
+    "date": "2020-09-16",
     "title": "OpenPGP in Rust: the Sequoia project [LWN.net]",
     "link": "https://lwn.net/SubscriberLink/830902/b751810a99460a39/"
   },
   {
+    "date": "2020-06-02",
     "title": "Fuzzing Sequoia-PGP – Hackeriet Blog",
     "link": "https://blog.hackeriet.no/fuzzing-sequoia/"
   }

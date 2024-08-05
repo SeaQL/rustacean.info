@@ -1,17 +1,21 @@
 [
   {
+    "date": "2023-02-01",
     "title": "What the HAL? The Quest for Finding a Suitable Embedded Rust HAL",
     "link": "https://apollolabsblog.hashnode.dev/what-the-hal-the-quest-for-finding-a-suitable-embedded-rust-hal"
   },
   {
+    "date": "2022-08-17",
     "title": "6 Things I Wish I Knew Starting with Embedded Rust",
     "link": "https://apollolabsblog.hashnode.dev/6-things-i-wish-i-knew-starting-with-embedded-rust"
   },
   {
+    "date": "2022-06-29",
     "title": "STM32F4 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
     "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-gpio-button-controlled-blinking"
   },
   {
+    "date": "2021-09-29",
     "title": "AnyLeaf articles: Writing embedded firmware using Rust",
     "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
   }

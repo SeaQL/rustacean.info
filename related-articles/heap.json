@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2024-01-24",
+    "title": "How to work with !Sized types in Rust",
+    "link": "https://sgued.fr/blog/heapless-howto/"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "date": "2022-10-12",
+    "title": "Avoiding allocations in Rust to shrink Wasm modules",
+    "link": "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "Writing a Linux-compatible kernel in Rust - seiya.me",
+    "link": "https://seiya.me/writing-linux-clone-in-rust"
+  },
+  {
+    "date": "2021-09-29",
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Using std in embedded Rust",
+    "link": "https://timmmm.github.io/std-embedded-rust/index.html"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Run Rust RISC-V Firmware with BL602 IoT SDK",
+    "link": "https://lupyuen.github.io/articles/rust"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "Introducing Rustybot (part 2 of n) | Object Disoriented",
+    "link": "https://objectdisoriented.evokewonder.com/posts/introducing-rustybot-part-2/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Create Your Own PineTime Watch Face in Rust... And Publish on crates.io",
+    "link": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/watchface"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Porting PineTime Watch Face from C to Rust On RIOT with LVGL",
+    "link": "https://lupyuen.github.io/pinetime-rust-riot/articles/watch_face"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Learning embedded Rust by building RISC-V-powered robot - Part 4 - K155LA3",
+    "link": "https://k155la3.blog/2020/04/19/learning-embedded-rust-by-building-riscv-powered-robot-part-4/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Embedded Rust pattern - Zero Sized References  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/zero-sized-references/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-21/"
+  },
+  {
+    "date": "2017-05-09",
+    "title": "Fearless concurrency in your microcontroller | Embedded in Rust",
+    "link": "http://blog.japaric.io/fearless-concurrency/"
+  }
+]

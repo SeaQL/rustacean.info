@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-08-25",
     "title": "Persy.rs - Persy 1.0",
     "link": "https://persy.rs/posts/persy-1.0.html"
   },
   {
+    "date": "2021-04-14",
     "title": "Tglman",
     "link": "http://www.tglman.com/posts/rust_lib_error_management.html"
   }

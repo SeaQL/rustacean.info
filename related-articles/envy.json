@@ -1,17 +1,21 @@
 [
   {
+    "date": "2018-10-16",
     "title": "Configuration envy. How software is configured has always… | by Doug Tangren | Medium",
     "link": "https://medium.com/@softprops/configuration-envy-a09584386705"
   },
   {
+    "date": "2018-05-29",
     "title": "Typed Key Pattern",
     "link": "https://matklad.github.io/2018/05/24/typed-key-pattern.html"
   },
   {
+    "date": "2016-12-06",
     "title": "24 days of Rust - environment variables | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-environment-variables/"
   },
   {
+    "date": "2016-10-11",
     "title": "Overview · Serde",
     "link": "https://serde.rs/"
   }

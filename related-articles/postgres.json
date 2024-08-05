@@ -1,41 +1,81 @@
 [
   {
+    "date": "2024-06-12",
+    "title": "Latency at the edge with Rust/WebAssembly and Postgres: Part 2 | Exograph",
+    "link": "https://exograph.dev/blog/wasm-pg-explorations-2"
+  },
+  {
+    "date": "2024-05-29",
     "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
     "link": "https://bencher.dev/learn/case-study/diesel/"
   },
   {
+    "date": "2024-03-13",
+    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Using Rust to write a Data Pipeline. Thoughts. Musings. - Confessions of a Data Guy",
+    "link": "https://www.confessionsofadataguy.com/using-rust-to-write-a-data-pipeline-thoughts-musings/"
+  },
+  {
+    "date": "2023-01-11",
     "title": "Introducing OkayWAL: A write-ahead log for Rust",
     "link": "https://bonsaidb.io/blog/introducing-okaywal/"
   },
   {
+    "date": "2022-08-31",
+    "title": "Diesel 2.0.0",
+    "link": "https://diesel.rs/news/2_0_0_release.html"
+  },
+  {
+    "date": "2022-08-10",
     "title": "Fang, async background processing for Rust - The software engineer oasis",
     "link": "https://pxp9.github.io/rust/async-processing/"
   },
   {
+    "date": "2021-09-22",
     "title": "Rocket: A Web Framework for Rust",
     "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
   },
   {
+    "date": "2021-08-25",
+    "title": "Async overloading",
+    "link": "https://blog.yoshuawuyts.com/async-overloading/"
+  },
+  {
+    "date": "2020-06-30",
     "title": "Implementing a Job queue with SQLx and Postgres",
     "link": "https://cetra3.github.io/blog/implementing-a-jobq-sqlx/"
   },
   {
+    "date": "2020-06-30",
     "title": "This June in my Database project written in Rust",
     "link": "https://alex-dukhno.github.io/2020-06-27-This-June-in-my-Database-project-written-in-rust/"
   },
   {
+    "date": "2020-03-10",
+    "title": "ExpressJS vs Actix-Web. It is exactly what you think | by Maxim Vorobjov | Medium",
+    "link": "https://medium.com/@maxsparr0w/performance-of-node-js-compared-to-actix-web-37f20810fb1a"
+  },
+  {
+    "date": "2018-09-18",
     "title": "Postgres over TLS with postgres and r2d2_postgres · Matthew Mayer's tech blog",
     "link": "https://matthewkmayer.github.io/blag/public/post/postgres-tls/"
   },
   {
+    "date": "2016-09-27",
     "title": "My adventures in Rust webdev. People who know me in the Rust… | by tomaka | Medium",
     "link": "https://medium.com/@tomaka/my-adventures-in-rust-webdev-850c67be6c40"
   },
   {
+    "date": "2016-05-30",
     "title": "Connecting a webservice to a database in Rust",
     "link": "http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html"
   },
   {
+    "date": "2014-12-15",
     "title": "24 days of Rust - postgres | siciarz.net",
     "link": "https://siciarz.net/24-days-of-rust-postgres/"
   }

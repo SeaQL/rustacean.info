@@ -1,45 +1,111 @@
 [
   {
+    "date": "2024-07-03",
+    "title": "OxidOS with Alexandru Radovici - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e05-oxidos/"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "Making Your First Real-World Rust Project a Success | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/successful-rust-business-adoption-checklist/"
+  },
+  {
+    "date": "2024-04-17",
     "title": "Rust on Espressif chips - 12-04-2024",
     "link": "https://mabez.dev/blog/posts/esp-rust-12-04-2024/"
   },
   {
+    "date": "2024-01-24",
+    "title": "Rust on Espressif chips - 24-01-2024",
+    "link": "https://mabez.dev/blog/posts/esp-rust-24-01-2024/"
+  },
+  {
+    "date": "2024-01-17",
     "title": "esp-rs Quarterly Planning: Q1 2024 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q1-2024/"
   },
   {
+    "date": "2023-10-11",
     "title": "Acceptance Testing embedded-hal Drivers - Tommy's Blog",
     "link": "https://tommy-gilligan.github.io/driver-acceptance.html"
   },
   {
+    "date": "2023-09-06",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "date": "2023-07-19",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/96/why-rust-is-a-great-fit-for-embedded-software-2023-update"
   },
   {
+    "date": "2023-07-12",
+    "title": "Rust on Espressif chips - 30-06-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-30-06-2023/"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "34 Must Know Terms for Embedded Rust Newbies",
+    "link": "https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "Why Volvo thinks you should have Rust in your car | Volvo Cars Engineering",
+    "link": "https://medium.com/volvo-cars-engineering/why-volvo-thinks-you-should-have-rust-in-your-car-4320bd639e09"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "Rust on Espressif chips - 15-07-2022",
+    "link": "https://mabez.dev/blog/posts/esp-rust-15-07-2022/"
+  },
+  {
+    "date": "2021-12-29",
     "title": "Rust Embedded Working Group",
     "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
   },
   {
+    "date": "2021-11-17",
+    "title": "Learning Rust For Embedded Systems - Steve Branam",
+    "link": "https://www.embeddedrelated.com/showarticle/1432.php"
+  },
+  {
+    "date": "2021-09-22",
     "title": "Rust Code Coverage with Daniel McKenna :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/037-daniel-mckenna/"
   },
   {
+    "date": "2021-05-05",
     "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
   },
   {
+    "date": "2020-11-4-",
     "title": "Using Rust for a simple hardware project | tonari blog",
     "link": "https://blog.tonari.no/rust-simple-hardware-project"
   },
   {
+    "date": "2020-11-25",
+    "title": "Jitter | Electronic Design and Consultancy",
+    "link": "https://jitter.company/blog/2020/11/23/bootstrapping-support-for-the-stm32wle-with-the-embedded-rust-ecosystem/"
+  },
+  {
+    "date": "2020-10-14",
     "title": "Rust after the honeymoon – The Observation Deck",
     "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
   },
   {
+    "date": "2020-10-07",
+    "title": "Getting Started with the nRF52840 in Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Getting-Started-with-the-nRF52840-in-Rust/"
+  },
+  {
+    "date": "2020-08-18",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-24/"
   },
   {
+    "date": "2019-12-31",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-22/"
   }

@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-05-15",
     "title": "Cushy v0.3: New widgets, offscreen capture, Plotters and Tokio integrations, and more",
     "link": "https://ecton.dev/cushy-v0-3/"
   },
   {
+    "date": "2023-12-20",
     "title": "Introducing Gooey: My take on a Rusty GUI framework",
     "link": "https://ecton.dev/introducing-gooey/"
   }

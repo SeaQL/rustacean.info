@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2024-04-03",
+    "title": "Universal domain types",
+    "link": "https://mmapped.blog/posts/25-domain-types.html"
+  },
+  {
+    "date": "2023-03-08",
+    "title": "The World's Smallest Hash Table | orlp.net",
+    "link": "https://orlp.net/blog/worlds-smallest-hash-table/"
+  },
+  {
+    "date": "2020-11-11",
+    "title": "A Quick Tour of Trade-offs Embedding Data in Rust",
+    "link": "https://nickb.dev/blog/a-quick-tour-of-trade-offs-embedding-data-in-rust"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Building even faster interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Announcing the Rapier physics engine | Dimforge",
+    "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
+  },
+  {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
+  },
+  {
+    "date": "2016-12-13",
+    "title": "24 days of Rust - static initialization | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-static-initialization/"
+  }
+]

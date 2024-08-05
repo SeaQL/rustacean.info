@@ -1,13 +1,21 @@
 [
   {
+    "date": "2022-09-07",
+    "title": "WCT | HexoSynth Modular Synthesizer in Rust - Devlog #11: VST3/CLAP Plugin Integration",
+    "link": "https://m8geil.de/posts/hexosynth-11/"
+  },
+  {
+    "date": "2022-03-09",
     "title": "Improving Criterion.rs - Tweag",
     "link": "https://www.tweag.io/blog/2022-03-03-criterion-rs/"
   },
   {
+    "date": "2020-12-16",
     "title": "Connect devices to blockchains with Léger.",
     "link": "http://www.cyrilfougeray.com/2020/12/14/leger-rust-wallet-1.html"
   },
   {
+    "date": "2020-04-21",
     "title": "How I Reverse Engineered the LastPass CLI Tool · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/lastpass/"
   }

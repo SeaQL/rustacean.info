@@ -1,9 +1,21 @@
 [
   {
+    "date": "2023-11-15",
+    "title": "Slint 1.3 Released with Revamped Native Styles and JavaScript API — Slint Blog",
+    "link": "https://slint.dev/blog/slint-1.3-released"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Could Rust be the Future of JavaScript Infrastructure? - The New Stack",
+    "link": "https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/"
+  },
+  {
+    "date": "2021-12-29",
     "title": "Announcing NAPI-RS v2 – NAPI-RS",
     "link": "https://napi.rs/blog/announce-v2"
   },
   {
+    "date": "2021-01-06",
     "title": "Home – NAPI-RS",
     "link": "https://napi.rs"
   }

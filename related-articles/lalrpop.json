@@ -1,33 +1,46 @@
 [
   {
+    "date": "2023-02-08",
     "title": "Building a Rust parser using Pest and PEG - LogRocket Blog",
     "link": "https://blog.logrocket.com/building-rust-parser-pest-peg/"
   },
   {
+    "date": "2021-04-07",
     "title": "A new Left Recursive PEG Parser Generator for rust | Sean Young's linux ramblings",
     "link": "https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/"
   },
   {
+    "date": "2020-12-16",
     "title": "Blog - Sequoia PGP v1.0 Released: The Seedling's a Sapling",
     "link": "https://sequoia-pgp.org/blog/2020/12/16/202012-1.0/"
   },
   {
+    "date": "2020-06-16",
     "title": "BlogWerx: The Rust compiler isn't slow; we are.",
     "link": "https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html"
   },
   {
+    "date": "2020-05-05",
+    "title": "Wesley Aptekar-Cassels | Notes on Parsing in Rust",
+    "link": "https://blog.wesleyac.com/posts/rust-parsing"
+  },
+  {
+    "date": "2019-12-10",
     "title": "Inside Rust at Embark 🦀. A peek inside our day-to-day work with… | by Ari V | Embark Studios | Medium",
     "link": "https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4"
   },
   {
+    "date": "2019-03-05",
     "title": "Building fast interpreters in Rust",
     "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
   },
   {
+    "date": "2018-11-20",
     "title": "Program Synthesis is Possible in Rust",
     "link": "http://fitzgeraldnick.com/2018/11/15/program-synthesis-is-possible-in-rust.html"
   },
   {
+    "date": "2018-04-10",
     "title": "Writing a recursive ascent parser by hand - Abubalay",
     "link": "https://www.abubalay.com/blog/2018/04/08/recursive-ascent"
   }

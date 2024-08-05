@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2023-12-06",
+    "title": "2023-11-24: Building a Hypercube Interpolator (in Rust) - James Logan",
+    "link": "https://jlogan03.github.io/interpn/"
+  },
+  {
+    "date": "2023-10-18",
+    "title": "This Month in Rust OSDev: September 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-09/"
+  },
+  {
+    "date": "2021-12-22",
+    "title": "Rust Pin 进阶 — Folyd",
+    "link": "https://folyd.com/blog/rust-pin-advanced/"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Supporting Linux kernel development in Rust [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "(Almost) Lockless Stream Buffering - Kyle Simpson",
+    "link": "https://mcfelix.me/blog/shared-buffers/"
+  },
+  {
+    "date": "2018-08-07",
+    "title": "intl_pluralrules: A Rust Crate for Handling Plural Forms with CLDR Plural Rules – Mozilla L10N",
+    "link": "https://blog.mozilla.org/l10n/2018/08/03/intl_pluralrules-a-rust-crate-for-handling-plural-forms-with-cldr-plural-rules/"
+  },
+  {
+    "date": "2018-04-17",
+    "title": "Safe Intrusive Collections with Pinning",
+    "link": "https://www.ralfj.de/blog/2018/04/10/safe-intrusive-collections-with-pinning.html"
+  }
+]

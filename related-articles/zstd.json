@@ -1,6 +1,22 @@
 [
   {
+    "date": "2022-01-12",
+    "title": "Parsing compressed files efficiently with Rust",
+    "link": "https://edgarluque.com/blog/zstd-streaming-in-rust/"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Rust compression libraries - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-compression-libraries/"
+  },
+  {
+    "date": "2020-09-02",
     "title": "Using Rust for Kentik’s New Synthetic Monitoring Agent | Kentik Blog",
     "link": "https://www.kentik.com/blog/using-rust-for-kentiks-new-synthetic-network-monitoring-agent/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "partial-io — async Rust library // Lib.rs",
+    "link": "https://lib.rs/crates/partial-io"
   }
 ]

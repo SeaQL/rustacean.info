@@ -1,5 +1,16 @@
 [
   {
+    "date": "2020-09-30",
+    "title": "Type-level Programming in Rust | Will Crichton",
+    "link": "https://willcrichton.net/notes/type-level-programming/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Type-level Programming in Rust | Will Crichton",
+    "link": "http://willcrichton.net/notes/type-level-programming/"
+  },
+  {
+    "date": "2018-02-27",
     "title": "Typestates in Rust",
     "link": "https://yoric.github.io/post/rust-typestate/"
   }

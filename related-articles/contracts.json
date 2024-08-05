@@ -1,13 +1,21 @@
 [
   {
+    "date": "2021-10-20",
     "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
   },
   {
+    "date": "2021-09-08",
+    "title": "Writing software that's reliable enough for production",
+    "link": "https://pythonspeed.com/fil/docs/fil4prod/reliable.html"
+  },
+  {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
   },
   {
+    "date": "2020-06-30",
     "title": "Rust verification tools (2020) – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-verification-tools/"
   }

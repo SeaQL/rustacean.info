@@ -1,42 +1,107 @@
 [
   {
+    "date": "2024-07-17",
+    "title": "Writing eBPF Tracepoint Program with Rust Aya: Tips and Example – Yuki Nakamura's Blog",
+    "link": "https://yuki-nakamura.com/2024/07/06/writing-ebpf-tracepoint-program-with-rust-aya-tips-and-example/"
+  },
+  {
+    "date": "2024-07-10",
     "title": "Rust for filesystems [LWN.net]",
     "link": "https://lwn.net/Articles/978738/"
   },
   {
+    "date": "2024-02-14",
     "title": "Rust/C++ Interop Part 1 - Just the Basics |",
     "link": "https://tylerjw.dev/posts/rust-cpp-interop/"
   },
   {
+    "date": "2023-08-30",
     "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
     "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
   },
   {
+    "date": "2023-03-01",
     "title": "ROFL with a LOL: rewriting an NGINX module in Rust",
     "link": "https://blog.cloudflare.com/rust-nginx-module/"
   },
   {
+    "date": "2023-02-08",
     "title": "Exploring Rust for Vulkan drivers, part 1",
     "link": "https://www.collabora.com/news-and-blog/blog/2023/02/02/exploring-rust-for-vulkan-drivers-part-1/"
   },
   {
+    "date": "2023-01-18",
+    "title": "Rust FFI and bindgen: Integrating Embedded C Code in Rust",
+    "link": "https://apollolabsblog.hashnode.dev/rust-ffi-and-bindgen-integrating-embedded-c-code-in-rust"
+  },
+  {
+    "date": "2022-01-19",
     "title": "Rust on Apache NuttX OS",
     "link": "https://lupyuen.github.io/articles/rust2"
   },
   {
+    "date": "2021-09-08",
     "title": "Learning Rust: Interfacing with C · Martin Pitt",
     "link": "https://piware.de/post/2021-08-27-rust-and-c/"
   },
   {
+    "date": "2021-09-08",
     "title": "Plugins in Rust: Getting Started | NullDeref",
     "link": "https://nullderef.com/blog/plugin-start/"
   },
   {
+    "date": "2021-08-04",
+    "title": "Rust on RISC-V BL602: Is It Sunny?",
+    "link": "https://lupyuen.github.io/articles/adc"
+  },
+  {
+    "date": "2021-02-24",
+    "title": "Integrating Rust and C++ in Firefox - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Assorted thoughts on zig (and rust)",
+    "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
+  },
+  {
+    "date": "2020-10-21",
     "title": "Create Your Own PineTime Watch Face in Rust... And Publish on crates.io",
     "link": "https://lupyuen.github.io/pinetime-rust-mynewt/articles/watchface"
   },
   {
+    "date": "2020-09-23",
+    "title": "Porting PineTime Watch Face from C to Rust On RIOT with LVGL",
+    "link": "https://lupyuen.github.io/pinetime-rust-riot/articles/watch_face"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Porting Godot Games To Rust (Part 1) | Paytonrules Ramblings",
+    "link": "https://paytonrules.com/post/games-in-rust-with-godot-part-one/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "date": "2020-05-12",
     "title": "Rust FFI - Building an ASN1 codec - A Different Tack",
     "link": "https://sjames.github.io/articles/2020-04-26-rust-ffi-asn1-codec/"
+  },
+  {
+    "date": "2019-08-20",
+    "title": "Using C Libraries in Rust. A practical guide to FFI using bindgen… | by Jeff Hiner | Dwelo Research and Development | Medium",
+    "link": "https://medium.com/dwelo-r-d/using-c-libraries-in-rust-13961948c72a"
+  },
+  {
+    "date": "2019-07-16",
+    "title": "Rust as the new C: building and combining native libs into C API · Victor Baybekov",
+    "link": "http://hotforknowledge.com/2019/07/14/6-rust-the-new-c/"
   }
 ]

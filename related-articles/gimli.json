@@ -1,21 +1,26 @@
 [
   {
+    "date": "2023-03-01",
     "title": "(Possibly) Emulate PinePhone with Unicorn Emulator",
     "link": "https://lupyuen.github.io/articles/unicorn"
   },
   {
+    "date": "2020-10-14",
     "title": "Rust after the honeymoon – The Observation Deck",
     "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
   },
   {
+    "date": "2018-04-03",
     "title": "Speeding Up `dwarfdump` With Rust",
     "link": "https://robert.ocallahan.org/2018/03/speeding-up-dwarfdump-with-rust.html"
   },
   {
+    "date": "2017-12-05",
     "title": "What's a reference in Rust?",
     "link": "https://jvns.ca/blog/2017/11/27/rust-ref/"
   },
   {
+    "date": "2016-09-20",
     "title": "RustConf 2016 Talks",
     "link": "http://alwayscoding.ca/momentos/2016/09/10/rustconf-2016-talks/"
   }

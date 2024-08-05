@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-04-03",
     "title": "2d Lighting, Particle Systems, Meshlets, and more",
     "link": "https://thisweekinbevy.com/issue/2024-04-01-2d-lighting-particle-systems-meshlets-and-more"
   },
   {
+    "date": "2024-02-21",
     "title": "Bevy 0.13",
     "link": "https://bevyengine.org/news/bevy-0-13/"
   }

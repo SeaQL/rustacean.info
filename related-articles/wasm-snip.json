@@ -1,9 +1,11 @@
 [
   {
+    "date": "2019-10-22",
     "title": "A Tiny, Static, Full-Text Search Engine using Rust and WebAssembly | Matthias Endler",
     "link": "https://endler.dev/2019/tinysearch/"
   },
   {
+    "date": "2018-06-26",
     "title": "Our Vision for Rust and WebAssembly | Rust and WebAssembly",
     "link": "https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html"
   }

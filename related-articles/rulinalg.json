@@ -1,5 +1,11 @@
 [
   {
+    "date": "2016-09-20",
+    "title": "RustConf 2016 Travelogue | An Algorithmic Lucidity",
+    "link": "http://zackmdavis.net/blog/2016/09/rustconf-2016-travelogue/"
+  },
+  {
+    "date": "2016-08-30",
     "title": "In-place Transposition in Rust",
     "link": "https://athemathmo.github.io/2016/08/29/inplace-transpose.html"
   }

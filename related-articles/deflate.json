@@ -1,5 +1,11 @@
 [
   {
+    "date": "2020-12-9-",
+    "title": "Rust compression libraries - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-compression-libraries/"
+  },
+  {
+    "date": "2017-01-10",
     "title": "The image library is now pure Rust · Piston",
     "link": "http://blog.piston.rs/2017/01/08/the-image-library-is-now-pure-rust/"
   }

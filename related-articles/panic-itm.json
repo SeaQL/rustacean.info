@@ -1,6 +1,57 @@
 [
   {
+    "date": "2024-01-10",
+    "title": "This Month in Rust OSDev: December 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-12/"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "Nine Rules for Running Rust on the Web and on Embedded | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  },
+  {
+    "date": "2021-12-29",
     "title": "Rust Embedded Working Group",
     "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Using std in embedded Rust",
+    "link": "https://timmmm.github.io/std-embedded-rust/index.html"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The GPIO war: macro bunkers for typestate explosions - cuervo",
+    "link": "https://www.ecorax.net/macro-bunker-1/"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Testing a driver crate  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-driver-crate/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "Getting Started with the nRF52840 in Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Getting-Started-with-the-nRF52840-in-Rust/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Run Rust on your embedded device from VSCode in one click  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/run-rust-on-your-embedded-device-from-vscode/"
+  },
+  {
+    "date": "2020-02-04",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-23/"
+  },
+  {
+    "date": "2019-03-19",
+    "title": "Implementing a static stack usage analysis tool | Embedded in Rust",
+    "link": "https://blog.japaric.io/stack-analysis/"
   }
 ]

@@ -1,129 +1,161 @@
 [
   {
+    "date": "2024-07-10",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/123/mix-in-rust"
   },
   {
+    "date": "2024-06-26",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/128/rust-in-ten-years"
   },
   {
+    "date": "2024-06-12",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/126/tock-binary-size"
   },
   {
+    "date": "2024-02-28",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/115/sequential-storage-efficiently-store-data-in-flash"
   },
   {
+    "date": "2024-02-28",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/114/building-an-async-runtime-with-mio"
   },
   {
+    "date": "2024-02-14",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/113/rust-for-hardware-vendors"
   },
   {
+    "date": "2023-11-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
   },
   {
+    "date": "2023-09-06",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
   },
   {
+    "date": "2023-07-19",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/96/why-rust-is-a-great-fit-for-embedded-software-2023-update"
   },
   {
+    "date": "2023-03-22",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/88/data-oriented-design"
   },
   {
+    "date": "2023-03-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/86/introducing-mailcrab"
   },
   {
+    "date": "2023-02-15",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/85/trustzone-trials-tribulations"
   },
   {
+    "date": "2023-02-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/82/crash-and-now-what"
   },
   {
+    "date": "2023-01-04",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/80/rust-101-open-source-university-course"
   },
   {
+    "date": "2022-12-21",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/81/our-year-in-rust"
   },
   {
+    "date": "2022-12-14",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/79/sorting-with-simd"
   },
   {
+    "date": "2022-10-12",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/nl/blog/74/using-c-libraries-in-your-rust-project"
   },
   {
+    "date": "2022-05-11",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/71/introducing-rust-in-security-research"
   },
   {
+    "date": "2022-04-20",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/70/we-asked-5-people-why-they-like-embedded-rust"
   },
   {
+    "date": "2022-04-20",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/69/lorawan-applications-in-rust"
   },
   {
+    "date": "2022-02-02",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown"
   },
   {
+    "date": "2021-10-27",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/63/async-on-embedded-present-and-future"
   },
   {
+    "date": "2021-09-15",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/61/an-experimental-diesel-based-crud-for-rocket"
   },
   {
+    "date": "2021-07-28",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/vacatures/2/lead-developer-embedded-rust"
   },
   {
+    "date": "2021-07-28",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/vacatures/11/medior-embedded-engineer"
   },
   {
+    "date": "2021-07-28",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/58/async-and-asleep-designing-our-future-embedded-applications"
   },
   {
+    "date": "2021-06-09",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/57/rise-and-shine-putting-the-nrf52840-to-sleep-and-waking-back-up"
   },
   {
+    "date": "2021-02-03",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/51/long-range-networking-with-lora-an-overview"
   },
   {
+    "date": "2020-12-23",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/50/build-your-own-async-primitive"
   },
   {
+    "date": "2020-09-23",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/42/potential-improvements-for-rust-embedded-abstractions"
   },
   {
+    "date": "2020-08-18",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/39/why-rust-is-a-great-fit-for-embedded-software"
   },
   {
+    "date": "2020-08-11",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/41/the-promise-of-rust-async-await-for-embedded"
   }

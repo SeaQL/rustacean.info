@@ -1,5 +1,16 @@
 [
   {
+    "date": "2022-02-09",
+    "title": "Announcing BonsaiDb 0.1.0: A Rust NoSQL database that grows with you",
+    "link": "https://bonsaidb.io/blog/announcing-bonsaidb-alpha/"
+  },
+  {
+    "date": "2021-11-17",
+    "title": "BonsaiDb November update: Working towards alpha 1 - BonsaiDb - Khonsu Labs Community",
+    "link": "https://community.khonsulabs.com/t/bonsaidb-november-update-working-towards-alpha-1/86"
+  },
+  {
+    "date": "2021-10-27",
     "title": "My ideal Rust workflow",
     "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
   }

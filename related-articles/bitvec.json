@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-01-17",
+    "title": "Building 2 'Simple' Allocators :: KataShift",
+    "link": "https://blog.maguire.tech/posts/explorations/allocators/"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "Analyzing Data 180,000x Faster with Rust",
+    "link": "https://willcrichton.net/notes/k-corrset/"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "What I learned from making a DNS client in Rust",
+    "link": "https://blog.adamchalmers.com/making-a-dns-client/"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Runtime Alias Detection · Insufficiently Magical",
+    "link": "https://myrrlyn.net/blog/bitvec/alias-detection"
+  }
+]

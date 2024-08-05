@@ -1,9 +1,11 @@
 [
   {
+    "date": "2016-06-13",
     "title": "that one thing that one time",
     "link": "http://blog.adamperry.me/rust/2016/06/11/baby-steps-porting-musl-to-rust/"
   },
   {
+    "date": "2015-02-23",
     "title": "Show HN: Exa, a replacement for ls written in Rust | Hacker News",
     "link": "https://news.ycombinator.com/item?id=9087108"
   }

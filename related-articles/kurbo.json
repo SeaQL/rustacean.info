@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2019-08-27",
     "title": "Thoughts on Rust bloat | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
   }

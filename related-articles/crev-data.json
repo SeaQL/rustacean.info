@@ -1,21 +1,36 @@
 [
   {
+    "date": "2023-11-15",
     "title": "Rust without crates.io",
     "link": "https://thomask.sdf.org/blog/2023/11/14/rust-without-crates-io.html"
   },
   {
+    "date": "2022-05-18",
     "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
     "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
   },
   {
+    "date": "2022-01-12",
+    "title": "Bringing include_dir Into the Modern Era · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/bringing-include_dir-into-the-modern-era/"
+  },
+  {
+    "date": "2021-10-27",
     "title": "web.crev.dev cargo-crev",
     "link": "https://web.crev.dev/rust-reviews/"
   },
   {
+    "date": "2021-10-06",
     "title": "Code and Bitters",
     "link": "https://codeandbitters.com/published-crate-analysis/"
   },
   {
+    "date": "2021-02-24",
+    "title": "Maybe We Can Have Nice Things",
+    "link": "https://noncombatant.org/2021/02/16/maybe-we-can-have-nice-things/"
+  },
+  {
+    "date": "2020-03-24",
     "title": "How I structure my apps (in Rust and other languages)",
     "link": "https://dpc.pw/how-i-structure-my-apps-in-rust-and-other-languages"
   }

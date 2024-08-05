@@ -1,0 +1,282 @@
+[
+  {
+    "date": "2024-07-03",
+    "title": "iroh 0.19.0 - Make it your own - Iroh",
+    "link": "https://iroh.computer/blog/iroh-0-19-make-it-your-own"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Open Source Applications written in Rust",
+    "link": "https://rust.code-maven.com/applications"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "Can Rust prevent logic errors? | It's all about the bit",
+    "link": "https://itsallaboutthebit.com/logic-errors-in-rust/"
+  },
+  {
+    "date": "2023-09-13",
+    "title": "Semantic Search with Qdrant, OpenAI and Shuttle",
+    "link": "https://www.shuttle.rs/blog/2023/09/08/building-semantic-search-in-rust"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "How We Generate JavaScript and Python SDKs From Our Canonical Rust SDK – PostgresML",
+    "link": "https://postgresml.org/blog/how-we-generate-javascript-and-python-sdks-from-our-canonical-rust-sdk"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "bridging fuzzing and property testing",
+    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "parsel - Rust",
+    "link": "https://docs.rs/parsel"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "graydon2 | The Rust I Wanted Had No Future",
+    "link": "https://graydon2.dreamwidth.org/307291.html"
+  },
+  {
+    "date": "2023-05-10",
+    "title": "Hangman over QUIC | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/hangman-over-quic/"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "Guide to Rust procedural macros | developerlife.com",
+    "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"
+  },
+  {
+    "date": "2022-11-02",
+    "title": "Fathomable Rust Macros - GeekLaunch",
+    "link": "https://geeklaunch.net/blog/fathomable-rust-macros/"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Felix' Blog - The Little Joys of Code: Proc Macros",
+    "link": "https://felix-knorr.net/posts/2022-10-14-proc-macros.html"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "Fluvio - This Week in Fluvio #35",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0035/"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "Learning Rust - creating a full-text search engine – Rebeca Sarai – A collection of everything that goes in my head",
+    "link": "https://www.rsarai.xyz/learning-rust-by-creating-fts-db/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "This Month in Rust GameDev #31 - February 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/031/"
+  },
+  {
+    "date": "2022-03-02",
+    "title": "IDEs and proc-macros",
+    "link": "https://veykril.github.io/posts/ide-proc-macros/"
+  },
+  {
+    "date": "2022-03-02",
+    "title": "21th of February 2022 to 27th of February 2022 — This week in Slint",
+    "link": "https://slint-ui.com/thisweek/2022-02-28.html"
+  },
+  {
+    "date": "2022-02-23",
+    "title": "Nextest - cargo-nextest",
+    "link": "https://nexte.st"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "2021 | No Time for Chrono - Félix Saparelli",
+    "link": "https://passcod.name/technical/no-time-for-chrono.html"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "QUIC Version 1 is live on Cloudflare",
+    "link": "https://blog.cloudflare.com/quic-version-1-is-live-on-cloudflare/"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "2021-04-06: Interfacing a low-level actor system to Rust async/await, part 1 - Uazú blog",
+    "link": "https://uazu.github.io/blog/20210406.html"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
+    "date": "2021-02-24",
+    "title": "Procedural Macros: A simple derive macro | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-simple-derive/"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Procedural Macros: The Basics | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-basics/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "XML parsing in Rust | Mainmatter",
+    "link": "https://simplabs.com/blog/2020/12/31/xml-and-rust/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-10-28",
+    "title": "usethe.computer - XMHell: Handling 38GB of UTF-16 XML with Rust",
+    "link": "http://usethe.computer/posts/14-xmhell.html"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – Porting Details – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust-porting-details/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Building even faster interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Objective-Rust // -dealloc",
+    "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "partial-io — async Rust library // Lib.rs",
+    "link": "https://lib.rs/crates/partial-io"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "How to organize your Rust tests - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Auto-currying Rust Functions · peppe.rs",
+    "link": "https://peppe.rs/posts/auto-currying_rust_functions/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "How to write CRaP Rust code - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Writing Python inside your Rust code — Part 2 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-2/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Writing Python inside your Rust code — Part 1 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-1/"
+  },
+  {
+    "date": "2020-04-14",
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
+  },
+  {
+    "date": "2020-04-07",
+    "title": "From failure to Fehler",
+    "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-22/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "date": "2019-08-06",
+    "title": "Understanding Rust Through AVL Trees",
+    "link": "https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/"
+  },
+  {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
+  },
+  {
+    "date": "2018-11-13",
+    "title": "proc_macro_attribute Revisited — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/11/10/proc-macro.html"
+  },
+  {
+    "date": "2018-08-28",
+    "title": "Easy `proc_macro_derive`s with `synstructure` — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/08/25/synstruct.html"
+  },
+  {
+    "date": "2018-06-12",
+    "title": "Integrating QML and Rust: Creating a QMetaObject at Compile Time",
+    "link": "https://woboq.com/blog/qmetaobject-from-rust.html"
+  },
+  {
+    "date": "2018-06-05",
+    "title": "im - Rust",
+    "link": "https://docs.rs/im"
+  },
+  {
+    "date": "2018-05-29",
+    "title": "Fuzz testing in Rust with Cargo-fuzz | by Seasoned Software | Medium",
+    "link": "https://medium.com/@seasoned_sw/fuzz-testing-in-rust-with-cargo-fuzz-13b89feecc30"
+  },
+  {
+    "date": "2017-01-17",
+    "title": "Debugging Rust's new Custom Derive system | Light Fiction",
+    "link": "https://quodlibetor.github.io/posts/debugging-rusts-new-custom-derive-system/"
+  },
+  {
+    "date": "2017-01-03",
+    "title": "Creating an enum iterator using Macros 1.1 – Christopher Breeden – impl From&lt;Words&gt; for Blog",
+    "link": "https://cbreeden.github.io/Macros11/"
+  },
+  {
+    "date": "2016-05-02",
+    "title": "Myths and Legends about Integer Overflow in Rust |  Huon on the internet",
+    "link": "https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/"
+  },
+  {
+    "date": "2015-11-30",
+    "title": "Where are you From::from — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2015/11/27/from-into.html"
+  }
+]

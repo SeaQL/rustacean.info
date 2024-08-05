@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2016-09-27",
     "title": "My adventures in Rust webdev. People who know me in the Rust… | by tomaka | Medium",
     "link": "https://medium.com/@tomaka/my-adventures-in-rust-webdev-850c67be6c40"
   }

@@ -1,33 +1,46 @@
 [
   {
+    "date": "2020-10-07",
     "title": "RiB Newsletter #16 – Secure Enclaves à la Crab - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-09-30-secure-enclaves-a-la-crab/"
   },
   {
+    "date": "2020-09-23",
+    "title": "Why not rust for security?",
+    "link": "https://www.cryptologie.net/article/505/why-not-rust-for-security/"
+  },
+  {
+    "date": "2020-09-02",
     "title": "RiB Newsletter #15 – Turbofish in the Blocksea - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-09-02-turbofish-in-the-blocksea/"
   },
   {
+    "date": "2020-08-11",
     "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"
   },
   {
+    "date": "2020-07-07",
     "title": "RiB Newsletter #13 – Stuck inside, hacking away - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-07-01-stuck-inside-hacking-away/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2020-06-10",
     "title": "RiB Newsletter #12 – ZK-Rustups - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-06-03-zk-rustups/"
   },
   {
+    "date": "2019-12-10",
     "title": "dtolnay::_03__soundness_bugs - Rust",
     "link": "https://docs.rs/dtolnay/0.0.7/dtolnay/macro._03__soundness_bugs.html"
   },
   {
+    "date": "2019-08-12",
     "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-08-alphas/"
   }

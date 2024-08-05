@@ -1,6 +1,12 @@
 [
   {
+    "date": "2018-02-20",
     "title": "Borrow cycles in Rust: arenas v.s. drop-checking −\n    Exyr.org",
     "link": "https://exyr.org/2018/rust-arenas-vs-dropck/"
+  },
+  {
+    "date": "2016-09-13",
+    "title": "Why I’m dropping Rust. When I saw that there was a new systems… | by Michael de Lang | HackerNoon.com | Medium",
+    "link": "https://medium.com/@kingoipo/why-im-dropping-rust-fd1c32986c88"
   }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2023-11-08",
+    "title": "This Month in Rust OSDev: October 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-10/"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Deadlock-free Mutexes and Directed Acyclic Graphs | bertptrs.nl",
+    "link": "https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Allocator Designs | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/allocator-designs/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
+    "link": "https://pitdicker.github.io/Interior-mutability-patterns/"
+  },
+  {
+    "date": "2019-07-02",
+    "title": "Heap Allocation | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/heap-allocation/"
+  },
+  {
+    "date": "2018-10-23",
+    "title": "Hardware Interrupts | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/hardware-interrupts/"
+  }
+]

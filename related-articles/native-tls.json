@@ -1,13 +1,26 @@
 [
   {
+    "date": "2022-02-09",
+    "title": "Arti 0.0.4 is released: Refactoring, rustls, and more! | The Tor Project",
+    "link": "https://blog.torproject.org/arti_004_released/"
+  },
+  {
+    "date": "2022-01-12",
     "title": "How to install cargo-outdated in OSX without homebrew - Estada.ch",
     "link": "https://estada.ch/2022/1/7/how-to-install-cargo-outdated-in-osx-without-homebrew/"
   },
   {
+    "date": "2020-09-16",
     "title": "Building devserver: An Ultra-Tiny Rust Server",
     "link": "https://ianjk.com/devserver/"
   },
   {
+    "date": "2020-02-25",
+    "title": "Async HTTP",
+    "link": "https://blog.yoshuawuyts.com/async-http/"
+  },
+  {
+    "date": "2017-06-27",
     "title": "The highs and lows of Rust (2017) | \nJimmy Cuadra",
     "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust-2017/"
   }

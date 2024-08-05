@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-09-14",
     "title": "Use Rust To Reduce The Size Of Your SQLite Database",
     "link": "https://www.i-programmer.info/programming/database/15686-use-rust-to-reduce-the-size-of-your-sqlite-database-.html"
   },
   {
+    "date": "2022-05-18",
     "title": "Extending SQLite with Rust - rand[om]",
     "link": "https://ricardoanderegg.com/posts/extending-sqlite-with-rust/"
   }

@@ -1,34 +1,67 @@
 [
   {
+    "date": "2023-04-26",
+    "title": "Guide to Rust procedural macros | developerlife.com",
+    "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"
+  },
+  {
+    "date": "2021-12-08",
     "title": "A better cargo-readme - Issue 0: Humble Beginning | S🦀sha's blog",
     "link": "https://scrabsha.github.io/abcr-issue-0/"
   },
   {
+    "date": "2021-08-25",
     "title": "Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume",
     "link": "https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/"
   },
   {
+    "date": "2021-02-24",
+    "title": "Macros in Rust: A tutorial with examples - LogRocket Blog",
+    "link": "https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/"
+  },
+  {
+    "date": "2020-11-11",
     "title": "postfix-macros.md · GitHub",
     "link": "https://gist.github.com/est31/8d0465997ea920c5ba917cbbf80a822d"
   },
   {
+    "date": "2020-09-02",
+    "title": "Type-directed metaprogramming in Rust | Will Crichton",
+    "link": "https://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
+  },
+  {
+    "date": "2020-07-14",
     "title": "Building Canrun: A statically typed logic programming library for Rust",
     "link": "https://esimmler.com/building-canrun-part-1/"
   },
   {
+    "date": "2019-01-22",
     "title": "proc-macro-rules",
     "link": "https://www.ncameron.org/blog/proc-macro-rules/"
   },
   {
+    "date": "2019-01-08",
     "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
     "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
   },
   {
+    "date": "2018-03-20",
+    "title": "Type-directed metaprogramming in Rust | Will Crichton",
+    "link": "http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
+  },
+  {
+    "date": "2018-03-06",
     "title": "Why Rust Has Macros · Bloggedy blog",
     "link": "https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/"
   },
   {
+    "date": "2017-01-31",
     "title": "An overview of macros in Rust",
     "link": "http://words.steveklabnik.com/an-overview-of-macros-in-rust"
+  },
+  {
+    "date": "2017-01-17",
+    "title": "Debugging Rust's new Custom Derive system | Light Fiction",
+    "link": "https://quodlibetor.github.io/posts/debugging-rusts-new-custom-derive-system/"
   }
 ]

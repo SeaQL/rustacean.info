@@ -1,29 +1,41 @@
 [
   {
+    "date": "2022-12-21",
     "title": "How to build a Rust API with the builder pattern - LogRocket Blog",
     "link": "https://blog.logrocket.com/build-rust-api-builder-pattern/"
   },
   {
+    "date": "2022-06-22",
     "title": "Nine Rules for Elegant Rust Library APIs | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-elegant-rust-library-apis-9b986a465247"
   },
   {
+    "date": "2021-08-04",
+    "title": "Fluvio - This Week in Fluvio #1",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0001/"
+  },
+  {
+    "date": "2021-06-09",
     "title": "Designing Rust bindings for REST APIs ⋅ Plume",
     "link": "https://plume.benboeckel.net/~/JustAnotherBlog/designing-rust-bindings-for-rest-ap-is"
   },
   {
+    "date": "2020-10-14",
     "title": "Optional parameters in Rust – Vidify",
     "link": "https://vidify.org/blog/rust-parameters/"
   },
   {
+    "date": "2020-03-10",
     "title": "Init Struct Pattern – X Blog – A blog for Xaeroxe, Software Engineer",
     "link": "https://xaeroxe.github.io/init-struct-pattern/"
   },
   {
+    "date": "2017-01-03",
     "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
     "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
   },
   {
+    "date": "2016-12-13",
     "title": "24 days of Rust - derive_builder | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-derive_builder/"
   }

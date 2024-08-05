@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-05-26",
     "title": "Baseline implementations should be predictable - Paul Khuong: some Lisp",
     "link": "https://pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/"
   }

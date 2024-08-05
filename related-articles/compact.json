@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2023-09-20",
+    "title": "Choosing a more optimal `String` type",
+    "link": "https://swatinem.de/blog/optimized-strings/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "How to organize your Rust tests - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "How to write CRaP Rust code - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
+  },
+  {
+    "date": "2019-08-06",
+    "title": "Minimum Safe Abstractions — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2019/08/01/unsafe.html"
+  }
+]

@@ -1,53 +1,66 @@
 [
   {
+    "date": "2023-11-01",
     "title": "Can Rust prevent logic errors? | It's all about the bit",
     "link": "https://itsallaboutthebit.com/logic-errors-in-rust/"
   },
   {
+    "date": "2023-02-22",
     "title": "Rust in Rhymes II explainer — Llogiq on stuff",
     "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
   },
   {
+    "date": "2021-10-13",
     "title": "The nightly elephant in the room | Synth",
     "link": "https://www.getsynth.com/docs/blog/2021/10/11/nightly"
   },
   {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
   },
   {
+    "date": "2018-12-11",
     "title": "Rust 2019 -- The Road Ahead — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/12/08/rust.html"
   },
   {
+    "date": "2018-10-30",
     "title": "The Case For Macros — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/10/25/macros.html"
   },
   {
+    "date": "2018-05-15",
     "title": "These Weeks in Dev-Tools, issue 4",
     "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-4/"
   },
   {
+    "date": "2018-04-17",
     "title": "A Shifty Riddle — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/04/11/shift.html"
   },
   {
+    "date": "2018-03-27",
     "title": "Under Cover — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/03/25/cover.html"
   },
   {
+    "date": "2018-03-20",
     "title": "Deciding if two types are equal — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/03/15/types.html"
   },
   {
+    "date": "2018-03-20",
     "title": "Pattern Boldness — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/03/13/patterns.html"
   },
   {
+    "date": "2018-03-06",
     "title": "Opportunistic Mutations — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/03/03/opportune.html"
   },
   {
+    "date": "2018-02-20",
     "title": "Mutation Testing Rust in Earnest — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/02/14/mutagen.html"
   }

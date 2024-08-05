@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-10-04",
+    "title": "Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez",
+    "link": "https://nikolaivazquez.com/blog/divan/"
+  },
+  {
+    "date": "2021-01-27",
     "title": "Automatic Flamegraphs for Benchmarks in Rust · Jibbow's Blog (by Andreas Zimmerer)",
     "link": "https://www.jibbow.com/posts/criterion-flamegraphs/"
   },
   {
+    "date": "2020-06-23",
     "title": "Rust at CNCF | CNCF",
     "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
   }

@@ -1,46 +1,142 @@
 [
   {
+    "date": "2023-07-12",
     "title": "How We Generate JavaScript and Python SDKs From Our Canonical Rust SDK – PostgresML",
     "link": "https://postgresml.org/blog/how-we-generate-javascript-and-python-sdks-from-our-canonical-rust-sdk"
   },
   {
+    "date": "2023-06-28",
+    "title": "parsel - Rust",
+    "link": "https://docs.rs/parsel"
+  },
+  {
+    "date": "2023-06-14",
+    "title": "A Beginner’s Guide to Rust Procedural Macros: Creating a JSON Derive Macro | by Kofi Otuo | Dev Genius",
+    "link": "https://medium.com/@otukof/a-beginners-guide-to-rust-procedural-macros-creating-a-json-derive-macro-eb44279e7244"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "graydon2 | The Rust I Wanted Had No Future",
+    "link": "https://graydon2.dreamwidth.org/307291.html"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "Guide to Rust procedural macros | developerlife.com",
+    "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"
+  },
+  {
+    "date": "2023-02-08",
+    "title": "Improving Rust compile times to enable adoption of memory safety - Prossimo",
+    "link": "https://www.memorysafety.org/blog/remy-rakic-compile-times/"
+  },
+  {
+    "date": "2022-11-02",
     "title": "Fathomable Rust Macros - GeekLaunch",
     "link": "https://geeklaunch.net/blog/fathomable-rust-macros/"
   },
   {
+    "date": "2022-10-26",
+    "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Felix' Blog - The Little Joys of Code: Proc Macros",
+    "link": "https://felix-knorr.net/posts/2022-10-14-proc-macros.html"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "How to speed up the Rust compiler in April 2022 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2022/04/12/how-to-speed-up-the-rust-compiler-in-april-2022.html"
+  },
+  {
+    "date": "2022-04-06",
     "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
     "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
   },
   {
+    "date": "2022-03-02",
+    "title": "IDEs and proc-macros",
+    "link": "https://veykril.github.io/posts/ide-proc-macros/"
+  },
+  {
+    "date": "2021-10-20",
     "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
   },
   {
+    "date": "2021-08-25",
     "title": "Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume",
     "link": "https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/"
   },
   {
+    "date": "2021-02-24",
+    "title": "Procedural Macros: A simple derive macro | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-simple-derive/"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Procedural Macros: The Basics | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-basics/"
+  },
+  {
+    "date": "2021-01-27",
     "title": "Introducing usb-ids.rs",
     "link": "https://blog.yossarian.net/2021/01/21/Introducing-usb-ids-rs"
   },
   {
+    "date": "2020-09-02",
+    "title": "Objective-Rust // -dealloc",
+    "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+  },
+  {
+    "date": "2020-07-14",
     "title": "Building Canrun: A statically typed logic programming library for Rust",
     "link": "https://esimmler.com/building-canrun-part-1/"
   },
   {
+    "date": "2020-05-12",
+    "title": "Auto-currying Rust Functions · peppe.rs",
+    "link": "https://peppe.rs/posts/auto-currying_rust_functions/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Writing Python inside your Rust code — Part 2 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-2/"
+  },
+  {
+    "date": "2020-04-21",
     "title": "Writing Python inside your Rust code — Part 1 - Mara's Blog",
     "link": "https://blog.m-ou.se/writing-python-inside-rust-1/"
   },
   {
+    "date": "2019-01-22",
     "title": "proc-macro-rules",
     "link": "https://www.ncameron.org/blog/proc-macro-rules/"
   },
   {
+    "date": "2019-01-08",
     "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
     "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
   },
   {
+    "date": "2018-11-13",
+    "title": "proc_macro_attribute Revisited — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/11/10/proc-macro.html"
+  },
+  {
+    "date": "2017-01-31",
     "title": "An overview of macros in Rust",
     "link": "http://words.steveklabnik.com/an-overview-of-macros-in-rust"
+  },
+  {
+    "date": "2017-01-17",
+    "title": "Debugging Rust's new Custom Derive system | Light Fiction",
+    "link": "https://quodlibetor.github.io/posts/debugging-rusts-new-custom-derive-system/"
+  },
+  {
+    "date": "2017-01-03",
+    "title": "Creating an enum iterator using Macros 1.1 – Christopher Breeden – impl From&lt;Words&gt; for Blog",
+    "link": "https://cbreeden.github.io/Macros11/"
   }
 ]

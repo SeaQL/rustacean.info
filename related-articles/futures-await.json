@@ -1,29 +1,41 @@
 [
   {
+    "date": "2023-10-18",
     "title": "Why async Rust?",
     "link": "https://without.boats/blog/why-async-rust/"
   },
   {
+    "date": "2020-08-11",
     "title": "Propane: an experimental generator syntax for Rust",
     "link": "https://without.boats/blog/propane/"
   },
   {
+    "date": "2020-03-17",
     "title": "parallel-stream",
     "link": "https://blog.yoshuawuyts.com/parallel-stream/"
   },
   {
+    "date": "2019-05-07",
     "title": "A final proposal for await syntax",
     "link": "https://boats.gitlab.io/blog/post/await-decision/"
   },
   {
+    "date": "2019-02-12",
     "title": "Generators I: Toward a minimum viable product",
     "link": "https://boats.gitlab.io/blog/post/generators-i/"
   },
   {
+    "date": "2018-06-05",
     "title": "Async Methods II: object safety",
     "link": "https://boats.gitlab.io/blog/post/async-methods-ii/"
   },
   {
+    "date": "2018-01-30",
+    "title": "Karol Kuczmarski's Blog – Unfolding a Stream of paginated&nbsp;items",
+    "link": "http://xion.io/post/code/rust-unfold-pagination.html"
+  },
+  {
+    "date": "2018-01-16",
     "title": "What Are Tokio and Async IO All About? - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about/"
   }

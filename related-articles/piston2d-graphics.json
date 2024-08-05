@@ -1,25 +1,31 @@
 [
   {
+    "date": "2021-05-26",
     "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
     "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
   },
   {
+    "date": "2016-03-07",
     "title": "How to use Eco · Piston",
     "link": "http://blog.piston.rs/2016/03/04/how-to-use-eco/"
   },
   {
+    "date": "2016-01-04",
     "title": "What is happening 2 · Piston",
     "link": "http://blog.piston.rs/2015/12/31/what-is-happening-2/"
   },
   {
+    "date": "2015-04-13",
     "title": "Piston 0.1 is released · Piston",
     "link": "http://blog.piston.rs/2015/04/07/piston-0.1/"
   },
   {
+    "date": "2015-02-16",
     "title": "Duck Typing in Piston · Piston",
     "link": "http://blog.piston.rs/2015/02/10/duck-typing-in-piston/"
   },
   {
+    "date": "2014-12-08",
     "title": "New graphics library design · Piston",
     "link": "http://blog.piston.rs/2014/12/02/new-graphics-design/"
   }

@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-01-04",
+    "title": "Compiling Brainfuck code - Part 4: A Static Compiler | Rodrigodd",
+    "link": "https://rodrigodd.github.io/2022/12/31/bf_compiler-part4.html"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Hot Reloading Rust — for Fun and Faster Feedback Cycles | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/hot-reloading-rust/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Dynamic&nbsp;iterators",
+    "link": "https://hole.tuziwo.info/dyn-iterator.html"
+  }
+]

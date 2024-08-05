@@ -1,33 +1,51 @@
 [
   {
+    "date": "2022-10-26",
+    "title": "Writing a HashMap in Rust without unsafe",
+    "link": "https://ecton.dev/writing-a-hashmap-without-unsafe/"
+  },
+  {
+    "date": "2022-07-27",
     "title": "Console #115 - Interview with Jonathan of BonsaiDb",
     "link": "https://console.substack.com/p/console-115"
   },
   {
+    "date": "2022-05-25",
+    "title": "BonsaiDb performance update: A deep-dive on file synchronization",
+    "link": "https://bonsaidb.io/blog/durable-writes/"
+  },
+  {
+    "date": "2022-05-04",
     "title": "BonsaiDb April Update: Dogfooding and Fixing Bugs",
     "link": "https://bonsaidb.io/blog/april-2022-update/"
   },
   {
+    "date": "2022-03-30",
     "title": "BonsaiDb v0.4.0: Now available without async",
     "link": "https://bonsaidb.io/blog/bonsaidb-v0-4-0/"
   },
   {
+    "date": "2022-03-23",
     "title": "A Year of BonsaiDb: A retrospective and looking to the future",
     "link": "https://bonsaidb.io/blog/one-year-anniversary/"
   },
   {
+    "date": "2022-03-02",
     "title": "BonsaiDb February update: Supporting and Optimizing BonsaiDb",
     "link": "https://bonsaidb.io/blog/february-2022-update/"
   },
   {
+    "date": "2022-02-09",
     "title": "Announcing BonsaiDb 0.1.0: A Rust NoSQL database that grows with you",
     "link": "https://bonsaidb.io/blog/announcing-bonsaidb-alpha/"
   },
   {
+    "date": "2022-02-02",
     "title": "BonsaiDb January update: Alpha Next Week",
     "link": "https://bonsaidb.io/blog/january-2022-update/"
   },
   {
+    "date": "2022-01-19",
     "title": "Benchmarking relational data in BonsaiDb",
     "link": "https://bonsaidb.io/blog/commerce-benchmark/"
   }

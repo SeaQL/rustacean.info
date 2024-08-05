@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2024-07-17",
+    "title": "Fusion Engineering with Jakub Valtar - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e06-fusion-engineering/"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "What's new in 1.3.0? | git-cliff",
+    "link": "https://git-cliff.org/blog/1.3.0/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "Gitoxide with Sebastian Thiel :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/055-sebastian-thiel/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "Automating Ember releases with Rust | Mainmatter",
+    "link": "https://simplabs.com/blog/2021/11/09/automating-ember-learning-releases-with-rust/"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "Designing Rust bindings for REST APIs ⋅ Plume",
+    "link": "https://plume.benboeckel.net/~/JustAnotherBlog/designing-rust-bindings-for-rest-ap-is"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "Polishing Rust. Temporary Value Dropped While Borrowed | by Tim Keating | Medium",
+    "link": "https://mrtact.medium.com/polishing-rust-42d9131d1c3"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - git2 | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-git2/"
+  }
+]

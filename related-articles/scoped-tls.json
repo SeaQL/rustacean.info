@@ -1,0 +1,7 @@
+[
+  {
+    "date": "2022-03-09",
+    "title": "3184-thread-local-cell-methods - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3184-thread-local-cell-methods.html"
+  }
+]

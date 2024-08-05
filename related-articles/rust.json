@@ -1,0 +1,352 @@
+[
+  {
+    "date": "2024-07-24",
+    "title": "Diesel Async 0.5 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "I ported h2spec to Rust (also: codegen!)",
+    "link": "https://fasterthanli.me/videos/h2spec-to-rust"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "We build X.509 chains so you don’t have to | Trail of Bits Blog",
+    "link": "https://blog.trailofbits.com/2024/01/25/we-build-x-509-chains-so-you-dont-have-to/"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Using `mem::take` to reduce heap allocations  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rustls-borrow-checker-p1/"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Writing your own Rust linter",
+    "link": "https://blog.guillaume-gomez.fr/articles/2024-01-18+Writing+your+own+Rust+linter"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "avatar.png",
+    "link": "https://tuckersiemens.com/posts/avatar-png/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Rustdoc JSON in 2023  ❧ Alona Enraght-Moony",
+    "link": "https://alona.page/posts/rustdoc-json-2023/"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "The rabbit hole of unsafe Rust bugs – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/cautionary-unsafe-tale/"
+  },
+  {
+    "date": "2023-12-13",
+    "title": "Exploring the AWS Lambda SDK in Rust | Bradford Hovinen's blog",
+    "link": "https://gruebelinchen.wordpress.com/2023/12/07/exploring-the-aws-lambda-sdk-in-rust/"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "Leveraging Rust in our high-performance Java database",
+    "link": "https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/"
+  },
+  {
+    "date": "2023-07-26",
+    "title": "Programming language popularity: Rust",
+    "link": "https://szabgab.com/programming-language-popularity-rust"
+  },
+  {
+    "date": "2023-05-24",
+    "title": "Pavex, progress report #4: performance is a feature | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-04/"
+  },
+  {
+    "date": "2023-05-10",
+    "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
+    "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "Protohackers in Rust, Part 00: Dipping the toe in async and Tokio",
+    "link": "https://d2718.net/blog/posts/protohax_00.html"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "A taste of pavex, an upcoming Rust web framework | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2022-11-02",
+    "title": "The stable HashMap trap | More Stina Blog!",
+    "link": "https://morestina.net/blog/1843/the-stable-hashmap-trap"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "Concurrency in RustDb – Rusty thoughts",
+    "link": "https://rustdb.wordpress.com/2022/09/03/concurrency-in-rustdb/"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Jonas Hietala: Rewriting my blog in Rust for fun and profit",
+    "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "Introducing Rust Sitter - Shadaj Laddad",
+    "link": "https://www.shadaj.me/writing/introducing-rust-sitter/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Understanding Rust generics and how to use them - LogRocket Blog",
+    "link": "https://blog.logrocket.com/understanding-rust-generics-how-use/"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "Proc macro support in rust-analyzer for nightly rustc versions",
+    "link": "https://fasterthanli.me/articles/proc-macro-support-in-rust-analyzer-for-nightly-rustc-versions"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "This Week in Rust - Issue 444 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/twir-444/"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "rustdoc_types - Rust",
+    "link": "https://docs.rs/rustdoc-types"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "Rust9x: Compile Rust code for Windows 95, NT and above",
+    "link": "https://seri.tools/blog/announcing-rust9x/"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "This Month in Rust OSDev: March 2022 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2022-03/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Futures Nostalgia",
+    "link": "https://fasterthanli.me/articles/futures-nostalgia"
+  },
+  {
+    "date": "2022-03-02",
+    "title": "Modern Telecom Network Tracing - OXIO",
+    "link": "https://oxio.com/blog/modern-telecom-network-tracing/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "println!(\"Hello, World!\")",
+    "link": "https://www.printlnhello.world/blog/publishing-to-crates-io/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "This Month in Rust OSDev (December 2021) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2021-12/"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Why is my Rust build so slow?",
+    "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Porting Rust's std to rustix · sunfishcode's blog",
+    "link": "https://blog.sunfishcode.online/port-std-to-rustix/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Rust programs written entirely in Rust · sunfishcode's blog",
+    "link": "https://blog.sunfishcode.online/rust-programs-entirely-in-rust/"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Understanding Rust futures by going way too deep",
+    "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
+  },
+  {
+    "date": "2021-02-10",
+    "title": "This Month in Rust OSDev (January 2021) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2021-01/"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Rust compression libraries - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-compression-libraries/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Shipping Linux binaries that don’t break with Rust | William Saar’s dev blog",
+    "link": "https://saarw.github.io/dev/2020/06/18/shipping-linux-binaries-that-dont-break-with-rust.html"
+  },
+  {
+    "date": "2020-06-10",
+    "title": "A Rust SentencePiece implementation | Rust NLP tales",
+    "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "2523-cfg-path-version - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/2523-cfg-path-version.html"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Building a Rust Web Browser",
+    "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
+  },
+  {
+    "date": "2019-10-01",
+    "title": "Plugins in Rust · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/plugins-in-rust/"
+  },
+  {
+    "date": "2019-08-12",
+    "title": "Runtime Configuration Reloading | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
+  },
+  {
+    "date": "2019-07-30",
+    "title": "Updated Thoughts on Trust Scaling | Armin Ronacher's Thoughts and Writings",
+    "link": "http://lucumr.pocoo.org/2019/7/29/dependency-scaling/"
+  },
+  {
+    "date": "2019-05-14",
+    "title": "The State of Machine Learning in Rust - Ehsan's Blog",
+    "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
+  },
+  {
+    "date": "2018-06-26",
+    "title": "What I Learned: Porting Dateutil Parser to Rust",
+    "link": "https://speice.io/2018/06/dateutil-parser-to-rust.html"
+  },
+  {
+    "date": "2018-05-15",
+    "title": "These Weeks in Dev-Tools, issue 4",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-4/"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  },
+  {
+    "date": "2018-02-06",
+    "title": "These Weeks in Dev-Tools, issue 3",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-3/"
+  },
+  {
+    "date": "2017-10-10",
+    "title": "Wiki - AnOpinionatedGuideToRustWebServers",
+    "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
+  },
+  {
+    "date": "2017-09-26",
+    "title": "These Weeks in Dev-Tools, issue 2",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-2/"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "These Weeks in Dev-tools #1",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-1/"
+  },
+  {
+    "date": "2017-02-28",
+    "title": "The First Crate Polishing Workshop — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2017/02/27/cpw.html"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "Four years with Rust",
+    "link": "http://words.steveklabnik.com/four-years-with-rust"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - zip and lzma compression | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-zip-and-lzma-compression/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - diesel | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-diesel/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - Cursive | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-cursive/"
+  },
+  {
+    "date": "2016-12-13",
+    "title": "24 days of Rust - serde | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-serde/"
+  },
+  {
+    "date": "2016-05-30",
+    "title": "Connecting a webservice to a database in Rust",
+    "link": "http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html"
+  },
+  {
+    "date": "2016-02-01",
+    "title": "Rust for the Web. RESTful API in Rust, impressions | by 🪄 OZ 🎩 | Medium",
+    "link": "https://medium.com/@eugeniyoz/restful-api-in-rust-impressions-63250d611d15"
+  },
+  {
+    "date": "2015-09-28",
+    "title": "Get Data From A URL In Rust",
+    "link": "http://hermanradtke.com/2015/09/21/get-data-from-a-url-rust.html"
+  },
+  {
+    "date": "2015-09-21",
+    "title": "LALRPOP · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/"
+  },
+  {
+    "date": "2015-05-18",
+    "title": "Error Handling in Rust - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/rust-error-handling/"
+  },
+  {
+    "date": "2014-12-22",
+    "title": "24 days of Rust - rust-crypto | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-rust-crypto/"
+  },
+  {
+    "date": "2014-12-15",
+    "title": "rustache",
+    "link": "http://rustache.github.io/"
+  }
+]

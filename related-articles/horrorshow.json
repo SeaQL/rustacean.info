@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2016-11-15",
     "title": "The fastest template engine in the West\n 〜 lambda fairy",
     "link": "https://lambda.xyz/blog/maud-is-fast/"
   }

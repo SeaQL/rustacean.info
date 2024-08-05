@@ -1,0 +1,77 @@
+[
+  {
+    "date": "2024-07-24",
+    "title": "Diesel Async 0.5 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"
+  },
+  {
+    "date": "2024-04-24",
+    "title": "Why SQLite Performance Tuning made Bencher 1200x Faster | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/engineering/sqlite-performance-tuning/"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Diesel Async 0.4 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diesel-async-0-4/"
+  },
+  {
+    "date": "2023-08-16",
+    "title": "Our latest adventures with bindgen  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/bindgen/"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "Accessing Firebird With Diesel and Rust | by Luis Fernando Batels | Better Programming",
+    "link": "https://betterprogramming.pub/diesel-firebird-en-a4d00e793e1d"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "GitHub Action for binary crates installation · svartalf",
+    "link": "https://svartalf.info/posts/2020-04-10-github-action-for-binary-crates-installation/"
+  },
+  {
+    "date": "2020-06-02",
+    "title": "kitsu's blog",
+    "link": "https://kitsu.me/posts/2020_05_24_custom_types_in_diesel"
+  },
+  {
+    "date": "2017-11-07",
+    "title": "2008-non-exhaustive - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/2008-non-exhaustive.html"
+  },
+  {
+    "date": "2017-03-28",
+    "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+    "link": "https://diesel.rs"
+  },
+  {
+    "date": "2017-01-03",
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  },
+  {
+    "date": "2016-10-11",
+    "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+    "link": "http://diesel.rs/"
+  },
+  {
+    "date": "2015-11-30",
+    "title": "Announcing Diesel — A Safe, Extensible ORM and Query Builder for Rust | by Sean Griffin | Medium",
+    "link": "https://medium.com/@sgrif/announcing-diesel-a-safe-extensible-orm-and-query-builder-for-rust-fdf57966a16c"
+  }
+]

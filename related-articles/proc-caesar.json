@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-03-31",
     "title": "Macros vs Rename",
     "link": "https://rust-analyzer.github.io/blog/2020/03/30/macros-vs-rename.html"
   },
   {
+    "date": "2019-07-02",
     "title": "Status of rust-analyzer: Achievements and Open Collective  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/rust-analyzer-status-opencollective/"
   }

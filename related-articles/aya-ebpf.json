@@ -1,17 +1,31 @@
 [
   {
+    "date": "2024-07-17",
     "title": "Writing eBPF Tracepoint Program with Rust Aya: Tips and Example – Yuki Nakamura's Blog",
     "link": "https://yuki-nakamura.com/2024/07/06/writing-ebpf-tracepoint-program-with-rust-aya-tips-and-example/"
   },
   {
+    "date": "2024-06-19",
     "title": "Zero to Performance Hero: How to Benchmark and Profile Your eBPF Code in Rust - InfoQ",
     "link": "https://www.infoq.com/articles/benchmark-profile-ebpf-code/"
   },
   {
+    "date": "2022-11-09",
     "title": "How to write an eBPF/XDP load-balancer in Rust  | Kong Inc.",
     "link": "https://konghq.com/blog/writing-an-ebpf-xdp-load-balancer-in-rust"
   },
   {
+    "date": "2022-09-14",
+    "title": "A pair of Rust kernel modules [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/907685/75fc924f5ec91869/"
+  },
+  {
+    "date": "2022-07-27",
+    "title": "Aya: your tRusty eBPF companion - Deepfence",
+    "link": "https://deepfence.io/aya-your-trusty-ebpf-companion/"
+  },
+  {
+    "date": "2022-06-22",
     "title": "Remote development with Rust on fly.io",
     "link": "https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io"
   }

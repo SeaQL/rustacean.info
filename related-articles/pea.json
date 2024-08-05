@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-01-10",
+    "title": "Felix Prasanna",
+    "link": "https://fprasx.github.io/articles/type-system-arithmetic/"
+  },
+  {
+    "date": "2021-03-10",
+    "title": "Rust's Type System is Turing-Complete – Recursive Descent into Madness – A countable set of sanities and insanities, by Shea Leffler.",
+    "link": "https://sdleffler.github.io/RustTypeSystemTuringComplete/"
+  }
+]

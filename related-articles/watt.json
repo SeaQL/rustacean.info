@@ -1,25 +1,31 @@
 [
   {
+    "date": "2024-06-19",
     "title": "I ported h2spec to Rust (also: codegen!)",
     "link": "https://fasterthanli.me/videos/h2spec-to-rust"
   },
   {
+    "date": "2024-03-27",
     "title": "How I reduced (incremental) Rust compile times by up to 40%",
     "link": "https://www.coderemote.dev/blog/faster-rust-compiler-macro-expansion-caching/"
   },
   {
+    "date": "2023-08-30",
     "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
     "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
   },
   {
+    "date": "2021-01-20",
     "title": "variadics_analysis.md · GitHub",
     "link": "https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2019-10-29",
     "title": "Making Good On Momo's Compile-Time Promise — Llogiq on stuff",
     "link": "https://llogiq.github.io/2019/10/28/momo-fast.html"
   }

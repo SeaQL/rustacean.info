@@ -1,5 +1,11 @@
 [
   {
+    "date": "2022-05-18",
+    "title": "A Guided Tour of Streams in Rust",
+    "link": "https://www.qovery.com/blog/a-guided-tour-of-streams-in-rust/"
+  },
+  {
+    "date": "2021-11-17",
     "title": "Rust Iterator Items An exploration of syntax | estebank.github.io",
     "link": "https://estebank.github.io/rust-iterator-item-syntax.html"
   }

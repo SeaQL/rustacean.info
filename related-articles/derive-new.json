@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-05-08",
     "title": "derive_more - Rust",
     "link": "https://docs.rs/derive_more"
   },
   {
+    "date": "2019-04-23",
     "title": "6 useful Rust macros that you might not have seen before | by Ben | Medium",
     "link": "https://medium.com/@benmcdonald_11671/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5"
   }

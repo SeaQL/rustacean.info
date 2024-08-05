@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2023-07-19",
+    "title": "Tony's Blog",
+    "link": "https://antoniosbarotsis.github.io/posts/simple_rust_macros/"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "SIMD usage in C++, C# and Rust | vkSegfault",
+    "link": "https://vksegfault.github.io/posts/simd-usage-cpp-csharp-rust/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Const Generic Slipstreem | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2021/03/28/const-generic-slipstreem.html"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Simd Library Plans | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/05/08/simd-library-plans.html"
+  },
+  {
+    "date": "2020-04-07",
+    "title": "This month in rustsim #10 (March 2020) · The rustsim organization",
+    "link": "https://www.rustsim.org/blog/2020/04/01/this-month-in-rustsim/"
+  }
+]

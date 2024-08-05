@@ -1,10 +1,17 @@
 [
   {
+    "date": "2022-02-16",
     "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
     "link": "https://nullderef.com/blog/plugin-impl/"
   },
   {
+    "date": "2020-09-23",
     "title": "Rust 2021 Post · GitHub",
     "link": "https://gist.github.com/pickfire/3bcceeacf0bae22dd9f03c5053a976e3"
+  },
+  {
+    "date": "2020-03-24",
+    "title": "Inviting God's Wrath with Cursed Rust",
+    "link": "http://troubles.md/abusing-rustc/"
   }
 ]

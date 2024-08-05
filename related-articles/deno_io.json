@@ -1,37 +1,61 @@
 [
   {
+    "date": "2024-05-29",
     "title": "How We Migrated Our Static Analyzer From Java to Rust | Datadog",
     "link": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"
   },
   {
+    "date": "2023-02-01",
     "title": "We Rewrote Our Project With Rust… and It’s Almost 40X Faster | by The KCL Programming Language | Better Programming",
     "link": "https://medium.com/@xpf6677/40x-faster-we-rewrote-our-project-with-rust-120b006c6abe"
   },
   {
+    "date": "2021-12-29",
+    "title": "Announcing NAPI-RS v2 – NAPI-RS",
+    "link": "https://napi.rs/blog/announce-v2"
+  },
+  {
+    "date": "2021-10-13",
     "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/026/"
   },
   {
+    "date": "2021-09-22",
     "title": "wgpu alliance with Deno - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/09/16/deno-webgpu.html"
   },
   {
+    "date": "2021-05-19",
     "title": "Plugins in Rust: The Technologies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-tech/"
   },
   {
+    "date": "2021-01-20",
+    "title": "Deno in 2020",
+    "link": "https://deno.land/posts/deno-in-2020"
+  },
+  {
+    "date": "2020-11-18",
     "title": "The Big Picture - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
   },
   {
+    "date": "2020-09-23",
+    "title": "Pure AST based linting sucks | RDambrosio",
+    "link": "https://rdambrosio016.github.io/rust/2020/09/18/pure-ast-based-linting-sucks.html"
+  },
+  {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2020-03-31",
     "title": "Reducing tail latencies with automatic cooperative task yielding | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2020-04-preemption/"
   },
   {
+    "date": "2019-08-12",
     "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-08-alphas/"
   }

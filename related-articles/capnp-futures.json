@@ -1,26 +1,22 @@
 [
   {
+    "date": "2022-11-09",
     "title": "0.15 — GATs, CapabilityServerSet, and async packing",
     "link": "https://dwrensha.github.io/capnproto-rust/2022/11/03/0.15-release.html"
   },
   {
+    "date": "2015-08-10",
     "title": "Serde 0.5.0 - Many Many Changes - Chasing Rabbits",
     "link": "https://erickt.github.io/blog/2015/08/07/serde-0-dot-5-0-many-many-changes/"
   },
   {
-    "title": "error handling revisited",
-    "link": "http://dwrensha.github.io/capnproto-rust/2015/03/21/error-handling-revisited.html"
-  },
-  {
+    "date": "2014-12-29",
     "title": "custom mutable reference types",
     "link": "http://dwrensha.github.io/capnproto-rust/2014/12/27/custom-mutable-references.html"
   },
   {
+    "date": "2014-11-17",
     "title": "Rewriting Rust Serialization, Part 2.1: Benchmarks - Chasing Rabbits",
     "link": "http://erickt.github.io/blog/2014/11/11/benchmarks/"
-  },
-  {
-    "title": "benchmark comparison to C++",
-    "link": "http://dwrensha.github.io/capnproto-rust/2013/11/16/benchmark.html"
   }
 ]

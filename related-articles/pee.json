@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2022-02-09",
+    "title": "Crafting A Lox Interpreter In Rust, Part 1 - 💡 Scratching Itches",
+    "link": "https://www.diegofreijo.com/blog/rlox-vm-a-lox-interpreter-in-rust-part-1/"
+  },
+  {
+    "date": "2021-12-22",
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  }
+]

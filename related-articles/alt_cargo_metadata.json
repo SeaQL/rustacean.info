@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-02-08",
+    "title": "Speeding up Rust semver-checking by over 2000x",
+    "link": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "Turning a Rust struct into an enum is not always a major breaking change",
+    "link": "https://predr.ag/blog/turning-rust-struct-to-enum-is-not-always-breaking/"
+  }
+]

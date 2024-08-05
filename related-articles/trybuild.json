@@ -1,17 +1,36 @@
 [
   {
+    "date": "2023-06-14",
+    "title": "Iterating on Testing in Rust",
+    "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
+  },
+  {
+    "date": "2022-10-26",
     "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
   },
   {
+    "date": "2021-12-29",
+    "title": "Procedural Macros: Parsing custom syntax | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-parsing/"
+  },
+  {
+    "date": "2021-10-20",
     "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
   },
   {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
   },
   {
+    "date": "2020-05-27",
     "title": "How to organize your Rust tests - LogRocket Blog",
     "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
   }

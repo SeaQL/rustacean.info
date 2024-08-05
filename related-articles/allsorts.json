@@ -1,13 +1,21 @@
 [
   {
+    "date": "2023-04-05",
     "title": "Building a Classic Mac OS App in Rust - Wesley Moore",
     "link": "https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/"
   },
   {
+    "date": "2023-03-15",
+    "title": "Leveraging Rust and the GPU to render user interfaces at 120 FPS",
+    "link": "https://zed.dev/blog/videogame"
+  },
+  {
+    "date": "2021-07-21",
     "title": "Allsorts Font Shaping Engine 0.6 Release - YesLogic",
     "link": "https://yeslogic.com/blog/allsorts-rust-font-shaping-engine-0-6/"
   },
   {
+    "date": "2020-12-23",
     "title": "Allsorts Font Shaping Engine Year in Review - YesLogic",
     "link": "https://yeslogic.com/blog/allsorts-rust-font-shaping-engine-2020-review/"
   }

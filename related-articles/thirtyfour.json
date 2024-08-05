@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-01-18",
+    "title": "Rails developers write some Rust: a review of Axum 0.6",
+    "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "Web Scraping in Rust with Reqwest and Scraper | ScrapingBee",
+    "link": "https://www.scrapingbee.com/blog/web-scraping-rust/"
+  }
+]

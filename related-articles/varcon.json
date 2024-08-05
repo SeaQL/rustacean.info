@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-11-01",
     "title": "What's new in 1.4.0? | git-cliff",
     "link": "https://git-cliff.org/blog/1.4.0/"
   },
   {
+    "date": "2023-07-19",
     "title": "Generating terminal user interfaces with Ratatui + ChatGPT - Orhun's Blog",
     "link": "https://blog.orhun.dev/ratatui-0-22-0/"
   }

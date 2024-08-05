@@ -1,13 +1,31 @@
 [
   {
+    "date": "2023-08-30",
+    "title": "A JVM in Rust part 5 - Executing instructions · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/"
+  },
+  {
+    "date": "2022-06-22",
     "title": "What it feels like when Rust saves your bacon · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/"
   },
   {
+    "date": "2021-07-28",
     "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
     "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
   },
   {
+    "date": "2021-03-17",
+    "title": "Arenas in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Assorted thoughts on zig (and rust)",
+    "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
+  },
+  {
+    "date": "2018-04-03",
     "title": "A geometric Rust&nbsp;adventure / fuzzy notepad",
     "link": "https://eev.ee/blog/2018/03/30/a-geometric-rust-adventure/"
   }

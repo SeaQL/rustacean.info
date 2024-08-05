@@ -1,9 +1,16 @@
 [
   {
+    "date": "2024-01-31",
     "title": "High performance vector graphic video games | Spencer C. Imbleau’s blog",
     "link": "https://simbleau.github.io/rust/graphics/2023/11/20/using-vello-for-video-games.html"
   },
   {
+    "date": "2023-03-15",
+    "title": "Leveraging Rust and the GPU to render user interfaces at 120 FPS",
+    "link": "https://zed.dev/blog/videogame"
+  },
+  {
+    "date": "2021-05-26",
     "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
     "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
   }

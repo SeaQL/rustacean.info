@@ -1,5 +1,6 @@
 [
   {
+    "date": "2017-05-16",
     "title": "How to write build.rs scripts properly",
     "link": "https://kazlauskas.me/entries/writing-proper-buildrs-scripts.html"
   }

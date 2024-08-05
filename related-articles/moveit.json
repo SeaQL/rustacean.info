@@ -1,9 +1,26 @@
 [
   {
+    "date": "2024-07-03",
+    "title": "Ergonomic Self-Referential Types for Rust",
+    "link": "https://blog.yoshuawuyts.com/self-referential-types/"
+  },
+  {
+    "date": "2024-06-26",
+    "title": "in-place construction seems surprisingly simple?",
+    "link": "https://blog.yoshuawuyts.com/in-place-construction-seems-surprisingly-simple/"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Are we reference yet? C++ references in Rust | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/are-we-reference-yet-c-references-in-rust-72c1c6c7015a"
+  },
+  {
+    "date": "2022-08-03",
     "title": "nt-list: Windows Linked Lists in idiomatic Rust - ColinFinck.de",
     "link": "https://colinfinck.de/posts/nt-list-windows-linked-lists-in-idiomatic-rust/"
   },
   {
+    "date": "2021-04-28",
     "title": "Move Constructors in Rust: Is it possible? · mcyoung",
     "link": "https://mcyoung.xyz/2021/04/26/move-ctors/"
   }

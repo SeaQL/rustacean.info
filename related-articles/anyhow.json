@@ -1,141 +1,356 @@
 [
   {
+    "date": "2024-07-17",
+    "title": "Surprises with Rust's `as` (and Python division) | Anna Hope",
+    "link": "https://annahope.me/blog/rust-as/"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust#service-the-heart-of-hexagonal-architecture"
+  },
+  {
+    "date": "2024-06-26",
+    "title": "The Definitive Guide to Rust Error Handling",
+    "link": "https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust#separation-of-concerns-rust-style"
+  },
+  {
+    "date": "2024-06-12",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust"
+  },
+  {
+    "date": "2024-05-15",
+    "title": "Error Handling for Large Rust Projects - A Deep Dive into GreptimeDB's Practices | Greptime",
+    "link": "https://greptime.com/blogs/2024-05-07-error-rust"
+  },
+  {
+    "date": "2024-02-28",
     "title": "Practical guide to Error Handling in Rust ::\n— A blog about programming, distributed systems and others",
     "link": "https://dev-state.com/posts/error_handling/"
   },
   {
+    "date": "2024-02-14",
+    "title": "Error management in Rust, and libs that support it",
+    "link": "https://blog.frankel.ch/error-management-rust-libs/"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Rust web frameworks have subpar error reporting | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/rust-web-frameworks-have-subpar-error-reporting/"
+  },
+  {
+    "date": "2024-02-07",
     "title": "Nine Rules for Accessing Cloud Files from Your Rust Code | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-accessing-cloud-files-from-your-rust-code-d456c1e2ceb4"
   },
   {
+    "date": "2024-01-03",
+    "title": "avatar.png",
+    "link": "https://tuckersiemens.com/posts/avatar-png/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Printing errors in Rust",
+    "link": "https://heikoseeberger.de/2024-01-01-printing-errors/"
+  },
+  {
+    "date": "2023-11-22",
+    "title": "A JVM in Rust part 8 - Retrospective · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2023/11/a-jvm-in-rust-part-8-retrospective/"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "How I learned to stop worrying and love byte ordering · udoprog",
+    "link": "https://udoprog.github.io/rust/2023-10-28/stop-worrying.html"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Edge IoT with Rust on ESP: Connecting WiFi",
+    "link": "https://apollolabsblog.hashnode.dev/edge-iot-with-rust-on-esp-connecting-wifi"
+  },
+  {
+    "date": "2023-10-04",
     "title": "Rust Vs Go: A Hands-On Comparison",
     "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
   },
   {
+    "date": "2023-09-27",
+    "title": "Google Online Security Blog: Scaling Rust Adoption Through Training",
+    "link": "https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html"
+  },
+  {
+    "date": "2023-04-19",
+    "title": "Modular Errors in Rust - Sabrina Jewson",
+    "link": "https://sabrinajewson.org/blog/errors"
+  },
+  {
+    "date": "2023-02-01",
     "title": "Rust error handling with anyhow - AntoineRR's blog",
     "link": "https://antoinerr.github.io/blog-website/2023/01/28/rust-anyhow.html"
   },
   {
+    "date": "2023-01-18",
     "title": "Zero To Production in Rust book review",
     "link": "https://rusty-ferris.pages.dev/blog/zero-to-production-book-review/"
   },
   {
+    "date": "2022-12-21",
     "title": "Building a Command-Line Application in Rust | www.joshfinnie.com",
     "link": "https://www.joshfinnie.com/blog/a-command-line-application-in-rust/"
   },
   {
+    "date": "2022-10-26",
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Felix' Blog - The Little Joys of Code: Proc Macros",
+    "link": "https://felix-knorr.net/posts/2022-10-14-proc-macros.html"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Using unwrap() in Rust is Okay - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/unwrap/"
+  },
+  {
+    "date": "2022-07-06",
     "title": "More than you've ever wanted to know about errors in Rust",
     "link": "https://www.shuttle.rs/blog/2022/06/30/error-handling"
   },
   {
+    "date": "2022-06-22",
+    "title": "error_stack - Rust",
+    "link": "https://docs.rs/error-stack/latest/error_stack/"
+  },
+  {
+    "date": "2022-06-15",
     "title": "Announcing error-stack – HASH Developer Blog",
     "link": "https://hash.dev/blog/announcing-error-stack"
   },
   {
+    "date": "2022-05-18",
+    "title": "Extending SQLite with Rust - rand[om]",
+    "link": "https://ricardoanderegg.com/posts/extending-sqlite-with-rust/"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Downcasting in Rust | Y. Santos Personal Page",
     "link": "https://ysantos.com/blog/downcast-rust"
   },
   {
+    "date": "2022-01-19",
     "title": "Mapping my walks with OSRM and Rust",
     "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
   },
   {
+    "date": "2022-01-05",
     "title": "12 Rust Tips and Tricks you might not know yet - Federico Terzi - A Software Engineering Journey",
     "link": "https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/"
   },
   {
+    "date": "2021-12-15",
     "title": "Rust Error Handling",
     "link": "https://www.unwoundstack.com/blog/rust-error-handling.html"
   },
   {
+    "date": "2021-11-24",
+    "title": "Error Handling in Rust with Jane Lusby :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/047-jane-lusby/"
+  },
+  {
+    "date": "2021-09-01",
     "title": "Rust Option and Result",
     "link": "https://saidvandeklundert.net/learn/2021-09-01-rust-option-and-result/"
   },
   {
+    "date": "2021-05-19",
     "title": "Error Handling In Rust - A Deep Dive | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/error-handling-rust/"
   },
   {
+    "date": "2021-05-05",
     "title": "Running Rust on Android – suve's ramblings",
     "link": "https://blog.svgames.pl/article/running-rust-on-android"
   },
   {
+    "date": "2021-04-14",
     "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
     "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"
   },
   {
+    "date": "2021-02-17",
+    "title": "ThatGeoGuy - Rust is cool – Enums",
+    "link": "https://thatgeoguy.ca/blog/2021/02/15/rust-is-cool-enums/"
+  },
+  {
+    "date": "2021-01-27",
     "title": "Wrapping errors in Rust",
     "link": "https://edgarluque.com/blog/wrapping-errors-in-rust"
   },
   {
+    "date": "2021-01-20",
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "date": "2021-01-13",
     "title": "parsing baseball files in Rust instead of Python for an 8x speedup! – Greg's Blog",
     "link": "https://gregstoll.wordpress.com/2021/01/10/parsing-baseball-files-in-rust-instead-of-python-for-an-8x-speedup/"
   },
   {
+    "date": "2020-12-2-",
     "title": "Error handling is hard",
     "link": "https://www.fpcomplete.com/blog/error-handling-is-hard/"
   },
   {
+    "date": "2020-12-16",
+    "title": "FFI-Safe Polymorphism: Thin Trait Objects · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/ffi-safe-polymorphism-in-rust/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-11-11",
     "title": "gpg",
     "link": "https://andrewhalle.github.io/build-your-own/gpg"
   },
   {
+    "date": "2020-10-21",
+    "title": "Assorted thoughts on zig (and rust)",
+    "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Study of std::io::Error",
+    "link": "https://matklad.github.io/2020/10/15/study-of-std-io-error.html"
+  },
+  {
+    "date": "2020-10-14",
+    "title": "Rust after the honeymoon – The Observation Deck",
+    "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Throw Away Code | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/09/20/throw-away-code.html"
+  },
+  {
+    "date": "2020-09-23",
     "title": "Marcus' Blog",
     "link": "https://mbuffett.com/posts/rust-less-error-handling/"
   },
   {
+    "date": "2020-09-23",
+    "title": "TL;DR Rust - Xe Iaso",
+    "link": "https://christine.website/blog/TLDR-rust-2020-09-19"
+  },
+  {
+    "date": "2020-09-16",
     "title": "Collecting Data from an API - David MacEachern",
     "link": "https://davidmaceachern.com/posts/collecting-data-from-an-api"
   },
   {
+    "date": "2020-08-04",
     "title": "Beginner's guide to Error Handling in Rust",
     "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
   },
   {
+    "date": "2020-06-30",
     "title": "A practical guide to async in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/a-practical-guide-to-async-in-rust/"
   },
   {
+    "date": "2020-06-23",
     "title": "Kevin K's Blog - Diving into Rust with a CLI",
     "link": "https://kbknapp.dev/rust-cli/"
   },
   {
+    "date": "2020-06-16",
     "title": "Errors in Rust: A Deep Dive :: the halcyon blog",
     "link": "https://www.halcyon.hr/posts/error-handling-in-rust/"
   },
   {
+    "date": "2020-06-02",
+    "title": "Rust as a High Level Language — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2020/05/30/hi.html"
+  },
+  {
+    "date": "2020-05-19",
     "title": "What's New in Rust 1.42 and 1.43 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/014-rust-1.42-1.43/"
   },
   {
+    "date": "2020-05-19",
     "title": "Rust: Structuring and handling errors in 2020 - Nick's Blog and Digital Garden",
     "link": "https://nick.groenen.me/posts/rust-error-handling/"
   },
   {
+    "date": "2020-05-12",
+    "title": "Collecting All the Errors - Rust - tarquin-the-brave",
+    "link": "https://tarquin-the-brave.github.io/blog/posts/collecting-all-the-errors/"
+  },
+  {
+    "date": "2020-05-05",
     "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
     "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
   },
   {
+    "date": "2020-04-29",
+    "title": "Embedded Rust pattern - Zero Sized References  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/zero-sized-references/"
+  },
+  {
+    "date": "2020-04-14",
     "title": "From failure to Fehler",
     "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"
   },
   {
+    "date": "2020-04-07",
     "title": "From failure to Fehler",
     "link": "https://boats.gitlab.io/blog/post/failure-to-fehler/"
   },
   {
+    "date": "2020-02-25",
     "title": "Filtering Duplicates on the Command Line: 30x Faster than sort|uniq | by Karolin Varner | Adobe Tech Blog",
     "link": "https://medium.com/adobetech/filtering-duplicates-on-the-command-line-30x-faster-than-sort-uniq-96ca5f7b4277"
   },
   {
+    "date": "2020-02-25",
+    "title": "Async HTTP",
+    "link": "https://blog.yoshuawuyts.com/async-http/"
+  },
+  {
+    "date": "2019-11-26",
+    "title": "Error Handling Survey",
+    "link": "https://blog.yoshuawuyts.com/error-handling-survey/"
+  },
+  {
+    "date": "2019-11-19",
     "title": "Thoughts on Error Handling in Rust · Lukasʼ Blog",
     "link": "https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html"
   },
   {
+    "date": "2017-09-05",
+    "title": "5 Tips for Writing Small CLI Tools in Rust - Pascal’s Scribbles",
+    "link": "https://deterministic.space/rust-cli-tips.html"
+  },
+  {
+    "date": "2017-01-03",
     "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
     "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
   },
   {
+    "date": "2015-05-18",
     "title": "Error Handling in Rust - Andrew Gallant's Blog",
     "link": "http://blog.burntsushi.net/rust-error-handling/"
   }

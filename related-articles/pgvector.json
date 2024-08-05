@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-01-18",
     "title": "Song search in Rust using OpenAI",
     "link": "https://gigapotential.dev/blog/song-search-in-rust-using-openai/"
   }

@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2020-11-18",
+    "title": "Rust for Modding Smash Ultimate",
+    "link": "https://jam1.re/blog/rust-for-game-modding"
+  },
+  {
+    "date": "2018-11-13",
+    "title": "Things Rust doesn’t let you do. A survey of things that Rust doesn’t… | by Pyry Kontio | Medium",
+    "link": "https://medium.com/@GolDDranks/things-rust-doesnt-let-you-do-draft-f596a3c740a5"
+  },
+  {
+    "date": "2017-07-18",
+    "title": "Non-lexical lifetimes: draft RFC and prototype available · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2017/07/11/non-lexical-lifetimes-draft-rfc-and-prototype-available/"
+  }
+]

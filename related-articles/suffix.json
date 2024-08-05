@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-03-08",
+    "title": "Professional Rustacean, 3 months in – Brian Kung",
+    "link": "https://briankung.dev/2023/02/17/professional-rustacean-3-months-in/"
+  },
+  {
+    "date": "2021-08-18",
     "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
     "link": "https://blog.burntsushi.net/transducers/"
   },
   {
+    "date": "2015-11-16",
     "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
     "link": "http://blog.burntsushi.net/transducers/"
   }

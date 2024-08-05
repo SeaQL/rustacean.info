@@ -1,10 +1,17 @@
 [
   {
+    "date": "2022-10-19",
     "title": "This Month in Rust GameDev #38 - September 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/038/"
   },
   {
+    "date": "2022-05-18",
     "title": "This Month in Rust GameDev #33 - April 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/033/"
+  },
+  {
+    "date": "2021-02-10",
+    "title": "An unsafe tour of Rust’s Send and Sync | nyanpasu64’s blog [OLD]",
+    "link": "https://nyanpasu64.github.io/blog/an-unsafe-tour-of-rust-s-send-and-sync/"
   }
 ]

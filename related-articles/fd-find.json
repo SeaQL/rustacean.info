@@ -1,25 +1,36 @@
 [
   {
-    "title": "Rust and Neovim - A Thorough Guide and Walkthrough | the trait",
-    "link": "https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/"
+    "date": "2023-01-25",
+    "title": "14 Rust Tools for Linux Terminal Dwellers",
+    "link": "https://itsfoss.com/rust-cli-tools/"
   },
   {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   },
   {
+    "date": "2021-10-06",
     "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
     "link": "https://nullderef.com/blog/plugin-dynload/"
   },
   {
+    "date": "2020-11-4-",
     "title": "One Hundred Rust Binaries - Wesley Moore",
     "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
   },
   {
+    "date": "2020-05-27",
+    "title": "Porting k-d forests to Rust - tavianator.com",
+    "link": "https://tavianator.com/porting-k-d-forests-to-rust/"
+  },
+  {
+    "date": "2018-02-27",
     "title": "Oxidizing Fedora: Try Rust and its applications today - Fedora Magazine",
     "link": "https://fedoramagazine.org/oxidizing-fedora-try-rust-applications-today/"
   },
   {
+    "date": "2018-01-09",
     "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
     "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
   }

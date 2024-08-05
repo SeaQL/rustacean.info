@@ -1,21 +1,26 @@
 [
   {
+    "date": "2017-07-25",
     "title": "Introducing Tarpaulin | xd009642",
     "link": "https://xd009642.github.io/2017/07/20/introducing-tarpaulin.html"
   },
   {
+    "date": "2016-06-06",
     "title": "Things you could do with the Rust AST",
     "link": "http://kamalmarhubi.com/blog/2016/06/02/playing-with-the-rust-ast/"
   },
   {
+    "date": "2016-02-29",
     "title": "The highs and lows of Rust | \nJimmy Cuadra",
     "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust/"
   },
   {
+    "date": "2015-11-09",
     "title": "Macros in Rust pt2",
     "link": "http://www.ncameron.org/blog/macros-in-rust-pt2/"
   },
   {
+    "date": "2015-05-04",
     "title": "Racer on Rust Beta!",
     "link": "http://phildawes.net/blog/2015/05/02/racer-on-rust-beta/"
   }

@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-08-31",
     "title": "Diesel 2.0.0",
     "link": "https://diesel.rs/news/2_0_0_release.html"
   },
   {
+    "date": "2017-12-05",
     "title": "Replacing Elasticsearch with Rust and SQLite",
     "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"
   }

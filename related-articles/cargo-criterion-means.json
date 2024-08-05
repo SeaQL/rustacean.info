@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-12-20",
     "title": "Benchmarking Rust Compiler Settings with Criterion | by Carl M. Kadie | Towards Data Science",
     "link": "https://medium.com/towards-data-science/benchmarking-rust-compiler-settings-with-criterion-62db50cd62fb"
   }

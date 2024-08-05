@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-02-17",
     "title": "For the Love of Macros",
     "link": "https://matklad.github.io/2021/02/14/for-the-love-of-macros.html"
   },
   {
+    "date": "2020-10-21",
     "title": "Changelog #47",
     "link": "https://rust-analyzer.github.io/thisweek/2020/10/19/changelog-47.html"
   }

@@ -1,13 +1,16 @@
 [
   {
+    "date": "2020-06-30",
     "title": "xi-editor retrospective | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2019-08-27",
     "title": "Thoughts on Rust bloat | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
   }

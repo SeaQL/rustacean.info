@@ -1,10 +1,27 @@
 [
   {
+    "date": "2024-03-27",
+    "title": "How I reduced (incremental) Rust compile times by up to 40%",
+    "link": "https://www.coderemote.dev/blog/faster-rust-compiler-macro-expansion-caching/"
+  },
+  {
+    "date": "2023-09-20",
     "title": "Open sourcing the Grafbase Engine",
     "link": "https://grafbase.com/blog/open-sourcing-the-grafbase-engine"
   },
   {
+    "date": "2023-03-08",
     "title": "Issue 2",
     "link": "https://rustmagazine.org/issue-2/"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "Getting Started with Seaography | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2022-09-27-getting-started-with-seaography/"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Custom Logging in Rust Using tracing and tracing-subscriber | Bryan Burgers",
+    "link": "https://burgers.io/custom-logging-in-rust-using-tracing"
   }
 ]

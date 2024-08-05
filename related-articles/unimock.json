@@ -1,6 +1,32 @@
 [
   {
+    "date": "2024-03-27",
+    "title": "Unimock 0.6: Mutation patterns - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/unimock-0-6/"
+  },
+  {
+    "date": "2023-05-24",
+    "title": "Mocking in Rust: Mockall and alternatives - LogRocket Blog",
+    "link": "https://blog.logrocket.com/mocking-rust-mockall-alternatives"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "How to write a type-level mock library in Rust - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/how-to-write-a-type-level-mock-library-in-rust/"
+  },
+  {
+    "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2022-11-30",
+    "title": "Unimock 0.4 - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/unimock-0-4/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "The entrait pattern - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/entrait-pattern/"
   }
 ]

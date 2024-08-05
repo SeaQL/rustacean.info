@@ -1,13 +1,26 @@
 [
   {
+    "date": "2024-02-28",
     "title": "Sentry with Arpad Borsos - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e06-sentry/"
   },
   {
+    "date": "2022-03-09",
     "title": "Request coalescing in async Rust",
     "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
   },
   {
+    "date": "2022-01-26",
+    "title": "Non-Lazy Futures Considered Harmful",
+    "link": "https://swatinem.de/blog/non-lazy-futures/"
+  },
+  {
+    "date": "2019-08-12",
+    "title": "Runtime Configuration Reloading | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
+  },
+  {
+    "date": "2016-10-25",
     "title": "Fixing Python Performance with Rust | Product Blog • Sentry",
     "link": "https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html"
   }

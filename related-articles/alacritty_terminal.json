@@ -1,25 +1,51 @@
 [
   {
+    "date": "2024-01-10",
     "title": "Why stdout is faster than stderr? - Orhun's Blog",
     "link": "https://blog.orhun.dev/stdout-vs-stderr/"
   },
   {
+    "date": "2023-08-30",
+    "title": "Interview with Rust and operating system Developer Andy Python - Rust.Careers Rust Blog",
+    "link": "https://blog.rust.careers/post/andy-python-interview/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "14 Rust Tools for Linux Terminal Dwellers",
+    "link": "https://itsfoss.com/rust-cli-tools/"
+  },
+  {
+    "date": "2023-01-11",
     "title": "This Month in Rust OSDev: December 2022 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2022-12/"
   },
   {
+    "date": "2022-08-31",
+    "title": "Ruxel - Building a Ray Tracer with Rust Part 1 | the trait",
+    "link": "https://rsdlt.github.io/posts/ruxel-part-1-rust-ray-tracer-renderer-3d-development/"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "Rust and Neovim - A Thorough Guide and Walkthrough | the trait",
+    "link": "https://rsdlt.github.io/posts/rust-nvim-ide-guide-walkthrough-development-debug/"
+  },
+  {
+    "date": "2021-10-27",
     "title": "Implementing the Health Check API Pattern with Rust | by TJ Maynes | ITNEXT",
     "link": "https://itnext.io/implementing-the-health-check-api-pattern-with-rust-eaef04cb4d2d"
   },
   {
+    "date": "2021-05-05",
     "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
   },
   {
+    "date": "2021-04-21",
     "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
   },
   {
+    "date": "2020-11-4-",
     "title": "One Hundred Rust Binaries - Wesley Moore",
     "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
   }

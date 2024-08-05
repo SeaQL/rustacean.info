@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-07-07",
     "title": "Transpiling A Kernel Module to Rust: The Good, the Bad and the Ugly :: Immunant, Inc",
     "link": "https://immunant.com/blog/2020/06/kernel_modules/"
   }

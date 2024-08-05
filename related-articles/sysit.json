@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-06-30",
     "title": "Cross Compiling Rust Binaries with Github Actions",
     "link": "https://www.rohanjain.in/cargo-cross/"
   }

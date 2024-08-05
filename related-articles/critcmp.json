@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-05-29",
     "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
     "link": "https://bencher.dev/learn/case-study/diesel/"
   },
   {
+    "date": "2022-03-09",
     "title": "Improving Criterion.rs - Tweag",
     "link": "https://www.tweag.io/blog/2022-03-03-criterion-rs/"
   }

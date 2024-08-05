@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-10-06",
     "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
     "link": "https://nullderef.com/blog/plugin-dynload/"
   },
   {
+    "date": "2021-05-26",
     "title": "Routing traffic in Rust using eBPF",
     "link": "https://www.infinyon.com/blog/2021/05/ebpf-routing-rust/"
   }

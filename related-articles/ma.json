@@ -1,0 +1,147 @@
+[
+  {
+    "date": "2024-03-27",
+    "title": "Why choose async/await over threads? – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/why-not-threads/"
+  },
+  {
+    "date": "2024-01-17",
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Announcing smol-macros, smol-hyper and smol-axum – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/new-smol-rs-subcrates/"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "What I Learned Making an embedded-hal Driver in Rust (for the MAX6675 Thermocouple Digitizer) - Barrett's Club",
+    "link": "https://barretts.club/posts/max6675-hal/"
+  },
+  {
+    "date": "2023-12-13",
+    "title": "Exploring the AWS Lambda SDK in Rust | Bradford Hovinen's blog",
+    "link": "https://gruebelinchen.wordpress.com/2023/12/07/exploring-the-aws-lambda-sdk-in-rust/"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "axo blog - System dependencies are hard (so we made them easier)",
+    "link": "https://blog.axo.dev/2023/10/dependencies"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "Pavex, progress report #2: route all the things | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-02/"
+  },
+  {
+    "date": "2023-02-08",
+    "title": "Announcing Masonry 0.1, and my vision for Rust UI · PoignardAzur",
+    "link": "https://poignardazur.github.io/2023/02/02/masonry-01-and-my-vision-for-rust-ui/"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Rust Embedded Graphics with the MAX7219",
+    "link": "https://apollolabsblog.hashnode.dev/rust-embedded-graphics-with-the-max7219"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Platform Agnostic Drivers in Rust: Publishing to Crates.io",
+    "link": "https://apollolabsblog.hashnode.dev/platform-agnostic-drivers-in-rust-publishing-to-cratesio"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Building a gamedev maths library in Rust from scratch – Alex Dixon",
+    "link": "https://www.polymonster.co.uk/blog/maths-rs"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Improving Python S3 Client Performance with Rust | by Joshua Robinson | Medium",
+    "link": "https://joshua-robinson.medium.com/improving-python-s3-client-performance-with-rust-e9639359072f"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
+    "link": "https://nullderef.com/blog/web-api-client/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "The Rust 2021 Experience - Year of the Macro",
+    "link": "https://casualhacks.net/blog/2020-10-05/the-rust-2021-experience-macros/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "State Machines: Introduction",
+    "link": "https://blog.yoshuawuyts.com/state-machines/"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "I Made A Thing: Markedit · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/markedit/"
+  },
+  {
+    "date": "2020-02-04",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-23/"
+  },
+  {
+    "date": "2019-06-04",
+    "title": "Poking the macOS IO Kit with Rust · svartalf",
+    "link": "https://svartalf.info/posts/2019-05-31-poking-the-macos-io-kit-with-rust/"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  },
+  {
+    "date": "2018-11-20",
+    "title": "How to monitor hanging threads in Rust | Programming Servo",
+    "link": "https://medium.com/programming-servo/programming-servo-a-background-hang-monitor-73e89185ce1"
+  },
+  {
+    "date": "2018-08-07",
+    "title": "intl_pluralrules: A Rust Crate for Handling Plural Forms with CLDR Plural Rules – Mozilla L10N",
+    "link": "https://blog.mozilla.org/l10n/2018/08/03/intl_pluralrules-a-rust-crate-for-handling-plural-forms-with-cldr-plural-rules/"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "24 days of Rust - lettre | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-lettre/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - tera | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-tera/"
+  },
+  {
+    "date": "2016-04-04",
+    "title": "gemm: a rabbit hole",
+    "link": "https://bluss.github.io/rust/2016/03/28/a-gemmed-rabbit-hole/"
+  }
+]

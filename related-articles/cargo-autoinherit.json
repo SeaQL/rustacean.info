@@ -1,5 +1,6 @@
 [
   {
+    "date": "2024-03-27",
     "title": "cargo-autoinherit: DRY up your workspace dependencies | Mainmatter",
     "link": "https://mainmatter.com/blog/2024/03/18/cargo-autoinherit/"
   }

@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2024-07-10",
+    "title": "Build with Naz : Rust async in practice tokio::select!, actor pattern &amp; cancel safety | developerlife.com",
+    "link": "https://developerlife.com/2024/07/10/rust-async-cancellation-safety-tokio/"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Build with Naz : Markdown parser in Rust and nom from r3bl_tui | developerlife.com",
+    "link": "https://developerlife.com/2024/06/28/md-parser-rust-from-r3bl-tui/"
+  },
+  {
+    "date": "2024-05-22",
+    "title": "Build with Naz : Rust async, non-blocking, concurrent, parallel, event loops, graceful shutdown | developerlife.com",
+    "link": "https://developerlife.com/2024/05/19/effective-async-rust/"
+  },
+  {
+    "date": "2023-06-14",
+    "title": "Write a Redux library in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/12/rust-redux/"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "Create a simple DSL for CSS like syntax for TUIs | developerlife.com",
+    "link": "https://developerlife.com/2022/08/04/rust-dsl-part-1/"
+  },
+  {
+    "date": "2023-05-17",
+    "title": "Build a grep CLI app in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/02/rust-grep-cli-app/"
+  },
+  {
+    "date": "2023-05-10",
+    "title": "Build a non-binary tree that is thread safe using Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/02/24/rust-non-binary-tree/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "Write code using async/await in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/12/rust-tokio/"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "Guide to Rust procedural macros | developerlife.com",
+    "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"
+  }
+]

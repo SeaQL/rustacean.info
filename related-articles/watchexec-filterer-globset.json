@@ -1,13 +1,26 @@
 [
   {
+    "date": "2024-05-01",
+    "title": "Rust binaries&nbsp;stability - Mirek Długosz personal website",
+    "link": "https://mirekdlugosz.com/blog/2024/rust-binaries-stability/"
+  },
+  {
+    "date": "2023-12-13",
     "title": "cohost! - \"Watchexec Library 3.0 and CLI 1.24\"",
     "link": "https://cohost.org/watchexec/post/3818997-watchexec-library-3"
   },
   {
+    "date": "2022-09-28",
     "title": "Enabling Rapid Pulumi Prototyping with Rust | Pulumi Blog",
     "link": "https://www.pulumi.com/blog/pulumi-watch-mode-with-rust/"
   },
   {
+    "date": "2022-04-06",
+    "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
+  },
+  {
+    "date": "2020-11-4-",
     "title": "One Hundred Rust Binaries - Wesley Moore",
     "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
   }

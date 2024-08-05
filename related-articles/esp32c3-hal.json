@@ -1,33 +1,126 @@
 [
   {
+    "date": "2024-04-17",
+    "title": "Rust on Espressif chips - 12-04-2024",
+    "link": "https://mabez.dev/blog/posts/esp-rust-12-04-2024/"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Rust on Espressif chips - 24-01-2024",
+    "link": "https://mabez.dev/blog/posts/esp-rust-24-01-2024/"
+  },
+  {
+    "date": "2024-01-17",
     "title": "esp-rs Quarterly Planning: Q1 2024 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q1-2024/"
   },
   {
+    "date": "2024-01-17",
+    "title": "Embassy on ESP: UART Echo",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-uart-echo"
+  },
+  {
+    "date": "2023-12-13",
+    "title": "Embassy on ESP: UART Transmitter",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-uart-transmitter"
+  },
+  {
+    "date": "2023-12-06",
+    "title": "Embassy on ESP: GPIO",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-gpio"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Embassy on ESP: Getting Started",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-getting-started"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Rust on Espressif chips - 29-09-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-29-09-2023/"
+  },
+  {
+    "date": "2023-10-11",
     "title": "esp-rs Quarterly Planning: Q4 2023 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q4-2023/"
   },
   {
+    "date": "2023-09-20",
     "title": "The Embedded Rust ESP Development Ecosystem",
     "link": "https://apollolabsblog.hashnode.dev/the-embedded-rust-esp-development-ecosystem"
   },
   {
+    "date": "2023-07-12",
+    "title": "Rust on Espressif chips - 30-06-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-30-06-2023/"
+  },
+  {
+    "date": "2023-07-12",
     "title": "esp-rs Quarterly Planning: Q3 2023 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q3-2023/"
   },
   {
+    "date": "2023-06-28",
+    "title": "ESP32 Embedded Rust at the HAL: Remote Control Peripheral",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-remote-control-peripheral"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "ESP32 Embedded Rust at the HAL: GPIO Interrupts",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-interrupts?ref=twitter-share"
+  },
+  {
+    "date": "2023-05-24",
+    "title": "ESP32 Embedded Rust at the HAL: Timer Ultrasonic Distance Measurement",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-timer-ultrasonic-distance-measurement"
+  },
+  {
+    "date": "2023-05-10",
+    "title": "ESP32 Embedded Rust at the HAL: UART Serial Communication",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-uart-serial-communication?ref=twitter-share"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "Rust on Espressif chips - 28-04-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-28-04-2023/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "ESP32 Embedded Rust at the HAL: Button-Controlled Blinking by Timer Polling",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-button-controlled-blinking-by-timer-polling"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "Rust + Embedded: A Development Power Duo | by Juraj Sadel | The ESP Journal",
+    "link": "https://blog.espressif.com/rust-embedded-a-development-power-duo-db43dae21206"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "ESP32 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-button-controlled-blinking?ref=twitter-share"
+  },
+  {
+    "date": "2023-03-01",
     "title": "Rust on Espressif chips - 2023 Roadmap",
     "link": "https://mabez.dev/blog/posts/esp-rust-24-02-2023/"
   },
   {
+    "date": "2022-10-19",
+    "title": "Rust on Espressif chips - 17-10-2022",
+    "link": "https://mabez.dev/blog/posts/esp-rust-17-10-2022/"
+  },
+  {
+    "date": "2022-07-20",
     "title": "Rust on Espressif chips - 15-07-2022",
     "link": "https://mabez.dev/blog/posts/esp-rust-15-07-2022/"
   },
   {
+    "date": "2022-07-13",
     "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
     "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
   },
   {
+    "date": "2022-04-06",
     "title": "Rust on Espressif chips - 04-04-2022",
     "link": "https://mabez.dev/blog/posts/esp-rust-04-04-2022/"
   }

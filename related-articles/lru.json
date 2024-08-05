@@ -1,5 +1,6 @@
 [
   {
+    "date": "2024-02-14",
     "title": "Design safe collection API with compile-time reference stability in Rust - COCl2's blog home",
     "link": "https://blog.cocl2.com/posts/rust-ref-stable-collection/"
   }

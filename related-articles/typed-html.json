@@ -1,13 +1,16 @@
 [
   {
+    "date": "2023-02-08",
     "title": "Using HTML as a compile target",
     "link": "https://blog.yoshuawuyts.com/compiled-html/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2019-03-19",
     "title": "Fast, Bump-Allocated Virtual DOMs with Rust and Wasm - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2019/03/fast-bump-allocated-virtual-doms-with-rust-and-wasm/"
   }

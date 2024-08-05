@@ -1,113 +1,141 @@
 [
   {
+    "date": "2024-05-29",
     "title": "Fyrox Game Engine 0.34 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/fyrox-game-engine-0-34/"
   },
   {
+    "date": "2024-01-31",
     "title": "Fyrox Game Engine 0.33 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/fyrox-game-engine-0-33/"
   },
   {
+    "date": "2023-09-06",
     "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/048/"
   },
   {
+    "date": "2023-07-26",
     "title": "Fyrox Game Engine 0.31 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/fyrox-game-engine-0-31/"
   },
   {
+    "date": "2023-06-14",
     "title": "Fyrox Game Engine 0.30 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/fyrox-game-engine-0-30/"
   },
   {
+    "date": "2023-05-03",
     "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/044/"
   },
   {
+    "date": "2023-03-15",
     "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/043/"
   },
   {
+    "date": "2023-03-01",
     "title": "This Month in Rust GameDev #42 - January 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/042/"
   },
   {
+    "date": "2023-03-01",
     "title": "This Week in Fyrox #16 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif16/"
   },
   {
+    "date": "2023-02-01",
     "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/041/"
   },
   {
+    "date": "2023-01-25",
     "title": "This Week in Fyrox #11 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif11/"
   },
   {
+    "date": "2023-01-18",
     "title": "This Week in Fyrox #10 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif10/"
   },
   {
+    "date": "2023-01-11",
     "title": "Fyrox 0.29 Feature Highlights | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/feature-highlights-0-29/"
   },
   {
+    "date": "2023-01-04",
     "title": "This Week in Fyrox #9 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif9/"
   },
   {
+    "date": "2022-12-28",
     "title": "This Week in Fyrox #8 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif8/"
   },
   {
+    "date": "2022-12-21",
     "title": "This Month in Rust GameDev #40 - November 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/040/"
   },
   {
+    "date": "2022-12-07",
     "title": "This Week in Fyrox #5 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif5/"
   },
   {
+    "date": "2022-11-30",
     "title": "This Week in Fyrox #4 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif4/"
   },
   {
+    "date": "2022-11-23",
     "title": "This Week in Fyrox #3 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif3/"
   },
   {
+    "date": "2022-11-16",
     "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/039/"
   },
   {
+    "date": "2022-11-16",
     "title": "This Week in Fyrox #2 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif2/"
   },
   {
+    "date": "2022-11-09",
     "title": "This Week in Fyrox #1 | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/twif/"
   },
   {
+    "date": "2022-10-12",
     "title": "Fyrox 0.28 Feature Highlights | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/feature-highlights-0-28/"
   },
   {
+    "date": "2022-09-07",
     "title": "Fyrox with Dmitry Stepanov :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/dmitry-stepanov/"
   },
   {
+    "date": "2022-08-10",
     "title": "Fyrox 0.27 Feature Highlights | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/feature-highlights-0-27/"
   },
   {
+    "date": "2022-07-13",
     "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/035/"
   },
   {
+    "date": "2022-06-08",
     "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/034/"
   },
   {
+    "date": "2022-05-18",
     "title": "Fyrox 0.25 Feature Highlights | Fyrox - A feature-rich game engine built in Rust",
     "link": "https://fyrox.rs/blog/post/feature-highlights-0-25/"
   }

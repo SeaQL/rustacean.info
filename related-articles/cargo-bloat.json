@@ -1,49 +1,61 @@
 [
   {
+    "date": "2024-01-31",
     "title": "Where Does the Time Go? Rust's Problem with Slow Compiles - The New Stack",
     "link": "https://thenewstack.io/where-does-the-time-go-rusts-problem-with-slow-compiles/"
   },
   {
+    "date": "2022-06-15",
     "title": "This Week in Rust - Issue 444 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/twir-444/"
   },
   {
+    "date": "2021-09-22",
     "title": "Okno's blog",
     "link": "https://oknozor.github.io/blog/optimize-rust-binary-size/"
   },
   {
+    "date": "2020-08-25",
     "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/defmt/"
   },
   {
+    "date": "2020-08-18",
     "title": "Colin Woodbury - Software Development Languages: Rust",
     "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
   },
   {
+    "date": "2020-06-23",
     "title": "Managing Rust bloat with Github Actions",
     "link": "https://tomforb.es/managing-rust-bloat-with-github-actions/"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2020-06-16",
     "title": "BlogWerx: The Rust compiler isn't slow; we are.",
     "link": "https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html"
   },
   {
+    "date": "2020-04-29",
     "title": "Reducing the size of a Rust GStreamer plugin",
     "link": "https://www.collabora.com/news-and-blog/blog/2020/04/28/reducing-size-rust-gstreamer-plugin/"
   },
   {
+    "date": "2019-12-17",
     "title": "James Munns",
     "link": "https://jamesmunns.com/blog/fmt-unreasonably-expensive/"
   },
   {
+    "date": "2019-08-27",
     "title": "Thoughts on Rust bloat | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
   },
   {
+    "date": "2018-05-22",
     "title": "Migrating to Actix Web from Rocket for Stability",
     "link": "https://nbsoftsolutions.com/blog/migrating-to-actix-web-from-rocket-for-stability"
   }

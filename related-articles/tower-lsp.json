@@ -1,17 +1,26 @@
 [
   {
+    "date": "2024-02-14",
     "title": "Rust in Production: Interview with FOSSA",
     "link": "https://serokell.io/blog/rust-in-production-fossa"
   },
   {
+    "date": "2023-07-26",
     "title": "tower - Rust",
     "link": "https://docs.rs/tower"
   },
   {
+    "date": "2022-03-23",
     "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
     "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
   },
   {
+    "date": "2022-01-12",
+    "title": "How we built a VS Code extension with Rust, WebAssembly, and TypeScript",
+    "link": "https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript"
+  },
+  {
+    "date": "2021-12-22",
     "title": "Rust in Production: Astropad",
     "link": "https://serokell.io/blog/rust-in-production-astropad"
   }

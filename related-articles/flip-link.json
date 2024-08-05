@@ -1,17 +1,66 @@
 [
   {
+    "date": "2024-03-20",
     "title": "The Embedded Rustacean Issue #15",
     "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"
   },
   {
+    "date": "2022-02-09",
+    "title": "Knurling-rs changelog #33  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-33/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "Knurling-rs changelog #32  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-32/"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Knurling-rs changelog #30  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-30/"
+  },
+  {
+    "date": "2021-07-07",
+    "title": "Knurling-rs changelog #28  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-28/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "Knurling-rs changelog #24  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-24/"
+  },
+  {
+    "date": "2021-05-05",
     "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
   },
   {
+    "date": "2021-04-21",
+    "title": "Knurling-rs changelog #23  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-23/"
+  },
+  {
+    "date": "2020-12-2-",
+    "title": "Knurling-rs changelog #8  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-8/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Knurling-rs changelog #10  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-10/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "Knurling-rs changelog #6  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-6/"
+  },
+  {
+    "date": "2020-10-28",
     "title": "Knurling-rs changelog #3  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/knurling-changelog-3/"
   },
   {
+    "date": "2020-09-23",
     "title": "Knurling-rs changelog #1  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/knurling-changelog-1/"
   }

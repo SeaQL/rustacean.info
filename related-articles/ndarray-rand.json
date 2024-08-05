@@ -1,25 +1,66 @@
 [
   {
+    "date": "2022-06-22",
+    "title": "Ernest Kissiedu on the DevX Initiative by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Ernest-Kissiedu-on-the-DevX-Initiative-e1k3cs4"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Nick Cameron on Juggling Open Source Work and Parenthood by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Nick-Cameron-on-Juggling-Open-Source-Work-and-Parenthood-e1fhfc7"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
     "link": "https://tinkering.xyz/fmo-optimization-story/"
   },
   {
+    "date": "2022-02-09",
+    "title": "Josh Triplett on Building the Build System of his Dreams by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Josh-Triplett-on-Building-the-Build-System-of-his-Dreams-e1dt81c"
+  },
+  {
+    "date": "2021-09-22",
     "title": "Rust Code Coverage with Daniel McKenna :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/037-daniel-mckenna/"
   },
   {
+    "date": "2021-06-09",
+    "title": "Ralf Jung on GhostCell and Working as a PL Researcher by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Building-with-Rust-Ralf-Jung-on-GhostCell-and-Working-as-a-PL-Researcher-e12auje"
+  },
+  {
+    "date": "2021-04-14",
     "title": "Using Rust for Scientific Numerical applications: Learning from Past Experiences | by Felipe | Netherlands eScience Center",
     "link": "https://blog.esciencecenter.nl/using-rust-for-scientific-numerical-applications-learning-from-past-experiences-798665d9f9f0"
   },
   {
+    "date": "2021-04-14",
+    "title": "Tim McNamara on Rust in Action by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Building-with-Rust-Tim-McNamara-on-Rust-in-Action-eugoal/a-a1ptlh"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Luca Palmieri on TrueLayer and Zero to Production by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Building-with-Rust-Luca-Palmieri-on-TrueLayer-and-Zero-to-Production-eq9rqs"
+  },
+  {
+    "date": "2019-08-27",
     "title": "Polsim - a case study for small-scale scientific computing in Rust · Tinkering",
     "link": "https://tinkering.xyz/polsim/"
   },
   {
+    "date": "2019-07-30",
+    "title": "Python vs Rust for Neural Networks | Nathan Goldbaum",
+    "link": "https://ngoldbaum.github.io/posts/python-vs-rust-nn/"
+  },
+  {
+    "date": "2019-05-14",
     "title": "The State of Machine Learning in Rust - Ehsan's Blog",
     "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
   },
   {
+    "date": "2019-02-26",
     "title": "Rust Vectors | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/"
   }

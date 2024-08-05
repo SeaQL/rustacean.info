@@ -1,246 +1,392 @@
 [
   {
+    "date": "2024-07-24",
+    "title": "Slint 1.7 Released with New Widgets, Multi-Window Support, and Live-Preview Redesign — Slint Blog",
+    "link": "https://slint.dev/blog/slint-1.7-released"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "Slint 1.5: Embracing Android, Improving Live-Preview, and introducing Pythonic Slint — Slint Blog",
+    "link": "https://slint.dev/blog/slint-1.5-released"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "Slint 1.4 Released with additional Look and Improved APIs — Slint Blog",
+    "link": "https://slint.dev/blog/slint-1.4-released"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "2023: Slint in Review — Slint Blog",
+    "link": "https://slint.dev/blog/2023-in-review"
+  },
+  {
+    "date": "2023-11-15",
+    "title": "Slint 1.3 Released with Revamped Native Styles and JavaScript API — Slint Blog",
+    "link": "https://slint.dev/blog/slint-1.3-released"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Slint 1.2 Released with Enhanced Platform Abstraction — Slint Blog",
+    "link": "https://slint.dev/blog/slint-1.2-released"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Slint 1.1 Released with additional Royalty-Free License — Slint Blog",
+    "link": "https://slint.dev/blog/slint-1.1-released"
+  },
+  {
+    "date": "2023-05-03",
     "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
     "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
   },
   {
+    "date": "2023-04-05",
+    "title": "Slint 1.0: The Next-Generation Native GUI Toolkit Matures — Slint Blog",
+    "link": "https://slint-ui.com/blog/announcing-slint-1.0.html"
+  },
+  {
+    "date": "2023-03-29",
     "title": "How we built our Embedded World Demo on Rust for QNX  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/how-we-built-our-embedded-world-demo-on-rust-for-qnx/"
   },
   {
+    "date": "2023-02-08",
     "title": "FOSDEM 2023 - Slint: Are we GUI yet?",
     "link": "https://fosdem.org/2023/schedule/event/rust_slint_are_we_gui_yet/"
   },
   {
+    "date": "2023-01-25",
+    "title": "Slint 0.3.4 Released — Slint Blog",
+    "link": "https://slint-ui.com/blog/slint-0.3.4-released.html"
+  },
+  {
+    "date": "2022-12-21",
     "title": "12th to 18th of December 2022 - 0.3.3 Release — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-12-19.html"
   },
   {
+    "date": "2022-11-30",
     "title": "21st to 27th of November 2022 ‒ 0.3.2 Release — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-11-28.html"
   },
   {
+    "date": "2022-11-16",
+    "title": "Rust and C++ Interoperability — Slint Blog",
+    "link": "https://slint-ui.com/blog/rust-and-cpp.html"
+  },
+  {
+    "date": "2022-11-02",
     "title": "24th of October 2022 to 30th of October 2022 ‒ 0.3.1 Release — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-10-31.html"
   },
   {
+    "date": "2022-09-14",
     "title": "5th of September 2022 to 11th of September 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-09-12.html"
   },
   {
+    "date": "2022-09-07",
     "title": "29th of August 2022 to 4th of September 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-09-05.html"
   },
   {
+    "date": "2022-08-31",
     "title": "22nd of August 2022 to 28th of August 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-08-29.html"
   },
   {
+    "date": "2022-08-24",
     "title": "15th of August 2022 to 21st of August 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-08-22.html"
   },
   {
+    "date": "2022-08-03",
     "title": "25th of July 2022 to 31st of July 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-08-01.html"
   },
   {
+    "date": "2022-07-27",
     "title": "18th of July 2022 to 24th of July 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-07-25.html"
   },
   {
+    "date": "2022-07-20",
     "title": "11th of July 2022 to 17th of July 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-07-18.html"
   },
   {
+    "date": "2022-07-13",
     "title": "4th of July 2022 to 10th of July 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-07-11.html"
   },
   {
+    "date": "2022-07-06",
     "title": "27th of June 2022 to 3rd of July 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-07-04.html"
   },
   {
+    "date": "2022-06-22",
     "title": "13th of June 2022 to 19th of June 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-06-20.html"
   },
   {
+    "date": "2022-06-15",
     "title": "6th of June 2022 to 12th of June 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-06-13.html"
   },
   {
+    "date": "2022-06-08",
     "title": "30th of May 2022 to 5th of June 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-06-06.html"
   },
   {
+    "date": "2022-06-01",
     "title": "23rd of May 2022 to 29th of May 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-05-30.html"
   },
   {
+    "date": "2022-05-25",
     "title": "16th of May 2022 to 22nd of May 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-05-23.html"
   },
   {
+    "date": "2022-05-25",
+    "title": "Careers",
+    "link": "https://slint-ui.com/careers.html"
+  },
+  {
+    "date": "2022-05-18",
     "title": "9th of May 2022 to 15th of May 2022 - 0.2.4 Release — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-05-16.html"
   },
   {
+    "date": "2022-05-11",
     "title": "2nd of May 2022 to 8th of May 2022 - Release 0.2.2 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-05-09.html"
   },
   {
+    "date": "2022-05-04",
     "title": "25th of April 2022 to 2nd of May 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-05-02.html"
   },
   {
+    "date": "2022-04-27",
     "title": "18th of April 2022 to 24th of April 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-04-25.html"
   },
   {
+    "date": "2022-04-20",
     "title": "11th of April 2022 to 17th of April 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-04-18.html"
   },
   {
+    "date": "2022-04-13",
     "title": "4th of April 2022 to 10th of April 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-04-11.html"
   },
   {
+    "date": "2022-04-06",
     "title": "29th of March 2022 to 4th of April 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-04-05.html"
   },
   {
+    "date": "2022-03-30",
     "title": "21st of March 2022 to 27th of March 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-03-28.html"
   },
   {
+    "date": "2022-03-23",
     "title": "14th of March 2022 to 20th of March 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-03-21.html"
   },
   {
+    "date": "2022-03-16",
     "title": "7th of March 2022 to 13th of March 2022 ‒ 0.2.1 Release — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-03-14.html"
   },
   {
+    "date": "2022-03-02",
     "title": "21th of February 2022 to 27th of February 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-02-28.html"
   },
   {
+    "date": "2022-03-02",
+    "title": "Rust: Adding default cargo features without breaking Semantic Versioning — Slint Blog",
+    "link": "https://slint-ui.com/blog/rust-adding-default-cargo-feature.html"
+  },
+  {
+    "date": "2022-02-23",
     "title": "7th of February 2022 to 20th of February 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-02-21.html"
   },
   {
+    "date": "2022-02-16",
     "title": "Grafische User-Interfaces: SixtyFPS-Toolkit aus Berlin als Slint überarbeitet | heise online",
     "link": "https://www.heise.de/news/UI-Toolkit-aus-Berlin-SixtyFPS-heisst-nun-Slint-6443665.html"
   },
   {
+    "date": "2022-02-16",
+    "title": "SixtyFPS becomes Slint — Slint Blog",
+    "link": "https://slint-ui.com/blog/sixtyfps-becomes-slint.html"
+  },
+  {
+    "date": "2022-02-09",
     "title": "31st of January 2022 to 6th of February 2022 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2022-02-07.html"
   },
   {
+    "date": "2022-02-02",
     "title": "24th of January 2022 to 30th of January 2022 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2022-01-31.html"
   },
   {
+    "date": "2022-01-26",
     "title": "17th of January 2022 to 23rd of January 2022 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2022-01-24.html"
   },
   {
+    "date": "2022-01-19",
     "title": "10th of January 2022 to 16th of January 2022 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2022-01-17.html"
   },
   {
+    "date": "2022-01-12",
     "title": "3rd of January 2022 to 9th of January 2022 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2022-01-10.html"
   },
   {
+    "date": "2022-01-05",
     "title": "20th of December 2021 to 2nd of January 2022 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2022-01-03.html"
   },
   {
+    "date": "2021-12-29",
+    "title": "2021 in review — Slint Blog",
+    "link": "https://sixtyfps.io/blog/2021-in-review.html"
+  },
+  {
+    "date": "2021-12-22",
     "title": "13th of December 2021 to 19th of December 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-12-20.html"
   },
   {
+    "date": "2021-12-15",
     "title": "6th of December 2021 to 12th of December 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-12-13.html"
   },
   {
+    "date": "2021-12-08",
     "title": "29th of November 2021 to 5th of December 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-12-06.html"
   },
   {
+    "date": "2021-12-01",
     "title": "22nd of November 2021 to 28th of November 2021 ‒ 0.1.5 Release — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-11-29.html"
   },
   {
+    "date": "2021-11-24",
     "title": "15th of November 2021 to 21st of November 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-11-22.html"
   },
   {
+    "date": "2021-11-17",
     "title": "8th of November 2021 to 14th of November 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-11-15.html"
   },
   {
+    "date": "2021-11-10",
     "title": "1st of November 2021 to 7th of November 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-11-08.html"
   },
   {
+    "date": "2021-11-03",
     "title": "25th of October 2021 to 31st of October 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-11-01.html"
   },
   {
+    "date": "2021-10-27",
     "title": "18th of October 2021 to 24th of October 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-10-25.html"
   },
   {
+    "date": "2021-10-20",
     "title": "11th of October 2021 to 17th of October 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-10-18.html"
   },
   {
+    "date": "2021-10-13",
     "title": "4th of October to 10th of October 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-10-11.html"
   },
   {
+    "date": "2021-10-06",
     "title": "27th of September to 3rd of October 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-10-04.html"
   },
   {
+    "date": "2021-09-29",
     "title": "20th of September to 26th of September 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-09-27.html"
   },
   {
+    "date": "2021-09-22",
     "title": "13th of September to 19th of September 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-09-20.html"
   },
   {
+    "date": "2021-09-15",
     "title": "6th of September to 12th of September 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-09-13.html"
   },
   {
+    "date": "2021-09-08",
     "title": "30th of August to 5th of September 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-09-06.html"
   },
   {
+    "date": "2021-09-01",
     "title": "23rd of August to 29th of August 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-08-30.html"
   },
   {
+    "date": "2021-08-25",
     "title": "16th of August to 22nd of August 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-08-23.html"
   },
   {
+    "date": "2021-08-25",
+    "title": "Announcing SixtyFPS 0.1 — Slint Blog",
+    "link": "https://sixtyfps.io/blog/announcing-sixtyfps-0.1.html"
+  },
+  {
+    "date": "2021-08-18",
     "title": "9th of August to 15th of August 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-08-16.html"
   },
   {
+    "date": "2021-08-10",
     "title": "1st of August to 8th of August 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-08-09.html"
   },
   {
+    "date": "2021-08-04",
     "title": "25th of July to 1st of August 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-08-02.html"
   },
   {
+    "date": "2021-07-21",
     "title": "Introducing cargo-ui, a GUI for cargo — Slint Blog",
     "link": "https://sixtyfps.io/blog/introducing-cargo-ui.html"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "Expose a Rust Library to Other Languages — Slint Blog",
+    "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Learn SixtyFPS: Memory Game Tutorial (Rust) — Slint Blog",
+    "link": "https://sixtyfps.io/blog/memory-game-tutorial.html"
   }
 ]

@@ -1,6 +1,12 @@
 [
   {
+    "date": "2020-09-30",
     "title": "Benchmarking vol. 2: Pitting Actix against Rocket v0.4 and v0.5-dev – Matěj Laitl a.k.a. strohel – Technical Blog",
     "link": "https://matej.laitl.cz/bench-actix-rocket/"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "What I Learnt from Benchmarking Http4k, Ktor (Kotlin) and Actix v2, v3 (Rust) Microservices – Matěj Laitl a.k.a. strohel – Technical Blog",
+    "link": "https://matej.laitl.cz/bench-rust-kotlin-microservices/"
   }
 ]

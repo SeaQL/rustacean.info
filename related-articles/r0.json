@@ -1,10 +1,17 @@
 [
   {
+    "date": "2021-12-29",
     "title": "Rust Embedded Working Group",
     "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
   },
   {
+    "date": "2020-11-18",
     "title": "The C Standard Library Is Not Dependency Free :: prilik's blog",
     "link": "https://prilik.com/blog/post/c-is-not-dependency-free/"
+  },
+  {
+    "date": "2019-12-17",
+    "title": "From Zero to main(): Bare metal Rust | Interrupt",
+    "link": "https://interrupt.memfault.com/blog/zero-to-main-rust-1"
   }
 ]

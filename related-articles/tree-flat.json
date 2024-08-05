@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-03-02",
     "title": "El malabarista - TreeFlat: Building a (possible) faster tree for Rust, inspired by APL",
     "link": "https://www.elmalabarista.com/blog/2022-flat-tree/"
   }

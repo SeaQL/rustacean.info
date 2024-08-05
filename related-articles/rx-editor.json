@@ -1,10 +1,17 @@
 [
   {
+    "date": "2021-09-08",
     "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/025/"
   },
   {
+    "date": "2020-04-21",
     "title": "wgpu-rs on the web - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2020/04/21/wgpu-web.html"
+  },
+  {
+    "date": "2019-10-01",
+    "title": "Project update - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2019/10/01/update.html"
   }
 ]

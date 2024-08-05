@@ -1,42 +1,77 @@
 [
   {
+    "date": "2024-05-29",
     "title": "Wasmi's New Execution Engine - Faster Than Ever | Wasmi Labs",
     "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/"
   },
   {
+    "date": "2022-03-09",
+    "title": "WebAssembly-Runtime: Wasmer 2.2 liefert mehr Leistung im Singlepass Compiler | heise online",
+    "link": "https://www.heise.de/news/WebAssembly-Runtime-Wasmer-2-2-liefert-mehr-Leistung-im-Singlepass-Compiler-6533165.html"
+  },
+  {
+    "date": "2022-03-02",
     "title": "Wasmer 2.2: Major Singlepass Improvements · Blog · Wasmer",
     "link": "https://wasmer.io/posts/wasmer-2.2"
   },
   {
+    "date": "2021-12-15",
     "title": "y|sndr - Rust as a platform for IoT",
     "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
   },
   {
+    "date": "2021-12-01",
     "title": "Wasmer 2.1 · Blog · Wasmer",
     "link": "https://wasmer.io/posts/wasmer-2.1"
   },
   {
+    "date": "2021-09-08",
+    "title": "Plugins in Rust: Getting Started | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-start/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Postgres Extensions in Rust | Depth-First",
+    "link": "https://depth-first.com/articles/2021/08/25/postgres-extensions-in-rust/"
+  },
+  {
+    "date": "2021-08-18",
     "title": "Paul Butler – Calling WebAssembly from Rust",
     "link": "https://paulbutler.org/2021/calling-webassembly-from-rust/"
   },
   {
+    "date": "2021-07-21",
     "title": "Novel way to Develop, Test and Document C libraries from Rust · Blog · Wasmer",
     "link": "https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust"
   },
   {
+    "date": "2021-06-16",
     "title": "Wasmer 2.0, It's a big deal! · Blog · Wasmer",
     "link": "https://wasmer.io/posts/wasmer-2.0"
   },
   {
+    "date": "2021-05-19",
     "title": "Plugins in Rust: The Technologies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-tech/"
   },
   {
+    "date": "2020-08-11",
+    "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"
+  },
+  {
+    "date": "2019-12-17",
     "title": "WebAssembly as a Platform for Abstraction · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/wasm-as-a-platform-for-abstraction/"
   },
   {
+    "date": "2019-01-29",
     "title": "Embedding WebAssembly in your Rust application | by Brandon Fish | Wasmer | Medium",
     "link": "https://medium.com/wasmer/executing-webassembly-in-your-rust-application-d5cd32e8ce46"
+  },
+  {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
   }
 ]

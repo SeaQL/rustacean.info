@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2022-03-09",
+    "title": "What's New in Rust 1.58 and 1.59 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/058-rust-1.58-1.59/"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "What I Learnt from Benchmarking Http4k, Ktor (Kotlin) and Actix v2, v3 (Rust) Microservices – Matěj Laitl a.k.a. strohel – Technical Blog",
+    "link": "https://matej.laitl.cz/bench-rust-kotlin-microservices/"
+  }
+]

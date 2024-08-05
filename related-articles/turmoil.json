@@ -1,5 +1,16 @@
 [
   {
+    "date": "2023-07-12",
+    "title": "bridging fuzzing and property testing",
+    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Rust-Framework: Turmoil testet verteilte Systeme | heise online",
+    "link": "https://www.heise.de/news/Rust-Framework-Turmoil-testet-verteilte-Systeme-7449772.html"
+  },
+  {
+    "date": "2023-01-11",
     "title": "Announcing turmoil | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2023-01-03-announcing-turmoil"
   }

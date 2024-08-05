@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2021-10-06",
+    "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-dynload/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "libbpf-rs: eBPF for the Rust ecosystem",
+    "link": "https://dxuuu.xyz/libbpf-rs.html"
+  }
+]

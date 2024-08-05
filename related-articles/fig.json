@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-12-20",
+    "title": "Getting Started with Rocket in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/12/13/using-rocket-rust"
+  },
+  {
+    "date": "2023-11-22",
+    "title": "Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets, &amp; So Much More - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5/news/2023-11-17-version-0.5/"
+  }
+]

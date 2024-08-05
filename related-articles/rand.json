@@ -1,105 +1,211 @@
 [
   {
+    "date": "2024-07-10",
     "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
     "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"
   },
   {
+    "date": "2024-07-10",
+    "title": "Bevy 0.14",
+    "link": "https://bevyengine.org/news/bevy-0-14/"
+  },
+  {
+    "date": "2024-06-05",
     "title": "On Dependency Usage in Rust | lander's posts",
     "link": "https://landaire.net/on-dependency-usage-in-rust/"
   },
   {
+    "date": "2024-05-08",
+    "title": "How hard can generating 1024-bit primes really be? |\nglitchcomet",
+    "link": "https://glitchcomet.com/articles/1024-bit-primes/"
+  },
+  {
+    "date": "2024-04-10",
+    "title": "Bevy 0.13.2, Curves, Gizmos, and Games",
+    "link": "https://thisweekinbevy.com/issue/2024-04-08-bevy-0-13-2-curves-gizmos-and-games"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "Kani Internship Projects 2022: Function Stubbing | Kani Rust Verifier Blog",
+    "link": "https://model-checking.github.io/kani-verifier-blog/2023/02/28/kani-internship-projects-2022-stubbing.html"
+  },
+  {
+    "date": "2023-01-18",
     "title": "Youmu | Finding Nice MD5s Using Rust",
     "link": "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
   },
   {
+    "date": "2023-01-04",
     "title": "Zero-dependency random number generation in Rust - Orhun's Blog",
     "link": "https://blog.orhun.dev/zero-deps-random-in-rust"
   },
   {
+    "date": "2022-11-09",
+    "title": "Floating Point Arcade · GitHub",
+    "link": "https://gist.github.com/CrockAgile/09065649ae5a52629599ebc5645922d6"
+  },
+  {
+    "date": "2022-09-07",
+    "title": "Interview Question: Select a Random Line from a File (in Rust) | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/interview-question-select-a-random-line-from-a-file-in-rust-c0a8cddcddfb"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Building an authentication system in Rust using session tokens",
+    "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
+  },
+  {
+    "date": "2022-06-01",
+    "title": "Impl-tools: beyond derive - KAS blog",
+    "link": "https://kas-gui.github.io/blog/impl-tools.html"
+  },
+  {
+    "date": "2022-04-06",
     "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
     "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
   },
   {
+    "date": "2022-02-02",
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
+  },
+  {
+    "date": "2022-01-26",
     "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
     "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
   },
   {
+    "date": "2021-12-15",
     "title": "How not to learn Rust",
     "link": "https://dystroy.org/blog/how-not-to-learn-rust/"
   },
   {
+    "date": "2021-07-28",
+    "title": "diceroller, a sample Rust project",
+    "link": "https://blog.frankel.ch/start-rust/8/"
+  },
+  {
+    "date": "2021-04-21",
     "title": "How I Implemented /dev/printerfact in Rust - Xe Iaso",
     "link": "https://christine.website/blog/dev-printerfact-2021-04-17"
   },
   {
+    "date": "2021-03-24",
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 3) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt3/"
+  },
+  {
+    "date": "2021-02-24",
     "title": "Python cryptography, Rust, and Gentoo [LWN.net]",
     "link": "https://lwn.net/Articles/845535/"
   },
   {
+    "date": "2021-02-17",
     "title": "Smerity.com: Zero dependency images (of chaos) in Rust",
     "link": "https://state.smerity.com/smerity/state/01EYB6YQ5T2KFSC1PF55A3B8DG"
   },
   {
+    "date": "2021-02-03",
     "title": "Learning to Fly: Let's simulate evolution in Rust (pt 2) | pwy.io",
     "link": "https://pwy.io/en/posts/learning-to-fly-pt2/"
   },
   {
+    "date": "2021-01-06",
     "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
   },
   {
+    "date": "2020-12-23",
     "title": "Three things I wish I’d known learning Rust · Graham King",
     "link": "https://www.darkcoding.net/software/three-things-i-wish-id-known-learning-rust/"
   },
   {
+    "date": "2020-11-18",
+    "title": "Rust for Modding Smash Ultimate",
+    "link": "https://jam1.re/blog/rust-for-game-modding"
+  },
+  {
+    "date": "2020-10-28",
     "title": "Rust from a Gopher - Lesson 2 - LevPaul88's Place",
     "link": "https://levpaul.com/posts/rust-lesson-2/"
   },
   {
+    "date": "2020-10-14",
     "title": "Let's Build Snake with Rust",
     "link": "https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html"
   },
   {
+    "date": "2020-07-21",
     "title": "Clear explanation of Rust’s module system",
     "link": "http://www.sheshbabu.com/posts/rust-module-system/"
   },
   {
+    "date": "2020-05-05",
     "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
     "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
   },
   {
+    "date": "2020-04-21",
+    "title": "Testing sync at Dropbox - Dropbox",
+    "link": "https://dropbox.tech/infrastructure/-testing-our-new-sync-engine"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Rewriting m4vgalib in Rust - Cliffle",
+    "link": "http://cliffle.com/blog/m4vga-in-rust/"
+  },
+  {
+    "date": "2019-10-01",
     "title": "Plugins in Rust · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/plugins-in-rust/"
   },
   {
+    "date": "2019-08-27",
     "title": "Thoughts on Rust bloat | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
   },
   {
+    "date": "2019-08-06",
+    "title": "Rust reverses research ruin. 31–07–2019 | by Benjamin Blundell | Medium",
+    "link": "https://medium.com/@me_26124/rust-reverses-research-ruin-88641c11a99f"
+  },
+  {
+    "date": "2019-08-06",
     "title": "Understanding Rust Through AVL Trees",
     "link": "https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/"
   },
   {
+    "date": "2018-12-11",
     "title": "Rust 2019 — let us pursue composability | by Pyry Kontio | Medium",
     "link": "https://medium.com/@GolDDranks/rust-2019-let-us-pursue-composability-70f1eb2238c3"
   },
   {
+    "date": "2018-10-16",
+    "title": "Game Dev From Zero - Part 1: Hello, Rust-Lang - Hashnode",
+    "link": "https://hashnode.com/post/game-dev-from-zero-part-1-hello-rust-lang-cjn3brwto001jv7s2e533bdfc"
+  },
+  {
+    "date": "2018-01-16",
     "title": "#Rust2018 — Aimlessly Going Forward",
     "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
   },
   {
+    "date": "2018-01-02",
     "title": "Dose Response ported to WebAssembly! — Aimlessly Going Forward",
     "link": "https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/"
   },
   {
+    "date": "2017-12-19",
     "title": "Writing a CHIP-8 emulator with Rust and WebAssembly",
     "link": "http://blog.scottlogic.com/2017/12/13/chip8-emulator-webassembly-rust.html"
   },
   {
+    "date": "2017-03-21",
     "title": "ZeroMQ Communication Between Python And Rust — Aimlessly Going Forward",
     "link": "https://aimlesslygoingforward.com/blog/2017/03/18/zeromq-communication-between-python-and-rust/"
   },
   {
+    "date": "2016-10-18",
     "title": "How Rust Do?",
     "link": "http://blog.jfo.click/how-rust-do/"
   }

@@ -1,10 +1,42 @@
 [
   {
+    "date": "2024-02-14",
     "title": "Tech Notes: Cross compiling Rust to win32",
     "link": "https://neugierig.org/software/blog/2024/02/cross-compile.html"
   },
   {
+    "date": "2023-08-09",
+    "title": "This Month in Rust OSDev: July 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-07/"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "This year in LLVM (2022)",
+    "link": "https://www.npopov.com/2022/12/20/This-year-in-LLVM-2022.html"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "This Month in Rust OSDev: November 2022 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2022-11/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "Converting Integers to Floats Using Hyperfocus - Mara's Blog",
+    "link": "https://blog.m-ou.se/floats/"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "Use Rust for embedded development | Opensource.com",
+    "link": "https://opensource.com/article/21/10/rust-embedded-development"
+  },
+  {
+    "date": "2020-05-12",
     "title": "A no_std Rust binary",
     "link": "https://fasterthanli.me/blog/2020/a-no-std-rust-binary/"
+  },
+  {
+    "date": "2019-11-26",
+    "title": "Rust 2020: Lessons learned by transpiling C to Rust :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2019/11/rust2020/"
   }
 ]

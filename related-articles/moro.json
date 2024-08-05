@@ -1,18 +1,37 @@
 [
   {
+    "date": "2024-02-21",
     "title": "FuturesUnordered and the order of futures",
     "link": "https://without.boats/blog/futures-unordered/"
   },
   {
+    "date": "2023-12-13",
     "title": "`for await` and the battle of buffered streams - Tyler Mandry",
     "link": "https://tmandry.gitlab.io/blog/posts/for-await-buffered-streams/"
   },
   {
+    "date": "2023-10-25",
+    "title": "Idea: \"Using Rust\", a living document · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2023/10/20/using-rust/"
+  },
+  {
+    "date": "2023-04-12",
     "title": "The Scoped Task trilemma",
     "link": "https://without.boats/blog/the-scoped-task-trilemma/"
   },
   {
+    "date": "2023-04-05",
+    "title": "Thoughts on async closures · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2023/03/29/thoughts-on-async-closures/"
+  },
+  {
+    "date": "2022-09-28",
     "title": "Rust 2024...the year of everywhere? · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Async cancellation: a case study of pub-sub in mini-redis · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/06/13/async-cancellation-a-case-study-of-pub-sub-in-mini-redis/"
   }
 ]

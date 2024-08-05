@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2024-01-17",
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "date": "2023-06-14",
+    "title": "Iterating on Testing in Rust",
+    "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
+  },
+  {
+    "date": "2023-05-10",
+    "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
+    "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "The birth of a package manager | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
+  },
+  {
+    "date": "2022-10-05",
+    "title": "Implementing truly safe semaphores in rust",
+    "link": "https://neosmart.net/blog/2022/implementing-truly-safe-semaphores-in-rust/"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "Accessing Firebird With Diesel and Rust | by Luis Fernando Batels | Better Programming",
+    "link": "https://betterprogramming.pub/diesel-firebird-en-a4d00e793e1d"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
+    "link": "https://nullderef.com/blog/web-api-client/"
+  },
+  {
+    "date": "2021-06-02",
+    "title": "How to use the Firebird database with Rust language | by Luis Fernando Batels | ITNEXT",
+    "link": "https://itnext.io/firebird-rust-92e9043261cc"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "This Month in Rust OSDev (September 2020) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2020-09/"
+  },
+  {
+    "date": "2017-03-28",
+    "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+    "link": "https://diesel.rs"
+  },
+  {
+    "date": "2016-10-11",
+    "title": "Diesel is a Safe, Extensible ORM and Query Builder for Rust",
+    "link": "http://diesel.rs/"
+  }
+]

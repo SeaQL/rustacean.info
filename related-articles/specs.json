@@ -1,22 +1,52 @@
 [
   {
+    "date": "2022-08-17",
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/034/"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "Specs and Legion, two very different approaches to ECS",
+    "link": "https://csherratt.github.io/blog/posts/specs-and-legion/"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "Creating Interactive Applications While Maintaining Your Sanity · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/implementing-interactive-applications/"
+  },
+  {
+    "date": "2019-12-31",
     "title": "A Thought Experiment: Using the ECS Pattern Outside of Game Engines · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/ecs-outside-of-games/"
   },
   {
+    "date": "2018-01-16",
     "title": "#Rust2018 — Aimlessly Going Forward",
     "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
   },
   {
+    "date": "2017-03-14",
     "title": "Building a parallel ECS in Rust",
     "link": "https://kvark.github.io/ecs/rust/2017/03/08/specs.html"
   },
   {
+    "date": "2016-12-20",
     "title": "These weeks in PlanetKit #5: bits and bobs – Jeff Parsons",
     "link": "https://jeffparsons.github.io/2016/11/18/twipk-5/"
   },
   {
+    "date": "2016-09-20",
     "title": "Programming Model - gfx-rs nuts and bolts",
     "link": "http://gfx-rs.github.io/2016/09/14/programming-model.html"
+  },
+  {
+    "date": "2016-07-12",
+    "title": "Overview of Open Source Game Engines in Rust",
+    "link": "http://www.shadercat.com/overview-of-open-source-game-engines-in-rust/"
   }
 ]

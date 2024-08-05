@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2020-08-25",
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "How to RiiR · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/how-to-riir/index.html"
+  },
+  {
+    "date": "2019-11-19",
+    "title": "Implementing ArrayVec Using Const Generics · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/const-arrayvec/"
+  }
+]

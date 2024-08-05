@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-03-09",
     "title": "Fuzzing unsafe code in a Rust crate | by Adrian Taylor | Medium",
     "link": "https://medium.com/@adetaylor/fuzzing-unsafe-code-in-a-rust-crate-dcf3ec04d79a"
   }

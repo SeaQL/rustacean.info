@@ -1,9 +1,26 @@
 [
   {
+    "date": "2024-05-22",
+    "title": "Using Rust Macros for Custom VTables | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2024/5/16/macro-vtable-magic/"
+  },
+  {
+    "date": "2022-11-23",
+    "title": "A Better Way to Borrow in Rust: Stack Tokens | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2022/11/23/stack-tokens/"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "A Rust web app with HTML templates | Willy's blog",
+    "link": "https://woile.dev/posts/web-app-with-template-in-rust/"
+  },
+  {
+    "date": "2022-01-12",
     "title": "Rust Any Part 1: Extension Maps in Rust | Armin Ronacher's Thoughts and Writings",
     "link": "https://lucumr.pocoo.org/2022/1/6/rust-extension-map/"
   },
   {
+    "date": "2021-11-17",
     "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
     "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
   }

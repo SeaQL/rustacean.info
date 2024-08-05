@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-01-11",
     "title": "Introducing OkayWAL: A write-ahead log for Rust",
     "link": "https://bonsaidb.io/blog/introducing-okaywal/"
   }

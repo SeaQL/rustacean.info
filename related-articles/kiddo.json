@@ -1,5 +1,6 @@
 [
   {
+    "date": "2024-06-12",
     "title": "Making robots plan faster with SIMD and Rust",
     "link": "https://www.claytonwramsey.com/blog/captree"
   }

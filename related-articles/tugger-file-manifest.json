@@ -1,9 +1,16 @@
 [
   {
+    "date": "2022-08-10",
+    "title": "Gregory Szorc's Digital Home\n  | Achieving A Completely Open Source Implementation of Apple Code Signing and Notarization",
+    "link": "https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/"
+  },
+  {
+    "date": "2021-04-14",
     "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
     "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"
   },
   {
+    "date": "2020-08-04",
     "title": "Rust for a Pythonista #1: Why and when?",
     "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
   }

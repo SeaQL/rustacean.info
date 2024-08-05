@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2024-04-17",
+    "title": "Getting started with SurrealDB using Docker and a Rust client",
+    "link": "https://rust.code-maven.com/surrealdb-with-docker"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "The First Stable Release of a Memory Safe sudo Implementation - Prossimo",
+    "link": "https://www.memorysafety.org/blog/sudo-first-stable-release/"
+  },
+  {
+    "date": "2023-03-08",
+    "title": "Professional Rustacean, 3 months in – Brian Kung",
+    "link": "https://briankung.dev/2023/02/17/professional-rustacean-3-months-in/"
+  },
+  {
+    "date": "2022-05-04",
+    "title": "Building a WebAssembly-powered serverless platform",
+    "link": "https://blog.scottlogic.com/2022/04/16/wasm-faas.html"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "Part 1: The life of an optimization barrier | Trail of Bits Blog",
+    "link": "https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "TrueLayer Blog: Adding middleware support to Rust reqwest",
+    "link": "https://truelayer.com/blog/adding-middleware-support-to-rust-reqwest"
+  },
+  {
+    "date": "2021-06-23",
+    "title": "Rust and AWS Lambda",
+    "link": "https://mitchgollub.com/rust-and-aws-lambda/"
+  },
+  {
+    "date": "2021-02-10",
+    "title": "Async Rust: Futures, Tasks, Wakers—Oh My! | Matt's blog",
+    "link": "https://msarmi9.github.io/posts/async-rust/"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Async HTTP",
+    "link": "https://blog.yoshuawuyts.com/async-http/"
+  },
+  {
+    "date": "2019-12-24",
+    "title": "Serverless Rust using WASM and Cloudflare",
+    "link": "https://tech.fpcomplete.com/blog/serverless-rust-wasm-cloudflare"
+  },
+  {
+    "date": "2019-09-24",
+    "title": "Async Builders",
+    "link": "https://blog.yoshuawuyts.com/async-finalizers/"
+  }
+]

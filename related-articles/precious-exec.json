@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-03-17",
     "title": "Writing a Postgres SQL Pretty Printer in Rust: Part 1 - House Absolute(ly Pointless)",
     "link": "https://blog.urth.org/2021/03/14/writing-a-postgres-sql-pretty-printer-in-rust-part-1/"
   }

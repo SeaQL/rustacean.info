@@ -1,153 +1,221 @@
 [
   {
+    "date": "2023-12-27",
     "title": "Web development in Rust",
     "link": "https://rust.code-maven.com/web"
   },
   {
+    "date": "2023-08-30",
     "title": "Best Rust Web Frameworks to Use in 2023",
     "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
   },
   {
+    "date": "2023-07-26",
     "title": "tower - Rust",
     "link": "https://docs.rs/tower"
   },
   {
+    "date": "2023-01-25",
     "title": "Six fun things to do with Rust operator overloading | Wisha Wanichwecharungruang",
     "link": "https://wishawa.github.io/posts/fun-rust-operators/"
   },
   {
+    "date": "2023-01-11",
     "title": "Potential DoS Vulnerability in Rust Hyper",
     "link": "https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/"
   },
   {
+    "date": "2022-12-28",
     "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
     "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
   },
   {
+    "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
   },
   {
+    "date": "2022-11-30",
     "title": "Migrating from warp to axum",
     "link": "https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2"
   },
   {
+    "date": "2022-10-19",
     "title": "Felix' Blog - The Little Joys of Code: Proc Macros",
     "link": "https://felix-knorr.net/posts/2022-10-14-proc-macros.html"
   },
   {
+    "date": "2022-09-07",
     "title": "How to build a (simple) blog using Rust",
     "link": "https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust"
   },
   {
+    "date": "2022-08-17",
     "title": "Get Started with Rust: Structs",
     "link": "https://serokell.io/blog/structs-in-rust"
   },
   {
+    "date": "2022-07-20",
     "title": "When rustc explodes",
     "link": "https://fasterthanli.me/articles/when-rustc-explodes"
   },
   {
+    "date": "2022-06-15",
     "title": "Local Async Executors and Why They Should be the Default",
     "link": "https://maciej.codes/2022-06-09-local-async.html"
   },
   {
+    "date": "2022-03-09",
     "title": "Request coalescing in async Rust",
     "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
   },
   {
+    "date": "2022-02-02",
     "title": "Ferris Talk #5: Tokio als asynchrone Laufzeitumgebung ist ein Fast-Alleskönner | heise online",
     "link": "https://www.heise.de/hintergrund/Ferris-Talk-5-Tokio-als-asynchrone-Laufzeitumgebung-ist-ein-Fast-Alleskoenner-6341018.html"
   },
   {
+    "date": "2022-01-05",
     "title": "Why is my Rust build so slow?",
     "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
   },
   {
+    "date": "2021-12-15",
     "title": "Validating JSON input in Rust web services | Vinted Engineering",
     "link": "https://vinted.engineering/2021/02/15/validating-json-input-in-rust-web-services/"
   },
   {
+    "date": "2021-10-27",
     "title": "Rust Web Development with Bastian Gruber :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/043-bastian-gruber/"
   },
   {
+    "date": "2021-10-06",
     "title": "Scalable server design in Rust with Tokio | by FUJITA Tomonori | Medium",
     "link": "https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c81a5f350a3"
   },
   {
+    "date": "2021-09-22",
     "title": "Rocket: A Web Framework for Rust",
     "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
   },
   {
+    "date": "2021-09-22",
     "title": "Full-stack Rust: A complete tutorial with examples - LogRocket Blog",
     "link": "https://blog.logrocket.com/full-stack-rust-a-complete-tutorial-with-examples/"
   },
   {
+    "date": "2021-09-08",
+    "title": "Let’s overtake go/fasthttp with rust/warp | by Gleb Pomykalov | Medium",
+    "link": "https://medium.com/@glebpomykalov/lets-overtake-go-fasthttp-with-rust-hyper-b2d1004914f"
+  },
+  {
+    "date": "2021-09-08",
     "title": "Holmusk | Building a reliable and tRUSTworthy web service 🦀",
     "link": "https://holmusk.dev/blog/2021-05-29-using-rust.html"
   },
   {
+    "date": "2021-09-01",
+    "title": "GSoC 2021, GA4GH and htsget-rs | UMCCR Genomics Platform Group",
+    "link": "https://umccr.org/blog/htsget-rs/"
+  },
+  {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-06-02",
     "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
   },
   {
+    "date": "2021-05-19",
+    "title": "Rust Macros Rule: DRY warp Routes ― A Place For My Head",
+    "link": "https://shivjm.blog/rust-macros-rule-dry-warp-routes/"
+  },
+  {
+    "date": "2021-03-31",
     "title": "Exploring the top Rust web frameworks - LogRocket Blog",
     "link": "https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/"
   },
   {
+    "date": "2021-03-03",
     "title": "Captures in closures and async blocks",
     "link": "https://www.fpcomplete.com/blog/captures-closures-async/"
   },
   {
+    "date": "2021-03-03",
     "title": "Rust: Beware of Escape Sequences \\n | by Dominic E. | Medium",
     "link": "https://d3lm.medium.com/rust-beware-of-escape-sequences-85ec90e9e243#ee0e-58229fc84d02"
   },
   {
+    "date": "2021-01-27",
     "title": "24 Awesome Open-Source Rust Projects",
     "link": "https://serokell.io/blog/open-source-rust"
   },
   {
+    "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
+    "date": "2020-07-14",
     "title": "Using RabbitMQ in Rust - zupzup",
     "link": "https://www.zupzup.org/rmq-in-rust/"
   },
   {
+    "date": "2020-07-14",
     "title": "Moving from TypeScript to Rust / WebAssembly | nicolodavis.com",
     "link": "https://nicolodavis.com/blog/typescript-to-rust/"
   },
   {
+    "date": "2020-07-07",
     "title": "Choosing a Rust web framework, 2020 edition | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/"
   },
   {
+    "date": "2020-07-07",
     "title": "Image decay as a service",
     "link": "https://fasterthanli.me/articles/image-decay-as-a-service"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2020-06-02",
+    "title": "How to build a WebSocket server with Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-build-a-websocket-server-with-rust/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "Let's make a simple authentication server in Rust with Warp | JocoBlog",
+    "link": "https://blog.joco.dev/posts/warp_auth_server_tutorial"
+  },
+  {
+    "date": "2019-10-08",
     "title": "Tonic: gRPC has come to async/await!",
     "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
   },
   {
+    "date": "2019-08-12",
+    "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2019-08-alphas/"
+  },
+  {
+    "date": "2018-09-11",
     "title": "Tower Web — Expanding the middleware stack | by Carl Lerche | Medium",
     "link": "https://medium.com/@carllerche/tower-web-expanding-the-middleware-stack-f9bf55bfa109"
   },
   {
+    "date": "2018-08-21",
     "title": "Rust GraphQL webserver with Warp, Juniper and MongoDB",
     "link": "http://alex.amiran.it/post/2018-08-16-rust-graphql-webserver-with-warp-juniper-and-mongodb.html"
   },
   {
+    "date": "2018-08-14",
     "title": "Tower Web — A new web framework for Rust | by Carl Lerche | Medium",
     "link": "https://medium.com/@carllerche/tower-web-a-new-web-framework-for-rust-e2912856851b"
   }

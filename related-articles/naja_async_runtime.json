@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-02-25",
     "title": "Anouncing async_executors, a building block for executor agnostic libraries – turbofish",
     "link": "https://blog.wnut.pw/2020/02/25/anouncing-async_executors-a-building-block-for-executor-agnostic-libraries/"
   }

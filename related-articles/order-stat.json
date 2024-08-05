@@ -1,5 +1,11 @@
 [
   {
+    "date": "2015-05-04",
+    "title": "Travis on the train, part 2 |  Huon on the internet",
+    "link": "http://huonw.github.io/blog/2015/05/travis-on-the-train-part-2/"
+  },
+  {
+    "date": "2015-05-04",
     "title": "Helping Travis catch the rustc train |  Huon on the internet",
     "link": "http://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/"
   }

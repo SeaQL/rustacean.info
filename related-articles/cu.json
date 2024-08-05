@@ -1,0 +1,62 @@
+[
+  {
+    "date": "2024-05-15",
+    "title": "Cushy v0.3: New widgets, offscreen capture, Plotters and Tokio integrations, and more",
+    "link": "https://ecton.dev/cushy-v0-3/"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "date": "2023-03-29",
+    "title": "dfdx v0.11.0: ergonomic GPU accelerated deep learning ENTIRELY in rust! | dfdx",
+    "link": "https://coreylowman.github.io/2023/03/15/release-0.11.0.html"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/028/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Countdown problem in Rust | Memetic Musings",
+    "link": "https://amitdev.github.io/posts/2020-07-27-countdown-rust/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Auto-currying Rust Functions · peppe.rs",
+    "link": "https://peppe.rs/posts/auto-currying_rust_functions/"
+  },
+  {
+    "date": "2018-08-14",
+    "title": "The State of GPGPU in Rust | bheisler.github.io",
+    "link": "https://bheisler.github.io/post/state-of-gpgpu-in-rust/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - Cursive | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-cursive/"
+  },
+  {
+    "date": "2016-12-13",
+    "title": "24 days of Rust - derive_builder | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-derive_builder/"
+  },
+  {
+    "date": "2016-07-12",
+    "title": "Rust and Rest | Armin Ronacher's Thoughts and Writings",
+    "link": "http://lucumr.pocoo.org/2016/7/10/rust-rest/"
+  },
+  {
+    "date": "2015-09-28",
+    "title": "Get Data From A URL In Rust",
+    "link": "http://hermanradtke.com/2015/09/21/get-data-from-a-url-rust.html"
+  }
+]

@@ -1,9 +1,16 @@
 [
   {
+    "date": "2018-05-15",
     "title": "These Weeks in Dev-Tools, issue 4",
     "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-4/"
   },
   {
+    "date": "2017-11-07",
+    "title": "Portability concerns with Path · udoprog",
+    "link": "https://udoprog.github.io/rust/2017-11-05/portability-concerns-with-path.html"
+  },
+  {
+    "date": "2017-08-15",
     "title": "These Weeks in Dev-tools #1",
     "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-1/"
   }

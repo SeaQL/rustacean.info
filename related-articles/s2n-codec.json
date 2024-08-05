@@ -1,17 +1,21 @@
 [
   {
+    "date": "2023-11-08",
     "title": "How Open Source Projects are Using Kani to Write Better Software in Rust | AWS Open Source Blog",
     "link": "https://aws.amazon.com/blogs/opensource/how-open-source-projects-are-using-kani-to-write-better-software-in-rust/"
   },
   {
+    "date": "2023-08-09",
     "title": "Turbocharging Rust Code Verification | Kani Rust Verifier Blog",
     "link": "https://model-checking.github.io/kani-verifier-blog/2023/08/03/turbocharging-rust-code-verification.html"
   },
   {
+    "date": "2023-05-31",
     "title": "How s2n-quic uses Kani to inspire confidence | Kani Rust Verifier Blog",
     "link": "https://model-checking.github.io/kani-verifier-blog/2023/05/30/how-s2n-quic-uses-kani-to-inspire-confidence.html"
   },
   {
+    "date": "2022-12-21",
     "title": "Easily verify your Rust in CI with Kani and Github Actions | Kani Rust Verifier Blog",
     "link": "https://model-checking.github.io/kani-verifier-blog/2022/12/21/easily-verify-your-rust-in-ci-with-kani.html"
   }

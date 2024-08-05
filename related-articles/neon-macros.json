@@ -1,21 +1,36 @@
 [
   {
+    "date": "2023-05-03",
+    "title": "The case for stabilizing arbitrary_self_types | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/the-case-for-stabilizing-arbitrary-self-types-b07bab22bb45"
+  },
+  {
+    "date": "2021-12-29",
     "title": "Announcing NAPI-RS v2 – NAPI-RS",
     "link": "https://napi.rs/blog/announce-v2"
   },
   {
+    "date": "2021-01-13",
     "title": "Expose a Rust Library to Other Languages — Slint Blog",
     "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
   },
   {
+    "date": "2018-08-28",
     "title": "Calling C# natively from Rust.. …or how CMake drove me to create an… | by Ronny Chan | Medium",
     "link": "https://medium.com/@chyyran/calling-c-natively-from-rust-1f92c506289d"
   },
   {
+    "date": "2018-03-20",
     "title": "Building a fast Electron app with Rust",
     "link": "https://keminglabs.com/blog/building-a-fast-electron-app-with-rust/"
   },
   {
+    "date": "2017-09-26",
+    "title": "Neon Wants Your Help!",
+    "link": "http://calculist.org/blog/2017/09/25/neon-wants-your-help/"
+  },
+  {
+    "date": "2017-07-11",
     "title": "Speeding up crypto on Wire desktop apps | by Wire | Medium",
     "link": "https://medium.com/@wireapp/speeding-up-crypto-on-wire-desktop-apps-3ff37fc98c3f"
   }

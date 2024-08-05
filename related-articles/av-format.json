@@ -1,5 +1,6 @@
 [
   {
+    "date": "2016-09-13",
     "title": "Writing GStreamer Elements in Rust (Part 2): Don’t panic, we have better assertions now – and other updates – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2016/09/writing-gstreamer-elements-in-rust-part-2-dont-panic-we-have-better-assertions-now-and-other-updates/"
   }

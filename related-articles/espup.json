@@ -1,9 +1,21 @@
 [
   {
+    "date": "2024-03-20",
+    "title": "Using Rust on ESP32 from Windows. Building on Windows for the ESP32… | by Ryan L. Kopf | Medium",
+    "link": "https://kopf1988.medium.com/using-rust-on-esp32-from-windows-b6814fd09928"
+  },
+  {
+    "date": "2023-03-01",
     "title": "Rust on Espressif chips - 2023 Roadmap",
     "link": "https://mabez.dev/blog/posts/esp-rust-24-02-2023/"
   },
   {
+    "date": "2023-01-18",
+    "title": "Displaying Images on ESP32 with Rust! - lily's thots",
+    "link": "https://lilymara.xyz/posts/images-esp32/"
+  },
+  {
+    "date": "2022-10-19",
     "title": "Rust on Espressif chips - 17-10-2022",
     "link": "https://mabez.dev/blog/posts/esp-rust-17-10-2022/"
   }

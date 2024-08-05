@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-04-03",
     "title": "Universal domain types",
     "link": "https://mmapped.blog/posts/25-domain-types.html"
   },
   {
+    "date": "2017-12-05",
     "title": "Replacing Elasticsearch with Rust and SQLite",
     "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"
   }

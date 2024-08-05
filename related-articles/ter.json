@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2024-02-28",
+    "title": "ESP Embedded Rust: Command Line Interface",
+    "link": "https://apollolabsblog.hashnode.dev/esp-embedded-rust-command-line-interface"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-07-19",
+    "title": "ratatui - Rust",
+    "link": "https://docs.rs/ratatui"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Building an authentication system in Rust using session tokens",
+    "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
+    "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Fireworks for your terminal - Darrien's technical blog",
+    "link": "https://blog.darrien.dev/posts/fireworks-for-your-terminal/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Drawing SVG Graphs with Rust",
+    "link": "https://cetra3.github.io/blog/drawing-svg-graphs-rust/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Rust Lifetimes and Iterators | Tidbits and Stuff",
+    "link": "https://blog.katona.me/2019/12/29/Rust-Lifetimes-and-Iterators/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - tera | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-tera/"
+  },
+  {
+    "date": "2016-10-11",
+    "title": "Making Terminal Applications in Rust with Termion ·",
+    "link": "https://ticki.github.io/blog/making-terminal-applications-in-rust-with-termion/"
+  }
+]

@@ -1,6 +1,12 @@
 [
   {
+    "date": "2024-04-17",
     "title": "Announcing async-openai-wasm, and thoughts on wasmization and streams | Ideas Reifying",
     "link": "https://ideas.reify.ing/en/blog/announcing-async-openai-wasm/"
+  },
+  {
+    "date": "2020-07-14",
+    "title": "Getting in and out of trouble with Rust futures",
+    "link": "https://fasterthanli.me/articles/getting-in-and-out-of-trouble-with-rust-futures"
   }
 ]

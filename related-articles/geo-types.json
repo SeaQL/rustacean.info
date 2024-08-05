@@ -1,5 +1,16 @@
 [
   {
+    "date": "2024-06-05",
+    "title": "layoutparser_ort - Rust",
+    "link": "https://docs.rs/layoutparser-ort"
+  },
+  {
+    "date": "2023-09-20",
+    "title": "Enhancing ClickHouse's Geospatial Support",
+    "link": "https://tech.marksblogg.com/clickhouse-gis-rust.html"
+  },
+  {
+    "date": "2022-01-19",
     "title": "Mapping my walks with OSRM and Rust",
     "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
   }

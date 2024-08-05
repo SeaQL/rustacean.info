@@ -1,10 +1,17 @@
 [
   {
+    "date": "2023-06-07",
     "title": "This Month in Rust GameDev #45 - April 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/045/"
   },
   {
+    "date": "2022-11-16",
     "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/039/"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Making Rust attractive for writing GTK applications",
+    "link": "https://belmoussaoui.com/blog/15-making-rust-attractive-for-writing-gtk-applications/"
   }
 ]

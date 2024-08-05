@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-07-14",
     "title": "Building Canrun: A statically typed logic programming library for Rust",
     "link": "https://esimmler.com/building-canrun-part-1/"
   }

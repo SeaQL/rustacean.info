@@ -1,9 +1,16 @@
 [
   {
+    "date": "2022-06-29",
+    "title": "Many modes: a GATs pattern · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/06/27/many-modes-a-gats-pattern/"
+  },
+  {
+    "date": "2021-02-03",
     "title": "Returning Rust Iterators | Depth-First",
     "link": "https://depth-first.com/articles/2020/06/22/returning-rust-iterators/"
   },
   {
+    "date": "2020-02-18",
     "title": "Graphs in Rust: Introducing Gamma | Depth-First",
     "link": "https://depth-first.com/articles/2020/02/17/graphs-in-rust-introducting-graphcore/"
   }

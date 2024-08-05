@@ -1,14 +1,22 @@
 [
   {
+    "date": "2024-05-08",
     "title": "Introducing graphql-lint and gqlint – Grafbase",
     "link": "https://grafbase.com/changelog/graphql-lint"
   },
   {
+    "date": "2023-09-20",
     "title": "Open sourcing the Grafbase Engine",
     "link": "https://grafbase.com/blog/open-sourcing-the-grafbase-engine"
   },
   {
+    "date": "2023-06-21",
     "title": "How we built the Grafbase local development experience in Rust",
     "link": "https://grafbase.com/blog/how-we-built-the-grafbase-cli-in-rust"
+  },
+  {
+    "date": "2018-10-16",
+    "title": "Serverless Rust with Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/"
   }
 ]

@@ -1,49 +1,66 @@
 [
   {
+    "date": "2022-10-19",
+    "title": "How to Build a Machine Learning Model in Rust",
+    "link": "https://www.freecodecamp.org/news/how-to-build-a-machine-learning-model-in-rust/"
+  },
+  {
+    "date": "2022-09-21",
     "title": "PostgresML is Moving to Rust for our 2.0 Release – PostgresML",
     "link": "https://postgresml.org/blog/postgresml-is-moving-to-rust-for-our-2.0-release/"
   },
   {
+    "date": "2022-06-22",
     "title": "Ernest Kissiedu on the DevX Initiative by Building with Rust",
     "link": "https://anchor.fm/building-with-rust/episodes/Ernest-Kissiedu-on-the-DevX-Initiative-e1k3cs4"
   },
   {
+    "date": "2022-03-16",
     "title": "Nick Cameron on Juggling Open Source Work and Parenthood by Building with Rust",
     "link": "https://anchor.fm/building-with-rust/episodes/Nick-Cameron-on-Juggling-Open-Source-Work-and-Parenthood-e1fhfc7"
   },
   {
+    "date": "2022-02-09",
     "title": "Josh Triplett on Building the Build System of his Dreams by Building with Rust",
     "link": "https://anchor.fm/building-with-rust/episodes/Josh-Triplett-on-Building-the-Build-System-of-his-Dreams-e1dt81c"
   },
   {
+    "date": "2021-11-24",
     "title": "http://cmoran.xyz/writing/adventures_in_photogrammetry",
     "link": "http://cmoran.xyz/writing/adventures_in_photogrammetry"
   },
   {
+    "date": "2021-06-09",
     "title": "Ralf Jung on GhostCell and Working as a PL Researcher by Building with Rust",
     "link": "https://anchor.fm/building-with-rust/episodes/Building-with-Rust-Ralf-Jung-on-GhostCell-and-Working-as-a-PL-Researcher-e12auje"
   },
   {
+    "date": "2021-04-14",
     "title": "Tim McNamara on Rust in Action by Building with Rust",
     "link": "https://anchor.fm/building-with-rust/episodes/Building-with-Rust-Tim-McNamara-on-Rust-in-Action-eugoal/a-a1ptlh"
   },
   {
+    "date": "2021-02-17",
     "title": "Luca Palmieri on TrueLayer and Zero to Production by Building with Rust",
     "link": "https://anchor.fm/building-with-rust/episodes/Building-with-Rust-Luca-Palmieri-on-TrueLayer-and-Zero-to-Production-eq9rqs"
   },
   {
+    "date": "2021-01-27",
     "title": "Index",
     "link": "https://www.arewelearningyet.com/"
   },
   {
+    "date": "2019-12-03",
     "title": "Taking ML to production with Rust: a 25x speedup | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2019-12-01-taking-ml-to-production-with-rust-a-25x-speedup/"
   },
   {
+    "date": "2019-09-17",
     "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
     "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
   },
   {
+    "date": "2016-08-30",
     "title": "Index",
     "link": "http://www.arewelearningyet.com/"
   }

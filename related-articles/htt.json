@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2024-04-03",
+    "title": "Programming ESP32 with Rust: OTA firmware update",
+    "link": "https://quan.hoabinh.vn/post/2024/3/programming-esp32-with-rust-ota-firmware-update"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Rust web frameworks have subpar error reporting | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/rust-web-frameworks-have-subpar-error-reporting/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "avatar.png",
+    "link": "https://tuckersiemens.com/posts/avatar-png/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Announcing smol-macros, smol-hyper and smol-axum – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/new-smol-rs-subcrates/"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Announcing axum 0.7.0 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2023-11-27-announcing-axum-0-7-0"
+  },
+  {
+    "date": "2023-07-26",
+    "title": "A gentle introduction to IMAP",
+    "link": "https://duesee.dev/p/a-gentle-introduction-to-imap/"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "Pavex DevLog #5: redesigning our runtime types | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-05/"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "Logan Keenan - Integrating the Rust Axum Framework with Cloudflare Workers",
+    "link": "https://logankeenan.com/posts/rust-axum-and-cloudflare-workers/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Rust | Wasm Workers Server",
+    "link": "https://workers.wasmlabs.dev/docs/tutorials/rust-workers/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "Running Rust in AWS Lambda with SAM (Serverless App Model) — Part 1 | by B Shyam Sundar | Medium",
+    "link": "https://medium.com/@shyamsundarb/running-rust-in-aws-lambda-with-sam-part-1-2b7a6963a2ef"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "The HTTP crash course nobody asked for",
+    "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "What are Rust's HTTP extensions?",
+    "link": "https://blog.adamchalmers.com/what-are-extensions/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "Hyper vs Rocket - Low Level vs Batteries included",
+    "link": "https://www.shuttle.rs/blog/2022/06/01/hyper-vs-rocket"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "What's new in axum 0.5 | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2022-03-whats-new-in-axum-0-5"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "How Linkerd retries HTTP requests with bodies | Linkerd",
+    "link": "https://linkerd.io/2021/10/26/how-linkerd-retries-http-requests-with-bodies/"
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Combining Axum, Hyper, Tonic, and Tower for hybrid web/gRPC apps: Part 3",
+    "link": "https://www.fpcomplete.com/blog/axum-hyper-tonic-tower-part3"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Let’s overtake go/fasthttp with rust/warp | by Gleb Pomykalov | Medium",
+    "link": "https://medium.com/@glebpomykalov/lets-overtake-go-fasthttp-with-rust-hyper-b2d1004914f"
+  },
+  {
+    "date": "2021-06-02",
+    "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Who Builds the Builder?",
+    "link": "https://matklad.github.io/2020/08/12/who-builds-the-builder.html"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Image decay as a service",
+    "link": "https://fasterthanli.me/articles/image-decay-as-a-service"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Async HTTP",
+    "link": "https://blog.yoshuawuyts.com/async-http/"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "Async Interview #6: Eliza Weisman · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/02/11/async-interview-6-eliza-weisman/"
+  },
+  {
+    "date": "2018-11-27",
+    "title": "Serverless HTTP. Throw down your main! Rustlang… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/serverless-http-9a58f9b2df60"
+  },
+  {
+    "date": "2018-10-30",
+    "title": "Serverless Rust. A brief introduction to Serverless… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/serverless-rust-318732a3596"
+  },
+  {
+    "date": "2016-08-16",
+    "title": "Zero-cost futures in Rust · Aaron Turon",
+    "link": "https://aturon.github.io/blog/2016/08/11/futures/"
+  }
+]

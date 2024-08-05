@@ -1,38 +1,92 @@
 [
   {
+    "date": "2024-01-24",
+    "title": "Parsing JSON in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/18/parsing-json-rust"
+  },
+  {
+    "date": "2023-01-25",
     "title": "Surprises in the Rust JSON Ecosystem",
     "link": "https://ecton.dev/rust-json-ecosystem/"
   },
   {
+    "date": "2022-11-30",
     "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
     "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
   },
   {
+    "date": "2022-09-14",
     "title": "Speeding up incremental Rust compilation with dylibs | Robert Krahn",
     "link": "https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/"
   },
   {
+    "date": "2021-11-17",
+    "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
+  },
+  {
+    "date": "2020-11-11",
     "title": "Compilation Of Active Directory Logs Using Rust. - Knoldus Blogs",
     "link": "https://blog.knoldus.com/compilation-of-active-directory-logs-using-rust/"
   },
   {
+    "date": "2020-09-09",
+    "title": "Deserializing JSON really fast",
+    "link": "https://blog.datalust.co/deserializing-json-really-fast/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Beginner's guide to Error Handling in Rust",
+    "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
+  },
+  {
+    "date": "2019-11-19",
+    "title": "Understanding Serde",
+    "link": "https://www.joshmcguigan.com/blog/understanding-serde/"
+  },
+  {
+    "date": "2018-10-30",
+    "title": "Parsing logs 230x faster with Rust",
+    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
+  },
+  {
+    "date": "2018-10-16",
     "title": "Configuration envy. How software is configured has always… | by Doug Tangren | Medium",
     "link": "https://medium.com/@softprops/configuration-envy-a09584386705"
   },
   {
+    "date": "2018-09-04",
     "title": "Serde Deserialize This or That into u64",
     "link": "https://noyez.gitlab.io/post/2018-08-28-serilize-this-or-that-into-u64/"
   },
   {
+    "date": "2018-02-13",
     "title": "show_notes::cysk::serde - Rust",
     "link": "http://www.newrustacean.com/show_notes/cysk/serde/"
   },
   {
+    "date": "2017-01-03",
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  },
+  {
+    "date": "2016-10-11",
     "title": "Overview · Serde",
     "link": "https://serde.rs/"
   },
   {
+    "date": "2016-09-13",
     "title": "Why I’m dropping Rust. When I saw that there was a new systems… | by Michael de Lang | HackerNoon.com | Medium",
     "link": "https://medium.com/@kingoipo/why-im-dropping-rust-fd1c32986c88"
+  },
+  {
+    "date": "2015-09-28",
+    "title": "Get Data From A URL In Rust",
+    "link": "http://hermanradtke.com/2015/09/21/get-data-from-a-url-rust.html"
   }
 ]

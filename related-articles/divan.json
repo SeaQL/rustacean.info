@@ -1,13 +1,26 @@
 [
   {
+    "date": "2024-06-19",
     "title": "IPC in Rust - a Ping Pong Comparison",
     "link": "https://3tilley.github.io/posts/simple-ipc-ping-pong/"
   },
   {
+    "date": "2024-05-22",
+    "title": "Towards fast `thread_local!` context",
+    "link": "https://swatinem.de/blog/thread-local-context/"
+  },
+  {
+    "date": "2024-05-01",
     "title": "performance optimization with flamegraph and divan - hēg denu - Hayden\n\t\tStainsby",
     "link": "https://hegdenu.net/posts/performance-optimization-flamegraph-divan/"
   },
   {
+    "date": "2023-11-01",
+    "title": "Faster Rust Serialization",
+    "link": "https://mo8it.com/blog/faster-rust-serialization/"
+  },
+  {
+    "date": "2023-10-04",
     "title": "Divan: Fast and Simple Benchmarking for Rust · Nikolai Vazquez",
     "link": "https://nikolaivazquez.com/blog/divan/"
   }

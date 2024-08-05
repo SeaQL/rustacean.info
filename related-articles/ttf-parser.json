@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-02-28",
     "title": "Text labels rendering on a map with Rust - research and design | Galileo",
     "link": "https://maximkaaa.github.io/galileo/blog/posts/text_rendering_design/"
   },
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   }

@@ -1,21 +1,26 @@
 [
   {
+    "date": "2023-12-27",
     "title": "Web development in Rust",
     "link": "https://rust.code-maven.com/web"
   },
   {
+    "date": "2023-12-13",
     "title": "Getting Started with Axum - Rust's Most Popular Web Framework",
     "link": "https://www.shuttle.rs/blog/2023/12/06/using-axum-rust"
   },
   {
+    "date": "2023-08-09",
     "title": "Rust Server Components - Articles - Antonio Pitasi",
     "link": "https://anto.pt/articles/rust-server-components"
   },
   {
+    "date": "2020-06-10",
     "title": "This Week in Rust - Issue 341 and 342 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/017-twir-341-342/"
   },
   {
+    "date": "2016-11-15",
     "title": "The fastest template engine in the West\n 〜 lambda fairy",
     "link": "https://lambda.xyz/blog/maud-is-fast/"
   }

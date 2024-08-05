@@ -1,62 +1,12 @@
 [
   {
-    "title": "Meilisearch 1.9",
-    "link": "https://blog.meilisearch.com/meilisearch-1-9/"
-  },
-  {
-    "title": "Meilisearch 1.8",
-    "link": "https://blog.meilisearch.com/meilisearch-1-8/"
-  },
-  {
-    "title": "Meilisearch 1.7",
-    "link": "https://blog.meilisearch.com/meilisearch-1-7/"
-  },
-  {
-    "title": "Meilisearch v1.6",
-    "link": "https://blog.meilisearch.com/meilisearch-1-6/"
-  },
-  {
+    "date": "2023-11-22",
     "title": "Meilisearch v1.5",
     "link": "https://blog.meilisearch.com/meilisearch-1-5/"
   },
   {
-    "title": "What's new in v1.4?",
-    "link": "https://blog.meilisearch.com/v1-4-release/"
-  },
-  {
-    "title": "What’s new in v1.3?",
-    "link": "https://blog.meilisearch.com/v1-3-release/"
-  },
-  {
-    "title": "Vector storage is coming to Meilisearch to empower search through AI",
-    "link": "https://blog.meilisearch.com/vector-search-announcement/"
-  },
-  {
+    "date": "2023-06-07",
     "title": "What's new in v1.2?",
     "link": "https://blog.meilisearch.com/v1-2-release/"
-  },
-  {
-    "title": "Squeezing millions of documents in 128 TB of virtual memory",
-    "link": "https://blog.meilisearch.com/dynamic-virtual-address-management/"
-  },
-  {
-    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
-    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
-  },
-  {
-    "title": "Meilisearch raised a $5M Seed to change the world of search",
-    "link": "https://blog.meilisearch.com/meilisearch-raised-5meu-seed-fundraising/"
-  },
-  {
-    "title": "Rust in Production: MeiliSearch",
-    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
-  },
-  {
-    "title": "Software Developer (Rust) - Meilisearch - CDI - Télétravail total",
-    "link": "https://www.welcometothejungle.com/fr/companies/meilisearch/jobs/software-developer-rust_paris"
-  },
-  {
-    "title": "Search for Rust crates with Meili",
-    "link": "https://blog.meilisearch.com/search-rust-crates-meili/"
   }
 ]

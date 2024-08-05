@@ -1,21 +1,26 @@
 [
   {
+    "date": "2020-12-9-",
     "title": "Written in Rust - What is the Rust language used for | Evrone",
     "link": "https://evrone.com/rust-vs-c"
   },
   {
+    "date": "2017-10-10",
     "title": "Wiki - AnOpinionatedGuideToRustWebServers",
     "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
   },
   {
+    "date": "2016-11-08",
     "title": "Wiki - ActuallyUsingIron",
     "link": "https://wiki.alopex.li/ActuallyUsingIron"
   },
   {
+    "date": "2016-09-13",
     "title": "show_notes::bonus::_7 - Rust",
     "link": "http://www.newrustacean.com/show_notes/bonus/_7/"
   },
   {
+    "date": "2016-03-14",
     "title": "Introducing Pencil: A Microframework Inspired By Flask For Rust — Shipeng Feng's Writings",
     "link": "https://fengsp.github.io/blog/2016/3/introducing-pencil/"
   }

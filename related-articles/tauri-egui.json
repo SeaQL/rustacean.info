@@ -1,30 +1,122 @@
 [
   {
-    "title": "Long-running backend async tasks in tauri v2 - sneaky crow",
-    "link": "https://sneakycrow.dev/blog/2024-05-12-running-async-tasks-in-tauri-v2"
+    "date": "2024-06-19",
+    "title": "Using Tauri to build a cross-platform security app",
+    "link": "https://www.firezone.dev/blog/using-tauri"
   },
   {
+    "date": "2024-05-29",
+    "title": "Cyberpunk UI, Minecraft simulation, and volumetric destruction",
+    "link": "https://thisweekinbevy.com/issue/2024-05-27-cyberpunk-ui-minecraft-simulation-and-volumetric-destruction"
+  },
+  {
+    "date": "2024-05-22",
+    "title": "AMP with Carter Schultz - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e02-amp/"
+  },
+  {
+    "date": "2024-02-07",
     "title": "Announcing the Tauri v2 Beta Release | Tauri",
     "link": "https://beta.tauri.app/blog/tauri-2-0-0-beta/"
   },
   {
+    "date": "2024-01-10",
+    "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
+    "link": "https://thewolfsound.com/talk016/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Open Source Applications written in Rust",
+    "link": "https://rust.code-maven.com/applications"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "Why Golang instead of Rust to develop the Krater desktop app | MoonGuard - Web Monitoring Tools",
+    "link": "https://blog.moonguard.dev/why-golang-instead-of-rust-to-develop-the-krater-desktop-app"
+  },
+  {
+    "date": "2023-10-18",
     "title": "Eurorust reflections · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2023/10/14/eurorust-reflections/"
   },
   {
+    "date": "2023-09-13",
     "title": "Roadmap to Tauri 2.0 | Tauri",
     "link": "https://beta.tauri.app/blog/roadmap-to-tauri-2-0/"
   },
   {
+    "date": "2023-07-05",
     "title": "This Month in Rust GameDev #46 - May 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/046/"
   },
   {
+    "date": "2023-06-07",
+    "title": "Rust's cfg Attribute",
+    "link": "https://blog.parker-codes.dev/posts/rusts-cfg-attribute"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "date": "2023-03-01",
     "title": "Through the looking glass • Create a launchbar app w/ Tauri",
     "link": "https://blog.spyglass.fyi/posts/2023/creating-a-launcher-in-tauri/"
   },
   {
+    "date": "2023-02-22",
+    "title": "Why is building a UI in Rust so hard?",
+    "link": "https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Lodestone with Wilbur Zhang, Peter Jiang, and Kevin Huang :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/lodestone/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "date": "2023-02-08",
+    "title": "Tauri vs Iced vs egui: Rust GUI framework performance comparison (including startup time, input lag, resize tests) · Lukasʼ Blog",
+    "link": "https://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "Tauri vs. Electron for Tray Apps. Build a desktop tray starter app using… | by Dotan Nahum | Better Programming",
+    "link": "https://betterprogramming.pub/tauri-vs-electron-for-tray-apps-ed15974f35ce"
+  },
+  {
+    "date": "2022-09-21",
     "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
     "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
+  },
+  {
+    "date": "2022-08-24",
+    "title": "Tauri + Async Rust Process",
+    "link": "https://rfdonnelly.github.io/posts/tauri-async-rust-process/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "Advice for the next dozen Rust GUIs | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
+  },
+  {
+    "date": "2022-07-13",
+    "title": "Redirecting to: https://v2.tauri.app/blog/tauri-1-0",
+    "link": "https://tauri.app/blog/tauri_1_0/"
   }
 ]

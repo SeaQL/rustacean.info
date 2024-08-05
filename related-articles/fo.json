@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2024-07-03",
+    "title": "#![doc = include_str!()] with intra-doc links - Linebender",
+    "link": "https://linebender.org/blog/doc-include/"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "Introducing Foundations - our open source Rust service foundation library",
+    "link": "https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "This Month in Rust OSDev (January 2022) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2022-01/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Parsing Text with Nom",
+    "link": "https://blog.adamchalmers.com/nom-chars/"
+  },
+  {
+    "date": "2021-02-10",
+    "title": "This Month in Rust OSDev (January 2021) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2021-01/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "This Month in Rust OSDev (September 2020) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2020-09/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Building a Rust Web Browser",
+    "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
+  },
+  {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
+  }
+]

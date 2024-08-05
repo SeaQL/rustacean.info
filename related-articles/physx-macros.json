@@ -1,13 +1,16 @@
 [
   {
+    "date": "2022-05-25",
     "title": "Crash reporting in Rust",
     "link": "https://jake-shadle.github.io/crash-reporting/"
   },
   {
+    "date": "2021-08-25",
     "title": "Cross compiling Windows binaries from Linux",
     "link": "https://jake-shadle.github.io/xwin/"
   },
   {
+    "date": "2019-12-10",
     "title": "Inside Rust at Embark 🦀. A peek inside our day-to-day work with… | by Ari V | Embark Studios | Medium",
     "link": "https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4"
   }

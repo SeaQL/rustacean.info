@@ -1,6 +1,27 @@
 [
   {
+    "date": "2021-10-06",
+    "title": "RiB Newsletter #28 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-28/"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "RiB Newsletter #27 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-27/"
+  },
+  {
+    "date": "2020-09-23",
     "title": "Announcing and Unpacking the New Holochain | by Arthur Brock | Holochain | Medium",
     "link": "https://medium.com/holochain/unpacking-the-new-holochain-f54da3ca99b7"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "RiB Newsletter #10 – Keep Calm and Hack More - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-04-01-keep-calm-and-hack-more/"
   }
 ]

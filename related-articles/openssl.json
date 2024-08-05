@@ -1,17 +1,31 @@
 [
   {
+    "date": "2023-08-30",
+    "title": "We’re Open-Sourcing the Library that Powers 1Password’s Passwordless Authentication | 1Password",
+    "link": "https://blog.1password.com/passkey-crates/"
+  },
+  {
+    "date": "2022-06-22",
+    "title": "That vendored OpenSSL 🦀 most of us rely on probably needs a patch .. | by MissMissM (she/her) | Rustaceans 🦀 Security | Medium",
+    "link": "https://medium.com/rust-secure-code/that-vendored-openssl-most-of-us-rely-on-probably-needs-a-patch-aae8fea5160f"
+  },
+  {
+    "date": "2020-06-02",
     "title": "Rust at OneSignal",
     "link": "https://onesignal.com/blog/rust-at-onesignal/"
   },
   {
+    "date": "2019-10-08",
     "title": "Tonic: gRPC has come to async/await!",
     "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
   },
   {
+    "date": "2018-09-18",
     "title": "Postgres over TLS with postgres and r2d2_postgres · Matthew Mayer's tech blog",
     "link": "https://matthewkmayer.github.io/blag/public/post/postgres-tls/"
   },
   {
+    "date": "2017-01-10",
     "title": "Announcing Alacritty, a GPU-accelerated terminal emulator",
     "link": "http://blog.jwilm.io/announcing-alacritty/"
   }

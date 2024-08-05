@@ -1,10 +1,22 @@
 [
   {
+    "date": "2020-05-05",
     "title": "Wesley Aptekar-Cassels | Notes on Parsing in Rust",
     "link": "https://blog.wesleyac.com/posts/rust-parsing"
   },
   {
+    "date": "2017-11-07",
+    "title": "2008-non-exhaustive - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/2008-non-exhaustive.html"
+  },
+  {
+    "date": "2015-12-07",
     "title": "Language of the Month: Rust, the results - ClickedyClick",
     "link": "https://gergely.imreh.net/blog/2015/12/lotm-rust-results/"
+  },
+  {
+    "date": "2015-11-16",
+    "title": "Rust in Detail, Part 2",
+    "link": "https://nbaksalyar.github.io/2015/11/09/rust-in-detail-2.html"
   }
 ]

@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-04-12",
+    "title": "How to write a type-level mock library in Rust - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/how-to-write-a-type-level-mock-library-in-rust/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "The entrait pattern - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/entrait-pattern/"
+  }
+]

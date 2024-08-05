@@ -1,13 +1,16 @@
 [
   {
+    "date": "2022-01-12",
     "title": "Could Rust be the Future of JavaScript Infrastructure? - The New Stack",
     "link": "https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/"
   },
   {
+    "date": "2020-09-02",
     "title": "AWS introduces Bottlerocket: A Rust language-oriented Linux for containers | ZDNET",
     "link": "https://www.zdnet.com/article/aws-introduces-bottlerocket-a-rust-language-oriented-linux-for-containers/"
   },
   {
+    "date": "2020-03-10",
     "title": "Bottlerocket – Open Source OS for Container Hosting | AWS News Blog",
     "link": "https://aws.amazon.com/blogs/aws/bottlerocket-open-source-os-for-container-hosting/"
   }

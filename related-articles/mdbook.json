@@ -1,42 +1,67 @@
 [
   {
+    "date": "2024-07-03",
     "title": "The Minimal Rust-Wasm Setup for 2024 - dzfrias",
     "link": "https://dzfrias.dev/blog/rust-wasm-minimal-setup/"
   },
   {
+    "date": "2024-05-22",
+    "title": "Free Rust ebooks for Amazon Kindle",
+    "link": "https://rust-ebooks.code-maven.com/"
+  },
+  {
+    "date": "2023-09-27",
+    "title": "Google Online Security Blog: Scaling Rust Adoption Through Training",
+    "link": "https://security.googleblog.com/2023/09/scaling-rust-adoption-through-training.html"
+  },
+  {
+    "date": "2023-09-13",
     "title": "Teaching Rust in 5 days",
     "link": "https://mo8it.com/blog/teaching-rust/"
   },
   {
+    "date": "2022-06-22",
     "title": "James Munns",
     "link": "https://jamesmunns.com/blog/postcard-1-0/"
   },
   {
+    "date": "2022-05-11",
     "title": "James Munns",
     "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
   },
   {
+    "date": "2021-05-19",
     "title": "Plugins in Rust: The Technologies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-tech/"
   },
   {
+    "date": "2021-02-03",
     "title": "James Munns",
     "link": "https://jamesmunns.com/podcast/006-bryan/"
   },
   {
+    "date": "2021-01-13",
     "title": "Introduction - The Little Book of Rust Books",
     "link": "https://lborb.github.io/book/title-page.html"
   },
   {
+    "date": "2020-12-2-",
     "title": "Introduction - The Little Book of Rust Macros",
     "link": "https://veykril.github.io/tlborm/"
   },
   {
+    "date": "2020-09-23",
     "title": "Learning Rust: OMG WTF RS – resources to help you get started with Rust  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/"
   },
   {
+    "date": "2020-05-05",
     "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "I Made A Thing: Markedit · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/markedit/"
   }
 ]

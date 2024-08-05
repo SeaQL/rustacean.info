@@ -1,13 +1,16 @@
 [
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2022-01-12",
     "title": "Simple Metronome - Beijaflor Software",
     "link": "https://beijaflor.io/blog/01-2022/rust-audio-experiments-3/"
   },
   {
+    "date": "2021-12-15",
     "title": "Refactoring to Rust with Lily Mara :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/049-lily-mara/"
   }

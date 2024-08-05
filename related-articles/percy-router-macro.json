@@ -1,10 +1,17 @@
 [
   {
+    "date": "2022-01-12",
     "title": "Could Rust be the Future of JavaScript Infrastructure? - The New Stack",
     "link": "https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2018-09-18",
+    "title": "Isomorphic Desktop Apps with Rust",
+    "link": "https://speice.io/2018/09/isomorphic-apps.html"
   }
 ]

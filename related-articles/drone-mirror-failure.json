@@ -1,9 +1,36 @@
 [
   {
+    "date": "2020-10-21",
+    "title": "Study of std::io::Error",
+    "link": "https://matklad.github.io/2020/10/15/study-of-std-io-error.html"
+  },
+  {
+    "date": "2020-05-19",
+    "title": "Rust: Structuring and handling errors in 2020 - Nick's Blog and Digital Garden",
+    "link": "https://nick.groenen.me/posts/rust-error-handling/"
+  },
+  {
+    "date": "2019-11-26",
+    "title": "Error Handling Survey",
+    "link": "https://blog.yoshuawuyts.com/error-handling-survey/"
+  },
+  {
+    "date": "2018-05-08",
+    "title": "How Mozilla’s Rust dramatically improved our server-side performance | Figma Blog",
+    "link": "https://blog.figma.com/rust-in-production-at-figma-e10a0ec31929"
+  },
+  {
+    "date": "2018-03-13",
+    "title": "Redefining Failure",
+    "link": "https://epage.github.io/blog/2018/03/redefining-failure/"
+  },
+  {
+    "date": "2017-12-05",
     "title": "Failure 0.1.1 released",
     "link": "https://boats.gitlab.io/blog/post/2017-11-30-failure-0-1-1/"
   },
   {
+    "date": "2017-11-21",
     "title": "Announcing Failure",
     "link": "https://boats.gitlab.io/blog/post/2017-11-16-announcing-failure/"
   }

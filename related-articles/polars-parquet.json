@@ -1,49 +1,61 @@
 [
   {
+    "date": "2024-07-03",
     "title": "Polars — Announcing Polars 1.0",
     "link": "https://pola.rs/posts/announcing-polars-1/"
   },
   {
+    "date": "2024-02-07",
     "title": "Polars — Why we have rewritten the string data type",
     "link": "https://pola.rs/posts/polars-string-type/"
   },
   {
+    "date": "2024-01-10",
     "title": "Polars — Polars in Aggregate: Going from 0.19.0 to 0.20.2",
     "link": "https://pola.rs/posts/polars_in_aggregrate-0.20/"
   },
   {
+    "date": "2023-10-25",
     "title": "Analyzing Data 180,000x Faster with Rust",
     "link": "https://willcrichton.net/notes/k-corrset/"
   },
   {
+    "date": "2023-09-06",
     "title": "Views on machine learning in Rust | DeepCausality",
     "link": "https://deepcausality.com/blog/views-on-rust-ml/"
   },
   {
+    "date": "2023-06-21",
     "title": "Fossil Data Platform Rewritten in Rust 🦀",
     "link": "https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html"
   },
   {
+    "date": "2022-12-14",
     "title": "Rust in 2023",
     "link": "https://www.ncameron.org/blog/rust-in-2023/"
   },
   {
+    "date": "2022-11-23",
     "title": "(Re)writing an interpreter in Rust - Danny van Kooten",
     "link": "https://www.dannyvankooten.com/blog/2022-12-rewriting-interpreter-rust/"
   },
   {
+    "date": "2022-09-14",
     "title": "Speeding up incremental Rust compilation with dylibs | Robert Krahn",
     "link": "https://robert.kra.hn/posts/2022-09-09-speeding-up-incremental-rust-compilation-with-dylibs/"
   },
   {
+    "date": "2022-07-20",
     "title": "Pandas vs Polar - A look at performance",
     "link": "https://studioterabyte.nl/en/blog/polars-vs-pandas"
   },
   {
+    "date": "2022-03-16",
     "title": "Introducing Rustler Precompiled - Dashbit Blog",
     "link": "https://dashbit.co/blog/rustler-precompiled"
   },
   {
+    "date": "2021-01-06",
     "title": "Home – NAPI-RS",
     "link": "https://napi.rs"
   }

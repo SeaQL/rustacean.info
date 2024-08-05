@@ -1,6 +1,17 @@
 [
   {
+    "date": "2022-09-21",
     "title": "PostgresML is Moving to Rust for our 2.0 Release – PostgresML",
     "link": "https://postgresml.org/blog/postgresml-is-moving-to-rust-for-our-2.0-release/"
+  },
+  {
+    "date": "2021-01-27",
+    "title": "Index",
+    "link": "https://www.arewelearningyet.com/"
+  },
+  {
+    "date": "2016-08-30",
+    "title": "Index",
+    "link": "http://www.arewelearningyet.com/"
   }
 ]

@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-05-18",
     "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
     "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
   },
   {
+    "date": "2015-06-08",
     "title": "My lint-writing workflow — Llogiq on stuff",
     "link": "https://llogiq.github.io/2015/06/04/workflows.html"
   }

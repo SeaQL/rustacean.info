@@ -1,17 +1,21 @@
 [
   {
+    "date": "2022-07-27",
     "title": "18th of July 2022 to 24th of July 2022 — This week in Slint",
     "link": "https://slint-ui.com/thisweek/2022-07-25.html"
   },
   {
+    "date": "2022-02-09",
     "title": "31st of January 2022 to 6th of February 2022 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2022-02-07.html"
   },
   {
+    "date": "2021-12-01",
     "title": "22nd of November 2021 to 28th of November 2021 ‒ 0.1.5 Release — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-11-29.html"
   },
   {
+    "date": "2021-07-21",
     "title": "Introducing cargo-ui, a GUI for cargo — Slint Blog",
     "link": "https://sixtyfps.io/blog/introducing-cargo-ui.html"
   }

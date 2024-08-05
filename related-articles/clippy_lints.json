@@ -1,34 +1,52 @@
 [
   {
+    "date": "2018-10-09",
     "title": "Declarative Rust static analysis",
     "link": "http://blog.lambdaverse.org/comacro"
   },
   {
+    "date": "2018-06-05",
     "title": "The Future of Clippy - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2018/06/05/the-future-of-clippy-the-rust-linter/"
   },
   {
+    "date": "2018-05-01",
     "title": "Unit Testing | Writing an OS in Rust",
     "link": "https://os.phil-opp.com/unit-testing/"
   },
   {
+    "date": "2018-04-17",
+    "title": "Rust all-hands (dev-tools stuff)",
+    "link": "https://www.ncameron.org/blog/rust-all-hands-dev-tools-stuff/"
+  },
+  {
+    "date": "2018-03-20",
     "title": "Deciding if two types are equal — Llogiq on stuff",
     "link": "https://llogiq.github.io/2018/03/15/types.html"
   },
   {
+    "date": "2018-01-09",
     "title": "Looking in on Rust in 2018 · Bloggedy blog",
     "link": "https://kasma1990.gitlab.io/2018/01/07/looking-in-on-rust-in-2018/"
   },
   {
+    "date": "2017-08-22",
     "title": "Make Docs Into Code — Llogiq on stuff",
     "link": "https://llogiq.github.io/2017/08/20/docs.html"
   },
   {
+    "date": "2017-08-15",
     "title": "These Weeks in Dev-tools #1",
     "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-1/"
   },
   {
+    "date": "2016-02-01",
     "title": "A hundred lints — Llogiq on stuff",
     "link": "https://llogiq.github.io/2016/01/28/hundred-lints.html"
+  },
+  {
+    "date": "2015-08-17",
+    "title": "An Unfortunate Coercion — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2015/08/14/coercion.html"
   }
 ]

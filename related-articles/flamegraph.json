@@ -1,85 +1,111 @@
 [
   {
+    "date": "2024-06-19",
     "title": "Optimizing Rust code with Flamegraph and DHAT – a practical example with Dust DDS – S2E Software Systems",
     "link": "https://www.s2e-systems.com/2024/06/13/optimizing_rust_code/"
   },
   {
+    "date": "2024-06-19",
     "title": "Zero to Performance Hero: How to Benchmark and Profile Your eBPF Code in Rust - InfoQ",
     "link": "https://www.infoq.com/articles/benchmark-profile-ebpf-code/"
   },
   {
+    "date": "2024-05-29",
     "title": "Avoiding Over-Reliance on `mpsc` channels in Rust - Juxhin Dyrmishi Brigjaj | Digital Horror",
     "link": "https://blog.digital-horror.com/blog/how-to-avoid-over-reliance-on-mpsc/"
   },
   {
+    "date": "2024-05-15",
     "title": "Blazingly Fast Linked Lists",
     "link": "https://dygalo.dev/blog/blazingly-fast-linked-lists/"
   },
   {
+    "date": "2024-05-01",
     "title": "performance optimization with flamegraph and divan - hēg denu - Hayden\n\t\tStainsby",
     "link": "https://hegdenu.net/posts/performance-optimization-flamegraph-divan/"
   },
   {
+    "date": "2024-02-21",
     "title": "Rust Tooling: 8 tools that will increase your productivity",
     "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
   },
   {
+    "date": "2024-01-31",
     "title": "Process spawning performance in Rust | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/2024/01/28/process-spawning-performance-in-rust.html"
   },
   {
+    "date": "2023-12-06",
     "title": "Profiling Rust programs the easy way | nicole@web",
     "link": "https://ntietz.com/blog/profiling-rust-programs-the-easy-way/"
   },
   {
+    "date": "2023-07-05",
+    "title": "The magic of dependency resolution | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/the-magic-of-dependency-resolution/"
+  },
+  {
+    "date": "2023-04-12",
     "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
   },
   {
+    "date": "2023-03-15",
     "title": "Applying 5 million pixel updates per second with Rust &amp; wgpu",
     "link": "https://maxisom.me/posts/applying-5-million-pixel-updates-per-second"
   },
   {
+    "date": "2022-12-14",
     "title": "Data-driven performance optimization with Rust and Miri | by Keaton Brandt | Source and Buggy | Medium",
     "link": "https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35"
   },
   {
+    "date": "2021-10-20",
     "title": "Making slow Rust code fast | patrickfreed's blog",
     "link": "https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html"
   },
   {
+    "date": "2021-09-15",
     "title": "Zenoh performance: a stroll in Rust async wonderland · Zenoh - pub/sub, geo distributed storage, query",
     "link": "https://zenoh.io/blog/2021-07-13-zenoh-performance-async/"
   },
   {
+    "date": "2021-09-01",
     "title": "GSoC 2021, GA4GH and htsget-rs | UMCCR Genomics Platform Group",
     "link": "https://umccr.org/blog/htsget-rs/"
   },
   {
+    "date": "2021-08-18",
     "title": "Renato Athaydes",
     "link": "https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html"
   },
   {
+    "date": "2021-03-03",
     "title": "Always-On Benchmarking In Rust. To kick-off this blog, we are going to… | by Leonardo Yvens | Edge &amp; Node Engineering | Medium",
     "link": "https://medium.com/edge-node-engineering/always-on-benchmarking-in-rust-d23f2bac1c1d"
   },
   {
+    "date": "2021-01-27",
     "title": "Automatic Flamegraphs for Benchmarks in Rust · Jibbow's Blog (by Andreas Zimmerer)",
     "link": "https://www.jibbow.com/posts/criterion-flamegraphs/"
   },
   {
+    "date": "2020-11-25",
     "title": "Optimizing Benchpress - nodebb",
     "link": "https://blog.nodebb.org/optimizing-benchpress/"
   },
   {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
   },
   {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust"
   },
   {
+    "date": "2020-03-03",
     "title": "Cheap tricks for high-performance Rust - Pascal’s Scribbles",
     "link": "https://deterministic.space/high-performance-rust.html"
   }

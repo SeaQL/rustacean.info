@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2019-04-30",
+    "title": "Testing | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/testing/"
+  },
+  {
+    "date": "2018-06-19",
+    "title": "Integration Tests | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/integration-tests/"
+  }
+]

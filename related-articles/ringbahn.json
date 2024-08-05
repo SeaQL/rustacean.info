@@ -1,13 +1,16 @@
 [
   {
+    "date": "2020-07-07",
     "title": "Ringbahn II: the central state machine",
     "link": "https://without.boats/blog/ringbahn-ii/"
   },
   {
+    "date": "2020-06-16",
     "title": "Two Memory Bugs From Ringbahn",
     "link": "https://without.boats/blog/two-memory-bugs-from-ringbahn/"
   },
   {
+    "date": "2020-06-02",
     "title": "Ringbahn: a safe, ergonomic API for io-uring in Rust",
     "link": "https://boats.gitlab.io/blog/post/ringbahn/"
   }

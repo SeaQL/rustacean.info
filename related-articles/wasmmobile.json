@@ -1,21 +1,41 @@
 [
   {
+    "date": "2024-05-01",
     "title": "GOSIM Conference 2024 - MAY 6, 2024 DELFT, THE NETHERLANDS",
     "link": "https://europe2024.gosim.org/"
   },
   {
+    "date": "2022-11-02",
+    "title": "Rust microservices in server-side WebAssembly - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-microservices-server-side-webassembly/"
+  },
+  {
+    "date": "2021-10-13",
     "title": "Incorporating JavaScript into a Rust app",
     "link": "https://www.secondstate.io/articles/embed-javascript-in-rust/"
   },
   {
+    "date": "2021-07-28",
+    "title": "Rust and WebAssembly Serverless Functions in Vercel - The New Stack",
+    "link": "https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/"
+  },
+  {
+    "date": "2021-07-07",
     "title": "Manage WebAssembly Apps Using Container and Kubernetes Tools",
     "link": "https://www.secondstate.io/articles/manage-webassembly-apps-in-wasmedge-using-docker-tools/"
   },
   {
+    "date": "2020-09-02",
+    "title": "How to use Rust + WebAssembly to Perform Serverless Machine Learning and Data Visualization in the Cloud",
+    "link": "https://www.freecodecamp.org/news/rust-webassembly-serverless-tencent-cloud/"
+  },
+  {
+    "date": "2020-08-11",
     "title": "🦕 Tutorial: Deno Apps with WebAssembly, Rust, and WASI",
     "link": "https://www.secondstate.io/articles/deno-webassembly-rust-wasi/"
   },
   {
+    "date": "2020-07-14",
     "title": "⚙️ Machine Learning: K-means clustering and visualization",
     "link": "https://www.secondstate.io/articles/machine-learning/"
   }

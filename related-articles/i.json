@@ -1,0 +1,582 @@
+[
+  {
+    "date": "2024-07-17",
+    "title": "Global Registration",
+    "link": "https://donsz.nl/blog/global-registration/"
+  },
+  {
+    "date": "2024-07-17",
+    "title": "Fusion Engineering with Jakub Valtar - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e06-fusion-engineering/"
+  },
+  {
+    "date": "2024-06-12",
+    "title": "How to build a Custom Benchmarking Harness in Rust | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/benchmarking/rust/custom-harness/"
+  },
+  {
+    "date": "2024-06-05",
+    "title": "layoutparser_ort - Rust",
+    "link": "https://docs.rs/layoutparser-ort"
+  },
+  {
+    "date": "2024-05-15",
+    "title": "Iroh 0.16 - A Better Client! - Iroh",
+    "link": "https://iroh.computer/blog/iroh-0-16-a-better-client"
+  },
+  {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Garbage Collection Without Unsafe Code",
+    "link": "https://fitzgeraldnick.com/2024/02/06/safe-gc.html"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "Playing with Nom and parser combinators · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2024/01/playing-with-nom-and-parser-combinators/"
+  },
+  {
+    "date": "2024-01-17",
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "avatar.png",
+    "link": "https://tuckersiemens.com/posts/avatar-png/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Iggy.rs - building message streaming in Rust",
+    "link": "https://blog.iggy.rs/posts/building-message-streaming-in-rust/"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "Write a Toy VPN in Rust",
+    "link": "https://write.yiransheng.com/vpn"
+  },
+  {
+    "date": "2023-12-06",
+    "title": "2023-11-24: Building a Hypercube Interpolator (in Rust) - James Logan",
+    "link": "https://jlogan03.github.io/interpn/"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "Analyzing Data 180,000x Faster with Rust",
+    "link": "https://willcrichton.net/notes/k-corrset/"
+  },
+  {
+    "date": "2023-10-18",
+    "title": "This Month in Rust OSDev: September 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-09/"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "How we reduced the memory usage of our Rust extension by 4x",
+    "link": "https://blog.kolo.app/optimising-rust-memory.html"
+  },
+  {
+    "date": "2023-07-26",
+    "title": "A gentle introduction to IMAP",
+    "link": "https://duesee.dev/p/a-gentle-introduction-to-imap/"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "Nine Rules for Running Rust on the Web and on Embedded | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2"
+  },
+  {
+    "date": "2023-06-14",
+    "title": "Iterating on Testing in Rust",
+    "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
+  },
+  {
+    "date": "2023-05-17",
+    "title": "Build a grep CLI app in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/02/rust-grep-cli-app/"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
+  },
+  {
+    "date": "2023-04-05",
+    "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 1) | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-1-c0973092e0a3"
+  },
+  {
+    "date": "2023-03-15",
+    "title": "Rewriting the CLI in Rust: Was It Worth It?",
+    "link": "https://blog.railway.app/p/rust-cli-rewrite"
+  },
+  {
+    "date": "2023-03-08",
+    "title": "Trait transformers (send bounds, part 3) · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2023/03/03/trait-transformers-send-bounds-part-3/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "date": "2023-02-15",
+    "title": "What's New in Rust 1.65, 1.66, and 1.67 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/rust-1.65-1.66-1.67/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "domain-specific error macros",
+    "link": "https://blog.yoshuawuyts.com/ensure-macros/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Youmu | Finding Nice MD5s Using Rust",
+    "link": "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
+  },
+  {
+    "date": "2023-01-11",
+    "title": "Rust vs C++ Formatting | Barry's C++ Blog",
+    "link": "https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "WCT | HexoSynth 2022 - Devlog #5 - Signal Monitors and HexoTK Bugfixing",
+    "link": "https://m8geil.de/posts/hexosynth-5/"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "When rustc explodes",
+    "link": "https://fasterthanli.me/articles/when-rustc-explodes"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "Pathfinding in Rust: A tutorial with examples - LogRocket Blog",
+    "link": "https://blog.logrocket.com/pathfinding-rust-tutorial-examples/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "The entrait pattern - Audun Halland",
+    "link": "https://audunhalland.github.io/blog/entrait-pattern/"
+  },
+  {
+    "date": "2022-06-01",
+    "title": "Impl-tools: beyond derive - KAS blog",
+    "link": "https://kas-gui.github.io/blog/impl-tools.html"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "Audio Libraries Considered Challenging | Tesselode Labs",
+    "link": "https://tesselode.github.io/articles/audio-libraries-considered-challenging/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "Unlocking greater performance in the MongoDB Rust Driver via raw BSON and zero copy deserialization | patrickfreed's blog",
+    "link": "https://patrickfreed.github.io/rust/2022/04/27/unlocking-greater-performance-in-the-mongodb-rust-driver-via-raw-bson-and-zero-copy-deserialization.html"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "id3 with Roel :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/060-roel/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "Type-Driven Development",
+    "link": "https://duesee.dev/p/type-driven-development/"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "New year, new release! – gtk-rs",
+    "link": "https://gtk-rs.org/blog/2022/01/16/new-release.html"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Mapping my walks with OSRM and Rust",
+    "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Bringing include_dir Into the Modern Era · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/bringing-include_dir-into-the-modern-era/"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Rust is more portable than C for pngquant/libimagequant",
+    "link": "https://pngquant.org/rust.html"
+  },
+  {
+    "date": "2021-12-22",
+    "title": "Rust Pin 进阶 — Folyd",
+    "link": "https://folyd.com/blog/rust-pin-advanced/"
+  },
+  {
+    "date": "2021-11-24",
+    "title": "http://cmoran.xyz/writing/adventures_in_photogrammetry",
+    "link": "http://cmoran.xyz/writing/adventures_in_photogrammetry"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "diziet | Wanted: Rust sync web framework",
+    "link": "https://diziet.dreamwidth.org/9336.html"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Rust programs written entirely in Rust · sunfishcode's blog",
+    "link": "https://blog.sunfishcode.online/rust-programs-entirely-in-rust/"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Word Segmentation with Rust | Instant Domains",
+    "link": "https://instantdomainsearch.com/engineering/instant-word-segmentation-with-rust"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "My first Rust crate, pretend | Sfiet_Konstantin’s blog",
+    "link": "https://sfietkonstantin.github.io/2021/05/10/First-Crate-Pretend.html"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "First-Class I/O · sunfishcode's blog",
+    "link": "https://blog.sunfishcode.online/first-class-io/"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The magical applications of Zero-Sized Types in Rust - Hardmo.de",
+    "link": "https://www.hardmo.de/article/2021-03-14-zst-proof-types.md"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Smerity.com: Zero dependency images (of chaos) in Rust",
+    "link": "https://state.smerity.com/smerity/state/01EYB6YQ5T2KFSC1PF55A3B8DG"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Is Rust a Functional Programming Language? | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2021-02-03_is-rust-fp/"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Release of v0.7 - gfx-rs nuts and bolts",
+    "link": "https://gfx-rs.github.io/2021/02/02/release-0.7.html"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Parsing PDF Documents in Rust · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/parsing-pdfs-in-rust/?utm_source=reddit&utm_medium=social&utm_campaign=parsing-pdf-documents"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "insta snapshots - Visual Studio Marketplace",
+    "link": "https://marketplace.visualstudio.com/items?itemName=mitsuhiko.insta"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "Insta Snapshots",
+    "link": "https://insta.rs/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "Introducing xd(1) | delan azabani",
+    "link": "https://www.azabani.com/2020/11/15/xd.html"
+  },
+  {
+    "date": "2020-10-14",
+    "title": "Patterns of fallible iteration | More Stina Blog!",
+    "link": "https://morestina.net/blog/1607/fallible-iteration"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Revisiting a 'smaller Rust'",
+    "link": "https://without.boats/blog/revisiting-a-smaller-rust/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Learning Rust the Open Source Way",
+    "link": "https://bitsbybrad.com/2020-09-29-learning-rust/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Throw Away Code | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/09/20/throw-away-code.html"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "CCS811 Indoor Air Quality Sensor Driver in Rust | Eldruin's blog",
+    "link": "https://blog.eldruin.com/ccs811-indoor-air-quality-sensor-driver-in-rust/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Supporting Linux kernel development in Rust [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "First thoughts on Rust vs OCaml",
+    "link": "https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Countdown problem in Rust | Memetic Musings",
+    "link": "https://amitdev.github.io/posts/2020-07-27-countdown-rust/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Conway's Game of Life on the NES in Rust",
+    "link": "https://gridbugs.org/conways-game-of-life-on-the-nes-in-rust/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Writing Python inside your Rust code — Part 4 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-4/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "How to organize your Rust tests - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Writing Python inside your Rust code — Part 3 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-3/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "How to write CRaP Rust code - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "(Almost) Lockless Stream Buffering - Kyle Simpson",
+    "link": "https://mcfelix.me/blog/shared-buffers/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Building a Rust Web Browser",
+    "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Writing Python inside your Rust code — Part 1 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-1/"
+  },
+  {
+    "date": "2020-03-03",
+    "title": "A look into ways to implement and share data with interrupt handlers in Rust (Update 1) | The subconscious mumblings of therealprof",
+    "link": "https://therealprof.github.io/blog/interrupt-comparison/"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Async HTTP",
+    "link": "https://blog.yoshuawuyts.com/async-http/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "date": "2019-08-12",
+    "title": "followup_hkt_emu.md · GitHub",
+    "link": "https://gist.github.com/edmundsmith/e09d5f473172066c0023ef84ee830cad"
+  },
+  {
+    "date": "2019-08-06",
+    "title": "Rust reverses research ruin. 31–07–2019 | by Benjamin Blundell | Medium",
+    "link": "https://medium.com/@me_26124/rust-reverses-research-ruin-88641c11a99f"
+  },
+  {
+    "date": "2019-08-06",
+    "title": "Understanding Rust Through AVL Trees",
+    "link": "https://francismurillo.github.io/2019-07-31-Understanding-Rust-Through-AVL-Trees/"
+  },
+  {
+    "date": "2019-06-04",
+    "title": "Poking the macOS IO Kit with Rust · svartalf",
+    "link": "https://svartalf.info/posts/2019-05-31-poking-the-macos-io-kit-with-rust/"
+  },
+  {
+    "date": "2019-05-21",
+    "title": "Rust In Avast | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/05/19/rust-in-avast.html"
+  },
+  {
+    "date": "2019-02-26",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-15/"
+  },
+  {
+    "date": "2019-02-05",
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "date": "2018-11-20",
+    "title": "Program Synthesis is Possible in Rust",
+    "link": "http://fitzgeraldnick.com/2018/11/15/program-synthesis-is-possible-in-rust.html"
+  },
+  {
+    "date": "2018-11-13",
+    "title": "Running Rust natively in AWS Lambda and testing it locally | by Bernardo Belchior | Medium",
+    "link": "https://medium.com/@bernardo.belchior1/running-rust-natively-in-aws-lambda-and-testing-it-locally-57080421426d"
+  },
+  {
+    "date": "2018-08-07",
+    "title": "intl_pluralrules: A Rust Crate for Handling Plural Forms with CLDR Plural Rules – Mozilla L10N",
+    "link": "https://blog.mozilla.org/l10n/2018/08/03/intl_pluralrules-a-rust-crate-for-handling-plural-forms-with-cldr-plural-rules/"
+  },
+  {
+    "date": "2018-06-26",
+    "title": "Arc More Atomic | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2018/06/24/arc-more-atomic.html"
+  },
+  {
+    "date": "2018-06-05",
+    "title": "im - Rust",
+    "link": "https://docs.rs/im"
+  },
+  {
+    "date": "2018-04-17",
+    "title": "Safe Intrusive Collections with Pinning",
+    "link": "https://www.ralfj.de/blog/2018/04/10/safe-intrusive-collections-with-pinning.html"
+  },
+  {
+    "date": "2018-04-17",
+    "title": "Rust pattern: Rooting an Rc handle · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2018/04/16/rust-pattern-rooting-an-rc-handle/"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "Porting Rust to WebAssembly · udoprog",
+    "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
+  },
+  {
+    "date": "2018-01-30",
+    "title": "Karol Kuczmarski's Blog – Unfolding a Stream of paginated&nbsp;items",
+    "link": "http://xion.io/post/code/rust-unfold-pagination.html"
+  },
+  {
+    "date": "2017-10-10",
+    "title": "Wiki - AnOpinionatedGuideToRustWebServers",
+    "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "Evolution of a simple `du -s` clone - blog by durka",
+    "link": "https://durka.github.io/blog/2017/08/06/du-evolution.html"
+  },
+  {
+    "date": "2017-04-11",
+    "title": "Karol Kuczmarski's Blog – Iteration patterns for Result &amp;&nbsp;Option",
+    "link": "http://xion.io/post/code/rust-iter-patterns.html"
+  },
+  {
+    "date": "2017-04-04",
+    "title": "Writing a Raytracer in Rust - Part 1 - First Rays | bheisler.github.io",
+    "link": "https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/"
+  },
+  {
+    "date": "2017-01-10",
+    "title": "The image library is now pure Rust · Piston",
+    "link": "http://blog.piston.rs/2017/01/08/the-image-library-is-now-pure-rust/"
+  },
+  {
+    "date": "2017-01-03",
+    "title": "Elegant Library APIs in Rust - Pascal’s Scribbles",
+    "link": "https://scribbles.pascalhertleif.de/elegant-apis-in-rust.html"
+  },
+  {
+    "date": "2016-10-04",
+    "title": "Itertools 0.5.0",
+    "link": "https://bluss.github.io/rust/2016/09/26/itertools-0.5.0/"
+  },
+  {
+    "date": "2016-09-27",
+    "title": "Itertools 0.5.0",
+    "link": "http://bluss.github.io/rust/2016/09/26/itertools-0.5.0/"
+  },
+  {
+    "date": "2016-08-02",
+    "title": "Karol Kuczmarski's Blog – for loops in&nbsp;Rust",
+    "link": "http://xion.io/post/code/rust-for-loop.html"
+  },
+  {
+    "date": "2015-06-29",
+    "title": "Effectively Using Iterators In Rust",
+    "link": "http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "Rust Iterator Cheat Sheet",
+    "link": "https://danielkeep.github.io/itercheat_baked.html"
+  },
+  {
+    "date": "2015-04-27",
+    "title": "Releasing itertools 0.3.0",
+    "link": "http://bluss.github.io/rust/2015/04/25/releasing-itertools.0.3.0/"
+  },
+  {
+    "date": "2014-12-15",
+    "title": "24 days of Rust - image | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-image/"
+  },
+  {
+    "date": "2014-12-08",
+    "title": "24 days of Rust - itertools | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-itertools/"
+  }
+]

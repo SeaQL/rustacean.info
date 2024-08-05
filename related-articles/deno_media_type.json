@@ -1,26 +1,57 @@
 [
   {
+    "date": "2022-08-10",
     "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
   },
   {
+    "date": "2022-06-15",
     "title": "Local Async Executors and Why They Should be the Default",
     "link": "https://maciej.codes/2022-06-09-local-async.html"
   },
   {
+    "date": "2022-03-16",
+    "title": "Console devtools podcast with Michelle Lim &amp; Zach Lloyd",
+    "link": "https://console.dev/podcast/s02e10-terminal-tools-michell-lim-zach-lloyd-warp/"
+  },
+  {
+    "date": "2022-01-12",
     "title": "Could Rust be the Future of JavaScript Infrastructure? - The New Stack",
     "link": "https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/"
   },
   {
+    "date": "2021-08-18",
     "title": "Paul Butler – Calling WebAssembly from Rust",
     "link": "https://paulbutler.org/2021/calling-webassembly-from-rust/"
   },
   {
+    "date": "2021-06-02",
+    "title": "Creating a Deno plugin with Rust | learning as we go",
+    "link": "https://alexandrempsantos.com/deno/creating-a-deno-plugin/"
+  },
+  {
+    "date": "2021-05-12",
     "title": "My second impression of Rust and why I think it's a great general-purpose language! | Technorage",
     "link": "https://deepu.tech/my-second-impression-of-rust/"
   },
   {
+    "date": "2021-05-05",
     "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "Deno in 2020",
+    "link": "https://deno.land/posts/deno-in-2020"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "🦕 Tutorial: Deno Apps with WebAssembly, Rust, and WASI",
+    "link": "https://www.secondstate.io/articles/deno-webassembly-rust-wasi/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
   }
 ]

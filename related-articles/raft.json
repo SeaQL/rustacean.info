@@ -1,17 +1,21 @@
 [
   {
+    "date": "2021-12-22",
     "title": "Rust in Production: Astropad",
     "link": "https://serokell.io/blog/rust-in-production-astropad"
   },
   {
+    "date": "2021-08-10",
     "title": "Rust in Production: Qovery",
     "link": "https://serokell.io/blog/rust-in-production-qovery"
   },
   {
+    "date": "2021-04-14",
     "title": "Rust in Production: MeiliSearch",
     "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
+    "date": "2020-06-23",
     "title": "Rust at CNCF | CNCF",
     "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
   }

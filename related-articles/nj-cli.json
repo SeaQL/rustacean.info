@@ -1,17 +1,21 @@
 [
   {
+    "date": "2021-12-29",
     "title": "Announcing NAPI-RS v2 – NAPI-RS",
     "link": "https://napi.rs/blog/announce-v2"
   },
   {
+    "date": "2021-01-06",
     "title": "Home – NAPI-RS",
     "link": "https://napi.rs"
   },
   {
+    "date": "2020-10-14",
     "title": "Supercharge your Electron apps with Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/supercharge-your-electron-apps-with-rust/"
   },
   {
+    "date": "2020-04-29",
     "title": "Improving Node.js performance using Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-node-js-a-match-made-in-heaven/"
   }

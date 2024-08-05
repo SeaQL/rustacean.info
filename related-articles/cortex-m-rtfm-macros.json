@@ -1,6 +1,12 @@
 [
   {
+    "date": "2020-02-04",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-23/"
+  },
+  {
+    "date": "2017-08-01",
+    "title": "RTFM v2: simpler, less overhead and more device support | Embedded in Rust",
+    "link": "http://blog.japaric.io/rtfm-v2/"
   }
 ]

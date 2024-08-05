@@ -1,17 +1,21 @@
 [
   {
+    "date": "2022-12-28",
     "title": "cargo-semver-checks today and in 2023",
     "link": "https://predr.ag/blog/cargo-semver-checks-today-and-in-2023/"
   },
   {
+    "date": "2021-03-31",
     "title": "A look back at asynchronous Rust. In 2013, I discovered the Rust… | by tomaka | Medium",
     "link": "https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c"
   },
   {
+    "date": "2021-03-17",
     "title": "libp2p tutorial: Build a peer-to-peer app in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/libp2p-tutorial-build-a-peer-to-peer-app-in-rust/"
   },
   {
+    "date": "2020-03-24",
     "title": "Announcing Rust IPFS, and a call for contributors | IPFS Blog &amp; News",
     "link": "https://blog.ipfs.io/2020-03-18-announcing-rust-ipfs/"
   }

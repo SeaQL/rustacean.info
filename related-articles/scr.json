@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2022-08-31",
+    "title": "Jonas Hietala: Rewriting my blog in Rust for fun and profit",
+    "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "The Magic of zerocopy",
+    "link": "https://swatinem.de/blog/magic-zerocopy/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "Web Scraping in Rust with Reqwest and Scraper | ScrapingBee",
+    "link": "https://www.scrapingbee.com/blog/web-scraping-rust/"
+  },
+  {
+    "date": "2022-05-04",
+    "title": "Domenico Luciani - Save 5 minutes web scraping with Rust",
+    "link": "https://domenicoluciani.com/2021/04/30/save-5-minutes-web-scraping-with-rust.html"
+  },
+  {
+    "date": "2019-10-15",
+    "title": "The Communications System: Part 2 · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/comms-part-2/"
+  }
+]

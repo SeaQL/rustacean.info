@@ -1,70 +1,122 @@
 [
   {
+    "date": "2024-06-19",
     "title": "Matic with Eric Seppanen - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s02e04-matic/"
   },
   {
+    "date": "2024-03-27",
+    "title": "reqwest v0.12 - seanmonstar",
+    "link": "https://seanmonstar.com/blog/reqwest-v012/"
+  },
+  {
+    "date": "2024-02-07",
     "title": "Let futures be futures",
     "link": "https://without.boats/blog/let-futures-be-futures/"
   },
   {
+    "date": "2024-01-17",
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "date": "2023-12-06",
     "title": "Fredrik Park | Making a secure Axum route",
     "link": "https://blog.sedrik.se/posts/secure-axum"
   },
   {
+    "date": "2023-09-20",
     "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/async/"
   },
   {
+    "date": "2022-06-08",
     "title": "Hyper vs Rocket - Low Level vs Batteries included",
     "link": "https://www.shuttle.rs/blog/2022/06/01/hyper-vs-rocket"
   },
   {
+    "date": "2021-11-17",
     "title": "Tag1 Joins the Rust Foundation as the First Silver Member | Tag1 Consulting",
     "link": "https://www.tag1consulting.com/blog/tag1-joins-rust-foundation-first-silver-member"
   },
   {
+    "date": "2021-11-10",
     "title": "Hyper with Sean McArthur :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/045-sean-arthur/"
   },
   {
+    "date": "2021-10-27",
     "title": "IntelliJ Rust Changelog #158",
     "link": "https://intellij-rust.github.io/2021/10/25/changelog-158.html"
   },
   {
+    "date": "2021-08-18",
+    "title": "TrueLayer Blog: Adding middleware support to Rust reqwest",
+    "link": "https://truelayer.com/blog/adding-middleware-support-to-rust-reqwest"
+  },
+  {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-02-17",
     "title": "The Tokio Upgrade from 0.2 to 1.x · The Fly Blog",
     "link": "https://fly.io/blog/the-tokio-1-x-upgrade/"
   },
   {
+    "date": "2020-09-30",
+    "title": "Benchmarking vol. 2: Pitting Actix against Rocket v0.4 and v0.5-dev – Matěj Laitl a.k.a. strohel – Technical Blog",
+    "link": "https://matej.laitl.cz/bench-actix-rocket/"
+  },
+  {
+    "date": "2020-09-16",
     "title": "What I Learnt from Benchmarking Http4k, Ktor (Kotlin) and Actix v2, v3 (Rust) Microservices – Matěj Laitl a.k.a. strohel – Technical Blog",
     "link": "https://matej.laitl.cz/bench-rust-kotlin-microservices/"
   },
   {
+    "date": "2020-08-04",
+    "title": "Beginner's guide to Error Handling in Rust",
+    "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
+  },
+  {
+    "date": "2020-06-23",
     "title": "Managing Rust bloat with Github Actions",
     "link": "https://tomforb.es/managing-rust-bloat-with-github-actions/"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2020-04-29",
     "title": "Reducing the size of a Rust GStreamer plugin",
     "link": "https://www.collabora.com/news-and-blog/blog/2020/04/28/reducing-size-rust-gstreamer-plugin/"
   },
   {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "date": "2019-04-09",
     "title": "A Basic Web Application with Rust and Actix-web - zupzup",
     "link": "https://zupzup.org/rust-webapp/"
   },
   {
+    "date": "2018-01-09",
     "title": "Web Scraping With Rust. In this post I’m going to explore web… | by Kade Killary | codeburst",
     "link": "https://codeburst.io/web-scraping-in-rust-881b534a60f7"
+  },
+  {
+    "date": "2017-05-23",
+    "title": "My first PR for a Rust project. I’ve been doing a lot of Rust recently… | by Steve Robinson | Adventures in Rust | Medium",
+    "link": "https://medium.com/adventures-in-rust/my-first-pr-for-a-rust-project-364d8c02220b"
   }
 ]

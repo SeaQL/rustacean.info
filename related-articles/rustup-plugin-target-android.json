@@ -1,21 +1,41 @@
 [
   {
+    "date": "2018-01-09",
     "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
     "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
   },
   {
+    "date": "2017-07-11",
     "title": "How Rust is tested",
     "link": "https://brson.github.io/2017/07/10/how-rust-is-tested"
   },
   {
+    "date": "2017-05-30",
+    "title": "Debug Rust on Windows with Visual Studio Code and the MSVC Debugger",
+    "link": "https://www.brycevandyk.com/debug-rust-on-windows-with-visual-studio-code-and-the-msvc-debugger/"
+  },
+  {
+    "date": "2017-02-28",
+    "title": "Deploying Rust in a large codebase | by Ralph Giles | Mozilla Tech | Medium",
+    "link": "https://medium.com/@rillian/deploying-rust-in-a-large-codebase-7e50328074e8"
+  },
+  {
+    "date": "2017-01-31",
+    "title": "Mitigating Underhandedness: Clippy! - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/01/21/mitigating-underhandedness-clippy/"
+  },
+  {
+    "date": "2016-10-18",
     "title": "How Rust Do?",
     "link": "http://blog.jfo.click/how-rust-do/"
   },
   {
+    "date": "2016-05-30",
     "title": "The Path to Rust :: Jon Gjengset",
     "link": "https://thesquareplanet.com/blog/the-path-to-rust/"
   },
   {
+    "date": "2016-05-16",
     "title": "articles - fancy rust development with emacs",
     "link": "http://julienblanchard.com/2016/fancy-rust-development-with-emacs/"
   }

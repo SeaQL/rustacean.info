@@ -1,13 +1,21 @@
 [
   {
+    "date": "2022-12-21",
     "title": "How to build a Rust API with the builder pattern - LogRocket Blog",
     "link": "https://blog.logrocket.com/build-rust-api-builder-pattern/"
   },
   {
+    "date": "2022-05-18",
+    "title": "Asteracea (as of right now) 🌼 | Abstraction Haven",
+    "link": "https://blog.schichler.dev/posts/Asteracea/"
+  },
+  {
+    "date": "2020-10-14",
     "title": "Optional parameters in Rust – Vidify",
     "link": "https://vidify.org/blog/rust-parameters/"
   },
   {
+    "date": "2020-08-11",
     "title": "Possibly one step towards named arguments in Rust",
     "link": "https://yoric.github.io/post/rust-named-arguments/"
   }

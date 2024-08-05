@@ -1,46 +1,127 @@
 [
   {
+    "date": "2024-04-10",
+    "title": "Working with OpenAPI using Rust",
+    "link": "https://www.shuttle.rs/blog/2024/04/04/using-openapi-rust"
+  },
+  {
+    "date": "2023-10-04",
     "title": "Rust Vs Go: A Hands-On Comparison",
     "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
   },
   {
+    "date": "2023-10-04",
     "title": "Send the logs of your Shuttle-powered backend to Datadog | Roberto Huertas",
     "link": "https://robertohuertas.com/2023/09/30/shuttle-datadog-logs/"
   },
   {
+    "date": "2023-06-28",
     "title": "Auto-Generating &amp; Validating OpenAPI Docs in Rust: A Streamlined Approach with Utoipa and Schemathesis – Identeco",
     "link": "https://identeco.de/en/blog/generating_and_validating_openapi_docs_in_rust/"
   },
   {
+    "date": "2023-01-04",
+    "title": "From PHP to Rust: Migrating a REST API between these two languages. (Part I)",
+    "link": "https://blog.equationlabs.io/from-php-to-rust-migrating-a-rest-api-between-these-two-languages-part-i"
+  },
+  {
+    "date": "2022-12-28",
     "title": "Rust visitor pattern and efficient DataFusion query federation | Splitgraph",
     "link": "https://www.splitgraph.com/blog/datafusion-filter-expr-visitor"
   },
   {
+    "date": "2022-12-14",
+    "title": "Composing an observable Rust application - LogRocket Blog",
+    "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
+  },
+  {
+    "date": "2022-11-02",
+    "title": "Rust microservices in server-side WebAssembly - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-microservices-server-side-webassembly/"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "Insights of Porting Hugging Face Rust Tokenizers to WASM",
+    "link": "https://blog.mithrilsecurity.io/porting-tokenizers-to-wasm/"
+  },
+  {
+    "date": "2022-05-04",
+    "title": "Building a WebAssembly-powered serverless platform",
+    "link": "https://blog.scottlogic.com/2022/04/16/wasm-faas.html"
+  },
+  {
+    "date": "2022-04-06",
     "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
     "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
   },
   {
+    "date": "2021-11-17",
+    "title": "Monitoring Rust web application with Prometheus and Grafana · Roman Kudryashov's tech blog",
+    "link": "https://romankudryashov.com/blog/2021/11/monitoring-rust-web-application/"
+  },
+  {
+    "date": "2021-09-22",
     "title": "Full-stack Rust: A complete tutorial with examples - LogRocket Blog",
     "link": "https://blog.logrocket.com/full-stack-rust-a-complete-tutorial-with-examples/"
   },
   {
+    "date": "2021-07-07",
     "title": "Rust on the front-end",
     "link": "https://blog.frankel.ch/start-rust/5/"
   },
   {
+    "date": "2021-06-16",
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 4) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt4/"
+  },
+  {
+    "date": "2021-05-12",
     "title": "Building a REST and Web Socket API with Actix and Rust | AGM Projects",
     "link": "https://agmprojects.com/blog/building-a-rest-and-web-socket-api-with-actix.html"
   },
   {
+    "date": "2021-02-03",
+    "title": "Exploring WebSocket with Rust and Tide - Javier's personal blog",
+    "link": "https://javierviola.com/post/exploring-websocket-with-rust-and-tide/"
+  },
+  {
+    "date": "2020-10-14",
+    "title": "Deploying a Rust HTTP server to DigitalOcean App Platform | (p)retired",
+    "link": "https://pretired.dazwilkin.com/posts/201008/"
+  },
+  {
+    "date": "2020-07-14",
     "title": "⚙️ Machine Learning: K-means clustering and visualization",
     "link": "https://www.secondstate.io/articles/machine-learning/"
   },
   {
+    "date": "2019-09-24",
+    "title": "Top-Level Infrastructure · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/top-level-infrastructure/"
+  },
+  {
+    "date": "2018-10-16",
     "title": "Serverless Rust with Cloudflare Workers",
     "link": "https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/"
   },
   {
+    "date": "2018-08-14",
+    "title": "Tower Web — A new web framework for Rust | by Carl Lerche | Medium",
+    "link": "https://medium.com/@carllerche/tower-web-a-new-web-framework-for-rust-e2912856851b"
+  },
+  {
+    "date": "2018-03-06",
     "title": "Writing a Microservice in Rust – Peter Goldsborough",
     "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
+  },
+  {
+    "date": "2017-03-07",
+    "title": "Coding with glee: My shot at RESTful Microservices in Rust - Part 1",
+    "link": "https://codingwithglee.blogspot.de/2017/02/my-shot-at-restful-microservices-in.html"
+  },
+  {
+    "date": "2015-08-24",
+    "title": "Dissecting Crates.io: Bare Minimum Mirror - gmjosack",
+    "link": "https://gmjosack.github.io/posts/dissecting-cratesio-minimum-mirror/"
   }
 ]

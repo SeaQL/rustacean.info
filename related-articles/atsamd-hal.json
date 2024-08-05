@@ -1,10 +1,32 @@
 [
   {
+    "date": "2021-12-29",
+    "title": "Bringing Rust to Space - Setting up a Rust ecosystem for the VA108XX MCU family - robs blog",
+    "link": "https://robamu.github.io/post/rust-ecosystem/"
+  },
+  {
+    "date": "2021-01-13",
     "title": "Testing Hardware Using Rust",
     "link": "https://www.jaredwolff.com/testing-hardware-using-rust/"
   },
   {
+    "date": "2020-08-25",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-25/"
+  },
+  {
+    "date": "2020-02-04",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-23/"
+  },
+  {
+    "date": "2019-03-26",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-17/"
+  },
+  {
+    "date": "2019-03-12",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-16/"
   }
 ]

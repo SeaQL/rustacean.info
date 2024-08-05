@@ -1,10 +1,22 @@
 [
   {
+    "date": "2023-07-12",
     "title": "Regex engine internals as a library - Andrew Gallant's Blog",
     "link": "https://blog.burntsushi.net/regex-internals/"
   },
   {
+    "date": "2023-02-22",
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "date": "2022-09-14",
     "title": "BStr — Rust text processing library // Lib.rs",
     "link": "https://lib.rs/crates/bstr"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
   }
 ]

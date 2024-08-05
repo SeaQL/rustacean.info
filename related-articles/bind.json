@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2023-08-16",
+    "title": "Our latest adventures with bindgen  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/bindgen/"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "ROFL with a LOL: rewriting an NGINX module in Rust",
+    "link": "https://blog.cloudflare.com/rust-nginx-module/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Rust FFI and bindgen: Integrating Embedded C Code in Rust",
+    "link": "https://apollolabsblog.hashnode.dev/rust-ffi-and-bindgen-integrating-embedded-c-code-in-rust"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "Kernel Driver with Rust in 2022",
+    "link": "https://not-matthias.github.io/posts/kernel-driver-with-rust-2022/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Flavors of enums with Rust bindgen",
+    "link": "https://www.mdaverde.com/posts/rust-bindgen-enum/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Down the Yak Hole of TLS — Drogue IoT",
+    "link": "https://blog.drogue.io/yak-hole-of-tls/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
+    "link": "https://blog.tonari.no/why-we-love-rust"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "How to RiiR · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/how-to-riir/index.html"
+  },
+  {
+    "date": "2019-07-16",
+    "title": "Rust as the new C: building and combining native libs into C API · Victor Baybekov",
+    "link": "http://hotforknowledge.com/2019/07/14/6-rust-the-new-c/"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  }
+]

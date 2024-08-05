@@ -1,25 +1,41 @@
 [
   {
+    "date": "2022-12-21",
+    "title": "12th to 18th of December 2022 - 0.3.3 Release — This week in Slint",
+    "link": "https://slint-ui.com/thisweek/2022-12-19.html"
+  },
+  {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2022-11-16",
     "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/039/"
   },
   {
+    "date": "2022-09-21",
     "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
     "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
   },
   {
+    "date": "2021-12-15",
     "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/028/"
   },
   {
+    "date": "2021-07-14",
     "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/023/"
   },
   {
+    "date": "2021-05-26",
+    "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
+    "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
+  },
+  {
+    "date": "2018-01-16",
     "title": "#Rust2018 — Aimlessly Going Forward",
     "link": "https://aimlesslygoingforward.com/blog/2018/01/10/rust-2018/"
   }

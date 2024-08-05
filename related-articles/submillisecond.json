@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-02-15",
     "title": "From Erlang to Lunatic",
     "link": "https://mattpo.pe/posts/from-erlang-to-lunatic/"
   },
   {
+    "date": "2022-10-19",
     "title": "Magical handler functions in Rust | Lunatic",
     "link": "https://lunatic.solutions/blog/magic-handler-functions-in-rust/"
   }

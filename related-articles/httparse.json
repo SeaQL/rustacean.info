@@ -1,9 +1,31 @@
 [
   {
+    "date": "2020-08-18",
     "title": "Fanout | Blog » Rewriting Pushpin's connection manager in Rust",
     "link": "https://blog.fanout.io/2020/08/11/rewriting-pushpins-connection-manager-in-rust/"
   },
   {
+    "date": "2020-07-07",
+    "title": "Super hero Rust fuzzing",
+    "link": "https://blog.firosolutions.com/2020/07/superhero-rust-fuzzing/"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Async HTTP",
+    "link": "https://blog.yoshuawuyts.com/async-http/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "date": "2016-12-06",
+    "title": "Three Bytes and a Space. or, Rust Bugs, Non-Compliance, and How… | by Donnie Bishop | HackerNoon.com | Medium",
+    "link": "https://medium.com/@covabishop/three-bytes-and-a-space-8f9fbd1c669b"
+  },
+  {
+    "date": "2016-08-16",
     "title": "Zero-cost futures in Rust · Aaron Turon",
     "link": "https://aturon.github.io/blog/2016/08/11/futures/"
   }

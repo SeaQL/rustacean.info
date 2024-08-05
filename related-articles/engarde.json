@@ -1,13 +1,16 @@
 [
   {
+    "date": "2017-08-15",
     "title": "Debugging a Race Condition in a Release Target",
     "link": "http://blog.boxofrox.me/2017/08/debugging-a-rust-release-build.html"
   },
   {
+    "date": "2016-08-30",
     "title": "Running rustfmt on Travis CI",
     "link": "http://johannh.me/blog/rustfmt-ci.html"
   },
   {
+    "date": "2015-11-09",
     "title": "Using rustfmt in Vim",
     "link": "http://johannh.me/blog/rustfmt-vim.html"
   }

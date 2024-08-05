@@ -1,29 +1,61 @@
 [
   {
+    "date": "2024-05-01",
     "title": "LogLog Games",
     "link": "https://loglog.games/blog/leaving-rust-gamedev/"
   },
   {
+    "date": "2023-08-02",
     "title": "This Month in Rust GameDev #47 - June 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/047/"
   },
   {
+    "date": "2023-03-01",
     "title": "This Month in Rust GameDev #42 - January 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/042/"
   },
   {
+    "date": "2022-11-16",
+    "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/039/"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "This Month in Rust GameDev #37 - August 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/037/"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "date": "2022-08-10",
     "title": "Hot Reloading Rust — for Fun and Faster Feedback Cycles | Robert Krahn",
     "link": "https://robert.kra.hn/posts/hot-reloading-rust/"
   },
   {
+    "date": "2022-07-13",
+    "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/035/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/034/"
+  },
+  {
+    "date": "2021-10-13",
     "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/026/"
   },
   {
+    "date": "2021-05-12",
     "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/021/"
   },
   {
+    "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"
   }

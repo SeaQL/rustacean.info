@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-03-22",
+    "title": "Why use Rust on the backend?",
+    "link": "https://blog.adamchalmers.com/why-rust-on-backend/"
+  },
+  {
+    "date": "2023-02-22",
     "title": "I love building a startup in Rust. I wouldn't pick it again. | PropelAuth Blog",
     "link": "https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again"
   },
   {
+    "date": "2022-12-14",
     "title": "Clean Code with Rust &amp; Axum | PropelAuth Blog",
     "link": "https://www.propelauth.com/post/clean-code-with-rust-and-axum"
   }

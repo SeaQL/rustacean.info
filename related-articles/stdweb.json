@@ -1,41 +1,51 @@
 [
   {
+    "date": "2023-12-27",
     "title": "Web development in Rust",
     "link": "https://rust.code-maven.com/web"
   },
   {
+    "date": "2021-12-29",
     "title": "Vange-rs: WebAssembly in Rust. Vangers  — one of the most… | by Alexander Guryanov (caiiiycuk) | Medium",
     "link": "https://caiiiycuk.medium.com/vange-rs-webassembly-in-rust-498e2f960a04"
   },
   {
+    "date": "2021-03-31",
     "title": "Exploring the top Rust web frameworks - LogRocket Blog",
     "link": "https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2018-09-18",
     "title": "Isomorphic Desktop Apps with Rust",
     "link": "https://speice.io/2018/09/isomorphic-apps.html"
   },
   {
+    "date": "2018-07-17",
     "title": "Artifact 2.0 Rust Full Stack Web And Cli Application",
     "link": "https://vitiral.github.io/2018/07/16/artifact-2.0-rust-full-stack-web-and-cli-application.html"
   },
   {
+    "date": "2018-04-17",
     "title": "Writing An NES Emulator with Rust and WebAssembly | by bokuweb | Medium",
     "link": "https://medium.com/@bokuweb17/writing-an-nes-emulator-with-rust-and-webassembly-d64de101c49d"
   },
   {
+    "date": "2018-02-20",
     "title": "Porting Rust to WebAssembly · udoprog",
     "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
   },
   {
+    "date": "2018-01-09",
     "title": "Script in show_notes::news::rust_1_23 - Rust",
     "link": "http://www.newrustacean.com/show_notes/news/rust_1_23/struct.Script.html"
   },
   {
+    "date": "2018-01-09",
     "title": "show_notes::news::rust_1_23 - Rust",
     "link": "http://www.newrustacean.com/show_notes/news/rust_1_23/"
   }

@@ -1,33 +1,41 @@
 [
   {
+    "date": "2023-10-25",
     "title": "Analyzing Data 180,000x Faster with Rust",
     "link": "https://willcrichton.net/notes/k-corrset/"
   },
   {
+    "date": "2023-04-12",
     "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
   },
   {
+    "date": "2022-03-02",
     "title": "El malabarista - TreeFlat: Building a (possible) faster tree for Rust, inspired by APL",
     "link": "https://www.elmalabarista.com/blog/2022-flat-tree/"
   },
   {
+    "date": "2022-03-02",
     "title": "Modern Telecom Network Tracing - OXIO",
     "link": "https://oxio.com/blog/modern-telecom-network-tracing/"
   },
   {
+    "date": "2021-10-20",
     "title": "Making slow Rust code fast | patrickfreed's blog",
     "link": "https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html"
   },
   {
+    "date": "2021-09-01",
     "title": "GSoC 2021, GA4GH and htsget-rs | UMCCR Genomics Platform Group",
     "link": "https://umccr.org/blog/htsget-rs/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2020-04-29",
     "title": "Implementing a linear Quadtree in Rust – Daniel Kiss - Software Developer",
     "link": "https://snorrwe.onrender.com/posts/morton-table/"
   }

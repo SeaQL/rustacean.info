@@ -1,21 +1,41 @@
 [
   {
+    "date": "2023-10-25",
+    "title": "moao's blog",
+    "link": "https://marcos.unsafe.rs/trying-to-invent-a-better-substring-search-algorithm/"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "Regex engine internals as a library - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/regex-internals/"
+  },
+  {
+    "date": "2021-08-18",
     "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
     "link": "https://blog.burntsushi.net/transducers/"
   },
   {
+    "date": "2020-11-25",
     "title": "Optimizing Benchpress - nodebb",
     "link": "https://blog.nodebb.org/optimizing-benchpress/"
   },
   {
+    "date": "2020-09-30",
     "title": "Building even faster interpreters in Rust",
     "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
   },
   {
+    "date": "2019-07-02",
+    "title": "Optimizing jieba-rs to be 33% faster than cppjieba",
+    "link": "https://blog.paulme.ng/posts/2019-06-30-optimizing-jieba-rs-to-be-33percents-faster-than-cppjieba.html"
+  },
+  {
+    "date": "2016-09-27",
     "title": "ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog",
     "link": "http://blog.burntsushi.net/ripgrep/"
   },
   {
+    "date": "2015-11-16",
     "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
     "link": "http://blog.burntsushi.net/transducers/"
   }

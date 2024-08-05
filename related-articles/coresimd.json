@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2019-02-26",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-15/"
+  },
+  {
+    "date": "2018-10-23",
+    "title": "Towards fearless SIMD | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/simd/2018/10/19/fearless-simd.html"
+  },
+  {
+    "date": "2018-06-26",
+    "title": "Optimising path tracing: the last 10% · shifting bits",
+    "link": "https://bitshifter.github.io/2018/06/20/the-last-10-percent/"
+  }
+]

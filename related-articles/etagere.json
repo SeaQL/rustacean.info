@@ -1,5 +1,11 @@
 [
   {
+    "date": "2023-03-15",
+    "title": "Leveraging Rust and the GPU to render user interfaces at 120 FPS",
+    "link": "https://zed.dev/blog/videogame"
+  },
+  {
+    "date": "2021-02-10",
     "title": "Eight million pixels and counting\n– Improving texture atlas allocation in WebRender",
     "link": "https://nical.github.io/posts/etagere.html"
   }

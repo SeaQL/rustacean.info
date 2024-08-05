@@ -1,14 +1,22 @@
 [
   {
+    "date": "2023-03-08",
     "title": "Issue 2",
     "link": "https://rustmagazine.org/issue-2/"
   },
   {
+    "date": "2021-03-24",
     "title": "egg",
     "link": "https://egraphs-good.github.io"
   },
   {
+    "date": "2021-03-10",
     "title": "egg",
     "link": "https://egraphs-good.github.io/"
+  },
+  {
+    "date": "2016-10-25",
+    "title": "notes on building a medium-sized library in rust | quiet misdreavus miniblog",
+    "link": "http://quietmisdreavus.net/code/2016/10/22/dispatches-from-egg-mode/"
   }
 ]

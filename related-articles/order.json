@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2022-10-19",
+    "title": "Why Rust? — Rerun",
+    "link": "https://www.rerun.io/blog/why-rust"
+  },
+  {
+    "date": "2017-06-06",
+    "title": "Rust Performance Pitfalls — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2017/06/01/perf-pitfalls.html"
+  },
+  {
+    "date": "2017-02-21",
+    "title": "Rust Sucks If I Fail To Write X — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2017/02/15/sucks.html"
+  },
+  {
+    "date": "2015-05-04",
+    "title": "Helping Travis catch the rustc train |  Huon on the internet",
+    "link": "http://huonw.github.io/blog/2015/04/helping-travis-catch-the-rustc-train/"
+  }
+]

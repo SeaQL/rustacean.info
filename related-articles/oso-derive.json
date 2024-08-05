@@ -1,21 +1,86 @@
 [
   {
+    "date": "2022-06-15",
+    "title": "This Week in Rust - Issue 444 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/twir-444/"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "Using Rust, SQLx and Rocket for Oso Cloud",
+    "link": "https://www.osohq.com/post/rust-rocket-sqlx"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Jobs | Oso Careers",
+    "link": "https://www.osohq.com/company/jobs"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "How we built a VS Code extension with Rust, WebAssembly, and TypeScript",
+    "link": "https://www.osohq.com/post/building-vs-code-extension-with-rust-wasm-typescript"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "How We Built a Cross-Platform Library with Rust",
+    "link": "https://www.osohq.com/post/cross-platform-rust-libraries"
+  },
+  {
+    "date": "2021-08-04",
     "title": "404 Page not found - Oso Library Documentation",
     "link": "https://docs.osohq.com/rust/guides/roles/getting-started.html"
   },
   {
+    "date": "2021-03-17",
+    "title": "Not found –&nbsp;404 error",
+    "link": "https://www.osohq.com/jobs/eng-mgr"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "Not found –&nbsp;404 error",
+    "link": "https://www.osohq.com/jobs/eng"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "Not found –&nbsp;404 error",
+    "link": "https://www.osohq.com/jobs/dev-advocate"
+  },
+  {
+    "date": "2021-03-03",
     "title": "Console Newsletter - The best tools for developers",
     "link": "https://console.dev/qa/oso-sam-scott/"
   },
   {
+    "date": "2021-01-06",
+    "title": "Building a runtime reflection system for Rust 🦀️ (Part 3)",
+    "link": "https://www.osohq.com/post/runtime-reflection-pt-3"
+  },
+  {
+    "date": "2020-12-2-",
+    "title": "Demo: 🦀️ Building a runtime reflection system for Rust",
+    "link": "https://www.osohq.com/post/demo-building-runtime-reflection-system-for-rust"
+  },
+  {
+    "date": "2020-11-4-",
     "title": "oso - Rust",
     "link": "https://docs.rs/oso/0.7.1/oso/"
   },
   {
+    "date": "2020-10-21",
+    "title": "Build a runtime reflection system for Rust Pt. 2 –&nbsp;oso",
+    "link": "https://www.osohq.com/post/runtime-reflection-pt-2"
+  },
+  {
+    "date": "2020-10-21",
     "title": "oso - Rust",
     "link": "https://docs.rs/oso/0.7.0/oso/"
   },
   {
+    "date": "2020-09-30",
+    "title": "Build a runtime reflection system for Rust Pt. 1 –&nbsp;oso",
+    "link": "https://www.osohq.com/post/rust-reflection-pt-1"
+  },
+  {
+    "date": "2019-10-29",
     "title": "Oso: Authorization as a Service",
     "link": "https://www.osohq.com/"
   }

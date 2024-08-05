@@ -1,30 +1,42 @@
 [
   {
+    "date": "2021-12-29",
     "title": "Procedural Macros: Parsing custom syntax | blog.turbo.fish",
     "link": "https://blog.turbo.fish/proc-macro-parsing/"
   },
   {
+    "date": "2021-05-12",
     "title": "Procedural Macros: Error handling | blog.turbo.fish",
     "link": "https://blog.turbo.fish/proc-macro-error-handling/"
   },
   {
+    "date": "2021-02-24",
     "title": "Procedural Macros: A simple derive macro | blog.turbo.fish",
     "link": "https://blog.turbo.fish/proc-macro-simple-derive/"
   },
   {
+    "date": "2021-02-17",
     "title": "Procedural Macros: The Basics | blog.turbo.fish",
     "link": "https://blog.turbo.fish/proc-macro-basics/"
   },
   {
+    "date": "2020-11-4-",
     "title": "Advanced Cargo [features] Usage | blog.turbo.fish",
     "link": "https://blog.turbo.fish/cargo-features/"
   },
   {
+    "date": "2020-06-30",
     "title": "This Week in Rust - Issue 345 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/020-twir-345/"
   },
   {
+    "date": "2020-06-23",
     "title": "This Week in Rust - Issue 344 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/019-twir-344/"
+  },
+  {
+    "date": "2020-06-10",
+    "title": "This Week in Rust - Issue 341 and 342 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/017-twir-341-342/"
   }
 ]

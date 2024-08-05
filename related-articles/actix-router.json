@@ -1,89 +1,146 @@
 [
   {
+    "date": "2022-08-17",
     "title": "Get Started with Rust: Structs",
     "link": "https://serokell.io/blog/structs-in-rust"
   },
   {
+    "date": "2022-05-04",
     "title": "Building a WebAssembly-powered serverless platform",
     "link": "https://blog.scottlogic.com/2022/04/16/wasm-faas.html"
   },
   {
+    "date": "2021-10-06",
     "title": "Scalable server design in Rust with Tokio | by FUJITA Tomonori | Medium",
     "link": "https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c81a5f350a3"
   },
   {
+    "date": "2021-09-22",
     "title": "From Zero to Production with Luca Palmieri :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/036-luca-palmieri/"
   },
   {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-06-23",
     "title": "Getting started with MongoDB and Redis in Rust · Roman Kudryashov's tech blog",
     "link": "https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/"
   },
   {
+    "date": "2021-05-19",
+    "title": "Error Handling In Rust - A Deep Dive | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/error-handling-rust/"
+  },
+  {
+    "date": "2021-01-27",
     "title": "24 Awesome Open-Source Rust Projects",
     "link": "https://serokell.io/blog/open-source-rust"
   },
   {
+    "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
+    "date": "2021-01-20",
+    "title": "Rust is a hard way to make a web API - macwright.com",
+    "link": "https://macwright.com/2021/01/15/rust.html"
+  },
+  {
+    "date": "2020-12-9-",
     "title": "Written in Rust - What is the Rust language used for | Evrone",
     "link": "https://evrone.com/rust-vs-c"
   },
   {
+    "date": "2020-12-16",
+    "title": "Using Types To Guarantee Domain Invariants | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-12-11-zero-to-production-6-domain-modelling/"
+  },
+  {
+    "date": "2020-10-21",
     "title": "A recipe for start using Rust actix-web and launch chrome 🚀 | by Liron Hazan | ITNEXT",
     "link": "https://itnext.io/a-recipe-for-starting-actix-web-server-and-launch-chrome-b792987935a"
   },
   {
+    "date": "2020-10-14",
     "title": "rust in curl with hyper | daniel.haxx.se",
     "link": "https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/"
   },
   {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "date": "2020-08-18",
     "title": "Why You Should Use the Rust Programming Language",
     "link": "https://serokell.io/blog/rust-guide"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2020-03-10",
     "title": "ExpressJS vs Actix-Web. It is exactly what you think | by Maxim Vorobjov | Medium",
     "link": "https://medium.com/@maxsparr0w/performance-of-node-js-compared-to-actix-web-37f20810fb1a"
   },
   {
+    "date": "2020-01-28",
+    "title": "Lessons learnt updating a library to std::future",
+    "link": "https://cetra3.github.io/blog/mpart-async-0-3-0/"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "A sad day for Rust",
+    "link": "https://words.steveklabnik.com/a-sad-day-for-rust"
+  },
+  {
+    "date": "2019-08-12",
     "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-08-alphas/"
   },
   {
+    "date": "2019-04-30",
     "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
     "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
   },
   {
+    "date": "2019-04-16",
     "title": "Face Detection with Actix Web",
     "link": "https://cetra3.github.io/blog/face-detection-with-actix-web/"
   },
   {
+    "date": "2018-10-09",
     "title": "Lessons learned on writing web applications completely in Rust | by Sascha Grunert | Medium",
     "link": "https://medium.com/@saschagrunert/lessons-learned-on-writing-web-applications-completely-in-rust-2080d0990287"
   },
   {
+    "date": "2018-07-10",
     "title": "A web application completely in Rust | by Sascha Grunert | Medium",
     "link": "https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471"
   },
   {
+    "date": "2018-06-12",
+    "title": "Actix::From(Rocket)",
+    "link": "https://noyez.gitlab.io/post/2018-06-11-rocket-to-actix/"
+  },
+  {
+    "date": "2018-05-29",
     "title": "Wicked Fast Web Servers in Rust. An introduction to writing a simple web… | by Pete Mertz | Medium",
     "link": "https://medium.com/@MertzAlertz/wicked-fast-web-servers-in-rust-4947688426bc"
   },
   {
+    "date": "2018-03-27",
     "title": "Touring a Fast, Safe, and Complete(ish) Web Service in Rust — brandur.org",
     "link": "https://brandur.org/rust-web"
   },
   {
+    "date": "2017-10-10",
     "title": "Wiki - AnOpinionatedGuideToRustWebServers",
     "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
   }

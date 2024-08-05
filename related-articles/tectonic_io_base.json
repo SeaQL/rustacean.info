@@ -1,6 +1,12 @@
 [
   {
+    "date": "2022-06-22",
     "title": "This Week in Rust - Issue 445 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/twir-445/"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
   }
 ]

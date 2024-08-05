@@ -1,9 +1,11 @@
 [
   {
+    "date": "2016-12-20",
     "title": "24 days of Rust - clap | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-clap/"
   },
   {
+    "date": "2014-12-08",
     "title": "24 days of Rust - Cargo and crates.io | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-cargo-and-cratesio/"
   }

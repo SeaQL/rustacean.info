@@ -1,97 +1,181 @@
 [
   {
+    "date": "2024-05-15",
+    "title": "Blazingly Fast Linked Lists",
+    "link": "https://dygalo.dev/blog/blazingly-fast-linked-lists/"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "Faster Rust Serialization",
+    "link": "https://mo8it.com/blog/faster-rust-serialization/"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
+    "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "Learning Rust - after one month",
+    "link": "https://szabgab.com/learning-rust-after-one-month.html"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Tinkerer - Serde Errors When Deserializing Untagged Enums Are Bad - But Easy to Make Better",
+    "link": "https://www.gustavwengel.dk/serde-untagged-enum-errors-are-bad"
+  },
+  {
+    "date": "2023-05-03",
     "title": "Build a Rust API with Rocket, Diesel, and MySQL",
     "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
   },
   {
+    "date": "2023-02-01",
     "title": "Synchronizing state with Websockets and JSON Patch",
     "link": "https://cetra3.github.io/blog/synchronising-with-websocket/"
   },
   {
+    "date": "2022-11-30",
     "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
     "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
   },
   {
+    "date": "2022-11-02",
+    "title": "The stable HashMap trap | More Stina Blog!",
+    "link": "https://morestina.net/blog/1843/the-stable-hashmap-trap"
+  },
+  {
+    "date": "2022-08-31",
     "title": "Update-informer v0.5.0 – Mikhail Grachev's blog",
     "link": "https://www.mgrachev.com/2022/08/29/update-informer-v050/"
   },
   {
+    "date": "2022-07-20",
+    "title": "How to speed up the Rust compiler in July 2022 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Update-informer: a highly customizable Rust library for CLI apps by Evrone",
     "link": "https://evrone.com/update-informer"
   },
   {
+    "date": "2021-12-15",
     "title": "Validating JSON input in Rust web services | Vinted Engineering",
     "link": "https://vinted.engineering/2021/02/15/validating-json-input-in-rust-web-services/"
   },
   {
+    "date": "2021-11-17",
+    "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
+  },
+  {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-05-26",
+    "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-valuable"
+  },
+  {
+    "date": "2021-03-03",
     "title": "Rust: Beware of Escape Sequences \\n | by Dominic E. | Medium",
     "link": "https://d3lm.medium.com/rust-beware-of-escape-sequences-85ec90e9e243#ee0e-58229fc84d02"
   },
   {
+    "date": "2021-01-27",
     "title": "Parsing real-world data with Rust: introducing the alias_all attribute in Serde · deaddabe",
     "link": "https://deaddabe.fr/blog/2021/01/27/parsing-real-world-data-with-rust-introducing-the-alias_all-attribute-in-serde/"
   },
   {
+    "date": "2020-09-02",
     "title": "Type-directed metaprogramming in Rust | Will Crichton",
     "link": "https://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
   },
   {
+    "date": "2020-06-02",
     "title": "Rust at OneSignal",
     "link": "https://onesignal.com/blog/rust-at-onesignal/"
   },
   {
+    "date": "2020-04-14",
     "title": "Deis Labs",
     "link": "https://deislabs.io/posts/kubernetes-a-rusty-friendship/"
   },
   {
+    "date": "2019-11-19",
+    "title": "Understanding Serde",
+    "link": "https://www.joshmcguigan.com/blog/understanding-serde/"
+  },
+  {
+    "date": "2019-04-02",
     "title": "Face Detection with Tensorflow Rust",
     "link": "https://cetra3.github.io/blog/face-detection-with-tensorflow-rust/"
   },
   {
+    "date": "2018-10-09",
     "title": "pest. The Elegant Parser",
     "link": "https://pest.rs"
   },
   {
+    "date": "2018-05-22",
     "title": "Migrating to Actix Web from Rocket for Stability",
     "link": "https://nbsoftsolutions.com/blog/migrating-to-actix-web-from-rocket-for-stability"
   },
   {
+    "date": "2018-03-20",
     "title": "Type-directed metaprogramming in Rust | Will Crichton",
     "link": "http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
   },
   {
+    "date": "2017-12-05",
     "title": "Replacing Elasticsearch with Rust and SQLite",
     "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"
   },
   {
+    "date": "2016-12-13",
+    "title": "24 days of Rust - serde | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-serde/"
+  },
+  {
+    "date": "2016-12-06",
+    "title": "24 days of Rust - environment variables | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-environment-variables/"
+  },
+  {
+    "date": "2016-11-08",
     "title": "Rust and Vala – Daniel Espinosa",
     "link": "https://blogs.gnome.org/despinosa/2016/11/01/rust-and-vala/"
   },
   {
+    "date": "2016-10-11",
     "title": "Overview · Serde",
     "link": "https://serde.rs/"
   },
   {
+    "date": "2016-09-13",
     "title": "show_notes::bonus::_7 - Rust",
     "link": "http://www.newrustacean.com/show_notes/bonus/_7/"
   },
   {
+    "date": "2016-06-06",
     "title": "Things you could do with the Rust AST",
     "link": "http://kamalmarhubi.com/blog/2016/06/02/playing-with-the-rust-ast/"
   },
   {
+    "date": "2016-02-29",
     "title": "The highs and lows of Rust | \nJimmy Cuadra",
     "link": "https://www.jimmycuadra.com/posts/the-highs-and-lows-of-rust/"
   },
   {
+    "date": "2016-02-29",
     "title": "Serde 0.7 - Chasing Rabbits",
     "link": "https://erickt.github.io/blog/2016/02/26/serde-0-dot-7/"
   },
   {
+    "date": "2015-08-10",
     "title": "Serde 0.5.0 - Many Many Changes - Chasing Rabbits",
     "link": "https://erickt.github.io/blog/2015/08/07/serde-0-dot-5-0-many-many-changes/"
   }

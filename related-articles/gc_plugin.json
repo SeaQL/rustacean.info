@@ -1,13 +1,21 @@
 [
   {
+    "date": "2020-07-07",
     "title": "Rust: The New LLVM | Will Crichton",
     "link": "https://willcrichton.net/notes/rust-the-new-llvm/"
   },
   {
+    "date": "2016-08-23",
     "title": "GC Support in Rust: API Design - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2016/08/18/gc-support-in-rust-api-design/"
   },
   {
+    "date": "2015-09-07",
+    "title": "Designing a GC in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/"
+  },
+  {
+    "date": "2015-06-08",
     "title": "Wrapper Types in Rust: Choosing Your Guarantees - In Pursuit of Laziness",
     "link": "http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/"
   }

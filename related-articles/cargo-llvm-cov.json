@@ -1,5 +1,16 @@
 [
   {
+    "date": "2023-04-12",
+    "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
+  },
+  {
+    "date": "2022-11-02",
+    "title": "Rustdoc doctests need fixing",
+    "link": "https://swatinem.de/blog/fix-rustdoc/"
+  },
+  {
+    "date": "2022-06-29",
     "title": "What's New in Rust 1.60 and 1.61 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/rust-1.60-1.61/"
   }

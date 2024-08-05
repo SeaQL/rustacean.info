@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2024-07-17",
+    "title": "Fusion Engineering with Jakub Valtar - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e06-fusion-engineering/"
+  },
+  {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Writing Python inside your Rust code — Part 4 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-4/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Writing Python inside your Rust code — Part 3 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-3/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Writing Python inside your Rust code — Part 1 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-1/"
+  }
+]

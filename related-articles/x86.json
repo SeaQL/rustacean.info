@@ -1,5 +1,51 @@
 [
   {
+    "date": "2023-10-18",
+    "title": "This Month in Rust OSDev: September 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-09/"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "Async/Await | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/async-await/"
+  },
+  {
+    "date": "2019-07-02",
+    "title": "Heap Allocation | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/heap-allocation/"
+  },
+  {
+    "date": "2019-04-30",
+    "title": "Testing | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/testing/"
+  },
+  {
+    "date": "2019-03-19",
+    "title": "Paging Implementation | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/paging-implementation/"
+  },
+  {
+    "date": "2019-01-29",
+    "title": "Advanced Paging | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/advanced-paging/"
+  },
+  {
+    "date": "2019-01-15",
+    "title": "Introduction to Paging | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/paging-introduction/"
+  },
+  {
+    "date": "2018-10-23",
+    "title": "Hardware Interrupts | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/hardware-interrupts/"
+  },
+  {
+    "date": "2018-06-19",
+    "title": "Integration Tests | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/integration-tests/"
+  },
+  {
+    "date": "2017-12-05",
     "title": "The Rise of Rust in DevOps | D2iQ",
     "link": "https://mesosphere.com/blog/rust-devops/"
   }

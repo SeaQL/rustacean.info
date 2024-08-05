@@ -1,10 +1,17 @@
 [
   {
+    "date": "2024-07-24",
     "title": "Bevy Jam 5, Radiance Cascades, and Calculators in many ui kits",
     "link": "https://thisweekinbevy.com/issue/2024-07-22-bevy-jam-5-radiance-cascades-and-calculators-in-many-ui-kits"
   },
   {
+    "date": "2024-07-10",
     "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
     "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"
+  },
+  {
+    "date": "2024-05-15",
+    "title": "ClearCoat, new examples, and game updates",
+    "link": "https://thisweekinbevy.com/issue/2024-05-13-clearcoat-new-examples-and-game-updates"
   }
 ]

@@ -1,13 +1,16 @@
 [
   {
+    "date": "2019-03-05",
     "title": "Building fast interpreters in Rust",
     "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
   },
   {
+    "date": "2016-11-29",
     "title": "Writing GStreamer Elements in Rust (Part 3): Parsing data from untrusted sources like it’s 2016 – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2016/11/writing-gstreamer-elements-in-rust-part-3-parsing-data-from-untrusted-sources-like-its-2016/"
   },
   {
+    "date": "2016-08-30",
     "title": "Chomp and impl Trait, revisited · m4rw3r",
     "link": "https://m4rw3r.github.io/chomp-impl-trait--revisited"
   }

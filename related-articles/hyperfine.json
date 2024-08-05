@@ -1,62 +1,92 @@
 [
   {
+    "date": "2024-03-20",
     "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"
   },
   {
+    "date": "2023-11-15",
     "title": "How I Improved My Rust Compile Times by 75%",
     "link": "https://benw.is/posts/how-i-improved-my-rust-compile-times-by-seventy-five-percent"
   },
   {
+    "date": "2023-08-30",
     "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
     "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
   },
   {
+    "date": "2023-05-24",
     "title": "Pavex, progress report #4: performance is a feature | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/pavex-progress-report-04/"
   },
   {
+    "date": "2023-04-19",
     "title": "BlogWerx: Improving build times for derive macros by 3x or more",
     "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
   },
   {
+    "date": "2022-11-23",
     "title": "(Re)writing an interpreter in Rust - Danny van Kooten",
     "link": "https://www.dannyvankooten.com/blog/2022-12-rewriting-interpreter-rust/"
   },
   {
+    "date": "2022-10-05",
     "title": "Brute forcing protected ZIP archives in Rust",
     "link": "https://agourlay.github.io/brute-forcing-protected-zip-rust/"
   },
   {
+    "date": "2022-09-14",
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
+  },
+  {
+    "date": "2022-01-26",
     "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
     "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
   },
   {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   },
   {
+    "date": "2021-09-08",
     "title": "Using SIMD in rust to `tac` at breakneck speeds",
     "link": "https://neosmart.net/blog/2021/using-simd-acceleration-in-rust-to-create-the-worlds-fastest-tac/"
   },
   {
+    "date": "2021-07-21",
     "title": "Improving the Performance of our Rust app :: poor.dev",
     "link": "https://www.poor.dev/blog/performance/"
   },
   {
+    "date": "2021-07-07",
     "title": "Knurling-rs changelog #28  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/knurling-changelog-28/"
   },
   {
+    "date": "2020-11-4-",
     "title": "One Hundred Rust Binaries - Wesley Moore",
     "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
   },
   {
+    "date": "2020-08-04",
     "title": "Rust for a Pythonista #1: Why and when?",
     "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "date": "2019-02-12",
+    "title": "Rewriting stackcollapse-xdebug in Rust",
+    "link": "https://daniellockyer.com/rewriting-stackcollapse-xdebug/"
+  },
+  {
+    "date": "2018-08-14",
+    "title": "How to alleviate the pain of Rust compile times",
+    "link": "https://vfoley.xyz/rust-compile-speed-tips/"
   }
 ]

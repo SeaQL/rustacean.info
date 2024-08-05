@@ -1,5 +1,16 @@
 [
   {
+    "date": "2021-10-27",
+    "title": "My ideal Rust workflow",
+    "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
+  },
+  {
+    "date": "2021-10-06",
+    "title": "Code and Bitters",
+    "link": "https://codeandbitters.com/published-crate-analysis/"
+  },
+  {
+    "date": "2020-04-14",
     "title": "Downloading all the crates on crates.io - Pietro Albini",
     "link": "https://www.pietroalbini.org/blog/downloading-crates-io/"
   }

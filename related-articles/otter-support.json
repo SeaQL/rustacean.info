@@ -1,5 +1,16 @@
 [
   {
+    "date": "2021-09-01",
+    "title": "diziet | partial-borrow: references to restricted views of a Rust struct",
+    "link": "https://diziet.dreamwidth.org/9019.html"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Building — Otter  documentation",
+    "link": "https://www.chiark.greenend.org.uk/~ianmdlvl/otter/docs/build.html"
+  },
+  {
+    "date": "2021-04-21",
     "title": "diziet | Otter - a game server for arbitrary board games",
     "link": "https://diziet.dreamwidth.org/8121.html"
   }

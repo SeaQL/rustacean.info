@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-06-08",
     "title": "osmpbf — Rust parser // Lib.rs",
     "link": "https://lib.rs/crates/osmpbf"
   }

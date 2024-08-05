@@ -1,10 +1,32 @@
 [
   {
+    "date": "2024-01-10",
     "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
     "link": "https://thewolfsound.com/talk016/"
   },
   {
+    "date": "2023-08-16",
+    "title": "Autogenerating Rust-JS bindings with UniFFI - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2023/08/autogenerating-rust-js-bindings-with-uniffi/"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "This Week in Glean: Building and Deploying a Rust library on iOS",
+    "link": "https://fnordig.de/2022/01/31/rust-libraries-on-ios/"
+  },
+  {
+    "date": "2022-02-02",
     "title": "Sneak preview: Writing Ruby gem native extensions in Rust – Brian Kung",
     "link": "https://briankung.dev/2022/01/31/sneak-preview-writing-ruby-gem-native-extensions-in-rust/"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "This Week in Glean: Building and Deploying a Rust library on iOS – Data@Mozilla",
+    "link": "https://blog.mozilla.org/data/2022/01/31/this-week-in-glean-building-and-deploying-a-rust-library-on-ios/"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "This Week in Glean: Looking back at Glean in 2021",
+    "link": "https://fnordig.de/2021/12/17/glean-in-2021/"
   }
 ]

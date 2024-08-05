@@ -1,25 +1,46 @@
 [
   {
+    "date": "2024-01-31",
     "title": "Where Does the Time Go? Rust's Problem with Slow Compiles - The New Stack",
     "link": "https://thenewstack.io/where-does-the-time-go-rusts-problem-with-slow-compiles/"
   },
   {
+    "date": "2023-11-29",
     "title": "Investigating crazy compile times",
     "link": "https://blog.adamchalmers.com/crazy-compile-time/"
   },
   {
+    "date": "2023-03-15",
     "title": "SQLx Compile Time Woes - Cosmic Horror",
     "link": "https://cosmichorror.dev/posts/speeding-up-sqlx-compile-times/"
   },
   {
+    "date": "2023-02-08",
+    "title": "Improving Rust compile times to enable adoption of memory safety - Prossimo",
+    "link": "https://www.memorysafety.org/blog/remy-rakic-compile-times/"
+  },
+  {
+    "date": "2022-01-05",
     "title": "Why is my Rust build so slow?",
     "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
   },
   {
+    "date": "2021-09-08",
     "title": "Fast Rust Builds",
     "link": "https://matklad.github.io/2021/09/04/fast-rust-builds.html"
   },
   {
+    "date": "2020-08-18",
+    "title": "Colin Woodbury - Software Development Languages: Rust",
+    "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "How to speed up the Rust compiler some more in 2020 – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2020/08/05/how-to-speed-up-the-rust-compiler-some-more-in-2020/"
+  },
+  {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   }

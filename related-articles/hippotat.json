@@ -1,6 +1,12 @@
 [
   {
+    "date": "2023-02-08",
     "title": "diziet | derive-adhoc: powerful pattern-based derive macros for Rust",
     "link": "https://diziet.dreamwidth.org/14345.html"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "diziet | Rust needs #[throws]",
+    "link": "https://diziet.dreamwidth.org/13657.html"
   }
 ]

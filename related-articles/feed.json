@@ -1,0 +1,142 @@
+[
+  {
+    "date": "2019-05-28",
+    "title": "show_notes::meta::_3 - Rust",
+    "link": "https://newrustacean.com/show_notes/meta/_3/"
+  },
+  {
+    "date": "2019-01-08",
+    "title": "show_notes::interview::integer32 - Rust",
+    "link": "https://newrustacean.com/show_notes/interview/integer32/"
+  },
+  {
+    "date": "2018-08-21",
+    "title": "show_notes::news::rust_1_28 - Rust",
+    "link": "https://newrustacean.com/show_notes/news/rust_1_28/"
+  },
+  {
+    "date": "2018-07-10",
+    "title": "show_notes::e025 - Rust",
+    "link": "https://newrustacean.com/show_notes/e025/index.html"
+  },
+  {
+    "date": "2018-07-03",
+    "title": "show_notes::e024 - Rust",
+    "link": "https://newrustacean.com/show_notes/e024/"
+  },
+  {
+    "date": "2018-06-05",
+    "title": "show_notes::cysk::wasm - Rust",
+    "link": "https://newrustacean.com/show_notes/cysk/wasm/index.html"
+  },
+  {
+    "date": "2018-05-15",
+    "title": "show_notes::e023 - Rust",
+    "link": "https://newrustacean.com/show_notes/e023/"
+  },
+  {
+    "date": "2018-04-03",
+    "title": "show_notes::news::rust_1_25 - Rust",
+    "link": "https://newrustacean.com/show_notes/news/rust_1_25/"
+  },
+  {
+    "date": "2018-03-06",
+    "title": "show_notes::news::rust_1_24 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/rust_1_24/"
+  },
+  {
+    "date": "2018-02-13",
+    "title": "show_notes::cysk::serde - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/serde/"
+  },
+  {
+    "date": "2018-02-06",
+    "title": "show_notes::e022 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/e022/"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "show_notes::interview::diesel_1_0::part_2 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/diesel_1_0/part_2/"
+  },
+  {
+    "date": "2018-01-09",
+    "title": "show_notes::news::rust_1_23 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/rust_1_23/"
+  },
+  {
+    "date": "2017-12-26",
+    "title": "show_notes::interview::irr_2017::lee_baillie - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/irr_2017/lee_baillie/index.html"
+  },
+  {
+    "date": "2017-12-26",
+    "title": "show_notes::interview::irr_2017::anna_liao - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/irr_2017/anna_liao/index.html"
+  },
+  {
+    "date": "2017-11-28",
+    "title": "show_notes::news::rust_1_21_1_22 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/rust_1_21_1_22/index.html"
+  },
+  {
+    "date": "2017-09-19",
+    "title": "show_notes::cysk::rayon - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/rayon/"
+  },
+  {
+    "date": "2017-07-04",
+    "title": "show_notes::cysk::rocket - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/rocket/"
+  },
+  {
+    "date": "2017-01-03",
+    "title": "show_notes::news::_2 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/_2/index.html"
+  },
+  {
+    "date": "2016-10-04",
+    "title": "show_notes::interview::_3 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/_3/"
+  },
+  {
+    "date": "2016-09-13",
+    "title": "show_notes::bonus::_7 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_7/"
+  },
+  {
+    "date": "2016-08-23",
+    "title": "show_notes::bonus::_6 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_6/"
+  },
+  {
+    "date": "2016-08-09",
+    "title": "show_notes::e017 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/e017/"
+  },
+  {
+    "date": "2016-07-26",
+    "title": "show_notes::e016 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/e016/"
+  },
+  {
+    "date": "2016-07-05",
+    "title": "show_notes::interview::_2::part_2 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/_2/part_2/"
+  },
+  {
+    "date": "2016-06-27",
+    "title": "show_notes::interview::_2::part_1 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/_2/part_1/index.html"
+  },
+  {
+    "date": "2016-06-20",
+    "title": "show_notes::e015 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/e015/index.html"
+  },
+  {
+    "date": "2016-06-06",
+    "title": "show_notes::news::_1 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/news/_1/"
+  }
+]

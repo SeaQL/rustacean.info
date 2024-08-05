@@ -1,6 +1,17 @@
 [
   {
+    "date": "2024-06-19",
     "title": "Zero to Performance Hero: How to Benchmark and Profile Your eBPF Code in Rust - InfoQ",
     "link": "https://www.infoq.com/articles/benchmark-profile-ebpf-code/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "dhat - Rust",
+    "link": "https://docs.rs/dhat"
+  },
+  {
+    "date": "2020-09-09",
+    "title": "How to speed up the Rust compiler one last time – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/"
   }
 ]

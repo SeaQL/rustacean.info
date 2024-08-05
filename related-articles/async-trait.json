@@ -1,81 +1,141 @@
 [
   {
+    "date": "2024-05-22",
+    "title": "Let's build a Load Balancer in Rust - Part 2 | Marco Bacis",
+    "link": "https://marcobacis.com/blog/load-balancer-rust-2/"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "Some recent and notable changes to Rust [LWN.net]",
+    "link": "https://lwn.net/Articles/954033/"
+  },
+  {
+    "date": "2024-01-10",
+    "title": "Let's Make an Information Display Part 1: Backend",
+    "link": "https://blog.stillinbeta.com/2024-01-01-overengineered-household-display.html"
+  },
+  {
+    "date": "2023-11-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
   },
   {
+    "date": "2023-10-04",
+    "title": "Async Iteration III: The Async Iterator Trait",
+    "link": "https://blog.yoshuawuyts.com/async-iterator-trait/"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Pavex DevLog #6: designing safe and ergonomic middlewares | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-06/"
+  },
+  {
+    "date": "2023-09-06",
     "title": "Trying out Rust's Async Functions in Traits",
     "link": "https://broch.tech/posts/rust-async-fn-trait/"
   },
   {
+    "date": "2023-08-30",
     "title": "Best Rust Web Frameworks to Use in 2023",
     "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
   },
   {
+    "date": "2023-04-26",
     "title": "Guide to Rust procedural macros | developerlife.com",
     "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"
   },
   {
+    "date": "2022-12-28",
     "title": "Rust in 2023",
     "link": "https://azdavis.net/posts/rust-2023/"
   },
   {
+    "date": "2022-10-19",
+    "title": "Asynchronous programming in Rust | Opensource.com",
+    "link": "https://opensource.com/article/22/10/asynchronous-programming-rust"
+  },
+  {
+    "date": "2022-09-28",
     "title": "Rust 2024...the year of everywhere? · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2022/09/22/rust-2024-the-year-of-everywhere/"
   },
   {
+    "date": "2022-09-21",
     "title": "Dyn async traits, part 8: the soul of Rust · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2022/09/18/dyn-async-traits-part-8-the-soul-of-rust/"
   },
   {
+    "date": "2022-08-10",
     "title": "Fang, async background processing for Rust - The software engineer oasis",
     "link": "https://pxp9.github.io/rust/async-processing/"
   },
   {
+    "date": "2022-06-01",
     "title": "The curse of strong typing",
     "link": "https://fasterthanli.me/articles/the-curse-of-strong-typing"
   },
   {
+    "date": "2022-04-20",
     "title": "How Async Functions in Traits could Work in Rustc",
     "link": "https://blog.theincredibleholk.org/blog/2022/04/18/how-async-functions-in-traits-could-work-in-rustc/"
   },
   {
+    "date": "2022-01-26",
+    "title": "Non-Lazy Futures Considered Harmful",
+    "link": "https://swatinem.de/blog/non-lazy-futures/"
+  },
+  {
+    "date": "2021-10-20",
     "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
     "link": "https://nullderef.com/blog/web-api-client/"
   },
   {
+    "date": "2021-06-02",
     "title": "Turning rusty tech into Rust ~ When you need to FTP but don’t want to",
     "link": "https://blog.abstractinvoke.com/05-07-unftp.html"
   },
   {
+    "date": "2021-05-19",
     "title": "Inventing the Service trait | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-14-inventing-the-service-trait"
   },
   {
+    "date": "2020-10-21",
     "title": "Debugging async generator errors in Rust: Staying sane when Rust errors get worse than C++ errors | Meltware",
     "link": "https://meltware.com/2020/10/21/rust-async-nonsense.html"
   },
   {
+    "date": "2020-09-30",
     "title": "My Rust 2021 - Don't Repeat Yourself",
     "link": "https://blog-dry.com/entry/2020/09/29/135738"
   },
   {
+    "date": "2020-08-11",
     "title": "Surviving Rust async interfaces",
     "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
   },
   {
+    "date": "2020-07-14",
     "title": "Getting in and out of trouble with Rust futures",
     "link": "https://fasterthanli.me/articles/getting-in-and-out-of-trouble-with-rust-futures"
   },
   {
+    "date": "2020-05-12",
+    "title": "no_std async/await - soon on stable  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/stable-async-on-embedded/"
+  },
+  {
+    "date": "2019-10-29",
     "title": "why async fn in traits are hard · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/"
   },
   {
+    "date": "2019-10-08",
     "title": "Tonic: gRPC has come to async/await!",
     "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
   },
   {
+    "date": "2019-10-01",
     "title": "Figthting The Async Fragmentation | Vorner’s random stuff",
     "link": "https://vorner.github.io/2019/09/29/figthting-the-async-fragmentation.html"
   }

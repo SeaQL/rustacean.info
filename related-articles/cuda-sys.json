@@ -1,5 +1,6 @@
 [
   {
+    "date": "2018-06-19",
     "title": "Running Rust on the GPU with Accel | bheisler.github.io",
     "link": "https://bheisler.github.io/post/rust-on-the-gpu-with-accel/"
   }

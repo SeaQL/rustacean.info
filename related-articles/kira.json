@@ -1,25 +1,46 @@
 [
   {
+    "date": "2024-06-05",
+    "title": "This Month in Rust GameDev #51 - May 2024 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/051/"
+  },
+  {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2023-07-05",
     "title": "This Month in Rust GameDev #46 - May 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/046/"
   },
   {
+    "date": "2022-09-28",
     "title": "This Month in Rust GameDev #37 - August 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/037/"
   },
   {
+    "date": "2022-06-08",
     "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/034/"
   },
   {
+    "date": "2022-05-18",
+    "title": "Audio Libraries Considered Challenging | Tesselode Labs",
+    "link": "https://tesselode.github.io/articles/audio-libraries-considered-challenging/"
+  },
+  {
+    "date": "2022-04-13",
     "title": "This Month in Rust GameDev #32 - March 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/032/"
   },
   {
+    "date": "2021-11-10",
     "title": "This Month in Rust GameDev #27 - October 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/027/"
   },
   {
+    "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"
   }

@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-01-24",
     "title": "Why SQL hang for exactly 940s? TCP and Async Rust!",
     "link": "https://xuanwo.io/2024/01-why-sql-hang-for-exactly-940s/"
   },
   {
+    "date": "2023-01-11",
     "title": "Oh the Crates You'll Go! A 2022 Retrospective",
     "link": "https://jack.wrenn.fyi/blog/2022-retrospective/"
   },
   {
+    "date": "2022-11-02",
     "title": "Announcing async-backtrace | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2022-10-announcing-async-backtrace"
   }

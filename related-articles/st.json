@@ -1,0 +1,457 @@
+[
+  {
+    "date": "2024-07-10",
+    "title": "Further simplifying self-referential types for Rust",
+    "link": "https://blog.yoshuawuyts.com/self-referential-types-2/"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "The Embedded Rustacean Issue #15",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs - Orhun's Blog",
+    "link": "https://blog.orhun.dev/ratatui-0-23-0/"
+  },
+  {
+    "date": "2023-08-02",
+    "title": "A JVM in Rust part 3 - Parsing class files · Andrea Bergia's Website",
+    "link": "https://andreabergia.com/blog/2023/07/a-jvm-in-rust-part-3-parsing-class-files/"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "ESP32 Embedded Rust at the HAL: Button-Controlled Blinking by Timer Polling",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-button-controlled-blinking-by-timer-polling"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "ESP32 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-button-controlled-blinking?ref=twitter-share"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "STM32F4 Embedded Rust at the PAC: GPIO Interrupts",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-pac-gpio-interrupts"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "date": "2023-02-15",
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/index.html"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/82/crash-and-now-what"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "Rust FFI and cbindgen: Integrating Embedded Rust Code in C",
+    "link": "https://apollolabsblog.hashnode.dev/rust-ffi-and-cbindgen-integrating-embedded-rust-code-in-c"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Displaying Images on ESP32 with Rust! - lily's thots",
+    "link": "https://lilymara.xyz/posts/images-esp32/"
+  },
+  {
+    "date": "2022-11-23",
+    "title": "Embedded Rust &amp; Embassy: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-embassy-gpio-button-controlled-blinking"
+  },
+  {
+    "date": "2022-11-16",
+    "title": "4-Step Primer on Navigating Embedded Rust HAL Documentation",
+    "link": "https://apollolabsblog.hashnode.dev/4-step-primer-on-navigating-embedded-rust-hal-documentation"
+  },
+  {
+    "date": "2022-11-02",
+    "title": "Property-Based Testing in Rust with Arbitrary | Serhii Potapov (greyblake)",
+    "link": "https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "STM32F4 Embedded Rust at the HAL: SPI with the MAX7219 LED Dot Matrix",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-spi-with-the-max7219-led-dot-matrix"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "STM32F4 Embedded Rust at the HAL: DMA Controllers",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-dma-controllers"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "STM32F4 Embedded Rust at the HAL: Timer Interrupts",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-timer-interrupts"
+  },
+  {
+    "date": "2022-08-24",
+    "title": "STM32F4 Embedded Rust at the HAL: GPIO Interrupts",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-gpio-interrupts"
+  },
+  {
+    "date": "2022-08-17",
+    "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/036/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "STM32F4 Embedded Rust at the HAL: I2C  Temperature &amp; Pressure Sensing with BMP180",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-i2c-temperature-pressure-sensing-with-bmp180"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "LendingIterator — Rust library // Lib.rs",
+    "link": "https://lib.rs/crates/lending-iterator"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "Bevy 0.8",
+    "link": "https://bevyengine.org/news/bevy-0-8/"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "STM32F4 Embedded Rust at the HAL: Analog Temperature Sensing using the ADC",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-analog-temperature-sensing-using-the-adc"
+  },
+  {
+    "date": "2022-07-27",
+    "title": "STM32F4 Embedded Rust at the HAL: Timer Ultrasonic Distance Measurement",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-timer-ultrasonic-distance-measurement"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "When rustc explodes",
+    "link": "https://fasterthanli.me/articles/when-rustc-explodes"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "STM32F4 Embedded Rust at the HAL: PWM Buzzer",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-pwm-buzzer"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "STM32F4 Embedded Rust at the HAL: Button Controlled Blinking by Timer Polling",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-button-controlled-blinking-by-timer-polling"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "STM32F4 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/stm32f4-embedded-rust-at-the-hal-gpio-button-controlled-blinking"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Async Cancellation II: Time and Signals",
+    "link": "https://blog.yoshuawuyts.com/async-cancellation-2/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "Demystifying Rust Embedded HAL Split and Constrain Methods",
+    "link": "https://apollolabsblog.hashnode.dev/demystifying-rust-embedded-hal-split-and-constrain-methods"
+  },
+  {
+    "date": "2022-03-30",
+    "title": "Async destructors, async genericity and completion futures - Sabrina Jewson",
+    "link": "https://sabrinajewson.org/blog/async-drop"
+  },
+  {
+    "date": "2022-03-30",
+    "title": "Oxide on My Wrist: Hubris on PineTime was the best worst idea",
+    "link": "https://artemis.sh/2022/03/28/oxide-hubris-on-pinetime.html"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Futures Concurrency III: select!",
+    "link": "https://blog.yoshuawuyts.com/futures-concurrency-3/"
+  },
+  {
+    "date": "2021-11-24",
+    "title": "Netbox to Netshot: how I used Rust for the first time | Scaleway",
+    "link": "https://blog.scaleway.com/i-used-rust-for-the-first-time-to-bridge-two-softwares-heres-how-it-went/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "Automating Ember releases with Rust | Mainmatter",
+    "link": "https://simplabs.com/blog/2021/11/09/automating-ember-learning-releases-with-rust/"
+  },
+  {
+    "date": "2021-09-29",
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Rust SSH",
+    "link": "https://saidvandeklundert.net/learn/2021-08-06-rust-ssh-cli-tool/"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Daily Rust: Slice Patterns · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/daily/slice-patterns/"
+  },
+  {
+    "date": "2021-04-28",
+    "title": "Move Constructors in Rust: Is it possible? · mcyoung",
+    "link": "https://mcyoung.xyz/2021/04/26/move-ctors/"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Why fnm was rewritten in Rust",
+    "link": "https://gal.hagever.com/posts/why-fnm-was-rewritten-in-rust/"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "2021-04-06: Interfacing a low-level actor system to Rust async/await, part 1 - Uazú blog",
+    "link": "https://uazu.github.io/blog/20210406.html"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "The GPIO war: macro bunkers for typestate explosions - cuervo",
+    "link": "https://www.ecorax.net/macro-bunker-1/"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "Serving a single file over HTTP with Rust and Go",
+    "link": "https://vadosware.io/post/serving-a-single-file-over-http-with-rust-and-go/"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Examples of declarative style in Rust | by Radek Vít | Medium",
+    "link": "https://radekvit.medium.com/examples-of-declarative-style-in-rust-9fae89c0fea"
+  },
+  {
+    "date": "2021-02-03",
+    "title": "Parsing PDF Documents in Rust · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/parsing-pdfs-in-rust/?utm_source=reddit&utm_medium=social&utm_campaign=parsing-pdf-documents"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "variadics_analysis.md · GitHub",
+    "link": "https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "XML parsing in Rust | Mainmatter",
+    "link": "https://simplabs.com/blog/2020/12/31/xml-and-rust/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "The Newtype Pattern in Rust",
+    "link": "https://www.worthe-it.co.za/blog/2020-10-31-newtype-pattern-in-rust.html"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Using Rust for a simple hardware project | tonari blog",
+    "link": "https://blog.tonari.no/rust-simple-hardware-project"
+  },
+  {
+    "date": "2020-11-25",
+    "title": "Jitter | Electronic Design and Consultancy",
+    "link": "https://jitter.company/blog/2020/11/23/bootstrapping-support-for-the-stm32wle-with-the-embedded-rust-ecosystem/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "Generating a Config File Reference for a CLI Tool in Rust - tarquin-the-brave",
+    "link": "https://tarquin-the-brave.github.io/blog/posts/generating-config-reference-rust-cli/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Learn Rust With Benford's Law&nbsp;–&nbsp;gliderkite.io",
+    "link": "https://gliderkite.github.io/posts/learn-rust-with-benford/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Throw Away Code | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/09/20/throw-away-code.html"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Rust Roadmap 2021: Allowing for arbitrary size integer primitives | The subconscious mumblings of therealprof",
+    "link": "https://therealprof.github.io/blog/roadmap-2021-arbitrary-size-primitives/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "TL;DR Rust - Xe Iaso",
+    "link": "https://christine.website/blog/TLDR-rust-2020-09-19"
+  },
+  {
+    "date": "2020-09-09",
+    "title": "Peeking inside a Rust enum",
+    "link": "https://fasterthanli.me/articles/peeking-inside-a-rust-enum"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "As above, so below: Bare metal Rust generics 1/2 - cuervo",
+    "link": "https://www.ecorax.net/as-above-so-below-1/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-25/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/39/why-rust-is-a-great-fit-for-embedded-software"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Surviving Rust async interfaces",
+    "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Simd Library Plans | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/05/08/simd-library-plans.html"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Writing Non-Trivial Macros in Rust · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/non-trivial-macros/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-06-02",
+    "title": "Current State of Embedded Rust for Flight Controllers · GitHub",
+    "link": "https://gist.github.com/tstellanova/81c963f556522447dd007a0c3a84ebc3"
+  },
+  {
+    "date": "2020-03-31",
+    "title": "State Machines: Introduction",
+    "link": "https://blog.yoshuawuyts.com/state-machines/"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Building TodoMVC With vgtk : Bodil dot lol",
+    "link": "https://bodil.lol/vgtk/"
+  },
+  {
+    "date": "2020-02-18",
+    "title": "A Pragmatic Approach To Global State · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/pragmatic-global-state/"
+  },
+  {
+    "date": "2019-12-24",
+    "title": "Streams Concurrency",
+    "link": "https://blog.yoshuawuyts.com/streams-concurrency/"
+  },
+  {
+    "date": "2019-04-23",
+    "title": "Using DMA to transfer data with Embedded Rust [ant @ flowdsp.io]",
+    "link": "https://flowdsp.io/blog/stm32f3-02-dac-dma/"
+  },
+  {
+    "date": "2019-03-19",
+    "title": "Implementing a static stack usage analysis tool | Embedded in Rust",
+    "link": "https://blog.japaric.io/stack-analysis/"
+  },
+  {
+    "date": "2018-10-23",
+    "title": "static_assertions - Rust",
+    "link": "https://docs.rs/static_assertions"
+  },
+  {
+    "date": "2018-10-16",
+    "title": "Configuration envy. How software is configured has always… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/configuration-envy-a09584386705"
+  },
+  {
+    "date": "2018-10-09",
+    "title": "Bluetooth Low Energy with Rust | 219 Design",
+    "link": "https://219design.com/bluetooth-low-energy-with-rust/"
+  },
+  {
+    "date": "2018-09-25",
+    "title": "How we integrate Rust with C#",
+    "link": "https://blog.getseq.net/rust-at-datalust-how-we-integrate-rust-with-csharp/"
+  },
+  {
+    "date": "2018-09-18",
+    "title": "Isomorphic Desktop Apps with Rust",
+    "link": "https://speice.io/2018/09/isomorphic-apps.html"
+  },
+  {
+    "date": "2018-08-07",
+    "title": "Solving the Generalized Streaming Iterator Problem without GATs · Lukasʼ Blog",
+    "link": "https://lukaskalbertodt.github.io/2018/08/03/solving-the-generalized-streaming-iterator-problem-without-gats.html"
+  },
+  {
+    "date": "2018-06-12",
+    "title": "Sponsor work on Rust! · Aaron Turon",
+    "link": "https://aturon.github.io/sponsor/"
+  },
+  {
+    "date": "2018-05-15",
+    "title": "Mat Perf | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2018/05/12/Mat-perf.html"
+  },
+  {
+    "date": "2018-05-01",
+    "title": "Embedded Rust Experiments - Flipping some bits high on STM32VLDISCOVERY board",
+    "link": "https://nercury.github.io/rust/embedded/experiments/2018/04/29/rust-embedded-01-discovery-vl-flipping-bits.html"
+  },
+  {
+    "date": "2018-03-06",
+    "title": "An introduction to writing platform agnostic drivers in Rust using the MCP3008 as an example.",
+    "link": "http://pramode.in/2018/02/24/an-introduction-to-writing-embedded-hal-based-drivers-in-rust/"
+  },
+  {
+    "date": "2018-02-27",
+    "title": "Programming an ARM microcontroller in Rust at four different levels of abstraction",
+    "link": "http://pramode.in/2018/02/20/programming-a-microcontroller-in-rust-at-four-levels-of-abstraction/"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "\"The Expressive C++17 Coding Challenge (in Rust)\" revisited",
+    "link": "http://words.steveklabnik.com/the-expressive-c-17-coding-challenge-in-rust-revisited"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "Brave new I/O | Embedded in Rust",
+    "link": "http://blog.japaric.io/brave-new-io/"
+  },
+  {
+    "date": "2017-09-05",
+    "title": "5 Tips for Writing Small CLI Tools in Rust - Pascal’s Scribbles",
+    "link": "https://deterministic.space/rust-cli-tips.html"
+  },
+  {
+    "date": "2017-05-09",
+    "title": "Fearless concurrency in your microcontroller | Embedded in Rust",
+    "link": "http://blog.japaric.io/fearless-concurrency/"
+  },
+  {
+    "date": "2017-05-02",
+    "title": "Rust your ARM microcontroller! | Embedded in Rust",
+    "link": "http://blog.japaric.io/quickstart/"
+  }
+]

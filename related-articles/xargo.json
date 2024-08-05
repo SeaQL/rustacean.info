@@ -1,57 +1,76 @@
 [
   {
+    "date": "2021-05-26",
     "title": "Adventures in rustc Forking",
     "link": "https://jam1.re/blog/adventures-in-rustc-forking"
   },
   {
+    "date": "2021-02-03",
     "title": "Llama Rust SDK preview 0.1.3",
     "link": "https://ericsink.com/entries/llama_rust_013.html"
   },
   {
+    "date": "2020-11-18",
     "title": "Rust for Modding Smash Ultimate",
     "link": "https://jam1.re/blog/rust-for-game-modding"
   },
   {
+    "date": "2020-10-21",
     "title": "Assorted thoughts on zig (and rust)",
     "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
   },
   {
+    "date": "2020-07-14",
     "title": "Creating a custom target - The Embedonomicon",
     "link": "https://rust-embedded.github.io/embedonomicon/custom-target.html"
   },
   {
+    "date": "2019-06-25",
     "title": "Rust on the ESP and how to get started – ctron's blog",
     "link": "https://dentrassi.de/2019/06/16/rust-on-the-esp-and-how-to-get-started/"
   },
   {
+    "date": "2019-05-07",
     "title": "Cargo in 2019",
     "link": "https://www.ncameron.org/blog/cargo-in-2019/"
   },
   {
+    "date": "2018-06-12",
     "title": "Sponsor work on Rust! · Aaron Turon",
     "link": "https://aturon.github.io/sponsor/"
   },
   {
+    "date": "2018-01-09",
     "title": "Looking in on Rust in 2018 · Bloggedy blog",
     "link": "https://kasma1990.gitlab.io/2018/01/07/looking-in-on-rust-in-2018/"
   },
   {
+    "date": "2017-12-05",
     "title": "Rust on ARM Cortex-M microcontrollers",
     "link": "http://pramode.in/2017/12/04/rust-on-arm-cortexm-microcontrollers/"
   },
   {
+    "date": "2017-08-29",
+    "title": "GSoC Project: Making Redox Self-hosting, Final Summary - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-final/"
+  },
+  {
+    "date": "2017-05-02",
     "title": "Rust your ARM microcontroller! | Embedded in Rust",
     "link": "http://blog.japaric.io/quickstart/"
   },
   {
+    "date": "2017-03-14",
     "title": "Rust on the Cortex M3",
     "link": "http://www.acrawford.com/2017/03/09/rust-on-the-cortex-m3.html"
   },
   {
+    "date": "2017-01-03",
     "title": "Rust on RTL8710 running FreeRTOS",
     "link": "https://polyfractal.com/post/rustl8710/"
   },
   {
+    "date": "2017-01-03",
     "title": "Rust on the WiFi Pineapple (and OpenWrt) – daschl writes. sometimes.",
     "link": "http://nitschinger.at/Rust-on-the-Wifi-Pineapple-and-OpenWRT/"
   }

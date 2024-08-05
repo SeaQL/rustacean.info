@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-11-10",
     "title": "Plugins in Rust: Reducing the Pain with Dependencies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-abi-stable/"
   },
   {
+    "date": "2021-07-28",
     "title": "https://blaz.is/blog/post/cglue-012-and-the-road-ahead/",
     "link": "https://blaz.is/blog/post/cglue-012-and-the-road-ahead/"
   }

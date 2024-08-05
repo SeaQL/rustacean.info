@@ -1,21 +1,31 @@
 [
   {
+    "date": "2023-08-02",
+    "title": "Building a Rust workspace with Bazel - Tweag",
+    "link": "https://www.tweag.io/blog/2023-07-27-building-rust-workspace-with-bazel/"
+  },
+  {
+    "date": "2022-10-05",
     "title": "impl Future { }",
     "link": "https://implfuture.dev/blog/rewriting-the-modern-web-in-rust"
   },
   {
+    "date": "2022-05-25",
     "title": "Rust: A Critical Retrospective «  bunnie's blog",
     "link": "https://www.bunniestudios.com/blog/?p=6375"
   },
   {
+    "date": "2020-12-16",
     "title": "Notes on cross-compiling Rust",
     "link": "https://john-millikin.com/notes-on-cross-compiling-rust"
   },
   {
+    "date": "2020-10-07",
     "title": "Rust 2021 - Nikhil's blog",
     "link": "https://nikhilism.com/post/2020/rust-2021/"
   },
   {
+    "date": "2020-09-23",
     "title": "A Bazel Persistent Worker for Rust - Nikhil's blog",
     "link": "https://nikhilism.com/post/2020/bazel-persistent-worker-rust/"
   }

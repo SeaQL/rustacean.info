@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-07-24",
+    "title": "Diesel Async 0.5 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "Extending SQLite with Rust - rand[om]",
+    "link": "https://ricardoanderegg.com/posts/extending-sqlite-with-rust/"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Alexis Lozano",
+    "link": "https://alexis-lozano.com/hexagonal-architecture-in-rust-7/"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "Running Rust on Android – suve's ramblings",
+    "link": "https://blog.svgames.pl/article/running-rust-on-android"
+  }
+]

@@ -1,49 +1,71 @@
 [
   {
+    "date": "2022-01-12",
     "title": "Rust Async and the Terrible, Horrible, No Good, Very Bad Day | by Kevin Hoffman | Medium",
     "link": "https://kevinhoffman.medium.com/rust-async-and-the-terrible-horrible-no-good-very-bad-day-348ebc836274"
   },
   {
+    "date": "2021-09-08",
     "title": "Holmusk | Building a reliable and tRUSTworthy web service 🦀",
     "link": "https://holmusk.dev/blog/2021-05-29-using-rust.html"
   },
   {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-05-26",
     "title": "Sibi - Rucredstash release &amp; Rust experience from a Haskeller",
     "link": "https://psibi.in/posts/2021-05-22-credstash.html"
   },
   {
+    "date": "2021-03-17",
     "title": "100ms delays with Rust on Lambda · Peakscale",
     "link": "https://www.peakscale.com/100ms-gotcha/"
   },
   {
+    "date": "2020-08-04",
     "title": "Microservices in Rust with Kafka. Microservices don’t always have to… | by Marco Amann | Digital Frontiers — Das Blog | Medium",
     "link": "https://medium.com/digitalfrontiers/microservices-in-rust-with-kafka-2b671295b24e"
   },
   {
+    "date": "2020-03-24",
     "title": "Rust Async and the Terrible, Horrible, No Good, Very Bad Day | by Kevin Hoffman | Medium",
     "link": "https://medium.com/@KevinHoffman/rust-async-and-the-terrible-horrible-no-good-very-bad-day-348ebc836274"
   },
   {
+    "date": "2019-10-15",
     "title": "AWS’ sponsorship of the Rust project | AWS Open Source Blog",
     "link": "https://aws.amazon.com/blogs/opensource/aws-sponsorship-of-the-rust-project/"
   },
   {
+    "date": "2019-08-27",
     "title": "Review of “Everything in Rust” of COSCUP 2019 | by Liu An Chi (tigercosmos) | Coding Neutrino | Medium",
     "link": "https://medium.com/coding-neutrino-blog/review-of-everything-in-rust-of-coscup-2019-54152467d1c6"
   },
   {
+    "date": "2017-07-18",
+    "title": "Rusoto codegen, part three · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-codegen-part-three/"
+  },
+  {
+    "date": "2017-06-27",
     "title": "Rusoto codegen · Matthew Mayer's tech blog",
     "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-codegen/"
   },
   {
+    "date": "2017-06-27",
     "title": "Rusoto codegen, part two · Matthew Mayer's tech blog",
     "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-codegen-part-two/"
   },
   {
+    "date": "2017-06-06",
+    "title": "Rusoto RDS walkthrough, mk 2 · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-mk2/"
+  },
+  {
+    "date": "2017-05-23",
     "title": "Rusoto RDS walkthrough · Matthew Mayer's tech blog",
     "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-walkthrough/"
   }

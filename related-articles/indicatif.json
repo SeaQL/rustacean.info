@@ -1,18 +1,32 @@
 [
   {
+    "date": "2023-05-03",
+    "title": "The case for stabilizing arbitrary_self_types | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/the-case-for-stabilizing-arbitrary-self-types-b07bab22bb45"
+  },
+  {
+    "date": "2023-01-18",
     "title": "Youmu | Finding Nice MD5s Using Rust",
     "link": "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"
   },
   {
+    "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
   },
   {
+    "date": "2022-10-05",
     "title": "Brute forcing protected ZIP archives in Rust",
     "link": "https://agourlay.github.io/brute-forcing-protected-zip-rust/"
   },
   {
+    "date": "2022-06-15",
     "title": "IntelliJ Rust Changelog #172",
     "link": "https://intellij-rust.github.io/2022/06/14/changelog-172.html"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "Evolution of a simple `du -s` clone - blog by durka",
+    "link": "https://durka.github.io/blog/2017/08/06/du-evolution.html"
   }
 ]

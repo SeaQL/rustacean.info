@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-03-29",
+    "title": "Announcing `scoped-trace`.",
+    "link": "https://jack.wrenn.fyi/blog/scoped-trace/"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "Scoped threads in Rust, and why its async counterpart would be unsound | Wisha Wanichwecharungruang",
+    "link": "https://wishawa.github.io/posts/thread-scoped-async/"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "3184-thread-local-cell-methods - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3184-thread-local-cell-methods.html"
+  }
+]

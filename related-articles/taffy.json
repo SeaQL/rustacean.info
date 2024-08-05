@@ -1,45 +1,61 @@
 [
   {
+    "date": "2024-04-03",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/release-050"
   },
   {
+    "date": "2024-01-24",
     "title": "Roadmap for the Xilem backend in 2024 - Linebender",
     "link": "https://linebender.org/blog/xilem-backend-roadmap/#2"
   },
   {
+    "date": "2024-01-17",
     "title": "Xilem 2024 plans - Linebender",
     "link": "https://linebender.org/blog/xilem-2024/"
   },
   {
+    "date": "2023-07-12",
     "title": "Bevy 0.11",
     "link": "https://bevyengine.org/news/bevy-0-11/"
   },
   {
+    "date": "2023-03-15",
+    "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/043/"
+  },
+  {
+    "date": "2023-03-08",
     "title": "Bevy 0.10",
     "link": "https://bevyengine.org/news/bevy-0-10/"
   },
   {
+    "date": "2023-03-01",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/release-030/"
   },
   {
+    "date": "2022-12-14",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/templates-diffing/"
   },
   {
+    "date": "2022-08-03",
     "title": "Bevy 0.8",
     "link": "https://bevyengine.org/news/bevy-0-8/"
   },
   {
+    "date": "2022-07-13",
     "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/035/"
   },
   {
+    "date": "2022-03-16",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/release-020"
   },
   {
+    "date": "2022-01-05",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/introducing-dioxus/"
   }

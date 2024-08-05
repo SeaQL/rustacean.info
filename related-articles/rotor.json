@@ -1,21 +1,26 @@
 [
   {
+    "date": "2017-03-07",
     "title": "The Future With Futures",
     "link": "http://asquera.de/blog/2017-03-01/the-future-with-futures/"
   },
   {
+    "date": "2016-08-23",
     "title": "A Tokio Echo Server in 35 Lines – Pyfisch’s Blog",
     "link": "https://pyfisch.org/blog/tokio-echo-server/"
   },
   {
+    "date": "2016-08-16",
     "title": "Futures in Rust",
     "link": "http://www.ishbir.com/post/2016-08-14-futures-in-rust/"
   },
   {
+    "date": "2016-01-04",
     "title": "Async IO in Rust (part III). This is the third article in series of… | by PaulColomiets | Medium",
     "link": "https://medium.com/@paulcolomiets/async-io-in-rust-part-iii-cbfd10f17203"
   },
   {
+    "date": "2015-11-23",
     "title": "Async IO for Rust (part II). A second article about designing… | by PaulColomiets | Medium",
     "link": "https://medium.com/@paulcolomiets/async-io-for-rust-part-ii-33b9a7274e67"
   }

@@ -1,13 +1,26 @@
 [
   {
+    "date": "2024-06-12",
+    "title": "How to build a Custom Benchmarking Harness in Rust | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/benchmarking/rust/custom-harness/"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "How to benchmark Rust code with Iai | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/benchmarking/rust/iai/"
+  },
+  {
+    "date": "2023-09-27",
     "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
   },
   {
+    "date": "2022-03-02",
     "title": "Modern Telecom Network Tracing - OXIO",
     "link": "https://oxio.com/blog/modern-telecom-network-tracing/"
   },
   {
+    "date": "2021-01-27",
     "title": "Criterion.rs v0.3.4 And Iai 0.1.0 | bheisler.github.io",
     "link": "https://bheisler.github.io/post/criterion-rs-0-3-4/"
   }

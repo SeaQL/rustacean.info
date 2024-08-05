@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2024-05-29",
+    "title": "Report on variadic generics discussion at RustNL. · PoignardAzur",
+    "link": "https://poignardazur.github.io/2024/05/25/report-on-rustnl-variadics/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
+    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
+  },
+  {
+    "date": "2023-03-15",
+    "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/043/"
+  }
+]

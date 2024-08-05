@@ -1,6 +1,17 @@
 [
   {
+    "date": "2024-01-03",
     "title": "Testing Your Embedded Rust (feat. embedded-hal-mock and explosions) - Barrett's Club",
     "link": "https://barretts.club/posts/embedded-tests/"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Testing a driver crate  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-driver-crate/"
+  },
+  {
+    "date": "2020-02-04",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-23/"
   }
 ]

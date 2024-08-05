@@ -1,13 +1,16 @@
 [
   {
+    "date": "2021-05-12",
     "title": "Shader translation benchmark on Dota2/Metal - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/05/09/dota2-msl-compilation.html"
   },
   {
+    "date": "2021-05-12",
     "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/021/"
   },
   {
+    "date": "2021-05-05",
     "title": "Release of v0.8 - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/04/30/release-0.8.html"
   }

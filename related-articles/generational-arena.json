@@ -1,17 +1,31 @@
 [
   {
+    "date": "2024-02-07",
+    "title": "Garbage Collection Without Unsafe Code",
+    "link": "https://fitzgeraldnick.com/2024/02/06/safe-gc.html"
+  },
+  {
+    "date": "2023-03-08",
     "title": "When Zig is safer and faster than Rust",
     "link": "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
   },
   {
+    "date": "2023-03-01",
+    "title": "Sam Sartor - All the Problems of Mutation",
+    "link": "https://samsartor.com/guis-3/"
+  },
+  {
+    "date": "2021-07-28",
     "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
     "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
   },
   {
+    "date": "2021-05-05",
     "title": "Data Modelling in Rust",
     "link": "https://phazer99.blogspot.com/2021/05/data-modelling-in-rust.html"
   },
   {
+    "date": "2020-06-10",
     "title": "Graph &amp; Tree Traversals in Rust | Sachan Ganesh",
     "link": "https://sachanganesh.com/programming/graph-tree-traversals-in-rust/"
   }

@@ -1,33 +1,86 @@
 [
   {
+    "date": "2024-05-29",
+    "title": "When allocating unused memory boosts performance by 2x | Quickwit",
+    "link": "https://quickwit.io/blog/performance-investigation"
+  },
+  {
+    "date": "2023-12-20",
     "title": "Introducing FireDBG for Rust | FireDBG - 🔥 Time Travel Visual Debugger for Rust",
     "link": "https://firedbg.sea-ql.org/blog/2023-12-12-introducing-firedbg/"
   },
   {
+    "date": "2023-11-01",
+    "title": "How I learned to stop worrying and love byte ordering · udoprog",
+    "link": "https://udoprog.github.io/rust/2023-10-28/stop-worrying.html"
+  },
+  {
+    "date": "2023-09-27",
     "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
   },
   {
+    "date": "2022-11-02",
     "title": "The stable HashMap trap | More Stina Blog!",
     "link": "https://morestina.net/blog/1843/the-stable-hashmap-trap"
   },
   {
+    "date": "2022-10-26",
+    "title": "Writing a HashMap in Rust without unsafe",
+    "link": "https://ecton.dev/writing-a-hashmap-without-unsafe/"
+  },
+  {
+    "date": "2022-03-02",
+    "title": "How to speed up the Rust compiler in 2022 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Rust is more portable than C for pngquant/libimagequant",
+    "link": "https://pngquant.org/rust.html"
+  },
+  {
+    "date": "2021-07-28",
     "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
     "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
   },
   {
+    "date": "2021-07-14",
+    "title": "Inline In Rust",
+    "link": "https://matklad.github.io//2021/07/09/inline-in-rust.html"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "optimizing hashmaps even more",
+    "link": "https://blog.yoshuawuyts.com/optimizing-hashmaps-even-more/"
+  },
+  {
+    "date": "2021-01-13",
     "title": "Rust Language Cheat Sheet",
     "link": "https://cheats.rs/"
   },
   {
+    "date": "2020-09-30",
+    "title": "Building even faster interpreters in Rust",
+    "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
+  },
+  {
+    "date": "2020-06-10",
     "title": "A Rust SentencePiece implementation | Rust NLP tales",
     "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
   },
   {
+    "date": "2019-07-16",
     "title": "Announcing Rustacean Station and Rust 1.36 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/000-rust-1.36.0/"
   },
   {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
+  },
+  {
+    "date": "2018-11-27",
     "title": "Rust Language Cheat Sheet",
     "link": "https://cheats.rs"
   }

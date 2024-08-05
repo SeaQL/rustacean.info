@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-01-28",
     "title": "Units of Measure in Rust with Refinement Types",
     "link": "https://yoric.github.io/post/uom.rs/"
   }

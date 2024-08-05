@@ -1,13 +1,26 @@
 [
   {
+    "date": "2022-11-16",
+    "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/039/"
+  },
+  {
+    "date": "2022-06-08",
     "title": "Are we game yet?",
     "link": "https://arewegameyet.rs/"
   },
   {
+    "date": "2021-08-10",
+    "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/024/"
+  },
+  {
+    "date": "2018-01-02",
     "title": "This Year in Gfx-rs - 2017 - gfx-rs nuts and bolts",
     "link": "http://gfx-rs.github.io/2017/12/30/this-year.html"
   },
   {
+    "date": "2016-09-06",
     "title": "Are we game yet?",
     "link": "http://arewegameyet.com/"
   }

@@ -1,0 +1,77 @@
+[
+  {
+    "date": "2023-11-22",
+    "title": "A close encounter with false sharing | More Stina Blog!",
+    "link": "https://morestina.net/blog/1976/a-close-encounter-with-false-sharing"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "TulipeMoutarde.be",
+    "link": "https://tulipemoutarde.be/posts/2023-08-20-depencency-injection-rust-axum/"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "date": "2023-06-07",
+    "title": "MsgPacker: Enhancing performance and security – Victor Lopez – A Rust flavored crypto perspective.",
+    "link": "https://vlopes11.github.io/msgpacker-refactor/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-impl/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Fluvio - This Week in Fluvio #19",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0019/"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "How to Deal with Out-of-memory Conditions in Rust | CrowdStrike",
+    "link": "https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/"
+  },
+  {
+    "date": "2021-07-07",
+    "title": "butido - a Linux Package Building Tool in Rust — musicmatzes blog",
+    "link": "https://beyermatthias.de/butido-a-linux-package-building-tool-in-rust"
+  },
+  {
+    "date": "2020-12-30",
+    "title": "Call Site Dependency Injection",
+    "link": "https://matklad.github.io/2020/12/28/csdi.html"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Halite III Bot Development Kit in Rust",
+    "link": "https://sgolem.com/halite-iii-bot-development-kit-in-rust"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "Rust verification tools (2020) – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-verification-tools/"
+  },
+  {
+    "date": "2020-03-24",
+    "title": "Fast and Simple Rust Interner",
+    "link": "https://matklad.github.io/2020/03/22/fast-simple-rust-interner.html"
+  },
+  {
+    "date": "2019-02-05",
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "date": "2016-10-04",
+    "title": "musicmatzes blog",
+    "link": "http://beyermatthias.de"
+  },
+  {
+    "date": "2016-09-13",
+    "title": "show_notes::bonus::_7 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_7/"
+  }
+]

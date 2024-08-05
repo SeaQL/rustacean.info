@@ -1,5 +1,11 @@
 [
   {
+    "date": "2024-03-20",
+    "title": "Zig, Rust, and other languages | notes.eatonphil.com",
+    "link": "https://notes.eatonphil.com/2024-03-15-zig-rust-and-other-languages.html"
+  },
+  {
+    "date": "2018-10-02",
     "title": "How I’ve found vulnerability in a popular Rust crate (and you can too) | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb"
   }

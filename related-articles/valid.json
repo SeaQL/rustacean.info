@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-08-16",
+    "title": "Make Illegal States Unrepresentable | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/illegal-state/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Collecting All the Errors - Rust - tarquin-the-brave",
+    "link": "https://tarquin-the-brave.github.io/blog/posts/collecting-all-the-errors/"
+  }
+]

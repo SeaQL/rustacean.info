@@ -1,14 +1,27 @@
 [
   {
+    "date": "2023-11-15",
     "title": "Building and Deploying A Static Site Generator",
     "link": "https://www.shuttle.rs/blog/2023/11/15/ssg-in-rust"
   },
   {
+    "date": "2020-06-30",
     "title": "xi-editor retrospective | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
   },
   {
+    "date": "2020-05-05",
+    "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
+  },
+  {
+    "date": "2019-11-26",
     "title": "Towards a unified theory of reactive UI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html"
+  },
+  {
+    "date": "2019-08-27",
+    "title": "Thoughts on Rust bloat | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
   }
 ]

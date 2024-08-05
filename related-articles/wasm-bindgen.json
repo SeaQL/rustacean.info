@@ -1,125 +1,501 @@
 [
   {
+    "date": "2024-07-03",
     "title": "The Minimal Rust-Wasm Setup for 2024 - dzfrias",
     "link": "https://dzfrias.dev/blog/rust-wasm-minimal-setup/"
   },
   {
+    "date": "2024-06-12",
     "title": "Latency at the Edge with Rust/WebAssembly and Postgres: Part 1 | Exograph",
     "link": "https://exograph.dev/blog/wasm-pg-explorations-1"
   },
   {
+    "date": "2024-05-22",
+    "title": "Free Rust ebooks for Amazon Kindle",
+    "link": "https://rust-ebooks.code-maven.com/"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "Compiling Rust to WASI",
+    "link": "https://benw.is/posts/compiling-rust-to-wasi"
+  },
+  {
+    "date": "2024-02-21",
+    "title": "Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly | Programming | mary.codes",
+    "link": "https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/"
+  },
+  {
+    "date": "2024-01-17",
+    "title": "Semantic search powered by WASM and WebGPU | AmineDiro",
+    "link": "https://aminediro.com/posts/semsearch_wasm/"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "The dark side of inlining and monomorphization",
+    "link": "https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "The rabbit hole of unsafe Rust bugs – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/cautionary-unsafe-tale/"
+  },
+  {
+    "date": "2023-08-09",
     "title": "Running a Bevy game in SvelteKit - sneaky crow",
     "link": "https://sneakycrow.dev/blog/2023-07-30-bevy-game-in-svelte-kit"
   },
   {
+    "date": "2023-08-09",
     "title": "Logan Keenan - Client-Side Server with Rust: A New Approach to UI Development",
     "link": "https://logankeenan.com/posts/client-side-server-with-rust-a-new-approach-to-ui-development/"
   },
   {
+    "date": "2023-07-05",
+    "title": "Nine Rules for Running Rust on the Web and on Embedded | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "Bytecode Alliance — Announcing wasi-threads",
+    "link": "https://bytecodealliance.org/articles/wasi-threads"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/"
+  },
+  {
+    "date": "2023-02-15",
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/index.html"
+  },
+  {
+    "date": "2023-02-01",
     "title": "One step forward, an easier interoperability between Rust and Haskell | IOG Engineering",
     "link": "https://engineering.iog.io/2023-01-26-hs-bindgen-introduction/"
   },
   {
+    "date": "2023-01-25",
+    "title": "Packaging Rust Applications for the NPM Registry - Orhun's Blog",
+    "link": "https://blog.orhun.dev/packaging-rust-for-npm/"
+  },
+  {
+    "date": "2022-12-14",
     "title": "Sending Emails from the Edge with Rust | Mainmatter",
     "link": "https://mainmatter.com/blog/2022/12/09/sending-emails-from-the-edge-with-rust/"
   },
   {
+    "date": "2022-11-30",
+    "title": "Threads and messages with Rust and WebAssembly - Tweag",
+    "link": "https://www.tweag.io/blog/2022-11-24-wasm-threads-and-messages/"
+  },
+  {
+    "date": "2022-11-30",
+    "title": "WebAssembly: Go vs Rust vs AssemblyScript · Ecostack",
+    "link": "https://ecostack.dev/posts/wasm-tinygo-vs-rust-vs-assemblyscript/"
+  },
+  {
+    "date": "2022-10-12",
+    "title": "Avoiding allocations in Rust to shrink Wasm modules",
+    "link": "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
+  },
+  {
+    "date": "2022-10-05",
+    "title": "impl Future { }",
+    "link": "https://implfuture.dev/blog/rewriting-the-modern-web-in-rust"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Rust and WebAssembly without a Bundler | Tung's Word Box",
+    "link": "https://tung.github.io/posts/rust-and-webassembly-without-a-bundler/"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "How to setup a Wasm API for a CHIP-8 emulator",
+    "link": "https://monadical.com/posts/wasm-chip8.html"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "Insights of Porting Hugging Face Rust Tokenizers to WASM",
+    "link": "https://blog.mithrilsecurity.io/porting-tokenizers-to-wasm/"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Integrating a Svelte app with Rust using WebAssembly - LogRocket Blog",
+    "link": "https://blog.logrocket.com/integrating-svelte-app-rust-webassembly/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "Logan Keenan - A Rust Server App Compiled to WASM as an SPA",
+    "link": "https://logankeenan.com/posts/a-rust-server-app-compiled-to-wasm-as-an-spa/"
+  },
+  {
+    "date": "2022-05-04",
+    "title": "Building a WebAssembly-powered serverless platform",
+    "link": "https://blog.scottlogic.com/2022/04/16/wasm-faas.html"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Frontend Rust Without Node - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2022/02/14/frontend-rust-without-node/"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "Containerless! How to Run WebAssembly Workloads on Kubernetes with Rust | Okta Developer",
+    "link": "https://developer.okta.com/blog/2022/01/28/webassembly-on-kubernetes-with-rust"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
+    "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
+  },
+  {
+    "date": "2022-01-26",
     "title": "Part 1: The life of an optimization barrier | Trail of Bits Blog",
     "link": "https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/"
   },
   {
+    "date": "2022-01-19",
     "title": "Tutorial: Writing a Tiny Rust Game Engine for Web",
     "link": "https://ianjk.com/game-engine-in-rust/"
   },
   {
+    "date": "2022-01-12",
+    "title": "Could Rust be the Future of JavaScript Infrastructure? - The New Stack",
+    "link": "https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Yew with Julius Lungys :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/053-julius-lungys/"
+  },
+  {
+    "date": "2021-12-29",
     "title": "Announcing NAPI-RS v2 – NAPI-RS",
     "link": "https://napi.rs/blog/announce-v2"
   },
   {
+    "date": "2021-12-29",
+    "title": "Vange-rs: WebAssembly in Rust. Vangers  — one of the most… | by Alexander Guryanov (caiiiycuk) | Medium",
+    "link": "https://caiiiycuk.medium.com/vange-rs-webassembly-in-rust-498e2f960a04"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "Authoring a SIMD enhanced Wasm library with Rust",
+    "link": "https://nickb.dev/blog/authoring-a-simd-enhanced-wasm-library-with-rust"
+  },
+  {
+    "date": "2021-12-15",
     "title": "y|sndr - Rust as a platform for IoT",
     "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
   },
   {
+    "date": "2021-12-01",
+    "title": "Implementing Raft for Browsers with Rust and WebRTC · Emanuel Evans",
+    "link": "https://eevans.co/blog/wraft/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "Breakout: optimizing rust+WASM – pci blog",
+    "link": "https://pci.github.io/blog/2021/10/advent-of-code-rust-wasm-and-js/"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Tag input assistant for &lt;select&gt; elements in Rust/wasm - epilys blog",
+    "link": "https://nessuent.xyz/posts/2021-08-14_tag-wasm-rust.html"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Rust on RISC-V BL602: Simulated with WebAssembly",
+    "link": "https://lupyuen.github.io/articles/rustsim"
+  },
+  {
+    "date": "2021-08-04",
     "title": "Rewriting my mobile game in Rust targeting WASM | by Luca Mattos Moller | Medium",
     "link": "https://itnext.io/rewriting-my-mobile-game-in-rust-targeting-wasm-1f9f82751830"
   },
   {
+    "date": "2021-07-21",
+    "title": "Run Rust in electron | Dom’s stuff",
+    "link": "https://domtac.github.io/rust/webassembly/electron/2021/07/20/Run-rust-in-electron.html"
+  },
+  {
+    "date": "2021-07-21",
+    "title": "Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG",
+    "link": "https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg"
+  },
+  {
+    "date": "2021-07-07",
+    "title": "Rust on the front-end",
+    "link": "https://blog.frankel.ch/start-rust/5/"
+  },
+  {
+    "date": "2021-06-23",
+    "title": "使用 Rust 開發 WebAssembly 程式 - 1 Hello World | Yodalee Note",
+    "link": "https://yodalee.me/2021/05/1helloworld/"
+  },
+  {
+    "date": "2021-06-16",
     "title": "Learning to Fly: Let's simulate evolution in Rust (pt 4) | pwy.io",
     "link": "https://pwy.io/en/posts/learning-to-fly-pt4/"
   },
   {
+    "date": "2021-06-09",
+    "title": "Creating an NPM package written in Rust | by PopcornPaws | Medium",
+    "link": "https://popcornpaws.medium.com/creating-an-npm-package-written-in-rust-ce02f7c55458"
+  },
+  {
+    "date": "2021-06-02",
+    "title": "WebRTC Video chat tutorial using Rust+WASM | by Charles Schleich | Medium",
+    "link": "https://charles-schleich.medium.com/webrtc-video-chat-tutorial-using-rust-wasm-fa340f7aeef9"
+  },
+  {
+    "date": "2021-05-26",
+    "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
+    "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"
+  },
+  {
+    "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"
   },
   {
+    "date": "2021-03-24",
+    "title": "Building an OpenStreetMap app in Rust, Part VI | by Tor Hovland | Bekk",
+    "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-vi-8cfc8c3f7798"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "Rust/WebAssembly on AWS Lambda@Edge (CloudFront) | markentier.tech",
+    "link": "https://markentier.tech/posts/2021/01/rust-wasm-on-aws-lambda-edge/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Learn SixtyFPS: Memory Game Tutorial (Rust) — Slint Blog",
+    "link": "https://sixtyfps.io/blog/memory-game-tutorial.html"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "IntelliJ Rust Changelog #135",
+    "link": "https://intellij-rust.github.io/2020/11/16/changelog-135.html"
+  },
+  {
+    "date": "2020-10-28",
+    "title": "Are we web yet? Yes, and it's freaking fast!",
+    "link": "http://www.arewewebyet.org/"
+  },
+  {
+    "date": "2020-10-14",
+    "title": "Supercharge your Electron apps with Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/supercharge-your-electron-apps-with-rust/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "Results of Authoring a JS Library with Rust and Wasm",
+    "link": "https://nickb.dev/blog/results-of-authoring-a-js-library-with-rust-and-wasm"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "IntelliJ Rust Changelog #129",
+    "link": "https://intellij-rust.github.io/2020/08/24/changelog-129.html"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Colin Woodbury - Software Development Languages: Rust",
+    "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
+  },
+  {
+    "date": "2020-08-18",
     "title": "First steps with WebAssembly in Rust",
     "link": "https://aralroca.com/blog/first-steps-webassembly-rust"
   },
   {
+    "date": "2020-08-04",
     "title": "Rust for a Pythonista #1: Why and when?",
     "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
   },
   {
+    "date": "2020-07-14",
     "title": "Moving from TypeScript to Rust / WebAssembly | nicolodavis.com",
     "link": "https://nicolodavis.com/blog/typescript-to-rust/"
   },
   {
+    "date": "2020-07-14",
     "title": "Rust and WebAssembly from Scratch: Hello World with Strings | Depth-First",
     "link": "https://depth-first.com/articles/2020/07/07/rust-and-webassembly-from-scratch-hello-world-with-strings/"
   },
   {
+    "date": "2020-07-07",
+    "title": "Getting started with WebAssembly and Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/getting-started-with-webassembly-and-rust/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Pont",
+    "link": "http://www.mattkeeter.com/projects/pont/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
+    "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
+  },
+  {
+    "date": "2020-05-05",
     "title": "Stubbing out WASI manually in Rust",
     "link": "http://www.jakubkonka.com/2020/04/28/rust-wasi-from-scratch.html"
   },
   {
+    "date": "2020-04-21",
     "title": "wgpu-rs on the web - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2020/04/21/wgpu-web.html"
   },
   {
+    "date": "2019-12-10",
+    "title": "1Password X 1.17: New brain, new menu, and even more accessible | 1Password",
+    "link": "https://blog.1password.com/1passwordx-december-2019-release/"
+  },
+  {
+    "date": "2019-09-24",
+    "title": "Top-Level Infrastructure · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/top-level-infrastructure/"
+  },
+  {
+    "date": "2019-04-30",
+    "title": "Making Sandspiel | max-bittker",
+    "link": "https://maxbittker.com/making-sandspiel"
+  },
+  {
+    "date": "2019-03-19",
+    "title": "Let’s Build Gloo Together | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2019/03/12/lets-build-gloo-together.html"
+  },
+  {
+    "date": "2019-03-05",
+    "title": "Preston Richey | Up and Running with React + Rust + Wasm",
+    "link": "https://prestonrichey.com/blog/react-rust-wasm/"
+  },
+  {
+    "date": "2019-03-05",
     "title": "Building fast interpreters in Rust",
     "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
   },
   {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
+  },
+  {
+    "date": "2019-01-29",
     "title": "Exporting Serde types to TypeScript | Non-Recurring Engineering",
     "link": "http://timryan.org/2019/01/22/exporting-serde-types-to-typescript.html"
   },
   {
+    "date": "2019-01-08",
     "title": "Reflecting on Rust and WebAssembly in 2018 | Rust and WebAssembly",
     "link": "https://rustwasm.github.io/2018/12/06/reflecting-on-rust-and-wasm-in-2018.html"
   },
   {
+    "date": "2018-12-25",
+    "title": "How to Become a Rust Super-developer - Hashnode",
+    "link": "https://hashnode.com/post/how-to-become-a-rust-super-developer-cjpv1ee7e000buhs2aqrdw2ym"
+  },
+  {
+    "date": "2018-12-18",
+    "title": "Rust and WebAssembly in 2019",
+    "link": "http://fitzgeraldnick.com/2018/12/14/rust-and-webassembly-in-2019.html"
+  },
+  {
+    "date": "2018-12-11",
+    "title": "Rust 2018 is here… but what is it? - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2018/12/rust-2018-is-here/"
+  },
+  {
+    "date": "2018-12-04",
     "title": "wasm-bindgen — how does it work?!",
     "link": "http://fitzgeraldnick.com/2018/12/02/wasm-bindgen-how-does-it-work.html"
   },
   {
+    "date": "2018-11-27",
+    "title": "Rust Language Cheat Sheet",
+    "link": "https://cheats.rs"
+  },
+  {
+    "date": "2018-11-20",
     "title": "Bringing Elm’s architecture to Rust and Webassembly | Some Words",
     "link": "https://sindrejohansen.no/blog/willow/rust/elm/2018/11/16/willow-elm-in-rust.html"
   },
   {
+    "date": "2018-10-23",
     "title": "Multithreading Rust and Wasm | Rust and WebAssembly",
     "link": "https://rustwasm.github.io/2018/10/24/multithreading-rust-and-wasm.html"
   },
   {
+    "date": "2018-10-16",
+    "title": "Serverless Rust with Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/cloudflare-workers-as-a-serverless-rust-platform/"
+  },
+  {
+    "date": "2018-10-02",
+    "title": "Announcing the web-sys crate! | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/09/26/announcing-web-sys.html"
+  },
+  {
+    "date": "2018-09-25",
+    "title": "The Biggest wasm-pack Release Yet | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/09/24/the-biggest-wasm-pack-release-yet.html"
+  },
+  {
+    "date": "2018-09-18",
     "title": "Isomorphic Desktop Apps with Rust",
     "link": "https://speice.io/2018/09/isomorphic-apps.html"
   },
   {
+    "date": "2018-07-31",
+    "title": "Announcing the js-sys crate! | Rust and WebAssembly",
+    "link": "https://rustwasm.github.io/2018/07/26/announcing-the-js-sys-crate.html"
+  },
+  {
+    "date": "2018-07-03",
     "title": "Our Vision for wasm-bindgen | Rust and WebAssembly",
     "link": "https://rustwasm.github.io/2018/07/02/vision-for-wasm-bindgen.html"
   },
   {
+    "date": "2018-06-26",
     "title": "Our Vision for Rust and WebAssembly | Rust and WebAssembly",
     "link": "https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html"
   },
   {
+    "date": "2018-06-05",
     "title": "show_notes::cysk::wasm - Rust",
     "link": "https://newrustacean.com/show_notes/cysk/wasm/index.html"
   },
   {
+    "date": "2018-04-24",
+    "title": "Hello wasm-pack! - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2018/04/hello-wasm-pack/"
+  },
+  {
+    "date": "2018-04-17",
     "title": "Writing An NES Emulator with Rust and WebAssembly | by bokuweb | Medium",
     "link": "https://medium.com/@bokuweb17/writing-an-nes-emulator-with-rust-and-webassembly-d64de101c49d"
   },
   {
+    "date": "2018-04-10",
     "title": "JavaScript to Rust and Back Again: A wasm-bindgen Tale - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2018/04/javascript-to-rust-and-back-again-a-wasm-bindgen-tale/"
   }

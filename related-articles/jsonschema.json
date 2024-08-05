@@ -1,6 +1,12 @@
 [
   {
+    "date": "2024-05-15",
     "title": "Blazingly Fast Linked Lists",
     "link": "https://dygalo.dev/blog/blazingly-fast-linked-lists/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Rust for a Pythonista #1: Why and when?",
+    "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
   }
 ]

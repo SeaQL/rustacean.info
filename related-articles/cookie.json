@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-03-13",
     "title": "biscotti, a new crate for HTTP cookies | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/biscotti-http-cookies-in-rust/"
   },
   {
+    "date": "2022-11-30",
     "title": "Migrating from warp to axum",
     "link": "https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2"
   }

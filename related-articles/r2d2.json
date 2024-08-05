@@ -1,18 +1,37 @@
 [
   {
+    "date": "2022-11-30",
     "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
     "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
   },
   {
+    "date": "2020-06-02",
+    "title": "Rust at OneSignal",
+    "link": "https://onesignal.com/blog/rust-at-onesignal/"
+  },
+  {
+    "date": "2018-09-18",
+    "title": "Postgres over TLS with postgres and r2d2_postgres · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/postgres-tls/"
+  },
+  {
+    "date": "2018-07-10",
     "title": "A web application completely in Rust | by Sascha Grunert | Medium",
     "link": "https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471"
   },
   {
+    "date": "2018-03-27",
     "title": "Touring a Fast, Safe, and Complete(ish) Web Service in Rust — brandur.org",
     "link": "https://brandur.org/rust-web"
   },
   {
+    "date": "2016-05-30",
     "title": "Connecting a webservice to a database in Rust",
     "link": "http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "I wrote a website in Rust and lived to tell the&nbsp;tale",
+    "link": "http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale"
   }
 ]

@@ -1,21 +1,31 @@
 [
   {
+    "date": "2022-09-21",
     "title": "PostgresML is Moving to Rust for our 2.0 Release – PostgresML",
     "link": "https://postgresml.org/blog/postgresml-is-moving-to-rust-for-our-2.0-release/"
   },
   {
+    "date": "2019-07-30",
     "title": "Python vs Rust for Neural Networks | Nathan Goldbaum",
     "link": "https://ngoldbaum.github.io/posts/python-vs-rust-nn/"
   },
   {
+    "date": "2019-05-14",
     "title": "The State of Machine Learning in Rust - Ehsan's Blog",
     "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
   },
   {
+    "date": "2019-04-16",
+    "title": "Face Detection with Actix Web",
+    "link": "https://cetra3.github.io/blog/face-detection-with-actix-web/"
+  },
+  {
+    "date": "2019-04-02",
     "title": "Face Detection with Tensorflow Rust",
     "link": "https://cetra3.github.io/blog/face-detection-with-tensorflow-rust/"
   },
   {
+    "date": "2017-02-28",
     "title": "How we made TensorFlow run on a Raspberry Pi using Rust | by Thibaut Lorrain | Snips Blog | Medium",
     "link": "https://medium.com/snips-ai/how-we-made-tensorflow-run-on-a-raspberry-pi-using-rust-7478f7a31329"
   }

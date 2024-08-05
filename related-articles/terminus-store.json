@@ -1,6 +1,12 @@
 [
   {
+    "date": "2023-06-07",
     "title": "Building a Vector Database to Make Use of Vector Embeddings",
     "link": "https://terminusdb.com/blog/vector-database-and-vector-embeddings/"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Conf42: online tech events",
+    "link": "https://www.conf42.com/"
   }
 ]

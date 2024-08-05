@@ -1,5 +1,11 @@
 [
   {
+    "date": "2022-04-06",
+    "title": "Improving Python S3 Client Performance with Rust | by Joshua Robinson | Medium",
+    "link": "https://joshua-robinson.medium.com/improving-python-s3-client-performance-with-rust-e9639359072f"
+  },
+  {
+    "date": "2020-05-05",
     "title": "Writing Python module in Rust using PyO3",
     "link": "https://kushaldas.in/posts/writing-python-module-in-rust-using-pyo3.html"
   }

@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2022-04-06",
+    "title": "Futures Nostalgia",
+    "link": "https://fasterthanli.me/articles/futures-nostalgia"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Why is my Rust build so slow?",
+    "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Deep Learning in Rust with GPU",
+    "link": "https://able.bio/haixuanTao/deep-learning-in-rust-with-gpu--26c53a7f"
+  },
+  {
+    "date": "2020-06-10",
+    "title": "A Rust SentencePiece implementation | Rust NLP tales",
+    "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
+  }
+]

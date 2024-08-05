@@ -1,5 +1,21 @@
 [
   {
+    "date": "2024-06-05",
+    "title": "The ultimate guide to Rust newtypes",
+    "link": "https://www.howtocodeit.com/articles/ultimate-guide-rust-newtypes"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Using Serde in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/23/using-serde-rust"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "Faster Rust Serialization",
+    "link": "https://mo8it.com/blog/faster-rust-serialization/"
+  },
+  {
+    "date": "2021-10-20",
     "title": "serde_with - Rust",
     "link": "https://docs.rs/serde_with"
   }

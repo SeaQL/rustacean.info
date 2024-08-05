@@ -1,14 +1,22 @@
 [
   {
+    "date": "2018-10-02",
     "title": "How I’ve found vulnerability in a popular Rust crate (and you can too) | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb"
   },
   {
+    "date": "2016-12-06",
     "title": "Zero-cost abstractions",
     "link": "https://ruudvanasseldonk.com/2016/11/30/zero-cost-abstractions"
   },
   {
+    "date": "2015-06-22",
     "title": "Exceptional results: error handling with C# and Rust",
     "link": "https://ruudvanasseldonk.com/2015/06/17/exceptional-results-error-handling-in-csharp-and-rust"
+  },
+  {
+    "date": "2015-02-02",
+    "title": "heartbleed in rust",
+    "link": "http://www.tedunangst.com/flak/post/heartbleed-in-rust"
   }
 ]

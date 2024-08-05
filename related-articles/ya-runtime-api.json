@@ -1,5 +1,16 @@
 [
   {
+    "date": "2021-10-06",
+    "title": "RiB Newsletter #28 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-28/"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "RiB Newsletter #27 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-27/"
+  },
+  {
+    "date": "2020-06-10",
     "title": "RiB Newsletter #12 – ZK-Rustups - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-06-03-zk-rustups/"
   }

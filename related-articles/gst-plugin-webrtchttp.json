@@ -1,9 +1,36 @@
 [
   {
+    "date": "2023-04-19",
     "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
   },
   {
+    "date": "2022-10-26",
+    "title": "Making Rust attractive for writing GTK applications",
+    "link": "https://belmoussaoui.com/blog/15-making-rust-attractive-for-writing-gtk-applications/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
+  },
+  {
+    "date": "2020-07-14",
+    "title": "Subclassing Gtk widgets in Rust | Tech Notes",
+    "link": "https://www.figuiere.net/technotes/notes/tn002/"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "Cross building Rust GStreamer plugins for the Raspberry Pi",
+    "link": "https://www.collabora.com/news-and-blog/blog/2020/06/23/cross-building-rust-gstreamer-plugins-for-the-raspberry-pi/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Reducing the size of a Rust GStreamer plugin",
+    "link": "https://www.collabora.com/news-and-blog/blog/2020/04/28/reducing-size-rust-gstreamer-plugin/"
+  },
+  {
+    "date": "2019-12-17",
     "title": "Simplification and more of everything – gtk-rs",
     "link": "https://gtk-rs.org/blog/2019/12/15/new-release.html"
   }

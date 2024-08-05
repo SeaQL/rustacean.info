@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-06-19",
+    "title": "I ported h2spec to Rust (also: codegen!)",
+    "link": "https://fasterthanli.me/videos/h2spec-to-rust"
+  },
+  {
+    "date": "2023-12-13",
+    "title": "cohost! - \"Watchexec Library 3.0 and CLI 1.24\"",
+    "link": "https://cohost.org/watchexec/post/3818997-watchexec-library-3"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "My ideal Rust workflow",
+    "link": "https://fasterthanli.me/articles/my-ideal-rust-workflow"
+  },
+  {
+    "date": "2019-09-24",
+    "title": "Top-Level Infrastructure · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/top-level-infrastructure/"
+  }
+]

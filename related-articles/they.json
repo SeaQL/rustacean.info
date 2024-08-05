@@ -1,121 +1,351 @@
 [
   {
+    "date": "2024-06-05",
+    "title": "Let's build a Load Balancer in Rust - Part 3 | Marco Bacis",
+    "link": "https://marcobacis.com/blog/load-balancer-rust-3/"
+  },
+  {
+    "date": "2024-05-22",
+    "title": "Let's build a Load Balancer in Rust - Part 2 | Marco Bacis",
+    "link": "https://marcobacis.com/blog/load-balancer-rust-2/"
+  },
+  {
+    "date": "2024-04-03",
+    "title": "On Reusing Arc and Rc in Rust · @radekmie’s take on IT and stuff",
+    "link": "https://radekmie.dev/blog/on-reusing-arc-and-rc-in-rust/"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Garbage Collection Without Unsafe Code",
+    "link": "https://fitzgeraldnick.com/2024/02/06/safe-gc.html"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "A Mirror for Rust: Compile-Time Reflection Report - Shepherd's Oasis",
+    "link": "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "Sam Sartor - All the Problems of Mutation",
+    "link": "https://samsartor.com/guis-3/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "winnow = toml_edit + combine + nom",
+    "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"
+  },
+  {
+    "date": "2022-08-10",
     "title": "So Zero It's ... Negative? (Zero-Copy #3) - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-3-so-zero-its-dot-dot-dot-negative/"
   },
   {
+    "date": "2022-08-10",
     "title": "Zero-Copy All the Things! (Zero-Copy #2) - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-2-zero-copy-all-the-things/"
   },
   {
+    "date": "2022-08-10",
     "title": "Not a Yoking Matter (Zero-Copy #1) - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-1-not-a-yoking-matter/"
   },
   {
+    "date": "2022-05-11",
+    "title": "Over-Engineering A Fairly Simple Coding Challenge – ada's place – blogs &amp;c",
+    "link": "https://ada-x64.github.io/over-engineering/"
+  },
+  {
+    "date": "2022-03-02",
+    "title": "El malabarista - TreeFlat: Building a (possible) faster tree for Rust, inspired by APL",
+    "link": "https://www.elmalabarista.com/blog/2022-flat-tree/"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "Building an Emacs lisp VM in Rust • Core Dumped",
+    "link": "https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Speicherverwaltung in Rust • Am Interneteingang&nbsp;8",
+    "link": "https://jo-so.de/2021-01/Speicher-Rust.html"
+  },
+  {
+    "date": "2021-04-07",
     "title": "A Tour of Safe Tracing GC Designs in Rust - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/"
   },
   {
+    "date": "2021-03-17",
     "title": "Arenas in Rust - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/"
   },
   {
+    "date": "2021-02-24",
     "title": "Integrating Rust and C++ in Firefox - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/"
   },
   {
+    "date": "2020-12-2-",
+    "title": "References in Rust",
+    "link": "https://hashrust.com/blog/references-in-rust/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Temporarily opt-in to shared mutation – Alice Ryhl",
+    "link": "https://ryhl.io/blog/temporary-shared-mutation/"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Inbound &amp; Outbound FFI - Possible Rust",
+    "link": "https://www.possiblerust.com/guide/inbound-outbound-ffi"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "How to write CRaP Rust code - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Working with strings in Rust",
+    "link": "https://fasterthanli.me/blog/2020/working-with-strings-in-rust/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Rust: A unique perspective",
+    "link": "https://limpet.net/mbrubeck/2019/02/07/rust-a-unique-perspective.html"
+  },
+  {
+    "date": "2019-10-22",
+    "title": "I made a NES emulator in Rust using generators | ~kylewlacy",
+    "link": "https://kyle.space/posts/i-made-a-nes-emulator/"
+  },
+  {
+    "date": "2019-08-12",
+    "title": "Functional Programming Jargon in Rust",
+    "link": "https://functional.works-hub.com/learn/functional-programming-jargon-in-rust-1b555"
+  },
+  {
+    "date": "2019-02-12",
+    "title": "Allocations in Rust",
+    "link": "https://speice.io/2019/02/understanding-allocations-in-rust.html"
+  },
+  {
+    "date": "2018-11-13",
+    "title": "Things Rust doesn’t let you do. A survey of things that Rust doesn’t… | by Pyry Kontio | Medium",
+    "link": "https://medium.com/@GolDDranks/things-rust-doesnt-let-you-do-draft-f596a3c740a5"
+  },
+  {
+    "date": "2018-10-23",
+    "title": "Shifgrethor I: Garbage collection as a Rust library",
+    "link": "https://boats.gitlab.io/blog/post/shifgrethor-i/"
+  },
+  {
+    "date": "2018-06-05",
     "title": "The Future of Clippy - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2018/06/05/the-future-of-clippy-the-rust-linter/"
   },
   {
+    "date": "2018-04-17",
     "title": "Down a Rusty Rabbit Hole - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2018/04/12/down-a-rusty-rabbit-hole/"
   },
   {
+    "date": "2018-02-27",
+    "title": "Speed Without Wizardry",
+    "link": "http://fitzgeraldnick.com/2018/02/26/speed-without-wizardry.html"
+  },
+  {
+    "date": "2018-01-30",
+    "title": "Rust 2018 – Read Rust",
+    "link": "http://readrust.net/rust2018/"
+  },
+  {
+    "date": "2018-01-16",
     "title": "What Are Tokio and Async IO All About? - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2018/01/10/whats-tokio-and-async-io-all-about/"
   },
   {
+    "date": "2017-12-26",
     "title": "Undefined vs Unsafe in Rust - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/12/24/undefined-vs-unsafe-in-rust/"
   },
   {
+    "date": "2017-12-26",
+    "title": "Debugging a segfault in my Rust program",
+    "link": "https://jvns.ca/blog/2017/12/23/segfault-debugging/"
+  },
+  {
+    "date": "2017-08-08",
     "title": "Rust: Not So Great for Codec Implementing «  Kostya's Boring Codec World",
     "link": "https://codecs.multimedia.cx/?p=1246"
   },
   {
+    "date": "2017-07-11",
+    "title": "A collection of notable Rust blog posts · GitHub",
+    "link": "https://gist.github.com/brson/a324c83a6af6a8a78dfaa9d33eb9b48e"
+  },
+  {
+    "date": "2017-05-30",
+    "title": "Rust: A Scala Engineer's Perspective - BeachApe.",
+    "link": "https://beachape.com/blog/2017/05/24/rust-from-scala/"
+  },
+  {
+    "date": "2017-05-30",
+    "title": "Overhead analysis of the RTFM framework | Embedded in Rust",
+    "link": "http://blog.japaric.io/rtfm-overhead/"
+  },
+  {
+    "date": "2017-05-16",
     "title": "Mentally Modelling Modules - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/05/14/mentally-modelling-modules/"
   },
   {
+    "date": "2017-04-18",
     "title": "Prolonging Temporaries in Rust - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/04/13/prolonging-temporaries-in-rust/"
   },
   {
+    "date": "2017-03-28",
+    "title": "Talks",
+    "link": "http://2017.rustfest.eu/talks/"
+  },
+  {
+    "date": "2017-03-07",
     "title": "What Are Sum, Product, and Pi Types? - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/03/04/what-are-sum-product-and-pi-types/"
   },
   {
+    "date": "2017-03-07",
     "title": "Mitigating Underhandedness: Fuzzing Your Code - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/03/02/mitigating-underhandedness-fuzzing-your-code/"
   },
   {
+    "date": "2017-02-07",
     "title": "Rust Tidbits: Box Is Special - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/01/10/rust-tidbits-box-is-special/"
   },
   {
+    "date": "2017-02-07",
+    "title": "What Rust Can Do That Other Languages Can't, In Six Short Lines",
+    "link": "http://robert.ocallahan.org/2017/02/what-rust-can-do-that-other-languages.html"
+  },
+  {
+    "date": "2017-01-31",
     "title": "Mitigating Underhandedness: Clippy! - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/01/21/mitigating-underhandedness-clippy/"
   },
   {
+    "date": "2017-01-31",
     "title": "The struggle with Rust - Ayende @ Rahien",
     "link": "https://ayende.com/blog/176801/the-struggle-with-rust"
   },
   {
+    "date": "2017-01-17",
     "title": "Let's Stop Ascribing Meaning to Code Points - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/01/14/stop-ascribing-meaning-to-unicode-code-points/"
   },
   {
+    "date": "2017-01-17",
     "title": "Rust Tidbits: What Is a Lang Item? - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/01/11/rust-tidbits-what-is-a-lang-item/"
   },
   {
+    "date": "2016-12-27",
+    "title": "24 days of Rust - conclusion | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-conclusion-2016/"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "Four years with Rust",
+    "link": "http://words.steveklabnik.com/four-years-with-rust"
+  },
+  {
+    "date": "2016-12-06",
     "title": "Reflections on Rusting Trust - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2016/12/02/reflections-on-rusting-trust/"
   },
   {
+    "date": "2016-08-23",
     "title": "GC Support in Rust: API Design - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2016/08/18/gc-support-in-rust-api-design/"
   },
   {
+    "date": "2016-07-26",
+    "title": "Page not found · GitHub Pages",
+    "link": "https://manishearth.github.io/rust-clippy/master/"
+  },
+  {
+    "date": "2016-05-23",
+    "title": "Writing a plugin to instrument code — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2016/05/17/flamer.html"
+  },
+  {
+    "date": "2016-02-29",
     "title": "Comparing Rust and Java — Llogiq on stuff",
     "link": "https://llogiq.github.io/2016/02/28/java-rust.html"
   },
   {
+    "date": "2016-01-18",
+    "title": "Contributing to the Rust compiler",
+    "link": "http://gregchapple.com/contributing-to-the-rust-compiler/"
+  },
+  {
+    "date": "2016-01-11",
     "title": "Making Your Open Source Project Newcomer-friendly - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2016/01/03/making-your-open-source-project-newcomer-friendly/"
   },
   {
+    "date": "2015-12-07",
+    "title": "Language of the Month: Rust, the results - ClickedyClick",
+    "link": "https://gergely.imreh.net/blog/2015/12/lotm-rust-results/"
+  },
+  {
+    "date": "2015-09-07",
     "title": "Designing a GC in Rust - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2015/09/01/designing-a-gc-in-rust/"
   },
   {
+    "date": "2015-09-07",
     "title": "Clippy vs. Rust — Llogiq on stuff",
     "link": "https://llogiq.github.io/2015/09/06/clippy.html"
   },
   {
+    "date": "2015-08-03",
+    "title": "Rust's Built-in Traits, the When, How &amp; Why — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2015/07/30/traits.html"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "My lint-writing workflow — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2015/06/04/workflows.html"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "Measuring data structure sizes: Firefox (C++) vs. Servo (Rust) – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2015/06/03/measuring-data-structure-sizes-firefox-c-vs-servo-rust/"
+  },
+  {
+    "date": "2015-06-08",
     "title": "How Rust Achieves Thread Safety - In Pursuit of Laziness",
     "link": "http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/"
   },
   {
+    "date": "2015-06-08",
     "title": "Wrapper Types in Rust: Choosing Your Guarantees - In Pursuit of Laziness",
     "link": "http://manishearth.github.io/blog/2015/05/27/wrapper-types-in-rust-choosing-your-guarantees/"
   },
   {
+    "date": "2015-05-18",
+    "title": "Diving into Rust for the first time - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2015/05/diving-into-rust-for-the-first-time/"
+  },
+  {
+    "date": "2015-05-18",
     "title": "The Problem With Single-threaded Shared Mutability - In Pursuit of Laziness",
     "link": "http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/"
   },
   {
+    "date": "2015-05-04",
     "title": "Where Rust Really Shines - In Pursuit of Laziness",
     "link": "http://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/"
   }

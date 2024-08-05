@@ -1,13 +1,21 @@
 [
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2022-03-02",
+    "title": "Building a new graphics engine in Rust - Part 2 – Alex Dixon",
+    "link": "https://www.polymonster.co.uk/blog/bulding-new-engine-in-rust-2"
+  },
+  {
+    "date": "2021-10-13",
     "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/026/"
   },
   {
+    "date": "2021-09-22",
     "title": "Rust Code Coverage with Daniel McKenna :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/037-daniel-mckenna/"
   }

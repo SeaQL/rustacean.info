@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-10-25",
     "title": "Analyzing Data 180,000x Faster with Rust",
     "link": "https://willcrichton.net/notes/k-corrset/"
   },
   {
+    "date": "2023-07-12",
     "title": "Back-end parallelism in the Rust compiler | Nicholas Nethercote",
     "link": "https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html"
   }

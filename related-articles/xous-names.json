@@ -1,6 +1,22 @@
 [
   {
+    "date": "2022-09-21",
+    "title": "Precursor - Bringing Up TLS on Precursor | Crowd Supply",
+    "link": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/bringing-up-tls-on-precursor"
+  },
+  {
+    "date": "2022-07-13",
+    "title": "Announcing Experimental Rust Filesystem and Path Support for Xous PDDB! · Xobs' Blog",
+    "link": "https://xobs.io/experimental-rust-filesystem-and-path-support-for-xous/"
+  },
+  {
+    "date": "2022-06-15",
     "title": "This Week in Rust - Issue 444 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/twir-444/"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "Rust: A Critical Retrospective «  bunnie's blog",
+    "link": "https://www.bunniestudios.com/blog/?p=6375"
   }
 ]

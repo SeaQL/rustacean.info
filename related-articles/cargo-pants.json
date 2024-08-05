@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-06-01",
     "title": "How I speeded up my Rust builds on GitHub ~30 times | Ectobit",
     "link": "https://ectobit.com/blog/speed-up-github-actions-rust-pipelines/"
   }

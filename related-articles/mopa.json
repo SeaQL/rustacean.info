@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-02-09",
     "title": "Downcasting in Rust | Y. Santos Personal Page",
     "link": "https://ysantos.com/blog/downcast-rust"
   },
   {
+    "date": "2016-06-06",
     "title": "Tween: a middleware library experiment - an article by Chris Morgan",
     "link": "https://chrismorgan.info/blog/tween.html"
   }

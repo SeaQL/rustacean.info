@@ -1,9 +1,11 @@
 [
   {
+    "date": "2017-06-06",
     "title": "Rust Performance Pitfalls — Llogiq on stuff",
     "link": "https://llogiq.github.io/2017/06/01/perf-pitfalls.html"
   },
   {
+    "date": "2017-02-21",
     "title": "Rust Sucks If I Fail To Write X — Llogiq on stuff",
     "link": "https://llogiq.github.io/2017/02/15/sucks.html"
   }

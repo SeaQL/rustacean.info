@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-02-21",
+    "title": "Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly | Programming | mary.codes",
+    "link": "https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "osmpbf — Rust parser // Lib.rs",
+    "link": "https://lib.rs/crates/osmpbf"
+  }
+]

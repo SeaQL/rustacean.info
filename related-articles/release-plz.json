@@ -1,37 +1,51 @@
 [
   {
+    "date": "2024-05-15",
     "title": "Let's build a Load Balancer in Rust - Part 1 | Marco Bacis",
     "link": "https://marcobacis.com/blog/load-balancer-rust-1/"
   },
   {
+    "date": "2024-05-15",
     "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
   },
   {
+    "date": "2024-04-17",
     "title": "release-plz with Marco Ieni :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/marco-ieni/"
   },
   {
+    "date": "2024-03-20",
     "title": "SemVer in Rust: Tooling, Breakage, and Edge Cases — FOSDEM 2024",
     "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
   },
   {
+    "date": "2024-03-06",
     "title": "🎙️ Rust in Art with Lisa Passing - RustShip 6 • Marco Ieni",
     "link": "https://ieni.dev/2024/03/%EF%B8%8F-rust-in-art-with-lisa-passing-rustship-6/"
   },
   {
+    "date": "2023-11-01",
+    "title": "Fully Automated Releases for Rust Projects - Orhun's Blog",
+    "link": "https://blog.orhun.dev/automated-rust-releases/"
+  },
+  {
+    "date": "2023-09-06",
     "title": "What's new in 1.3.0? | git-cliff",
     "link": "https://git-cliff.org/blog/1.3.0/"
   },
   {
+    "date": "2022-09-28",
     "title": "RustLab | The International Conference on Rust in Florence",
     "link": "https://rustlab.it/"
   },
   {
+    "date": "2022-06-29",
     "title": "Release-plz: release Rust packages from CI • Marco Ieni",
     "link": "https://www.marcoieni.com/2022/06/release-plz-release-rust-packages-from-ci/"
   },
   {
+    "date": "2019-06-25",
     "title": "RustLab | The International Conference on Rust in Florence",
     "link": "https://www.rustlab.it/"
   }

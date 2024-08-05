@@ -1,25 +1,41 @@
 [
   {
+    "date": "2024-07-24",
     "title": "Diesel Async 0.5 - Weiznich's Blog",
     "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"
   },
   {
+    "date": "2024-05-29",
     "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
     "link": "https://bencher.dev/learn/case-study/diesel/"
   },
   {
+    "date": "2023-11-15",
     "title": "Building a Web App in Rust - Dmitry Kudryavtsev",
     "link": "https://www.yieldcode.blog/post/building-a-webapp-in-rust/"
   },
   {
+    "date": "2022-05-18",
+    "title": "Extending SQLite with Rust - rand[om]",
+    "link": "https://ricardoanderegg.com/posts/extending-sqlite-with-rust/"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Alexis Lozano",
+    "link": "https://alexis-lozano.com/hexagonal-architecture-in-rust-7/"
+  },
+  {
+    "date": "2021-09-22",
     "title": "Rocket: A Web Framework for Rust",
     "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
   },
   {
+    "date": "2021-05-05",
     "title": "Running Rust on Android – suve's ramblings",
     "link": "https://blog.svgames.pl/article/running-rust-on-android"
   },
   {
+    "date": "2020-05-12",
     "title": "Porting North Korean Dictionaries with Rust – Digital NK",
     "link": "https://digitalnk.com/blog/2020/05/08/porting-north-korean-dictionaries-with-rust/"
   }

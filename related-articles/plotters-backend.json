@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-07-19",
     "title": "Rust vs Julia in scientific computing",
     "link": "https://mo8it.com/blog/rust-vs-julia/"
   },
   {
+    "date": "2022-05-04",
+    "title": "Plotters is back! | Eberhardt blog",
+    "link": "https://aaronerhardt.github.io/blog/posts/plotters_is_back/"
+  },
+  {
+    "date": "2022-04-06",
     "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
     "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
   }

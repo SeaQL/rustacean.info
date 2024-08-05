@@ -1,6 +1,12 @@
 [
   {
+    "date": "2018-08-14",
     "title": "The State of GPGPU in Rust | bheisler.github.io",
     "link": "https://bheisler.github.io/post/state-of-gpgpu-in-rust/"
+  },
+  {
+    "date": "2016-02-01",
+    "title": "Rust Guide to CHANGELOG.md. Rust stats on keeping a CHANGELOG.md… | by Autumn Engineering | Medium",
+    "link": "https://medium.com/@autumn_eng/guide-to-changelog-md-in-rust-6eb349808fa4"
   }
 ]

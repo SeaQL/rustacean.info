@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-09-27",
     "title": "Cross-compiling Rust on Github Actions",
     "link": "https://blog.timhutt.co.uk/cross-compiling-rust/"
   }

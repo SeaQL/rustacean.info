@@ -1,10 +1,17 @@
 [
   {
+    "date": "2021-12-01",
     "title": "LLVM internals, part 4: attributes and attribute groups",
     "link": "https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups"
   },
   {
+    "date": "2021-08-18",
     "title": "LLVM internals, part 2: parsing the bitstream",
     "link": "https://blog.yossarian.net/2021/08/10/LLVM-internals-part-2-parsing-the-bitstream"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "LLVM internals, part 1: the bitcode format",
+    "link": "https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "date": "2022-07-20",
+    "title": "How to speed up the Rust compiler in July 2022 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html"
+  },
+  {
+    "date": "2022-04-06",
     "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
     "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
   }

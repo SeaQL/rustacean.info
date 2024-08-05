@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-10-28",
     "title": "So you want to write object oriented Rust - Darrien's technical blog",
     "link": "https://blog.darrien.dev/posts/so-you-want-to-object/"
   },
   {
+    "date": "2020-08-18",
     "title": "Frustrated? It's not you, it's Rust",
     "link": "https://fasterthanli.me/articles/frustrated-its-not-you-its-rust"
   }

@@ -1,33 +1,76 @@
 [
   {
+    "date": "2024-04-17",
+    "title": "Rust on Espressif chips - 12-04-2024",
+    "link": "https://mabez.dev/blog/posts/esp-rust-12-04-2024/"
+  },
+  {
+    "date": "2024-03-20",
     "title": "The Embedded Rustacean Issue #15",
     "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"
   },
   {
+    "date": "2024-01-24",
+    "title": "Rust on Espressif chips - 24-01-2024",
+    "link": "https://mabez.dev/blog/posts/esp-rust-24-01-2024/"
+  },
+  {
+    "date": "2024-01-17",
     "title": "esp-rs Quarterly Planning: Q1 2024 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q1-2024/"
   },
   {
+    "date": "2023-10-11",
     "title": "esp-rs Quarterly Planning: Q4 2023 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q4-2023/"
   },
   {
+    "date": "2023-07-12",
+    "title": "Rust on Espressif chips - 30-06-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-30-06-2023/"
+  },
+  {
+    "date": "2023-07-12",
     "title": "esp-rs Quarterly Planning: Q3 2023 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q3-2023/"
   },
   {
+    "date": "2023-07-05",
     "title": "Unlocking Possibilities: 4 Reasons Why ESP32 and Rust Make a Winning Combination",
     "link": "https://apollolabsblog.hashnode.dev/unlocking-possibilities-4-reasons-why-esp32-and-rust-make-a-winning-combination"
   },
   {
+    "date": "2023-05-03",
+    "title": "Rust on Espressif chips - 28-04-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-28-04-2023/"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "Rust on Espressif chips - 2023 Roadmap",
+    "link": "https://mabez.dev/blog/posts/esp-rust-24-02-2023/"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Rust on Espressif chips - 17-10-2022",
+    "link": "https://mabez.dev/blog/posts/esp-rust-17-10-2022/"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "Rust on Espressif chips - 15-07-2022",
+    "link": "https://mabez.dev/blog/posts/esp-rust-15-07-2022/"
+  },
+  {
+    "date": "2022-02-09",
     "title": "ESP32 MQTT Publish with Rust. Here at IOTICS, we are in the habit of… | by Mihai Dinculescu | IOTICS | Medium",
     "link": "https://medium.com/iotics/esp32-mqtt-publish-with-rust-678d1068ee2"
   },
   {
+    "date": "2021-10-20",
     "title": "Rust on Espressif chips - 18-10-2021",
     "link": "https://mabez.dev/blog/posts/esp-rust-18-10-2021/"
   },
   {
+    "date": "2020-09-30",
     "title": "Rust on the ESP32 &amp; ESP8266 - Building an ecosystem",
     "link": "https://mabez.dev/blog/posts/esp-rust-ecosystem/"
   }

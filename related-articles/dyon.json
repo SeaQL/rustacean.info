@@ -1,9 +1,11 @@
 [
   {
+    "date": "2016-06-13",
     "title": "Beware upcoming Dyon v0.8 - It will be awesome! · Piston",
     "link": "http://blog.piston.rs/2016/06/07/beware-dyon/"
   },
   {
+    "date": "2016-02-22",
     "title": "Scripting without garbage collector · Piston",
     "link": "http://blog.piston.rs/2016/02/21/scripting-without-garbage-collector/"
   }

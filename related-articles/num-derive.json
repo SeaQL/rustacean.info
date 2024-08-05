@@ -1,6 +1,12 @@
 [
   {
+    "date": "2023-01-04",
     "title": "Parsing TFTP in Rust",
     "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "ThatGeoGuy - Rust is cool – Enums",
+    "link": "https://thatgeoguy.ca/blog/2021/02/15/rust-is-cool-enums/"
   }
 ]

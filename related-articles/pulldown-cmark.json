@@ -1,30 +1,47 @@
 [
   {
+    "date": "2023-11-15",
     "title": "Building and Deploying A Static Site Generator",
     "link": "https://www.shuttle.rs/blog/2023/11/15/ssg-in-rust"
   },
   {
+    "date": "2022-10-05",
+    "title": "impl Future { }",
+    "link": "https://implfuture.dev/blog/rewriting-the-modern-web-in-rust"
+  },
+  {
+    "date": "2022-08-31",
     "title": "Jonas Hietala: Rewriting my blog in Rust for fun and profit",
     "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
   },
   {
+    "date": "2021-11-10",
     "title": "Making My Website Part 2: The Webserver",
     "link": "https://www.rotoclone.zone/blog/posts/webserver"
   },
   {
+    "date": "2020-06-30",
     "title": "xi-editor retrospective | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/xi/2020/06/27/xi-retrospective.html"
   },
   {
+    "date": "2020-05-05",
     "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
   },
   {
+    "date": "2020-02-11",
     "title": "I Made A Thing: Markedit · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/markedit/"
   },
   {
+    "date": "2019-11-26",
     "title": "Towards a unified theory of reactive UI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html"
+  },
+  {
+    "date": "2019-08-27",
+    "title": "Thoughts on Rust bloat | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
   }
 ]

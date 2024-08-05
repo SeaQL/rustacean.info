@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-09-20",
     "title": "The Embedded Rust ESP Development Ecosystem",
     "link": "https://apollolabsblog.hashnode.dev/the-embedded-rust-esp-development-ecosystem"
   },
   {
+    "date": "2022-10-19",
     "title": "Rust on Espressif chips - 17-10-2022",
     "link": "https://mabez.dev/blog/posts/esp-rust-17-10-2022/"
   }

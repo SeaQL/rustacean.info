@@ -1,0 +1,77 @@
+[
+  {
+    "date": "2023-06-28",
+    "title": "parsel - Rust",
+    "link": "https://docs.rs/parsel"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
+  },
+  {
+    "date": "2022-06-22",
+    "title": "Remote development with Rust on fly.io",
+    "link": "https://fasterthanli.me/articles/remote-development-with-rust-on-fly-io"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "Structuring, testing and debugging procedural macro crates  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/testing-proc-macros/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "The nightly elephant in the room | Synth",
+    "link": "https://www.getsynth.com/docs/blog/2021/10/11/nightly"
+  },
+  {
+    "date": "2021-07-21",
+    "title": "A GPIO driver in Rust [LWN.net]",
+    "link": "https://lwn.net/Articles/863459/"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "Marcus' Blog",
+    "link": "https://mbuffett.com/posts/incomplete-macro-walkthrough/"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Procedural Macros: The Basics | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-basics/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Objective-Rust // -dealloc",
+    "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Writing and publishing a Python module in Rust",
+    "link": "https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Auto-currying Rust Functions · peppe.rs",
+    "link": "https://peppe.rs/posts/auto-currying_rust_functions/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Writing Python inside your Rust code — Part 2 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-2/"
+  },
+  {
+    "date": "2020-04-21",
+    "title": "Writing Python inside your Rust code — Part 1 - Mara's Blog",
+    "link": "https://blog.m-ou.se/writing-python-inside-rust-1/"
+  },
+  {
+    "date": "2019-01-22",
+    "title": "proc-macro-rules",
+    "link": "https://www.ncameron.org/blog/proc-macro-rules/"
+  }
+]

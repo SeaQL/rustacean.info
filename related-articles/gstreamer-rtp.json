@@ -1,14 +1,82 @@
 [
   {
+    "date": "2023-04-19",
     "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
   },
   {
+    "date": "2023-02-15",
+    "title": "New release – gtk-rs",
+    "link": "https://gtk-rs.org/blog/2023/02/10/new-release.html"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "New year, new release! – gtk-rs",
+    "link": "https://gtk-rs.org/blog/2022/01/16/new-release.html"
+  },
+  {
+    "date": "2021-03-24",
+    "title": "Rust: integrating LLVM source-base code coverage with GitLab",
+    "link": "https://www.collabora.com/news-and-blog/blog/2021/03/24/rust-integrating-llvm-source-base-code-coverage-with-gitlab/"
+  },
+  {
+    "date": "2020-09-23",
     "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
   },
   {
+    "date": "2020-06-30",
+    "title": "Cross building Rust GStreamer plugins for the Raspberry Pi",
+    "link": "https://www.collabora.com/news-and-blog/blog/2020/06/23/cross-building-rust-gstreamer-plugins-for-the-raspberry-pi/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Reducing the size of a Rust GStreamer plugin",
+    "link": "https://www.collabora.com/news-and-blog/blog/2020/04/28/reducing-size-rust-gstreamer-plugin/"
+  },
+  {
+    "date": "2020-03-17",
+    "title": "Async Interview #7: Withoutboats · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/03/10/async-interview-7-withoutboats/"
+  },
+  {
+    "date": "2019-03-26",
+    "title": "Outreach/SummerOfCode/2019/Ideas - GNOME Wiki!",
+    "link": "https://wiki.gnome.org/Outreach/SummerOfCode/2019/Ideas"
+  },
+  {
+    "date": "2018-04-10",
+    "title": "Improving GStreamer performance on a high number of network streams by sharing threads between elements with Rust’s tokio crate – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2018/04/improving-gstreamer-performance-on-a-high-number-of-network-streams-by-sharing-threads-between-elements-with-rusts-tokio-crate/"
+  },
+  {
+    "date": "2017-09-12",
     "title": "Exporting a GObject C API from Rust code and using it from C, Python, JavaScript and others – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2017/09/exporting-a-gobject-c-api-from-rust-code-and-using-it-from-c-python-javascript-and-others/"
+  },
+  {
+    "date": "2017-08-01",
+    "title": "Writing GStreamer Applications in Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2017/07/writing-gstreamer-applications-in-rust/"
+  },
+  {
+    "date": "2017-04-04",
+    "title": "Writing GStreamer Elements in Rust (Part 4): Logging, COWs and Plugins – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2017/03/writing-gstreamer-elements-in-rust-part-4-logging-cows-and-plugins/"
+  },
+  {
+    "date": "2016-11-29",
+    "title": "Writing GStreamer Elements in Rust (Part 3): Parsing data from untrusted sources like it’s 2016 – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2016/11/writing-gstreamer-elements-in-rust-part-3-parsing-data-from-untrusted-sources-like-its-2016/"
+  },
+  {
+    "date": "2016-09-13",
+    "title": "Writing GStreamer Elements in Rust (Part 2): Don’t panic, we have better assertions now – and other updates – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2016/09/writing-gstreamer-elements-in-rust-part-2-dont-panic-we-have-better-assertions-now-and-other-updates/"
+  },
+  {
+    "date": "2016-09-13",
+    "title": "Writing GStreamer plugins and elements in Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2016/05/writing-gstreamer-plugins-and-elements-in-rust/"
   }
 ]

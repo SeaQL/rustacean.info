@@ -1,9 +1,16 @@
 [
   {
+    "date": "2022-01-12",
     "title": "Crate of the Week second chance list – Brian Kung",
     "link": "https://briankung.dev/2022/01/07/crate-of-the-week-second-chance-list/"
   },
   {
+    "date": "2018-05-29",
+    "title": "Typed Key Pattern",
+    "link": "https://matklad.github.io/2018/05/24/typed-key-pattern.html"
+  },
+  {
+    "date": "2018-02-20",
     "title": "Rust Meetup от разработчиков Exonum &amp; Parity / События на TimePad.ru",
     "link": "https://bitfury.timepad.ru/event/665119/"
   }

@@ -1,0 +1,117 @@
+[
+  {
+    "date": "2024-07-24",
+    "title": "Diesel Async 0.5 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Season Finale - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s01e07-season-finale/"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Writing a REST API in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/01/31/write-a-rest-api-rust"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Preprocessing trillions of tokens with Rust | Work | Mainmatter",
+    "link": "https://mainmatter.com/cases/aleph-alpha/"
+  },
+  {
+    "date": "2024-01-17",
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Raw SQL in Rust with SQLx",
+    "link": "https://www.shuttle.rs/blog/2023/10/04/sql-in-rust"
+  },
+  {
+    "date": "2023-10-04",
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "date": "2023-03-15",
+    "title": "SQLx Compile Time Woes - Cosmic Horror",
+    "link": "https://cosmichorror.dev/posts/speeding-up-sqlx-compile-times/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part02"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Ferris Talk #13: Rust-Web-APIs und Mocking mit Axum | heise online",
+    "link": "https://www.heise.de/hintergrund/Ferris-Talk-13-Rust-Web-APIs-und-Mocking-mit-Axum-7457143.html"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Rails developers write some Rust: a review of Axum 0.6",
+    "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Building a Simple DB in Rust - Part 1 - Parsing | John's Codes",
+    "link": "https://johns.codes/blog/build-a-db/part01"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "An In-Depth Introduction To Idempotency | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/idempotency/"
+  },
+  {
+    "date": "2021-12-22",
+    "title": "IntelliJ Rust Changelog #162",
+    "link": "https://intellij-rust.github.io/2021/12/20/changelog-162.html"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "Implementing the Health Check API Pattern with Rust | by TJ Maynes | ITNEXT",
+    "link": "https://itnext.io/implementing-the-health-check-api-pattern-with-rust-eaef04cb4d2d"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "Zero Downtime Deployments | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/zero-downtime-deployments/"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "For the Love of Macros",
+    "link": "https://matklad.github.io/2021/02/14/for-the-love-of-macros.html"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Continuous Deployment For Rust Applications | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-11-01-zero-to-production-5-how-to-deploy-a-rust-application/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "Implementing a Job queue with SQLx and Postgres",
+    "link": "https://cetra3.github.io/blog/implementing-a-jobq-sqlx/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  }
+]

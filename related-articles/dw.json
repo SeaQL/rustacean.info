@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2024-02-14",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/113/rust-for-hardware-vendors"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2019-12-17",
+    "title": "From Zero to main(): Bare metal Rust | Interrupt",
+    "link": "https://interrupt.memfault.com/blog/zero-to-main-rust-1"
+  },
+  {
+    "date": "2019-03-12",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-16/"
+  },
+  {
+    "date": "2019-02-26",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-15/"
+  }
+]

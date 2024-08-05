@@ -1,6 +1,17 @@
 [
   {
+    "date": "2023-09-20",
+    "title": "tuify your clap CLI apps and make them more interactive | developerlife.com",
+    "link": "https://developerlife.com/2023/09/17/tuify-clap/"
+  },
+  {
+    "date": "2022-03-23",
     "title": "Nushell 0.60 | Nushell",
     "link": "https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html"
+  },
+  {
+    "date": "2021-12-29",
+    "title": "Nushell 0.42 | Nushell",
+    "link": "https://www.nushell.sh/blog/2021-12-28-nushell_0_42.html"
   }
 ]

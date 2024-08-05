@@ -1,10 +1,47 @@
 [
   {
+    "date": "2022-01-19",
     "title": "Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!",
     "link": "https://parceljs.org/blog/parcel-css/"
   },
   {
+    "date": "2020-08-11",
     "title": "Rust for a Pythonista #2: Building a Rust crate for CSS inlining",
     "link": "https://dygalo.dev/blog/rust-for-a-pythonista-2/"
+  },
+  {
+    "date": "2017-05-02",
+    "title": "This Week In Servo 100 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/05/01/twis-100/"
+  },
+  {
+    "date": "2017-04-18",
+    "title": "This Week In Servo 98 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/04/17/twis-98/"
+  },
+  {
+    "date": "2017-04-11",
+    "title": "This Week In Servo 97 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/04/10/twis-97/"
+  },
+  {
+    "date": "2017-04-04",
+    "title": "These Weeks In Servo 96 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/04/03/twis-96/"
+  },
+  {
+    "date": "2017-02-28",
+    "title": "These Weeks In Servo 93 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/02/27/twis-93/"
+  },
+  {
+    "date": "2016-03-28",
+    "title": "This Week In Servo 56 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "http://blog.servo.org/2016/03/21/twis-56/"
+  },
+  {
+    "date": "2015-01-19",
+    "title": "This Week In Servo 19 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "http://blog.servo.org/2015/01/13/twis-19/"
   }
 ]

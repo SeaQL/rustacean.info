@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-07-17",
+    "title": "Global Registration",
+    "link": "https://donsz.nl/blog/global-registration/"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "I ported h2spec to Rust (also: codegen!)",
+    "link": "https://fasterthanli.me/videos/h2spec-to-rust"
+  },
+  {
+    "date": "2023-09-27",
+    "title": "Eyra is an interesting Rust project – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/eyra/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "https://blaz.is/blog/post/we-dont-need-a-stable-abi/",
+    "link": "https://blaz.is/blog/post/we-dont-need-a-stable-abi/"
+  },
+  {
+    "date": "2022-07-06",
+    "title": "mirrord internals - hooking libc functions in Rust and fixing bugs MetalBear 🐻 - Tools for Backend Engineers",
+    "link": "https://metalbear.co/blog/mirrord-internals-hooking-libc-functions-in-rust-and-fixing-bugs/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Transpiling A Kernel Module to Rust: The Good, the Bad and the Ugly :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2020/06/kernel_modules/"
+  }
+]

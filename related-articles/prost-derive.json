@@ -1,6 +1,12 @@
 [
   {
+    "date": "2024-06-19",
     "title": "Generated SDKs for Rust now available on the Buf Schema Registry - Buf",
     "link": "https://buf.build/blog/bsr-generated-sdks-for-rust"
+  },
+  {
+    "date": "2024-04-10",
+    "title": "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance | Greptime",
+    "link": "https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance"
   }
 ]

@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2023-10-04",
+    "title": "Async Iteration III: The Async Iterator Trait",
+    "link": "https://blog.yoshuawuyts.com/async-iterator-trait/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Fallible - The Lost Sibling of Result and Option - Datavirke",
+    "link": "https://datavirke.dk/posts/fallible-missing-rust-error-handling/"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "LendingIterator — Rust library // Lib.rs",
+    "link": "https://lib.rs/crates/lending-iterator"
+  },
+  {
+    "date": "2022-07-13",
+    "title": "Pitfalls of fallible Iterators",
+    "link": "https://swatinem.de/blog/fallible-iterators/"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "How to Deal with Out-of-memory Conditions in Rust | CrowdStrike",
+    "link": "https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "Evolution of a simple `du -s` clone - blog by durka",
+    "link": "https://durka.github.io/blog/2017/08/06/du-evolution.html"
+  }
+]

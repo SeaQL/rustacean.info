@@ -1,18 +1,42 @@
 [
   {
+    "date": "2024-02-28",
     "title": "Mastering ManuallyDrop&lt;T&gt; - A Guide to Explicit Resource Management in Rust - Move into the Future",
     "link": "https://asyncmove.com/blog/2024/02/mastering-manuallydropt-a-guide-to-explicit-resource-management-in-rust/"
   },
   {
+    "date": "2024-01-10",
     "title": "Verifying Rust Zeroize with Assembly...including portable SIMD - CipherStash",
     "link": "https://cipherstash.com/blog/verifying-rust-zeroize-with-assembly-including-portable-simd"
   },
   {
+    "date": "2023-12-20",
     "title": "Introducing Gooey: My take on a Rusty GUI framework",
     "link": "https://ecton.dev/introducing-gooey/"
   },
   {
+    "date": "2023-02-22",
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Announcing BonsaiDb 0.1.0: A Rust NoSQL database that grows with you",
     "link": "https://bonsaidb.io/blog/announcing-bonsaidb-alpha/"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "variadics_analysis.md · GitHub",
+    "link": "https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "A pitfall of Rust’s move/copy/drop semantics and zeroing data | benma’s blog",
+    "link": "https://benma.github.io/2020/10/16/rust-zeroize-move.html"
+  },
+  {
+    "date": "2020-04-07",
+    "title": "Nine Patches",
+    "link": "https://blog.yoshuawuyts.com/nine-patches/"
   }
 ]

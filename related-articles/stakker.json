@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-04-07",
     "title": "2021-04-06: Interfacing a low-level actor system to Rust async/await, part 1 - Uazú blog",
     "link": "https://uazu.github.io/blog/20210406.html"
   }

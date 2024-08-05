@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2021-05-05",
+    "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
+    "date": "2021-02-24",
+    "title": "Testing a Hardware Abstraction Layer (HAL)  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt-test-hal/"
+  },
+  {
+    "date": "2020-12-2-",
+    "title": "Knurling-rs changelog #8  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-8/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Knurling-rs changelog #10  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-10/"
+  },
+  {
+    "date": "2020-11-25",
+    "title": "Knurling-rs changelog #7  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-7/"
+  }
+]

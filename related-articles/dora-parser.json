@@ -1,5 +1,6 @@
 [
   {
+    "date": "2018-03-27",
     "title": "Dora: Implementing a JIT-compiler with Rust",
     "link": "https://dinfuehr.github.io/blog/dora-implementing-a-jit-compiler-with-rust/"
   }

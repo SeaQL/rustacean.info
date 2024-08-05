@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2024-05-01",
+    "title": "Tasks are the wrong abstraction",
+    "link": "https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/"
+  },
+  {
+    "date": "2024-03-06",
+    "title": "Designing an Async Runtime for WASI 0.2",
+    "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"
+  },
+  {
+    "date": "2023-10-04",
+    "title": "Async Iteration III: The Async Iterator Trait",
+    "link": "https://blog.yoshuawuyts.com/async-iterator-trait/"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "Tree-Structured Concurrency",
+    "link": "https://blog.yoshuawuyts.com/tree-structured-concurrency/"
+  },
+  {
+    "date": "2023-04-19",
+    "title": "A syntax-level async join macro supporting branching control flow and synchronous shared mutable borrowing | Wisha Wanichwecharungruang",
+    "link": "https://wishawa.github.io/posts/enjoin/"
+  },
+  {
+    "date": "2022-09-21",
+    "title": "Futures Concurrency IV: Join Ergonomics",
+    "link": "https://blog.yoshuawuyts.com/futures-concurrency-4/"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "Postfix Spawn",
+    "link": "https://blog.yoshuawuyts.com/postfix-spawn/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "More Enum Types",
+    "link": "https://blog.yoshuawuyts.com/more-enum-types/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Futures Concurrency III: select!",
+    "link": "https://blog.yoshuawuyts.com/futures-concurrency-3/"
+  },
+  {
+    "date": "2021-11-17",
+    "title": "Async Cancellation I",
+    "link": "https://blog.yoshuawuyts.com/async-cancellation-1/"
+  }
+]

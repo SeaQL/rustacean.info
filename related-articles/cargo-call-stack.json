@@ -1,9 +1,21 @@
 [
   {
+    "date": "2019-04-16",
     "title": "cargo-call-stack, part 2: getting call graph information from rustc | Embedded in Rust",
     "link": "https://blog.japaric.io/stack-analysis-2/"
   },
   {
+    "date": "2019-03-26",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-17/"
+  },
+  {
+    "date": "2019-03-19",
+    "title": "Implementing a static stack usage analysis tool | Embedded in Rust",
+    "link": "https://blog.japaric.io/stack-analysis/"
+  },
+  {
+    "date": "2019-03-12",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-16/"
   }

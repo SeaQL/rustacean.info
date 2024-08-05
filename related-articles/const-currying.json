@@ -1,5 +1,6 @@
 [
   {
+    "date": "2024-04-10",
     "title": "Improve performance of you Rust functions by const currying - COCl2's blog home",
     "link": "https://blog.cocl2.com/posts/const-currying-rs/"
   }

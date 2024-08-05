@@ -1,10 +1,22 @@
 [
   {
+    "date": "2023-01-25",
     "title": "First steps with NGenate - A dataflow and visual programming platform built with Rust | by Mark Mulligan",
     "link": "https://codetrance.io/blog/1/rust-visual-programming-dataflow-ngenate-first-steps/"
   },
   {
+    "date": "2022-10-26",
     "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "fetch_data - Rust",
+    "link": "https://docs.rs/fetch-data/latest/fetch_data/"
+  },
+  {
+    "date": "2022-06-22",
+    "title": "Nine Rules for Elegant Rust Library APIs | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-elegant-rust-library-apis-9b986a465247"
   }
 ]

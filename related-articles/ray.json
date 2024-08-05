@@ -1,0 +1,287 @@
+[
+  {
+    "date": "2024-05-29",
+    "title": "How We Migrated Our Static Analyzer From Java to Rust | Datadog",
+    "link": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"
+  },
+  {
+    "date": "2024-05-15",
+    "title": "Naming is hard",
+    "link": "https://blog.dureuill.net/articles/dont-mix-rayon-tokio/"
+  },
+  {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2024-03-27",
+    "title": "How Meilisearch Updates a Millions Vector Embeddings Database in Under a Minute",
+    "link": "https://blog.kerollmops.com/how-meilisearch-updates-a-millions-vector-embeddings-database-in-under-a-minute"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "A few fast solutions for Advent of Code 2023 | Organizing Chaos",
+    "link": "https://jordankaye.dev/posts/aoc-2023/"
+  },
+  {
+    "date": "2023-10-25",
+    "title": "Analyzing Data 180,000x Faster with Rust",
+    "link": "https://willcrichton.net/notes/k-corrset/"
+  },
+  {
+    "date": "2023-09-13",
+    "title": "Async Rust Is A Bad Language",
+    "link": "https://bitbashing.io/async-rust.html"
+  },
+  {
+    "date": "2023-07-19",
+    "title": "Rust vs Julia in scientific computing",
+    "link": "https://mo8it.com/blog/rust-vs-julia/"
+  },
+  {
+    "date": "2023-06-14",
+    "title": "Implementing data parallelism with Rayon Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/implementing-data-parallelism-rayon-rust/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "Write code using async/await in Rust | developerlife.com",
+    "link": "https://developerlife.com/2022/03/12/rust-tokio/"
+  },
+  {
+    "date": "2023-04-12",
+    "title": "The Scoped Task trilemma",
+    "link": "https://without.boats/blog/the-scoped-task-trilemma/"
+  },
+  {
+    "date": "2023-01-25",
+    "title": "rauljordan::blog",
+    "link": "https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/"
+  },
+  {
+    "date": "2022-11-02",
+    "title": "Implementing Rayon's Parallel Iterators - A Tutorial – Geo's Notepad – Mostly Programming and Math",
+    "link": "https://geo-ant.github.io/blog/2022/implementing-parallel-iterators-rayon/"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "Why Async Rust",
+    "link": "https://blog.yoshuawuyts.com/why-async-rust/"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Jonas Hietala: Rewriting my blog in Rust for fun and profit",
+    "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "argmin 0.6.0 and argmin-math 0.1.0 released | argmin",
+    "link": "http://argmin-rs.org/blog/version-v0-6-0/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Local Async Executors and Why They Should be the Default",
+    "link": "https://maciej.codes/2022-06-09-local-async.html"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
+    "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Mapping my walks with OSRM and Rust",
+    "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Adding parallelism to your Rust iterators with `dpc-pariter`",
+    "link": "https://dpc.pw/adding-parallelism-to-your-rust-iterators"
+  },
+  {
+    "date": "2021-12-22",
+    "title": "Contexts and capabilities in Rust - Tyler Mandry",
+    "link": "https://tmandry.gitlab.io/blog/posts/2021-12-21-context-capabilities/"
+  },
+  {
+    "date": "2021-09-29",
+    "title": "Why Rust in medical imaging? A reflection on modern technologies for next generation systems | BMD Software",
+    "link": "https://www.bmd-software.com/news/why-rust-in-medical-imaging-a-reflection-on-modern-technologies-for-next-generation-systems"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "How Rust supports Rayon's data parallelism | Red Hat Developer",
+    "link": "https://developers.redhat.com/blog/2021/04/30/how-rust-makes-rayons-data-parallelism-magical/"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Optimizing a sudoku solver in Rust | Simon Clark",
+    "link": "https://www.simonclark.dev/2020/08/10/optimizing-sudoku-solver.html"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "Rust async is colored, and that’s not a big deal | More Stina Blog!",
+    "link": "https://morestina.net/blog/1686/rust-async-is-colored"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "Using Rust for Scientific Numerical applications: Learning from Past Experiences | by Felipe | Netherlands eScience Center",
+    "link": "https://blog.esciencecenter.nl/using-rust-for-scientific-numerical-applications-learning-from-past-experiences-798665d9f9f0"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "C++ to Rust - or how to render your mindset :: Jakub Duchniewicz  — Personal space",
+    "link": "https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/#introduction"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "Data Manipulation: Polars vs Rust",
+    "link": "https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "C++ to Rust - or how to render your mindset :: Jakub Duchniewicz  — Personal space",
+    "link": "https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/"
+  },
+  {
+    "date": "2020-12-23",
+    "title": "Async: What is blocking? – Alice Ryhl",
+    "link": "https://ryhl.io/blog/async-what-is-blocking/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "Ratys' website thing",
+    "link": "https://ratysz.github.io/article/scheduling-1/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "Rust for Modding Smash Ultimate",
+    "link": "https://jam1.re/blog/rust-for-game-modding"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Throw Away Code | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/09/20/throw-away-code.html"
+  },
+  {
+    "date": "2020-09-09",
+    "title": "Performance Cheating | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2020/09/03/performance-cheating.html"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Multiple Thread Pools in Rust | Piotr Kołaczkowski",
+    "link": "https://pkolaczk.github.io/multiple-threadpools-rust/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Countdown problem in Rust | Memetic Musings",
+    "link": "https://amitdev.github.io/posts/2020-07-27-countdown-rust/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Rust concurrency: streaming with back-pressure.  | Medium",
+    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-a-streaming-workflow-served-with-a-side-of-back-pressure-955bdf0266b5"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "How to write CRaP Rust code - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
+  },
+  {
+    "date": "2020-04-29",
+    "title": "Rust concurrency — five easy pieces. | by Gregory Terzian | Medium",
+    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-five-easy-pieces-871f1c62906a"
+  },
+  {
+    "date": "2020-03-17",
+    "title": "parallel-stream",
+    "link": "https://blog.yoshuawuyts.com/parallel-stream/"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "Async Interview #6: Eliza Weisman · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2020/02/11/async-interview-6-eliza-weisman/"
+  },
+  {
+    "date": "2019-12-24",
+    "title": "Streams Concurrency",
+    "link": "https://blog.yoshuawuyts.com/streams-concurrency/"
+  },
+  {
+    "date": "2019-10-29",
+    "title": "why async fn in traits are hard · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/"
+  },
+  {
+    "date": "2019-08-12",
+    "title": "Runtime Configuration Reloading | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
+  },
+  {
+    "date": "2019-07-30",
+    "title": "Python vs Rust for Neural Networks | Nathan Goldbaum",
+    "link": "https://ngoldbaum.github.io/posts/python-vs-rust-nn/"
+  },
+  {
+    "date": "2019-05-21",
+    "title": "Rust In Avast | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/05/19/rust-in-avast.html"
+  },
+  {
+    "date": "2019-03-26",
+    "title": "Rust All Hands 2019: Array iterators, Rayon, and more | Red Hat Developer",
+    "link": "https://developers.redhat.com/blog/2019/03/22/rust-all-hands-2019-array-iterators-rayon-and-more/"
+  },
+  {
+    "date": "2019-02-05",
+    "title": "Learning Rust via Advent of Code",
+    "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
+  },
+  {
+    "date": "2018-10-09",
+    "title": "Going Four Times Faster using Multi-Threading",
+    "link": "http://worthe-it.co.za/programming/2018/10/03/going-four-times-faster-with-multithreading.html"
+  },
+  {
+    "date": "2018-09-11",
+    "title": "Rust Faster SIMD edition — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2018/09/06/fast.html"
+  },
+  {
+    "date": "2018-09-11",
+    "title": "Parallelizing PNG, part 5: choosing Rust for mtpng – brionv",
+    "link": "https://brionv.com/log/2018/09/09/parallelizing-png-part-5-choosing-rust-for-mtpng/"
+  },
+  {
+    "date": "2018-06-05",
+    "title": "im - Rust",
+    "link": "https://docs.rs/im"
+  },
+  {
+    "date": "2018-05-15",
+    "title": "Mat Perf | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2018/05/12/Mat-perf.html"
+  },
+  {
+    "date": "2017-11-28",
+    "title": "Writing fast and safe native Node.js modules with Rust - RisingStack Engineering",
+    "link": "https://blog.risingstack.com/node-js-native-modules-with-rust/"
+  },
+  {
+    "date": "2017-09-19",
+    "title": "show_notes::cysk::rayon - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/rayon/"
+  },
+  {
+    "date": "2017-06-13",
+    "title": "How MutexGuard was Sync When It Should Not Have Been",
+    "link": "https://www.ralfj.de/blog/2017/06/09/mutexguard-sync.html"
+  }
+]

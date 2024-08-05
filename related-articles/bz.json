@@ -1,0 +1,7 @@
+[
+  {
+    "date": "2016-12-20",
+    "title": "Generating Rust FFI Bindings to C/C++ Libraries at &lt;code&gt;cargo build&lt;/code&gt; time in &lt;code&gt;build.rs&lt;/code&gt; with &lt;code&gt;bindgen&lt;/code&gt;",
+    "link": "http://fitzgeraldnick.com/2016/12/14/using-libbindgen-in-build-rs.html"
+  }
+]

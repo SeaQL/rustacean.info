@@ -1,6 +1,27 @@
 [
   {
+    "date": "2024-04-03",
+    "title": "Embedded Rust Bluetooth on ESP: BLE Client",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-client"
+  },
+  {
+    "date": "2024-03-27",
+    "title": "Embedded Rust Bluetooth on ESP: BLE Server",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-server"
+  },
+  {
+    "date": "2024-03-20",
     "title": "The Embedded Rustacean Issue #15",
     "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "Embedded Rust Bluetooth on ESP: BLE Advertiser",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-advertiser"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Embedded Rust Bluetooth on ESP: BLE Scanner",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-scanner"
   }
 ]

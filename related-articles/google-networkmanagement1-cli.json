@@ -1,18 +1,107 @@
 [
   {
+    "date": "2024-03-20",
+    "title": "Lambda on hard mode: Inside Modal's web infrastructure | Modal Blog",
+    "link": "https://modal.com/blog/serverless-http"
+  },
+  {
+    "date": "2024-02-14",
+    "title": "Modular: Mojo vs. Rust: is Mojo 🔥 faster than Rust 🦀 ?",
+    "link": "https://www.modular.com/blog/mojo-vs-rust-is-mojo-faster-than-rust"
+  },
+  {
+    "date": "2023-10-04",
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "date": "2023-05-24",
+    "title": "flox | Rust &amp; Nix: Parallels in Complexity Management",
+    "link": "https://floxdev.com/blog/rust-nix-parallels"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "I love building a startup in Rust. I wouldn't pick it again. | PropelAuth Blog",
+    "link": "https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again"
+  },
+  {
+    "date": "2022-11-02",
     "title": "Exploring technologies at Weborama: The Rust language | by Eric Mercier | Weborama | Medium",
     "link": "https://medium.com/weborama/introduction-to-the-rust-programming-language-4dbf8f3016de"
   },
   {
+    "date": "2022-09-28",
+    "title": "Why Async Rust",
+    "link": "https://blog.yoshuawuyts.com/why-async-rust/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Console devtools podcast with Michelle Lim &amp; Zach Lloyd",
+    "link": "https://console.dev/podcast/s02e10-terminal-tools-michell-lim-zach-lloyd-warp/"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "Containerless! How to Run WebAssembly Workloads on Kubernetes with Rust | Okta Developer",
+    "link": "https://developer.okta.com/blog/2022/01/28/webassembly-on-kubernetes-with-rust"
+  },
+  {
+    "date": "2021-08-25",
     "title": "Cross compiling Windows binaries from Linux",
     "link": "https://jake-shadle.github.io/xwin/"
   },
   {
+    "date": "2021-08-10",
+    "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/024/"
+  },
+  {
+    "date": "2021-06-02",
     "title": "Turning rusty tech into Rust ~ When you need to FTP but don’t want to",
     "link": "https://blog.abstractinvoke.com/05-07-unftp.html"
   },
   {
+    "date": "2021-01-20",
+    "title": "Rust is a hard way to make a web API - macwright.com",
+    "link": "https://macwright.com/2021/01/15/rust.html"
+  },
+  {
+    "date": "2020-11-4-",
     "title": "Continuous Deployment For Rust Applications | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-11-01-zero-to-production-5-how-to-deploy-a-rust-application/"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "What I Learnt from Benchmarking Http4k, Ktor (Kotlin) and Actix v2, v3 (Rust) Microservices – Matěj Laitl a.k.a. strohel – Technical Blog",
+    "link": "https://matej.laitl.cz/bench-rust-kotlin-microservices/"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "Rust for Java developers",
+    "link": "https://blog.codecentric.de/en/2020/09/rust-for-java-developers/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "First thoughts on Rust vs OCaml",
+    "link": "https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Foreword | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-05-24-zero-to-production-0-foreword/"
+  },
+  {
+    "date": "2018-10-30",
+    "title": "Serverless Rust. A brief introduction to Serverless… | by Doug Tangren | Medium",
+    "link": "https://medium.com/@softprops/serverless-rust-318732a3596"
+  },
+  {
+    "date": "2018-03-06",
+    "title": "Writing a Microservice in Rust – Peter Goldsborough",
+    "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
   }
 ]

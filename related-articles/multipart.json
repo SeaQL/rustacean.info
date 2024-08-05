@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-01-28",
     "title": "Lessons learnt updating a library to std::future",
     "link": "https://cetra3.github.io/blog/mpart-async-0-3-0/"
   }

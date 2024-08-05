@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-01-18",
+    "title": "Displaying Images on ESP32 with Rust! - lily's thots",
+    "link": "https://lilymara.xyz/posts/images-esp32/"
+  },
+  {
+    "date": "2020-11-18",
     "title": "Writing an embedded display driver in Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Writing-an-embedded-display-driver-in-Rust/"
   },
   {
+    "date": "2020-08-25",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-25/"
   }

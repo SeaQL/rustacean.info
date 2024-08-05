@@ -1,37 +1,101 @@
 [
   {
+    "date": "2023-05-03",
+    "title": "Fun and Hackable Tensors in Rust, From Scratch - by Kurt",
+    "link": "https://getcode.substack.com/p/fun-and-hackable-tensors-in-rust"
+  },
+  {
+    "date": "2023-02-01",
     "title": "argmin 0.8.0 and argmin-math 0.3.0 released | argmin",
     "link": "https://argmin-rs.org/blog/version-v0-8-0/"
   },
   {
+    "date": "2022-08-10",
     "title": "argmin 0.6.0 and argmin-math 0.1.0 released | argmin",
     "link": "http://argmin-rs.org/blog/version-v0-6-0/"
   },
   {
+    "date": "2022-06-22",
+    "title": "Nine Rules for Elegant Rust Library APIs | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-elegant-rust-library-apis-9b986a465247"
+  },
+  {
+    "date": "2022-06-22",
+    "title": "Ernest Kissiedu on the DevX Initiative by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Ernest-Kissiedu-on-the-DevX-Initiative-e1k3cs4"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Nick Cameron on Juggling Open Source Work and Parenthood by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Nick-Cameron-on-Juggling-Open-Source-Work-and-Parenthood-e1fhfc7"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
     "link": "https://tinkering.xyz/fmo-optimization-story/"
   },
   {
+    "date": "2022-02-09",
+    "title": "Josh Triplett on Building the Build System of his Dreams by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Josh-Triplett-on-Building-the-Build-System-of-his-Dreams-e1dt81c"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Nine Rules for Writing Python Extensions in Rust | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-writing-python-extensions-in-rust-d35ea3a4ec29?sk=f8d808d5f414154fdb811e4137011437"
+  },
+  {
+    "date": "2021-09-22",
     "title": "Rust Code Coverage with Daniel McKenna :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/037-daniel-mckenna/"
   },
   {
+    "date": "2021-06-09",
+    "title": "Ralf Jung on GhostCell and Working as a PL Researcher by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Building-with-Rust-Ralf-Jung-on-GhostCell-and-Working-as-a-PL-Researcher-e12auje"
+  },
+  {
+    "date": "2021-04-14",
     "title": "Using Rust for Scientific Numerical applications: Learning from Past Experiences | by Felipe | Netherlands eScience Center",
     "link": "https://blog.esciencecenter.nl/using-rust-for-scientific-numerical-applications-learning-from-past-experiences-798665d9f9f0"
   },
   {
+    "date": "2021-04-14",
+    "title": "Tim McNamara on Rust in Action by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Building-with-Rust-Tim-McNamara-on-Rust-in-Action-eugoal/a-a1ptlh"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Luca Palmieri on TrueLayer and Zero to Production by Building with Rust",
+    "link": "https://anchor.fm/building-with-rust/episodes/Building-with-Rust-Luca-Palmieri-on-TrueLayer-and-Zero-to-Production-eq9rqs"
+  },
+  {
+    "date": "2019-08-27",
     "title": "Polsim - a case study for small-scale scientific computing in Rust · Tinkering",
     "link": "https://tinkering.xyz/polsim/"
   },
   {
+    "date": "2019-07-30",
+    "title": "Python vs Rust for Neural Networks | Nathan Goldbaum",
+    "link": "https://ngoldbaum.github.io/posts/python-vs-rust-nn/"
+  },
+  {
+    "date": "2019-05-14",
     "title": "The State of Machine Learning in Rust - Ehsan's Blog",
     "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
   },
   {
+    "date": "2019-04-09",
+    "title": "ndarray::Array1 | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2019-04-07-scientific-computing-a-rust-adventure-part-2-array1/"
+  },
+  {
+    "date": "2019-02-26",
     "title": "Rust Vectors | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2019-02-23-scientific-computing-a-rust-adventure-part-0-vectors/"
   },
   {
+    "date": "2018-01-02",
     "title": "ndarray 0.11 — Jim Turner",
     "link": "https://jim.turner.link/pages/ndarray-0.11/"
   }

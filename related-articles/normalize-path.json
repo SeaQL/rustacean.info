@@ -1,17 +1,21 @@
 [
   {
+    "date": "2023-11-29",
     "title": "Why does everyone install crates globally?",
     "link": "https://dustinblackman.com/posts/why-does-everyone-install-crates-globally/"
   },
   {
+    "date": "2023-10-04",
     "title": "Rust Vs Go: A Hands-On Comparison",
     "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
   },
   {
+    "date": "2023-05-17",
     "title": "Taking Rust to the Cloud: Blazingly Fast File Sharing - Orhun's Blog",
     "link": "https://blog.orhun.dev/blazingly-fast-file-sharing/"
   },
   {
+    "date": "2023-02-08",
     "title": "axo blog - Release Engineering Is Exhausting So Here's cargo-dist",
     "link": "https://blog.axo.dev/2023/02/cargo-dist"
   }

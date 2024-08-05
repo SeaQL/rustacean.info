@@ -1,14 +1,27 @@
 [
   {
+    "date": "2021-05-19",
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "date": "2020-05-05",
     "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
     "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"
   },
   {
+    "date": "2019-09-17",
     "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
     "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
   },
   {
+    "date": "2019-05-14",
     "title": "2D Graphics on Modern GPU | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/graphics/gpu/2019/05/08/modern-2d.html"
+  },
+  {
+    "date": "2016-10-11",
+    "title": "Overview · Serde",
+    "link": "https://serde.rs/"
   }
 ]

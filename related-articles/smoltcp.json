@@ -1,25 +1,36 @@
 [
   {
+    "date": "2023-09-06",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
   },
   {
+    "date": "2023-03-08",
+    "title": "Oxy is Cloudflare's Rust-based next generation proxy framework",
+    "link": "https://blog.cloudflare.com/introducing-oxy/"
+  },
+  {
+    "date": "2022-12-14",
     "title": "This Month in Rust OSDev: November 2022 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2022-11/"
   },
   {
+    "date": "2022-03-16",
     "title": "Knurling-rs changelog #34  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/knurling-changelog-34/"
   },
   {
+    "date": "2021-12-29",
     "title": "Rust Embedded Working Group",
     "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
   },
   {
+    "date": "2021-04-21",
     "title": "Knurling-rs changelog #23  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/knurling-changelog-23/"
   },
   {
+    "date": "2020-06-10",
     "title": "This Month in Rust OSDev (May 2020) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2020-05/"
   }

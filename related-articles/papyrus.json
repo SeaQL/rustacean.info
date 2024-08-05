@@ -1,5 +1,11 @@
 [
   {
+    "date": "2021-05-19",
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "date": "2021-04-28",
     "title": "Rust Notebooks with Evcxr - by Josh Kuhn",
     "link": "https://blog.abor.dev/p/evcxr"
   }

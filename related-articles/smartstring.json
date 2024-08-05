@@ -1,13 +1,16 @@
 [
   {
+    "date": "2023-09-20",
     "title": "Choosing a more optimal `String` type",
     "link": "https://swatinem.de/blog/optimized-strings/"
   },
   {
+    "date": "2020-09-09",
     "title": "Peeking inside a Rust enum",
     "link": "https://fasterthanli.me/articles/peeking-inside-a-rust-enum"
   },
   {
+    "date": "2020-07-07",
     "title": "Small strings in Rust",
     "link": "https://fasterthanli.me/articles/small-strings-in-rust"
   }

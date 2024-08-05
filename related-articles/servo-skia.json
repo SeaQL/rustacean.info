@@ -1,10 +1,17 @@
 [
   {
+    "date": "2023-09-06",
     "title": "Announcing Freya GUI library",
     "link": "https://marc0.hashnode.dev/freya"
   },
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2016-05-09",
+    "title": "These Weeks In Servo 61 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2016/05/02/twis-61/"
   }
 ]

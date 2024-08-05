@@ -1,0 +1,42 @@
+[
+  {
+    "date": "2024-05-08",
+    "title": "What is in a Rust Allocator?",
+    "link": "https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/"
+  },
+  {
+    "date": "2024-01-10",
+    "title": "Securing the Web: Rustls on track to outperform OpenSSL - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rustls-performance/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Let’s overtake go/fasthttp with rust/warp | by Gleb Pomykalov | Medium",
+    "link": "https://medium.com/@glebpomykalov/lets-overtake-go-fasthttp-with-rust-hyper-b2d1004914f"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "How to Deal with Out-of-memory Conditions in Rust | CrowdStrike",
+    "link": "https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "Building Rust binaries in CI that work with older GLIBC | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/ci/2021/05/07/building-rust-binaries-in-ci-that-work-with-older-glibc.html"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Measuring Memory Usage in Rust",
+    "link": "https://rust-analyzer.github.io/blog/2020/12/04/measuring-memory-usage-in-rust.html"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Optimization - Making Rust Code Go Brrrr",
+    "link": "https://aspenuwu.me/posts/rust-optimization.html"
+  },
+  {
+    "date": "2020-03-03",
+    "title": "Cheap tricks for high-performance Rust - Pascal’s Scribbles",
+    "link": "https://deterministic.space/high-performance-rust.html"
+  }
+]

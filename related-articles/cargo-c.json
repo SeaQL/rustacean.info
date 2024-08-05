@@ -1,14 +1,52 @@
 [
   {
+    "date": "2023-04-19",
     "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
   },
   {
+    "date": "2022-02-02",
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
+  },
+  {
+    "date": "2021-10-06",
+    "title": "Writing dockerfile in rust project | Wind",
+    "link": "https://windsoilder.github.io/writing_dockerfile_in_rust_project.html"
+  },
+  {
+    "date": "2021-07-21",
     "title": "Novel way to Develop, Test and Document C libraries from Rust · Blog · Wasmer",
     "link": "https://wasmer.io/posts/novel-way-to-develop--test-and-document-c-libraries-from-rust"
   },
   {
+    "date": "2020-09-23",
     "title": "Porting EBU R128 audio loudness analysis from C to Rust – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust/"
+  },
+  {
+    "date": "2019-04-16",
+    "title": "cargo-call-stack, part 2: getting call graph information from rustc | Embedded in Rust",
+    "link": "https://blog.japaric.io/stack-analysis-2/"
+  },
+  {
+    "date": "2019-03-26",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-17/"
+  },
+  {
+    "date": "2019-03-19",
+    "title": "Implementing a static stack usage analysis tool | Embedded in Rust",
+    "link": "https://blog.japaric.io/stack-analysis/"
+  },
+  {
+    "date": "2019-03-12",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-16/"
+  },
+  {
+    "date": "2016-10-04",
+    "title": "musicmatzes blog",
+    "link": "http://beyermatthias.de"
   }
 ]

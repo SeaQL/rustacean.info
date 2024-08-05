@@ -1,29 +1,41 @@
 [
   {
+    "date": "2024-05-22",
     "title": "Welcome - 100 Exercises To Learn Rust",
     "link": "https://rust-exercises.com/"
   },
   {
+    "date": "2023-08-23",
     "title": "Exploring the Rust compiler benchmark suite | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2023/08/18/rustc-benchmark-suite.html"
   },
   {
+    "date": "2022-03-30",
+    "title": "Tiny and Fast Docker image for Rust Application - azzamsa.com",
+    "link": "https://azzamsa.com/n/rust-docker/"
+  },
+  {
+    "date": "2021-12-01",
     "title": "Speed up Rust Builds with Cachepot",
     "link": "https://kflansburg.com/posts/rust-cachepot/"
   },
   {
+    "date": "2021-10-06",
     "title": "Writing dockerfile in rust project | Wind",
     "link": "https://windsoilder.github.io/writing_dockerfile_in_rust_project.html"
   },
   {
+    "date": "2020-11-4-",
     "title": "Continuous Deployment For Rust Applications | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-11-01-zero-to-production-5-how-to-deploy-a-rust-application/"
   },
   {
+    "date": "2020-10-28",
     "title": "5x Faster Rust Docker Builds with cargo-chef | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/fast-rust-docker-builds"
   },
   {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   }

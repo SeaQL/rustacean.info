@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-08-11",
     "title": "Surviving Rust async interfaces",
     "link": "https://fasterthanli.me/articles/surviving-rust-async-interfaces"
   }

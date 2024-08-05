@@ -1,37 +1,71 @@
 [
   {
+    "date": "2024-01-17",
+    "title": "Let's Make an Information Display Part 2: Frontend",
+    "link": "https://blog.stillinbeta.com/2024-01-06-let's-make-an-information-display-part-2.html"
+  },
+  {
+    "date": "2023-11-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
   },
   {
+    "date": "2023-05-03",
+    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
+    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
+  },
+  {
+    "date": "2022-04-06",
     "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
     "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
   },
   {
+    "date": "2022-04-06",
     "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
     "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
   },
   {
+    "date": "2021-10-27",
+    "title": "2021 | No Time for Chrono - Félix Saparelli",
+    "link": "https://passcod.name/technical/no-time-for-chrono.html"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "serde_with - Rust",
+    "link": "https://docs.rs/serde_with"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "How I Used Rust + Lunatic to Build a TelNet Chat Server With WebAssembly | HackerNoon",
+    "link": "https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg"
+  },
+  {
+    "date": "2020-12-23",
     "title": "Three things I wish I’d known learning Rust · Graham King",
     "link": "https://www.darkcoding.net/software/three-things-i-wish-id-known-learning-rust/"
   },
   {
+    "date": "2018-06-26",
     "title": "What I Learned: Porting Dateutil Parser to Rust",
     "link": "https://speice.io/2018/06/dateutil-parser-to-rust.html"
   },
   {
+    "date": "2018-02-20",
     "title": "Porting Rust to WebAssembly · udoprog",
     "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
   },
   {
+    "date": "2018-01-02",
     "title": "Dose Response ported to WebAssembly! — Aimlessly Going Forward",
     "link": "https://aimlesslygoingforward.com/blog/2017/12/25/dose-response-ported-to-webassembly/"
   },
   {
+    "date": "2016-09-27",
     "title": "My adventures in Rust webdev. People who know me in the Rust… | by tomaka | Medium",
     "link": "https://medium.com/@tomaka/my-adventures-in-rust-webdev-850c67be6c40"
   },
   {
+    "date": "2015-07-20",
     "title": "omnomnom - Parsing ISO8601 dates using nom",
     "link": "https://fnordig.de/2015/07/16/omnomnom-parsing-iso8601-dates-using-nom/"
   }

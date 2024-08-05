@@ -1,17 +1,26 @@
 [
   {
+    "date": "2023-03-15",
     "title": "The registers of Rust",
     "link": "https://without.boats/blog/the-registers-of-rust/"
   },
   {
+    "date": "2022-12-21",
     "title": "diziet | Rust needs #[throws]",
     "link": "https://diziet.dreamwidth.org/13657.html"
   },
   {
+    "date": "2020-11-11",
     "title": "postfix-macros.md · GitHub",
     "link": "https://gist.github.com/est31/8d0465997ea920c5ba917cbbf80a822d"
   },
   {
+    "date": "2019-11-26",
+    "title": "Error Handling Survey",
+    "link": "https://blog.yoshuawuyts.com/error-handling-survey/"
+  },
+  {
+    "date": "2019-11-19",
     "title": "Thoughts on Error Handling in Rust · Lukasʼ Blog",
     "link": "https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html"
   }

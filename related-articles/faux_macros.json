@@ -1,6 +1,17 @@
 [
   {
+    "date": "2023-05-24",
     "title": "Mocking in Rust: Mockall and alternatives - LogRocket Blog",
     "link": "https://blog.logrocket.com/mocking-rust-mockall-alternatives"
+  },
+  {
+    "date": "2021-10-06",
+    "title": "Exporting Mocks Across Crates - faux",
+    "link": "https://nrxus.github.io/faux/guide/exporting-mocks.html"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "landing v0.1 - faux",
+    "link": "https://nrxus.github.io/faux/blog/landing-v-0-1.html"
   }
 ]

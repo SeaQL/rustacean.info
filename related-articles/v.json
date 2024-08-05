@@ -1,0 +1,167 @@
+[
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Designing a SIMD Algorithm from Scratch · mcyoung",
+    "link": "https://mcyoung.xyz/2023/11/27/simd-base64/"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Google Online Security Blog: Bare-metal Rust in Android",
+    "link": "https://security.googleblog.com/2023/10/bare-metal-rust-in-android.html"
+  },
+  {
+    "date": "2023-08-16",
+    "title": "Make Illegal States Unrepresentable | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/illegal-state/"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "This Month in Rust OSDev: June 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-06/"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "date": "2022-09-28",
+    "title": "Better Java logging, inspired by Clojure and Rust",
+    "link": "https://mccue.dev/pages/9-25-22-better-java-logging"
+  },
+  {
+    "date": "2022-07-27",
+    "title": "Does Rust need proc-macros 2.0? | Eberhardt blog",
+    "link": "https://aaronerhardt.github.io/blog/posts/proc_macro_v2/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/postcard-1-0-run/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "This Month in Rust GameDev #31 - February 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/031/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-impl/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "Expose a Rust Library to Other Languages — Slint Blog",
+    "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "This Month in Rust OSDev (September 2020) | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2020-09/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "| Borrowing from Fulcro for your Rust WASM SPA",
+    "link": "https://blog.shortepic.com/blog/third/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "| TicTacToe in Valerie",
+    "link": "https://blog.shortepic.com/blog/second/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "| Next-gen Rust Web Apps",
+    "link": "https://blog.shortepic.com/blog/first/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Colin Woodbury - Software Development Languages: Rust",
+    "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "Rust verification tools (2020) – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-verification-tools/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Wiki - WritingAWaylandCompositorInRust",
+    "link": "https://wiki.alopex.li/WritingAWaylandCompositorInRust"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "Collecting All the Errors - Rust - tarquin-the-brave",
+    "link": "https://tarquin-the-brave.github.io/blog/posts/collecting-all-the-errors/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "2523-cfg-path-version - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/2523-cfg-path-version.html"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Building TodoMVC With vgtk : Bodil dot lol",
+    "link": "https://bodil.lol/vgtk/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-22/"
+  },
+  {
+    "date": "2019-12-24",
+    "title": "VEML6030/VEML7700 Ambient Light Sensor Driver in Rust | Eldruin's blog",
+    "link": "https://blog.eldruin.com/veml6030-ambient-light-sensor-driver-in-rust/"
+  },
+  {
+    "date": "2019-12-24",
+    "title": "Testing for no_std compatibility in Rust crates - blog.dbrgn.ch",
+    "link": "https://blog.dbrgn.ch/2019/12/24/testing-for-no-std-compatibility/"
+  },
+  {
+    "date": "2019-10-08",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-19/"
+  },
+  {
+    "date": "2019-01-22",
+    "title": "Wiki - TheStateOfGGEZ2019",
+    "link": "https://wiki.alopex.li/TheStateOfGGEZ2019"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  },
+  {
+    "date": "2018-07-03",
+    "title": "Learning SIMD with Rust by finding planets | by Iban Eguia Moraza | Medium",
+    "link": "https://medium.com/@Razican/learning-simd-with-rust-by-finding-planets-b85ccfb724c3"
+  },
+  {
+    "date": "2017-01-10",
+    "title": "Announcing Alacritty, a GPU-accelerated terminal emulator",
+    "link": "http://blog.jwilm.io/announcing-alacritty/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "Prototyping a new 3D API for the Web",
+    "link": "https://kvark.github.io/3d/api/2016/12/17/webmetal.html"
+  }
+]

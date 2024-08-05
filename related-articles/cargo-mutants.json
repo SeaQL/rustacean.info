@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-03-27",
     "title": "Everything you need to know about testing in Rust",
     "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"
   },
   {
+    "date": "2023-07-19",
     "title": "https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2023/ISSTA-tool.pdf",
     "link": "https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2023/ISSTA-tool.pdf"
   },
   {
+    "date": "2021-09-08",
     "title": "Writing software that's reliable enough for production",
     "link": "https://pythonspeed.com/fil/docs/fil4prod/reliable.html"
   }

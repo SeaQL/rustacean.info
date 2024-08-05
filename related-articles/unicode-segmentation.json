@@ -1,6 +1,17 @@
 [
   {
+    "date": "2024-05-29",
     "title": "Building Agentic RAG with Rust, Qdrant &amp; OpenAI",
     "link": "https://www.shuttle.rs/blog/2024/05/23/building-agentic-rag-rust-qdrant"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "A byte string library for Rust - Andrew Gallant's Blog",
+    "link": "https://blog.burntsushi.net/bstr/"
+  },
+  {
+    "date": "2017-03-07",
+    "title": "Mitigating Underhandedness: Fuzzing Your Code - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/03/02/mitigating-underhandedness-fuzzing-your-code/"
   }
 ]

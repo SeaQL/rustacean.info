@@ -1,41 +1,76 @@
 [
   {
+    "date": "2024-03-27",
+    "title": "Everything you need to know about testing in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"
+  },
+  {
+    "date": "2024-03-27",
     "title": "On Tech Debt: My Rust Library is now a CDO | Armin Ronacher's Thoughts and Writings",
     "link": "https://lucumr.pocoo.org/2024/3/26/rust-cdo/"
   },
   {
+    "date": "2023-05-31",
+    "title": "Serving dynamic social preview images with rust and serverless functions",
+    "link": "https://traits-crates-and-awaits.ghost.io/serving-dynamic-social-preview-images-with-rust-and-serverless-functions/"
+  },
+  {
+    "date": "2023-05-10",
     "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
     "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
   },
   {
+    "date": "2023-03-22",
     "title": "The birth of a package manager | Adolfo Ochagavía",
     "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
   },
   {
+    "date": "2023-02-22",
+    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+  },
+  {
+    "date": "2023-01-04",
     "title": "How to Test",
     "link": "https://matklad.github.io/2021/05/31/how-to-test.html"
   },
   {
+    "date": "2022-06-15",
     "title": "Everything Is Broken: Shipping rust-minidump at Mozilla - Part 1 - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2022/06/everything-is-broken-shipping-rust-minidump-at-mozilla/"
   },
   {
+    "date": "2021-11-17",
     "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
     "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
   },
   {
+    "date": "2021-08-18",
+    "title": "Word Segmentation with Rust | Instant Domains",
+    "link": "https://instantdomainsearch.com/engineering/instant-word-segmentation-with-rust"
+  },
+  {
+    "date": "2021-01-06",
     "title": "insta snapshots - Visual Studio Marketplace",
     "link": "https://marketplace.visualstudio.com/items?itemName=mitsuhiko.insta"
   },
   {
+    "date": "2021-01-06",
     "title": "Insta Snapshots",
     "link": "https://insta.rs/"
   },
   {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
   },
   {
+    "date": "2020-05-27",
+    "title": "How to organize your Rust tests - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
+  },
+  {
+    "date": "2019-05-28",
     "title": "Writing a Compiler in Rust - Tristan Hume",
     "link": "http://thume.ca/2019/04/18/writing-a-compiler-in-rust/"
   }

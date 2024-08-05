@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-02-01",
     "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/041/"
   },
   {
+    "date": "2022-01-26",
+    "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/029/"
+  },
+  {
+    "date": "2021-07-14",
     "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/023/"
   }

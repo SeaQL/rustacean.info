@@ -1,13 +1,26 @@
 [
   {
+    "date": "2022-03-02",
     "title": "Modern Telecom Network Tracing - OXIO",
     "link": "https://oxio.com/blog/modern-telecom-network-tracing/"
   },
   {
+    "date": "2021-07-21",
     "title": "Adventures in Rust and Load Balancers | by Ben Parli | Medium",
     "link": "https://bparli.medium.com/adventures-in-rust-and-load-balancers-73a0bc61a192"
   },
   {
+    "date": "2020-07-21",
+    "title": "This Week in Rust - Issue 348 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/023-twir-348/"
+  },
+  {
+    "date": "2020-05-12",
+    "title": "More Rust and Load Balancer Adventures | by Ben Parli | Medium",
+    "link": "https://medium.com/@bparli/more-rust-and-load-balancer-adventures-fad07f4fb095"
+  },
+  {
+    "date": "2016-06-13",
     "title": "that one thing that one time",
     "link": "http://blog.adamperry.me/rust/2016/06/11/baby-steps-porting-musl-to-rust/"
   }

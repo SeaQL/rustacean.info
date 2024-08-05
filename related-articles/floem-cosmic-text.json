@@ -1,29 +1,36 @@
 [
   {
+    "date": "2024-07-10",
     "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
     "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"
   },
   {
+    "date": "2024-02-28",
     "title": "Text labels rendering on a map with Rust - research and design | Galileo",
     "link": "https://maximkaaa.github.io/galileo/blog/posts/text_rendering_design/"
   },
   {
+    "date": "2024-01-17",
     "title": "Xilem 2024 plans - Linebender",
     "link": "https://linebender.org/blog/xilem-2024/"
   },
   {
+    "date": "2023-09-27",
     "title": "My Pure Rust Wishlist - GBurghoorn",
     "link": "https://gburghoorn.com/posts/pure-rust-wishlist/"
   },
   {
+    "date": "2023-09-06",
     "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/048/"
   },
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2022-11-09",
     "title": "This Month in Rust OSDev: October 2022 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2022-10/"
   }

@@ -1,25 +1,51 @@
 [
   {
+    "date": "2024-06-19",
     "title": "Using Tauri to build a cross-platform security app",
     "link": "https://www.firezone.dev/blog/using-tauri"
   },
   {
+    "date": "2024-06-05",
     "title": "Highlights from “I spent 6 years developing a game in Rust and it just shipped, AMA” | Games by Mason",
     "link": "https://gamesbymason.com/2024/06/01/wor-ama/"
   },
   {
+    "date": "2024-04-24",
+    "title": "Porting a cross-platform GUI application to Rust - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/"
+  },
+  {
+    "date": "2024-02-14",
+    "title": "Tech Notes: Cross compiling Rust to win32",
+    "link": "https://neugierig.org/software/blog/2024/02/cross-compile.html"
+  },
+  {
+    "date": "2023-11-15",
+    "title": "Blog - Tracking the current active process in Windows with Rust · Hello Code.",
+    "link": "https://hellocode.co/blog/post/tracking-active-process-windows-rust/"
+  },
+  {
+    "date": "2023-05-17",
     "title": "smol with John Nunley :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/john-nunley/"
   },
   {
+    "date": "2022-10-26",
+    "title": "Inline Crates",
+    "link": "https://blog.yoshuawuyts.com/inline-crates/"
+  },
+  {
+    "date": "2022-03-02",
     "title": "Building a new graphics engine in Rust - Part 2 – Alex Dixon",
     "link": "https://www.polymonster.co.uk/blog/bulding-new-engine-in-rust-2"
   },
   {
+    "date": "2021-09-29",
     "title": "Why we built a custom Rust library for Capture - Dropbox",
     "link": "https://dropbox.tech/application/why-we-built-a-custom-rust-library-for-capture"
   },
   {
+    "date": "2021-01-27",
     "title": "Microsoft Opens Up Old Win32 APIs to C# and Rust, More Languages to Come -- Visual Studio Magazine",
     "link": "https://visualstudiomagazine.com/articles/2021/01/21/win32-apis.aspx"
   }

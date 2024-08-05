@@ -1,41 +1,71 @@
 [
   {
+    "date": "2023-12-27",
     "title": "Web development in Rust",
     "link": "https://rust.code-maven.com/web"
   },
   {
+    "date": "2023-12-20",
     "title": "Getting Started with Actix Web in Rust",
     "link": "https://www.shuttle.rs/blog/2023/12/15/using-actix-rust"
   },
   {
+    "date": "2023-12-13",
     "title": "Getting Started with Axum - Rust's Most Popular Web Framework",
     "link": "https://www.shuttle.rs/blog/2023/12/06/using-axum-rust"
   },
   {
+    "date": "2023-10-04",
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "date": "2023-09-27",
     "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
   },
   {
+    "date": "2023-01-18",
+    "title": "Rails developers write some Rust: a review of Axum 0.6",
+    "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
+  },
+  {
+    "date": "2022-07-13",
+    "title": "Logan Keenan - A Rust app in a Cloudflare Worker",
+    "link": "https://logankeenan.com/posts/running-a-rust-server-in-a-cloudflare-worker/"
+  },
+  {
+    "date": "2022-07-06",
     "title": "Minimalist Guide to Axum",
     "link": "https://tech.marksblogg.com/axum-rust-web-framework.html"
   },
   {
+    "date": "2022-01-05",
     "title": "An Introduction To Session-based Authentication In Rust | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/session-based-authentication-in-rust/"
   },
   {
+    "date": "2021-07-21",
     "title": "05 - Basic CRUD with rust using tide - front-end with tera - Javier's personal blog",
     "link": "https://javierviola.com/post/05-basic-crud-with-rust-using-tide-front-end-with-tera/"
   },
   {
+    "date": "2021-04-21",
     "title": "Late Night Confessions — Building a Website Using Rust, Rocket, Diesel, and Askama — Part 1 | by Johnny Tordgeman | PerimeterX | Medium",
     "link": "https://medium.com/perimeterx/late-night-confessions-building-a-website-using-rust-rocket-diesel-and-askama-part-1-aeccade43252"
   },
   {
+    "date": "2021-04-07",
+    "title": "How I Used Rust + Lunatic to Build a TelNet Chat Server With WebAssembly | HackerNoon",
+    "link": "https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg"
+  },
+  {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2019-01-08",
     "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
     "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
   }

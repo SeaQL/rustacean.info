@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-06-30",
     "title": "Implementing a Job queue with SQLx and Postgres",
     "link": "https://cetra3.github.io/blog/implementing-a-jobq-sqlx/"
   }

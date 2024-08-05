@@ -1,17 +1,31 @@
 [
   {
+    "date": "2021-10-06",
+    "title": "RiB Newsletter #28 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-28/"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "RiB Newsletter #27 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-27/"
+  },
+  {
+    "date": "2021-07-14",
     "title": "Rising Tides: How The Mina Protocol Can Benefit Web&nbsp;3.0. An examination of Mina's lightweight non-consensus full nodes and Rust x Wasm - Willem Olding | ChainSafe",
     "link": "https://medium.com/chainsafe-systems/mina-wasm-benefits-for-web-3-0-3d25991c3b75"
   },
   {
+    "date": "2021-07-14",
     "title": "Forest Growth. An update from the last month of work… | by Ben Adar | ChainSafe | Medium",
     "link": "https://medium.com/chainsafe-systems/forest-growth-d26998a3da61"
   },
   {
+    "date": "2021-06-09",
     "title": "Back Into The Forest. The latest from ChainSafe’s Filecoin… | by Ben Adar | ChainSafe | Medium",
     "link": "https://medium.com/chainsafe-systems/back-into-the-forest-983a4344ffe9"
   },
   {
+    "date": "2020-08-11",
     "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"
   }

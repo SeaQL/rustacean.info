@@ -1,37 +1,61 @@
 [
   {
+    "date": "2024-02-07",
     "title": "Let futures be futures",
     "link": "https://without.boats/blog/let-futures-be-futures/"
   },
   {
+    "date": "2024-01-17",
     "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
     "link": "https://nullderef.com/blog/rust-async-sync/"
   },
   {
+    "date": "2023-04-19",
+    "title": "Modular Errors in Rust - Sabrina Jewson",
+    "link": "https://sabrinajewson.org/blog/errors"
+  },
+  {
+    "date": "2022-08-31",
     "title": "Update-informer v0.5.0 – Mikhail Grachev's blog",
     "link": "https://www.mgrachev.com/2022/08/29/update-informer-v050/"
   },
   {
+    "date": "2022-06-29",
     "title": "fetch_data - Rust",
     "link": "https://docs.rs/fetch-data/latest/fetch_data/"
   },
   {
+    "date": "2022-04-27",
+    "title": "Rust9x: Compile Rust code for Windows 95, NT and above",
+    "link": "https://seri.tools/blog/announcing-rust9x/"
+  },
+  {
+    "date": "2022-02-09",
     "title": "Update-informer: a highly customizable Rust library for CLI apps by Evrone",
     "link": "https://evrone.com/update-informer"
   },
   {
+    "date": "2021-10-20",
     "title": "Designing an API Client in Rust: New RSpotify Version a Year Later | NullDeref",
     "link": "https://nullderef.com/blog/web-api-client/"
   },
   {
+    "date": "2021-09-08",
     "title": "diziet | Wanted: Rust sync web framework",
     "link": "https://diziet.dreamwidth.org/9336.html"
   },
   {
+    "date": "2020-10-14",
+    "title": "Optional parameters in Rust – Vidify",
+    "link": "https://vidify.org/blog/rust-parameters/"
+  },
+  {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2020-01-21",
     "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
   }

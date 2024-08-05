@@ -1,13 +1,31 @@
 [
   {
+    "date": "2023-01-18",
     "title": "Song search in Rust using OpenAI",
     "link": "https://gigapotential.dev/blog/song-search-in-rust-using-openai/"
   },
   {
+    "date": "2021-03-03",
+    "title": "Data Manipulation: Pandas vs Rust",
+    "link": "https://able.bio/haixuanTao/data-manipulation-pandas-vs-rust--1d70e7fc"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Rust for a Pythonista #1: Why and when?",
+    "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Beginner's guide to Error Handling in Rust",
+    "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
+  },
+  {
+    "date": "2017-05-23",
     "title": "Rust and CSV parsing - Andrew Gallant's Blog",
     "link": "http://blog.burntsushi.net/csv/"
   },
   {
+    "date": "2015-01-12",
     "title": "Announcing Rust 1.0 Alpha | Hacker News",
     "link": "https://news.ycombinator.com/item?id=8863451"
   }

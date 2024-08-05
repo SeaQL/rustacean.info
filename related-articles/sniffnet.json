@@ -1,5 +1,11 @@
 [
   {
+    "date": "2024-01-03",
+    "title": "Open Source Applications written in Rust",
+    "link": "https://rust.code-maven.com/applications"
+  },
+  {
+    "date": "2023-04-26",
     "title": "Console #154 - An Interview with Giuliano of Sniffnet - Rust app to easily monitor network traffic",
     "link": "https://console.substack.com/p/console-154#§sniffnet"
   }

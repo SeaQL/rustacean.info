@@ -1,6 +1,12 @@
 [
   {
+    "date": "2022-06-15",
     "title": "This Week in Rust - Issue 444 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/twir-444/"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "Rust: A Critical Retrospective «  bunnie's blog",
+    "link": "https://www.bunniestudios.com/blog/?p=6375"
   }
 ]

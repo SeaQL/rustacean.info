@@ -1,13 +1,21 @@
 [
   {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
+    "date": "2021-06-23",
     "title": "Getting started with MongoDB and Redis in Rust · Roman Kudryashov's tech blog",
     "link": "https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/"
   },
   {
+    "date": "2015-11-02",
+    "title": "articles - using resque with rust",
+    "link": "http://julienblanchard.com/2015/using-resque-with-rust/"
+  },
+  {
+    "date": "2015-01-19",
     "title": "rdb-rs - fast and efficient RDB parsing utility",
     "link": "http://fnordig.de/2015/01/15/rdb-rs-fast-and-efficient-rdb-parsing-utility/"
   }

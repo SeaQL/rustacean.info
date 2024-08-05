@@ -1,13 +1,16 @@
 [
   {
+    "date": "2023-02-08",
     "title": "Rustler - Using Rust crates in Elixir | Mainmatter",
     "link": "https://mainmatter.com/blog/2023/02/01/using-rust-crates-in-elixir/"
   },
   {
+    "date": "2022-03-16",
     "title": "Introducing Rustler Precompiled - Dashbit Blog",
     "link": "https://dashbit.co/blog/rustler-precompiled"
   },
   {
+    "date": "2020-07-14",
     "title": "Writing Rust NIFs for Elixir With Rustler | Mainmatter",
     "link": "https://simplabs.com/blog/2020/06/25/writing-rust-nifs-for-elixir-with-rustler/"
   }

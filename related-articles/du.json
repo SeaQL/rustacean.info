@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2023-06-28",
+    "title": "Red's Blog",
+    "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
+  },
+  {
+    "date": "2023-03-15",
+    "title": "duplicate - Rust",
+    "link": "https://docs.rs/duplicate"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Crate of the Week second chance list – Brian Kung",
+    "link": "https://briankung.dev/2022/01/07/crate-of-the-week-second-chance-list/"
+  },
+  {
+    "date": "2020-10-14",
+    "title": "Optional parameters in Rust – Vidify",
+    "link": "https://vidify.org/blog/rust-parameters/"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
+  }
+]

@@ -1,38 +1,117 @@
 [
   {
+    "date": "2023-03-29",
     "title": "A Rustaceans tour of embedded world  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/a-rustacean-tour-of-embedded-world/"
   },
   {
+    "date": "2021-06-09",
     "title": "Automatic Rust verification tools (2021) – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/automatic-rust-verification-tools-2021/"
   },
   {
+    "date": "2021-01-13",
     "title": "Another Rust-y OS: Theseus joins Redox in pursuit of safer, more resilient systems • The Register",
     "link": "https://www.theregister.com/2021/01/14/rust_os_theseus/"
   },
   {
+    "date": "2020-09-30",
     "title": "Rust on the ESP32 &amp; ESP8266 - Building an ecosystem",
     "link": "https://mabez.dev/blog/posts/esp-rust-ecosystem/"
   },
   {
+    "date": "2020-05-05",
     "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
     "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
   },
   {
+    "date": "2020-02-04",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-23/"
   },
   {
+    "date": "2019-11-12",
+    "title": "Using Type-Level Programming in Rust to Make Safer Hardware Abstractions | Blog – Auxon Corporation",
+    "link": "https://blog.auxon.io/2019/10/25/type-level-registers/"
+  },
+  {
+    "date": "2018-12-25",
     "title": "How to Become a Rust Super-developer - Hashnode",
     "link": "https://hashnode.com/post/how-to-become-a-rust-super-developer-cjpv1ee7e000buhs2aqrdw2ym"
   },
   {
+    "date": "2018-09-11",
     "title": "Pun Intended: Bare Metal Attracts Rust | Hackaday",
     "link": "https://hackaday.com/2018/09/08/pun-intended-bare-metal-attracts-rust/"
   },
   {
+    "date": "2017-11-21",
+    "title": "Tock Embedded Operating System | Crates.io Ecosystem Not Ready for Embedded Rust",
+    "link": "https://www.tockos.org/blog/2017/crates-are-not-safe/"
+  },
+  {
+    "date": "2017-08-08",
+    "title": "Tock Embedded Operating System | Compile-time Safety is for Everybody!",
+    "link": "https://www.tockos.org/blog/2017/apsys-paper/"
+  },
+  {
+    "date": "2017-06-27",
+    "title": "Tock Embedded Operating System | Talking Tock 22",
+    "link": "https://www.tockos.org/blog/2017/talking-tock-22/"
+  },
+  {
+    "date": "2017-03-07",
+    "title": "Tock Embedded Operating System | Talking Tock 11",
+    "link": "https://www.tockos.org/blog/2017/talking-tock-11/"
+  },
+  {
+    "date": "2017-01-03",
     "title": "Rust on RTL8710 running FreeRTOS",
     "link": "https://polyfractal.com/post/rustl8710/"
+  },
+  {
+    "date": "2016-11-29",
+    "title": "Tock Embedded Operating System | Talking Tock Week 9",
+    "link": "http://www.tockos.org/blog/2016/talking-tock-9/"
+  },
+  {
+    "date": "2016-10-25",
+    "title": "Tock Embedded Operating System | Talking Tock Week 7",
+    "link": "http://www.tockos.org/blog/2016/talking-tock-7/"
+  },
+  {
+    "date": "2016-10-11",
+    "title": "Tock Embedded Operating System | Talking Tock Week 6",
+    "link": "http://www.tockos.org/blog/2016/talking-tock-6/"
+  },
+  {
+    "date": "2016-09-27",
+    "title": "Tock Embedded Operating System | Talking Tock Week 5",
+    "link": "http://www.tockos.org/blog/2016/talking-tock-5/"
+  },
+  {
+    "date": "2016-09-13",
+    "title": "Tock Embedded Operating System | Talking Tock Week 4",
+    "link": "http://www.tockos.org/blog/2016/talking-tock-4/"
+  },
+  {
+    "date": "2016-08-30",
+    "title": "Tock Embedded Operating System | nRF51 support",
+    "link": "http://www.tockos.org/blog/2016/nrf51-support/"
+  },
+  {
+    "date": "2016-08-23",
+    "title": "Tock Embedded Operating System | Talking Tock Week 3",
+    "link": "http://www.tockos.org/blog/2016/talking-tock-3/"
+  },
+  {
+    "date": "2016-08-16",
+    "title": "Tock Embedded Operating System | Talking Tock Week 2",
+    "link": "http://www.tockos.org/blog/2016/talking-tock-2/"
+  },
+  {
+    "date": "2016-08-16",
+    "title": "Tock Embedded Operating System | Talking Tock Week 1",
+    "link": "http://www.tockos.org/blog/2016/talking-tock-1/"
   }
 ]

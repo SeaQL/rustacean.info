@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2020-07-14",
+    "title": "Implementing the Clipper chip cipher in Rust",
+    "link": "https://blog.yossarian.net/2020/03/09/Implementing-the-Clipper-chip-cipher-in-Rust"
+  },
+  {
+    "date": "2019-04-16",
+    "title": "Keeping Rust projects' README.md code examples up-to-date",
+    "link": "https://blog.guillaume-gomez.fr/articles/2019-04-13+Keeping+Rust+projects%27+README.md+code+examples+up-to-date"
+  },
+  {
+    "date": "2016-10-04",
+    "title": "musicmatzes blog",
+    "link": "http://beyermatthias.de"
+  }
+]

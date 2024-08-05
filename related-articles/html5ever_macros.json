@@ -1,22 +1,82 @@
 [
   {
+    "date": "2024-06-05",
+    "title": "Don't Worry About Lifetimes | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/lifetimes/"
+  },
+  {
+    "date": "2020-08-11",
     "title": "Rust for a Pythonista #2: Building a Rust crate for CSS inlining",
     "link": "https://dygalo.dev/blog/rust-for-a-pythonista-2/"
   },
   {
+    "date": "2018-05-22",
     "title": "The Rust compiler is getting faster – Nicholas Nethercote",
     "link": "https://blog.mozilla.org/nnethercote/2018/05/17/the-rust-compiler-is-getting-faster/"
   },
   {
+    "date": "2017-05-09",
+    "title": "This Week In Servo 101 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/05/08/twis-101/"
+  },
+  {
+    "date": "2017-03-21",
+    "title": "This Week In Servo 95 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/03/20/twis-95/"
+  },
+  {
+    "date": "2017-02-28",
+    "title": "These Weeks In Servo 93 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/02/27/twis-93/"
+  },
+  {
+    "date": "2017-02-14",
+    "title": "This Week In Servo 92 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/02/13/twis-92/"
+  },
+  {
+    "date": "2017-01-10",
+    "title": "These Weeks In Servo 86 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2017/01/02/twis-86/"
+  },
+  {
+    "date": "2016-11-15",
+    "title": "These Weeks In Servo 83 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2016/11/14/twis-83/"
+  },
+  {
+    "date": "2016-11-08",
+    "title": "These Weeks In Servo 82 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://blog.servo.org/2016/10/24/twis-82/"
+  },
+  {
+    "date": "2016-02-22",
+    "title": "This Week In Servo 51 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "http://blog.servo.org/2016/02/15/twis-51/"
+  },
+  {
+    "date": "2015-11-09",
+    "title": "Macros in Rust pt2",
+    "link": "http://www.ncameron.org/blog/macros-in-rust-pt2/"
+  },
+  {
+    "date": "2015-06-22",
     "title": "Exploring Rust – Wilfred Hughes::Blog",
     "link": "http://www.wilfred.me.uk/blog/2015/06/18/exploring-rust/"
   },
   {
+    "date": "2015-04-06",
     "title": "This Week In Servo 29 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
     "link": "http://blog.servo.org/2015/04/02/twis-29/"
   },
   {
+    "date": "2015-03-23",
     "title": "main is usually a function: html5ever project update: one year!",
     "link": "http://mainisusuallyafunction.blogspot.com/2015/03/html5ever-project-update-one-year.html"
+  },
+  {
+    "date": "2015-03-02",
+    "title": "This Week In Servo 25 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "http://blog.servo.org/2015/02/24/twis-25/"
   }
 ]

@@ -1,14 +1,27 @@
 [
   {
+    "date": "2022-08-17",
     "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/036/"
   },
   {
+    "date": "2021-05-05",
     "title": "Making Generative Art with Rust - by Josh Kuhn",
     "link": "https://blog.abor.dev/p/making-generative-art-with-rust"
   },
   {
+    "date": "2018-11-13",
+    "title": "Things Rust doesn’t let you do. A survey of things that Rust doesn’t… | by Pyry Kontio | Medium",
+    "link": "https://medium.com/@GolDDranks/things-rust-doesnt-let-you-do-draft-f596a3c740a5"
+  },
+  {
+    "date": "2018-08-14",
     "title": "The State of GPGPU in Rust | bheisler.github.io",
     "link": "https://bheisler.github.io/post/state-of-gpgpu-in-rust/"
+  },
+  {
+    "date": "2018-06-12",
+    "title": "Sponsor work on Rust! · Aaron Turon",
+    "link": "https://aturon.github.io/sponsor/"
   }
 ]

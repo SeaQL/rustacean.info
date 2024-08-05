@@ -1,5 +1,6 @@
 [
   {
+    "date": "2024-06-05",
     "title": "How to build a plugin system in Rust | Arroyo",
     "link": "https://www.arroyo.dev/blog/rust-plugin-systems"
   }

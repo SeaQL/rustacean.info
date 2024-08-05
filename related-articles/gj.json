@@ -1,5 +1,11 @@
 [
   {
+    "date": "2016-01-18",
+    "title": "RPC system rewritten to use async I/O",
+    "link": "https://dwrensha.github.io/capnproto-rust/2016/01/11/async-rpc.html"
+  },
+  {
+    "date": "2015-06-08",
     "title": "asynchronous I/O with promises",
     "link": "http://dwrensha.github.io/capnproto-rust/2015/05/25/asynchronous-io-with-promises.html"
   }

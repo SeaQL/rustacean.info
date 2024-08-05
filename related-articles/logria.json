@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-08-03",
     "title": "Uncovering a Blocking Syscall",
     "link": "https://chrissardegna.com/blog/uncovering-a-blocking-syscall/"
   }

@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-11-29",
     "title": "Intro to LLVM and MLIR with Rust and Melior",
     "link": "https://edgarluque.com/blog/mlir-with-rust/"
   }

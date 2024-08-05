@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-09-28",
     "title": "This Month in Rust GameDev #37 - August 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/037/"
   },
   {
+    "date": "2022-08-31",
     "title": "Building a gamedev maths library in Rust from scratch – Alex Dixon",
     "link": "https://www.polymonster.co.uk/blog/maths-rs"
   }

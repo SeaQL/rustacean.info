@@ -1,5 +1,11 @@
 [
   {
+    "date": "2023-11-08",
+    "title": "Rust for JavaScript Developers: An Overview of Testing",
+    "link": "https://www.shuttle.rs/blog/2023/11/08/testing-in-rust"
+  },
+  {
+    "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
   }

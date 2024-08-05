@@ -1,10 +1,17 @@
 [
   {
+    "date": "2024-01-03",
     "title": "Announcing smol-macros, smol-hyper and smol-axum – notgull – The world's number one source of notgull",
     "link": "https://notgull.net/new-smol-rs-subcrates/"
   },
   {
+    "date": "2020-07-07",
     "title": "Image decay as a service",
     "link": "https://fasterthanli.me/articles/image-decay-as-a-service"
+  },
+  {
+    "date": "2020-02-25",
+    "title": "Async HTTP",
+    "link": "https://blog.yoshuawuyts.com/async-http/"
   }
 ]

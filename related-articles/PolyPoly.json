@@ -1,25 +1,31 @@
 [
   {
+    "date": "2022-10-26",
     "title": "The HTTP crash course nobody asked for",
     "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
   },
   {
+    "date": "2022-06-01",
     "title": "The curse of strong typing",
     "link": "https://fasterthanli.me/articles/the-curse-of-strong-typing"
   },
   {
+    "date": "2022-02-23",
     "title": "Announcing Hurl 1.6.0",
     "link": "https://hurl.dev/blog/2022/02/11/announcing-hurl-1.6.0.html"
   },
   {
+    "date": "2020-12-16",
     "title": "Aiming for correctness with types",
     "link": "https://fasterthanli.me/articles/aiming-for-correctness-with-types"
   },
   {
+    "date": "2020-07-14",
     "title": "Getting in and out of trouble with Rust futures",
     "link": "https://fasterthanli.me/articles/getting-in-and-out-of-trouble-with-rust-futures"
   },
   {
+    "date": "2020-07-07",
     "title": "Abstracting away correctness",
     "link": "https://fasterthanli.me/articles/abstracting-away-correctness"
   }

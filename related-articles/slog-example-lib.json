@@ -1,5 +1,6 @@
 [
   {
+    "date": "2017-04-04",
     "title": "Writing GStreamer Elements in Rust (Part 4): Logging, COWs and Plugins – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2017/03/writing-gstreamer-elements-in-rust-part-4-logging-cows-and-plugins/"
   }

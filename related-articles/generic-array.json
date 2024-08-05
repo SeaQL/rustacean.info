@@ -1,13 +1,26 @@
 [
   {
+    "date": "2023-04-26",
+    "title": "Bringing runtime checks to compile time in Rust · Kai Kaufman's tech blog",
+    "link": "https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/021/"
+  },
+  {
+    "date": "2021-03-31",
     "title": "Const Generic Slipstreem | Vorner’s random stuff",
     "link": "https://vorner.github.io/2021/03/28/const-generic-slipstreem.html"
   },
   {
+    "date": "2020-09-30",
     "title": "Rust in 2021: Leveraging the Type System for Infallible Message Buffers",
     "link": "https://christian.amsuess.com/blog/website/2020-09-24_rust_2021/"
   },
   {
+    "date": "2019-05-14",
     "title": "The State of Machine Learning in Rust - Ehsan's Blog",
     "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"
   }

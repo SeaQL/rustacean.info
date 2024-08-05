@@ -1,14 +1,27 @@
 [
   {
+    "date": "2021-09-29",
     "title": "AnyLeaf articles: Writing embedded firmware using Rust",
     "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
   },
   {
+    "date": "2021-02-24",
+    "title": "Testing a Hardware Abstraction Layer (HAL)  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt-test-hal/"
+  },
+  {
+    "date": "2020-10-07",
     "title": "Getting Started with the nRF52840 in Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Getting-Started-with-the-nRF52840-in-Rust/"
   },
   {
+    "date": "2020-09-30",
     "title": "Rusty-PID: Porting the TSic sensor from C to Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Rusty-PID-Porting-the-TSic-sensor-from-C-to-Rust/"
+  },
+  {
+    "date": "2019-12-17",
+    "title": "From Zero to main(): Bare metal Rust | Interrupt",
+    "link": "https://interrupt.memfault.com/blog/zero-to-main-rust-1"
   }
 ]

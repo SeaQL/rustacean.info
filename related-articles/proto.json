@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-04-10",
+    "title": "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance | Greptime",
+    "link": "https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance"
+  },
+  {
+    "date": "2024-02-21",
+    "title": "Introducing Rust Client for Timeplus Proton",
+    "link": "https://www.timeplus.com/post/rust-client-for-proton"
+  }
+]

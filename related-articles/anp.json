@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2021-01-06",
+    "title": "nonymous + bore(1): DNS toys for Rust | delan azabani",
+    "link": "https://www.azabani.com/2021/01/03/nonymous-bore.html"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "The Rust Project in 2021 - Tyler Mandry",
+    "link": "https://tmandry.gitlab.io/blog/posts/rust-2021-project/"
+  },
+  {
+    "date": "2019-10-15",
+    "title": "The Communications System: Part 2 · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/comms-part-2/"
+  },
+  {
+    "date": "2019-10-08",
+    "title": "The Communications System: Part 1 · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/comms-part-1/"
+  },
+  {
+    "date": "2019-04-02",
+    "title": "RaptorQ (RFC6330) and performance optimization in Rust",
+    "link": "https://www.cberner.com/2019/03/30/raptorq-rfc6330-rust-optimization/"
+  },
+  {
+    "date": "2018-10-09",
+    "title": "that one thing that one time",
+    "link": "https://blog.anp.lol/rust/2018/09/29/lolbench"
+  },
+  {
+    "date": "2018-10-02",
+    "title": "that one thing that one time",
+    "link": "https://blog.anp.lol/rust/2018/09/29/lolbench/"
+  }
+]

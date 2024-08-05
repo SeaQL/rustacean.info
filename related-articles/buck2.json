@@ -1,5 +1,16 @@
 [
   {
+    "date": "2024-07-17",
+    "title": "The missing parts in Cargo | Life is a refactoring process without tests",
+    "link": "https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/"
+  },
+  {
+    "date": "2023-10-18",
+    "title": "Compile Times and Code Graphs",
+    "link": "https://blog.danhhz.com/compile-times-and-code-graphs"
+  },
+  {
+    "date": "2023-04-12",
     "title": "Build faster with Buck2: Our open source build system",
     "link": "https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/"
   }

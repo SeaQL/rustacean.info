@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-09-28",
     "title": "serde_transcode - Rust",
     "link": "https://docs.rs/serde-transcode"
   }

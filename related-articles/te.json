@@ -1,0 +1,137 @@
+[
+  {
+    "date": "2024-03-27",
+    "title": "Everything you need to know about testing in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "ESP Embedded Rust: Command Line Interface",
+    "link": "https://apollolabsblog.hashnode.dev/esp-embedded-rust-command-line-interface"
+  },
+  {
+    "date": "2024-01-17",
+    "title": "The bane of my existence: Supporting both async and sync code in Rust | NullDeref",
+    "link": "https://nullderef.com/blog/rust-async-sync/"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-11-08",
+    "title": "Rust for JavaScript Developers: An Overview of Testing",
+    "link": "https://www.shuttle.rs/blog/2023/11/08/testing-in-rust"
+  },
+  {
+    "date": "2023-07-19",
+    "title": "ratatui - Rust",
+    "link": "https://docs.rs/ratatui"
+  },
+  {
+    "date": "2023-05-10",
+    "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
+    "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
+  },
+  {
+    "date": "2023-03-22",
+    "title": "The birth of a package manager | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
+  },
+  {
+    "date": "2023-01-04",
+    "title": "Parsing TFTP in Rust",
+    "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Building an authentication system in Rust using session tokens",
+    "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "BonsaiDb performance update: A deep-dive on file synchronization",
+    "link": "https://bonsaidb.io/blog/durable-writes/"
+  },
+  {
+    "date": "2022-05-18",
+    "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
+    "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "Automating Ember releases with Rust | Mainmatter",
+    "link": "https://simplabs.com/blog/2021/11/09/automating-ember-learning-releases-with-rust/"
+  },
+  {
+    "date": "2021-06-16",
+    "title": "Learning to Fly: Let's simulate evolution in Rust (pt 4) | pwy.io",
+    "link": "https://pwy.io/en/posts/learning-to-fly-pt4/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Fireworks for your terminal - Darrien's technical blog",
+    "link": "https://blog.darrien.dev/posts/fireworks-for-your-terminal/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Small strings in Rust",
+    "link": "https://fasterthanli.me/articles/small-strings-in-rust"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Drawing SVG Graphs with Rust",
+    "link": "https://cetra3.github.io/blog/drawing-svg-graphs-rust/"
+  },
+  {
+    "date": "2019-12-31",
+    "title": "Rust Lifetimes and Iterators | Tidbits and Stuff",
+    "link": "https://blog.katona.me/2019/12/29/Rust-Lifetimes-and-Iterators/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "How to RiiR · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/how-to-riir/index.html"
+  },
+  {
+    "date": "2017-02-28",
+    "title": "How we made TensorFlow run on a Raspberry Pi using Rust | by Thibaut Lorrain | Snips Blog | Medium",
+    "link": "https://medium.com/snips-ai/how-we-made-tensorflow-run-on-a-raspberry-pi-using-rust-7478f7a31329"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "24 days of Rust - conclusion | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-conclusion-2016/"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - tera | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-tera/"
+  },
+  {
+    "date": "2016-10-11",
+    "title": "Making Terminal Applications in Rust with Termion ·",
+    "link": "https://ticki.github.io/blog/making-terminal-applications-in-rust-with-termion/"
+  },
+  {
+    "date": "2016-04-04",
+    "title": "https://fnordig.de/2016/03/29/releasing-rust-projects-the-automatic-way/",
+    "link": "https://fnordig.de/2016/03/29/releasing-rust-projects-the-automatic-way/"
+  }
+]

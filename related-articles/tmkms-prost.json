@@ -1,13 +1,16 @@
 [
   {
+    "date": "2020-09-23",
     "title": "A Bazel Persistent Worker for Rust - Nikhil's blog",
     "link": "https://nikhilism.com/post/2020/bazel-persistent-worker-rust/"
   },
   {
+    "date": "2019-10-08",
     "title": "Tonic: gRPC has come to async/await!",
     "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
   },
   {
+    "date": "2018-04-10",
     "title": "Announcing Tower — A library for writing robust network services with Rust. | by Carl Lerche | Medium",
     "link": "https://medium.com/@carllerche/announcing-tower-a-library-for-writing-robust-network-services-with-rust-67273f052c40"
   }

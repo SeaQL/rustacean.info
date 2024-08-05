@@ -1,50 +1,72 @@
 [
   {
+    "date": "2024-03-13",
     "title": "Relm4 is back! Announcing version 0.7 and 0.8 | Relm4 blog",
     "link": "https://relm4.org/blog/posts/announcing_relm4_v0.7/"
   },
   {
+    "date": "2023-02-22",
     "title": "A long journey: Announcing Relm4 v0.5! | Relm4 blog",
     "link": "https://relm4.org/blog/posts/announcing_relm4_v0.5"
   },
   {
+    "date": "2023-02-15",
     "title": "New release – gtk-rs",
     "link": "https://gtk-rs.org/blog/2023/02/10/new-release.html"
   },
   {
+    "date": "2022-10-26",
     "title": "New release – gtk-rs",
     "link": "https://gtk-rs.org/blog/2022/10/18/new-release.html"
   },
   {
+    "date": "2022-10-26",
     "title": "Making Rust attractive for writing GTK applications",
     "link": "https://belmoussaoui.com/blog/15-making-rust-attractive-for-writing-gtk-applications/"
   },
   {
+    "date": "2022-09-07",
     "title": "One year of Relm4 | Relm4 blog",
     "link": "https://relm4.org/blog/posts/one_year_of_relm4/"
   },
   {
+    "date": "2022-07-27",
     "title": "Off to new adventures - Announcing Relm4 v0.5 beta! | Relm4 blog",
     "link": "https://relm4.org/blog/posts/announcing_relm4_v0.5_beta"
   },
   {
+    "date": "2022-01-19",
     "title": "New year, new release! – gtk-rs",
     "link": "https://gtk-rs.org/blog/2022/01/16/new-release.html"
   },
   {
+    "date": "2022-01-19",
     "title": "A new Relm 4 you: announcing Relm4 v0.4! | Eberhardt blog",
     "link": "https://aaronerhardt.github.io/blog/posts/announcing_relm4_v0.4/"
   },
   {
+    "date": "2021-12-08",
+    "title": "Speedrunning GUI development in Rust | Eberhardt blog",
+    "link": "https://aaronerhardt.github.io/blog/posts/gui_speedrun/"
+  },
+  {
+    "date": "2021-10-13",
     "title": "Announcing Relm4 v0.2 | Eberhardt blog",
     "link": "https://aaronerhardt.github.io/blog/posts/announcing_relm4_v0.2/"
   },
   {
+    "date": "2021-09-08",
     "title": "Announcing Relm4 v0.1 | Eberhardt blog",
     "link": "https://aaronerhardt.github.io/blog/posts/announcing_relm4/"
   },
   {
+    "date": "2021-08-18",
     "title": "Relm4 beta released 🎉 | Eberhardt blog",
     "link": "https://aaronerhardt.github.io/blog/posts/relm_beta/"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/020/"
   }
 ]

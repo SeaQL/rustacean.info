@@ -1,5 +1,6 @@
 [
   {
+    "date": "2020-05-27",
     "title": "Conway's Game of Life on the NES in Rust",
     "link": "https://gridbugs.org/conways-game-of-life-on-the-nes-in-rust/"
   }

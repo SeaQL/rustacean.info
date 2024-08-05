@@ -1,6 +1,12 @@
 [
   {
+    "date": "2016-08-09",
     "title": "Introduction to nom: a parsing framework written in Rust",
     "link": "http://hermanradtke.com/2016/08/08/introduction-to-nom-rust-parsing-combinator-framework.html"
+  },
+  {
+    "date": "2016-03-21",
+    "title": "Working with C unions in Rust FFI",
+    "link": "http://hermanradtke.com/2016/03/17/unions-rust-ffi.html"
   }
 ]

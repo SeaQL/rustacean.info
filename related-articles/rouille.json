@@ -1,29 +1,36 @@
 [
   {
+    "date": "2021-09-08",
     "title": "diziet | Wanted: Rust sync web framework",
     "link": "https://diziet.dreamwidth.org/9336.html"
   },
   {
+    "date": "2021-09-08",
     "title": "Alexis Lozano",
     "link": "https://alexis-lozano.com/hexagonal-architecture-in-rust-3/"
   },
   {
+    "date": "2021-03-31",
     "title": "Exploring the top Rust web frameworks - LogRocket Blog",
     "link": "https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/"
   },
   {
+    "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2018-12-04",
     "title": "Rust - Passenger Library",
     "link": "https://www.phusionpassenger.com/docs/advanced_guides/gls/rust.html"
   },
   {
+    "date": "2017-10-10",
     "title": "Wiki - AnOpinionatedGuideToRustWebServers",
     "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
   },
   {
+    "date": "2016-09-27",
     "title": "My adventures in Rust webdev. People who know me in the Rust… | by tomaka | Medium",
     "link": "https://medium.com/@tomaka/my-adventures-in-rust-webdev-850c67be6c40"
   }

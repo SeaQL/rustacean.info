@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-01-10",
     "title": "Verifying Rust Zeroize with Assembly...including portable SIMD - CipherStash",
     "link": "https://cipherstash.com/blog/verifying-rust-zeroize-with-assembly-including-portable-simd"
   },
   {
+    "date": "2023-11-08",
     "title": "Dump Rust Struct or Enum Memory Representation as Bytes",
     "link": "https://bennett.dev/rust/dump-struct-bytes/"
   },
   {
+    "date": "2021-02-24",
     "title": "Bennett's Journal",
     "link": "https://bennett.dev/"
   }

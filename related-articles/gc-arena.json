@@ -1,13 +1,21 @@
 [
   {
+    "date": "2024-02-07",
+    "title": "Garbage Collection Without Unsafe Code",
+    "link": "https://fitzgeraldnick.com/2024/02/06/safe-gc.html"
+  },
+  {
+    "date": "2021-10-27",
     "title": "Building an Emacs lisp VM in Rust • Core Dumped",
     "link": "https://coredumped.dev/2021/10/21/building-an-emacs-lisp-vm-in-rust/"
   },
   {
+    "date": "2021-07-28",
     "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
     "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
   },
   {
+    "date": "2021-04-07",
     "title": "A Tour of Safe Tracing GC Designs in Rust - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/"
   }

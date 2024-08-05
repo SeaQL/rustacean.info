@@ -1,29 +1,51 @@
 [
   {
+    "date": "2024-07-10",
     "title": "Properly Testing Concurrent Data Structures",
     "link": "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"
   },
   {
+    "date": "2024-04-10",
     "title": "A memory model for Rust code in the kernel [LWN.net]",
     "link": "https://lwn.net/SubscriberLink/967049/0ffb9b9ed8940013/"
   },
   {
+    "date": "2023-07-12",
+    "title": "bridging fuzzing and property testing",
+    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
+  },
+  {
+    "date": "2023-01-11",
+    "title": "Announcing turmoil | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2023-01-03-announcing-turmoil"
+  },
+  {
+    "date": "2023-01-11",
     "title": "Oh the Crates You'll Go! A 2022 Retrospective",
     "link": "https://jack.wrenn.fyi/blog/2022-retrospective/"
   },
   {
+    "date": "2022-01-19",
+    "title": "Using Rustlang's Async Tokio Runtime for CPU-Bound Tasks - The New Stack",
+    "link": "https://thenewstack.io/using-rustlangs-async-tokio-runtime-for-cpu-bound-tasks/"
+  },
+  {
+    "date": "2021-11-17",
     "title": "Tokio Ecosystem with Alice Ryhl :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/046-alice-ryhl/"
   },
   {
+    "date": "2021-06-09",
     "title": "From Julia to Rust",
     "link": "https://miguelraz.github.io/blog/juliatorust/"
   },
   {
+    "date": "2021-06-09",
     "title": "Automatic Rust verification tools (2021) – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/automatic-rust-verification-tools-2021/"
   },
   {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
   }

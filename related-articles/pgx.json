@@ -1,6 +1,12 @@
 [
   {
+    "date": "2022-06-01",
     "title": "This Week in Rust - Issue 443 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/twir-443/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "PostgreSQL Aggregates with Rust",
+    "link": "https://hoverbear.org/blog/postgresql-aggregates-with-rust/"
   }
 ]

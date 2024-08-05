@@ -1,0 +1,32 @@
+[
+  {
+    "date": "2024-02-21",
+    "title": "Translating OpenStreetMap data to HTML5 Canvas with Rust and WebAssembly | Programming | mary.codes",
+    "link": "https://mary.codes/blog/programming/translating_openstreetmaps_to_HTML5_canvas_rust_wasm/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "osmpbf — Rust parser // Lib.rs",
+    "link": "https://lib.rs/crates/osmpbf"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "Building a runtime reflection system for Rust 🦀️ (Part 3)",
+    "link": "https://www.osohq.com/post/runtime-reflection-pt-3"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "oso - Rust",
+    "link": "https://docs.rs/oso/0.7.1/oso/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "oso - Rust",
+    "link": "https://docs.rs/oso/0.7.0/oso/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "oso - Rust",
+    "link": "https://docs.rs/oso/0.6.0-alpha/oso/"
+  }
+]

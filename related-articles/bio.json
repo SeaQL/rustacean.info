@@ -1,5 +1,11 @@
 [
   {
+    "date": "2020-09-16",
+    "title": "Rust in Science and ever-changing requirements | Amanjeev Sethi",
+    "link": "https://amanjeev.com/blog/rust-in-science-and-ever-changing-requirements"
+  },
+  {
+    "date": "2016-07-26",
     "title": "that one thing that one time",
     "link": "http://blog.adamperry.me/rust/2016/07/24/profiling-rust-perf-flamegraph/"
   }

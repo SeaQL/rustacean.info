@@ -1,5 +1,6 @@
 [
   {
+    "date": "2016-02-29",
     "title": "Create GitHub releases with Rust using Hubcaps",
     "link": "https://fnordig.de/2016/02/23/create-releases-using-hubcaps-a-rust-library/"
   }

@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-05-05",
     "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
     "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
   },
   {
+    "date": "2019-12-10",
     "title": "The Slowest Quicksort",
     "link": "https://chasewilson.dev/blog/slowest-quicksort/"
   }

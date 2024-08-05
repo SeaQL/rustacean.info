@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-03-27",
     "title": "On Tech Debt: My Rust Library is now a CDO | Armin Ronacher's Thoughts and Writings",
     "link": "https://lucumr.pocoo.org/2024/3/26/rust-cdo/"
   },
   {
+    "date": "2015-06-15",
     "title": "Yaml-rust by chyh1990",
     "link": "http://chyh1990.github.io/yaml-rust/"
   }

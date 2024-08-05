@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-05-01",
     "title": "LogLog Games",
     "link": "https://loglog.games/blog/leaving-rust-gamedev/"
   },
   {
+    "date": "2023-09-20",
     "title": "Three years of Bevy",
     "link": "https://trent.kiwi/bevy-three-years"
   }

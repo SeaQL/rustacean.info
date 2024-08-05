@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-07-21",
     "title": "Release of v0.9 and the Future of wgpu - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/07/16/release-0.9-future.html"
   },
   {
+    "date": "2021-05-05",
     "title": "Release of v0.8 - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/04/30/release-0.8.html"
   }

@@ -1,5 +1,11 @@
 [
   {
+    "date": "2024-05-08",
+    "title": "Pair Your Compilers At The ABI Café - Faultlore",
+    "link": "https://faultlore.com/blah/abi-puns/"
+  },
+  {
+    "date": "2022-10-26",
     "title": "Zellij 0.32.0: YAML =&gt; KDL, Control Zellij through the CLI, Command Panes and a new Layout System",
     "link": "https://zellij.dev/news/config-command-layouts/"
   }

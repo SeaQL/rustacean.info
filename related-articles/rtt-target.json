@@ -1,6 +1,17 @@
 [
   {
+    "date": "2023-10-11",
     "title": "Acceptance Testing embedded-hal Drivers - Tommy's Blog",
     "link": "https://tommy-gilligan.github.io/driver-acceptance.html"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "34 Must Know Terms for Embedded Rust Newbies",
+    "link": "https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
   }
 ]

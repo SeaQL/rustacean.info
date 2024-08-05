@@ -1,17 +1,21 @@
 [
   {
+    "date": "2022-08-10",
     "title": "This Month in Rust OSDev: July 2022 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2022-07/"
   },
   {
+    "date": "2022-02-16",
     "title": "FOSDEM 2022 - Implementing the NTFS filesystem in Rust",
     "link": "https://fosdem.org/2022/schedule/event/misc_ntfs_rust/"
   },
   {
+    "date": "2022-02-09",
     "title": "This Month in Rust OSDev (January 2022) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2022-01/"
   },
   {
+    "date": "2022-01-19",
     "title": "An implementation of the NTFS filesystem in a Rust crate - ColinFinck.de",
     "link": "https://colinfinck.de/posts/an-implementation-of-the-ntfs-filesystem-in-a-rust-crate/"
   }

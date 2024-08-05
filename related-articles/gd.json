@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2022-01-19",
+    "title": "New year, new release! – gtk-rs",
+    "link": "https://gtk-rs.org/blog/2022/01/16/new-release.html"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "CrabbyBird #4 Generowanie świata gry – cześć II – Postać normalna",
+    "link": "https://postacnormalna.pl/crabbybird-4-generowanie-swiata-gry-czesc-ii/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "CrabbyBird #3 Generowanie świata gry – cześć I – Postać normalna",
+    "link": "https://postacnormalna.pl/crabbybird-3-generowanie-swiata-gry-czesc-i/"
+  },
+  {
+    "date": "2020-09-09",
+    "title": "CrabbyBird #2 Poruszanie kamerą – Postać normalna",
+    "link": "https://postacnormalna.pl/ruch-kamery/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "CrabbyBird #1 O tym, jak animować postać gracza – Postać normalna",
+    "link": "https://postacnormalna.pl/animacja-kraboptaka/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Porting Godot Games To Rust (Part 1) | Paytonrules Ramblings",
+    "link": "https://paytonrules.com/post/games-in-rust-with-godot-part-one/"
+  }
+]

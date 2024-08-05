@@ -1,17 +1,31 @@
 [
   {
+    "date": "2024-06-19",
     "title": "I ported h2spec to Rust (also: codegen!)",
     "link": "https://fasterthanli.me/videos/h2spec-to-rust"
   },
   {
+    "date": "2024-01-03",
     "title": "Rustdoc JSON in 2023  ❧ Alona Enraght-Moony",
     "link": "https://alona.page/posts/rustdoc-json-2023/"
   },
   {
+    "date": "2023-05-24",
+    "title": "Pavex, progress report #4: performance is a feature | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-04/"
+  },
+  {
+    "date": "2022-12-28",
     "title": "A taste of pavex, an upcoming Rust web framework | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/"
   },
   {
+    "date": "2022-06-15",
+    "title": "This Week in Rust - Issue 444 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/twir-444/"
+  },
+  {
+    "date": "2022-05-25",
     "title": "rustdoc_types - Rust",
     "link": "https://docs.rs/rustdoc-types"
   }

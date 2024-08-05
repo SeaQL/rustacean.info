@@ -1,9 +1,11 @@
 [
   {
+    "date": "2023-12-13",
     "title": "Writing a CLI Tool in Rust with Clap",
     "link": "https://www.shuttle.rs/blog/2023/12/08/clap-rust"
   },
   {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   }

@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-01-05",
     "title": "Porting Rust's std to rustix · sunfishcode's blog",
     "link": "https://blog.sunfishcode.online/port-std-to-rustix/"
   }

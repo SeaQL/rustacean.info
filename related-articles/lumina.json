@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2018-10-09",
+    "title": "strongly-typed-thoughts.net",
+    "link": "https://phaazon.net/blog/glsl-quasiquoting"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "strongly-typed-thoughts.net",
+    "link": "http://phaazon.net/blog/spectra_plugins"
+  },
+  {
+    "date": "2016-05-02",
+    "title": "Graphics and FPL: Porting a Haskell graphics framework to Rust (luminance)",
+    "link": "http://phaazon.blogspot.in/2016/04/porting-haskell-graphics-framework-to.html"
+  }
+]

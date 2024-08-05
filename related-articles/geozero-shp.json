@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-09-20",
     "title": "Enhancing ClickHouse's Geospatial Support",
     "link": "https://tech.marksblogg.com/clickhouse-gis-rust.html"
   }

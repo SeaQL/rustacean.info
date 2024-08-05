@@ -1,29 +1,36 @@
 [
   {
+    "date": "2022-02-16",
     "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/030/"
   },
   {
+    "date": "2022-01-12",
     "title": "Bevy 0.6",
     "link": "https://bevyengine.org/news/bevy-0-6/"
   },
   {
+    "date": "2021-08-10",
     "title": "Bevy's First Birthday",
     "link": "https://bevyengine.org/news/bevys-first-birthday/"
   },
   {
+    "date": "2021-07-14",
     "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/023/"
   },
   {
+    "date": "2021-06-16",
     "title": "This Month in Rust GameDev #22 - May 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/022/"
   },
   {
+    "date": "2021-05-12",
     "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/021/"
   },
   {
+    "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"
   }

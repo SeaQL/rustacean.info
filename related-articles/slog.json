@@ -1,21 +1,51 @@
 [
   {
+    "date": "2024-01-31",
     "title": "Introducing Foundations - our open source Rust service foundation library",
     "link": "https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library"
   },
   {
+    "date": "2022-09-28",
+    "title": "Better Java logging, inspired by Clojure and Rust",
+    "link": "https://mccue.dev/pages/9-25-22-better-java-logging"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "What are Rust's HTTP extensions?",
+    "link": "https://blog.adamchalmers.com/what-are-extensions/"
+  },
+  {
+    "date": "2022-02-16",
     "title": "Rotating log files in Rust, and reassembling them for inspection",
     "link": "https://www.openanalytics.eu/blog/2022/02/15/log-files-in-rust/"
   },
   {
+    "date": "2020-11-11",
+    "title": "Rust as a productive high-level language | Omar Abid - Personal Blog",
+    "link": "https://omarabid.com/rust-high-level-language"
+  },
+  {
+    "date": "2019-08-12",
     "title": "Runtime Configuration Reloading | Vorner’s random stuff",
     "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
   },
   {
+    "date": "2019-04-09",
     "title": "A Basic Web Application with Rust and Actix-web - zupzup",
     "link": "https://zupzup.org/rust-webapp/"
   },
   {
+    "date": "2019-01-29",
+    "title": "Enjoy a slice of QUIC, and Rust!",
+    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
+  },
+  {
+    "date": "2017-04-04",
+    "title": "Writing GStreamer Elements in Rust (Part 4): Logging, COWs and Plugins – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2017/03/writing-gstreamer-elements-in-rust-part-4-logging-cows-and-plugins/"
+  },
+  {
+    "date": "2016-12-06",
     "title": "24 days of Rust - structured logging | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-structured-logging/"
   }

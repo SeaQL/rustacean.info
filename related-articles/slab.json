@@ -1,13 +1,36 @@
 [
   {
+    "date": "2024-03-06",
+    "title": "Designing an Async Runtime for WASI 0.2",
+    "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"
+  },
+  {
+    "date": "2023-12-20",
     "title": "The rabbit hole of unsafe Rust bugs – notgull – The world's number one source of notgull",
     "link": "https://notgull.net/cautionary-unsafe-tale/"
   },
   {
+    "date": "2023-10-25",
+    "title": "Object Soup is Made of Indexes",
+    "link": "https://jacko.io/object_soup.html"
+  },
+  {
+    "date": "2023-08-09",
+    "title": "nesting allocators",
+    "link": "https://blog.yoshuawuyts.com/nesting-allocators/"
+  },
+  {
+    "date": "2023-05-10",
     "title": "Episode 1: Hello, World! - The Way of the Crab",
     "link": "https://wayofthecrab.com/episodes/001/"
   },
   {
+    "date": "2020-08-18",
+    "title": "Fanout | Blog » Rewriting Pushpin's connection manager in Rust",
+    "link": "https://blog.fanout.io/2020/08/11/rewriting-pushpins-connection-manager-in-rust/"
+  },
+  {
+    "date": "2015-07-27",
     "title": "Creating A Multi-echo Server using Rust and mio",
     "link": "http://hermanradtke.com/2015/07/22/creating-a-multi-echo-server-using-rust-and-mio.html"
   }

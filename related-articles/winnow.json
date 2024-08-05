@@ -1,5 +1,16 @@
 [
   {
+    "date": "2024-05-29",
+    "title": "Report on variadic generics discussion at RustNL. · PoignardAzur",
+    "link": "https://poignardazur.github.io/2024/05/25/report-on-rustnl-variadics/"
+  },
+  {
+    "date": "2023-10-11",
+    "title": "Rustconf 2023 recap",
+    "link": "https://blog.adamchalmers.com/rustconf-2023-recap/"
+  },
+  {
+    "date": "2023-02-22",
     "title": "winnow = toml_edit + combine + nom",
     "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"
   }

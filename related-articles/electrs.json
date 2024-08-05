@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-07-07",
     "title": "RiB Newsletter #13 – Stuck inside, hacking away - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-07-01-stuck-inside-hacking-away/"
   },
   {
+    "date": "2020-06-10",
     "title": "RiB Newsletter #12 – ZK-Rustups - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-06-03-zk-rustups/"
   }

@@ -1,30 +1,297 @@
 [
   {
+    "date": "2024-07-03",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust#service-the-heart-of-hexagonal-architecture"
+  },
+  {
+    "date": "2024-06-26",
+    "title": "The Definitive Guide to Rust Error Handling",
+    "link": "https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust#separation-of-concerns-rust-style"
+  },
+  {
+    "date": "2024-06-12",
+    "title": "Master hexagonal architecture in Rust",
+    "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust"
+  },
+  {
+    "date": "2024-06-05",
+    "title": "Let's build a Load Balancer in Rust - Part 3 | Marco Bacis",
+    "link": "https://marcobacis.com/blog/load-balancer-rust-3/"
+  },
+  {
+    "date": "2024-05-22",
+    "title": "Let's build a Load Balancer in Rust - Part 2 | Marco Bacis",
+    "link": "https://marcobacis.com/blog/load-balancer-rust-2/"
+  },
+  {
+    "date": "2024-05-15",
+    "title": "Let's build a Load Balancer in Rust - Part 1 | Marco Bacis",
+    "link": "https://marcobacis.com/blog/load-balancer-rust-1/"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "Sentry with Arpad Borsos - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s01e06-sentry/"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Rust web frameworks have subpar error reporting | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/rust-web-frameworks-have-subpar-error-reporting/"
+  },
+  {
+    "date": "2024-01-10",
+    "title": "Let's Make an Information Display Part 1: Backend",
+    "link": "https://blog.stillinbeta.com/2024-01-01-overengineered-household-display.html"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "avatar.png",
+    "link": "https://tuckersiemens.com/posts/avatar-png/"
+  },
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "Getting Started with Actix Web in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/12/15/using-actix-rust"
+  },
+  {
+    "date": "2023-10-04",
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Pavex DevLog #6: designing safe and ergonomic middlewares | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-06/"
+  },
+  {
+    "date": "2023-08-30",
     "title": "Best Rust Web Frameworks to Use in 2023",
     "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
   },
   {
+    "date": "2023-08-16",
     "title": "The Case for Rust on the Web | Mainmatter",
     "link": "https://mainmatter.com/blog/2023/08/14/the-case-for-rust-on-the-web/"
   },
   {
+    "date": "2023-07-05",
+    "title": "Introduction - Rust Full Stack Workshop",
+    "link": "https://bcnrust.github.io/devbcn-workshop/"
+  },
+  {
+    "date": "2023-06-21",
     "title": "Fossil Data Platform Rewritten in Rust 🦀",
     "link": "https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html"
   },
   {
+    "date": "2023-06-14",
     "title": "Observe your Rust application with Quickwit, Jaeger and Grafana | Quickwit",
     "link": "https://quickwit.io/blog/observing-rust-app-with-quickwit-jaeger-grafana"
   },
   {
+    "date": "2023-05-17",
     "title": "Taking Rust to the Cloud: Blazingly Fast File Sharing - Orhun's Blog",
     "link": "https://blog.orhun.dev/blazingly-fast-file-sharing/"
   },
   {
+    "date": "2023-05-03",
+    "title": "Efficient indexing with Quickwit Rust actor framework | Quickwit",
+    "link": "https://quickwit.io/blog/quickwit-actor-framework"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Zero To Production in Rust book review",
+    "link": "https://rusty-ferris.pages.dev/blog/zero-to-production-book-review/"
+  },
+  {
+    "date": "2023-01-04",
     "title": "From PHP to Rust: Migrating a REST API between these two languages. (Part I)",
     "link": "https://blog.equationlabs.io/from-php-to-rust-migrating-a-rest-api-between-these-two-languages-part-i"
   },
   {
+    "date": "2022-12-28",
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "Composing an observable Rust application - LogRocket Blog",
+    "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "OpenTelemetry Distributed Tracing in Rust | Aspecto",
+    "link": "https://www.aspecto.io/blog/distributed-tracing-with-opentelemetry-rust/"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
+  },
+  {
+    "date": "2022-05-04",
+    "title": "Building a WebAssembly-powered serverless platform",
+    "link": "https://blog.scottlogic.com/2022/04/16/wasm-faas.html"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "Rust on Nails | Cloak",
+    "link": "https://cloak.software/blog/rust-on-nails/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Lishwist (beta) | Polaris64's blog",
+    "link": "https://blog.polaris64.net/post/lishwist-beta/"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "Implementing the Health Check API Pattern with Rust | by TJ Maynes | ITNEXT",
+    "link": "https://itnext.io/implementing-the-health-check-api-pattern-with-rust-eaef04cb4d2d"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "ROAPI: An API Server for Static Datasets",
+    "link": "https://tech.marksblogg.com/roapi-rust-data-api.html"
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Rocket: A Web Framework for Rust",
+    "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "GSoC 2021, GA4GH and htsget-rs | UMCCR Genomics Platform Group",
+    "link": "https://umccr.org/blog/htsget-rs/"
+  },
+  {
+    "date": "2021-06-23",
+    "title": "Making My Website Part 1: Monitoring On A Raspberry Pi",
+    "link": "https://www.rotoclone.zone/blog/posts/raspberry-pi-monitoring"
+  },
+  {
+    "date": "2021-06-23",
+    "title": "Getting started with MongoDB and Redis in Rust · Roman Kudryashov's tech blog",
+    "link": "https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Exploring the top Rust web frameworks - LogRocket Blog",
+    "link": "https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Compile Rust for Raspberry Pi ARM | by Tiziano Santoro | The Startup | Medium",
+    "link": "https://medium.com/swlh/compiling-rust-for-raspberry-pi-arm-922b55dbb050"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "A recipe for start using Rust actix-web and launch chrome 🚀 | by Liron Hazan | ITNEXT",
+    "link": "https://itnext.io/a-recipe-for-starting-actix-web-server-and-launch-chrome-b792987935a"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "What I Learnt from Benchmarking Http4k, Ktor (Kotlin) and Actix v2, v3 (Rust) Microservices – Matěj Laitl a.k.a. strohel – Technical Blog",
+    "link": "https://matej.laitl.cz/bench-rust-kotlin-microservices/"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "Rust for Java developers",
+    "link": "https://blog.codecentric.de/en/2020/09/rust-for-java-developers/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Video recording technology at RustFest - Estada.ch",
+    "link": "https://estada.ch/2020/7/30/video-recording-technology-at-rustfest/"
+  },
+  {
+    "date": "2020-07-07",
     "title": "Choosing a Rust web framework, 2020 edition | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Implementing WebSockets in Rust - Subhojit Paul",
+    "link": "http://subhojit777.in/implementing-websockets-in-rust/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "BlogWerx: The Rust compiler isn't slow; we are.",
+    "link": "https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Integrating Qt events into Actix and Rust",
+    "link": "https://www.rubdos.be/corona/qt/rust/tokio/actix/2020/05/23/actix-qt.html"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Create a blazingly fast REST API in Rust (Part 1/2) | Qovery",
+    "link": "https://docs.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/"
+  },
+  {
+    "date": "2020-03-10",
+    "title": "ExpressJS vs Actix-Web. It is exactly what you think | by Maxim Vorobjov | Medium",
+    "link": "https://medium.com/@maxsparr0w/performance-of-node-js-compared-to-actix-web-37f20810fb1a"
+  },
+  {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "date": "2019-04-09",
+    "title": "A Basic Web Application with Rust and Actix-web - zupzup",
+    "link": "https://zupzup.org/rust-webapp/"
+  },
+  {
+    "date": "2019-03-12",
+    "title": "Intro to Web Development with Rust for NodeJS Developers | by Bastian Gruber | Level Up Coding",
+    "link": "https://medium.com/@gruberbastian/intro-to-web-programming-in-rust-for-nodejs-developers-1a9c048c4de1"
+  },
+  {
+    "date": "2018-08-07",
+    "title": "Rust and the Case of the Redundant Comparison",
+    "link": "https://blog.dend.ro/rust-and-the-case-of-the-redundant-comparison/"
+  },
+  {
+    "date": "2018-07-10",
+    "title": "A web application completely in Rust | by Sascha Grunert | Medium",
+    "link": "https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471"
+  },
+  {
+    "date": "2018-06-12",
+    "title": "Actix::From(Rocket)",
+    "link": "https://noyez.gitlab.io/post/2018-06-11-rocket-to-actix/"
+  },
+  {
+    "date": "2018-06-05",
+    "title": "Writing a Simple Web Service in Rust | Danblog",
+    "link": "https://danielwelch.github.io/rust-web-service.html"
+  },
+  {
+    "date": "2018-05-22",
+    "title": "Migrating to Actix Web from Rocket for Stability",
+    "link": "https://nbsoftsolutions.com/blog/migrating-to-actix-web-from-rocket-for-stability"
   }
 ]

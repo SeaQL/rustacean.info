@@ -1,13 +1,16 @@
 [
   {
+    "date": "2023-02-22",
     "title": "winnow = toml_edit + combine + nom",
     "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"
   },
   {
+    "date": "2020-04-21",
     "title": "Building a Rust Web Browser",
     "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
   },
   {
+    "date": "2019-04-23",
     "title": "Learning Parser Combinators With Rust : Bodil dot lol",
     "link": "https://bodil.lol/parser-combinators/"
   }

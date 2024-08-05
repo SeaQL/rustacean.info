@@ -1,6 +1,22 @@
 [
   {
+    "date": "2021-10-20",
+    "title": "ROAPI: An API Server for Static Datasets",
+    "link": "https://tech.marksblogg.com/roapi-rust-data-api.html"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "Increasing the level of parallelism in DataFusion 4.0 | by Daniël Heres | Medium",
+    "link": "https://medium.com/@danilheres/increasing-the-level-of-parallelism-in-datafusion-4-0-d2a15b5a2093"
+  },
+  {
+    "date": "2021-03-24",
     "title": "Introduction to Apache Arrow with Rust | by Andrew Leverette | Level Up Coding",
     "link": "https://bit.ly/apache-arrow-with-rust"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Apache Arrow 2.0.0 Rust Highlights | Apache Arrow",
+    "link": "https://arrow.apache.org/blog/2020/10/27/rust-2.0.0-release/"
   }
 ]

@@ -1,29 +1,46 @@
 [
   {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
+    "date": "2023-11-29",
     "title": "How I Use Declarative Macros in Rust | Flinect",
     "link": "https://flinect.com/blog/quick-tips-rust-declarative-macros"
   },
   {
+    "date": "2023-07-19",
     "title": "Tony's Blog",
     "link": "https://antoniosbarotsis.github.io/posts/simple_rust_macros/"
   },
   {
+    "date": "2021-09-08",
+    "title": "Fast Rust Builds",
+    "link": "https://matklad.github.io/2021/09/04/fast-rust-builds.html"
+  },
+  {
+    "date": "2021-07-28",
     "title": "diceroller, a sample Rust project",
     "link": "https://blog.frankel.ch/start-rust/8/"
   },
   {
+    "date": "2021-04-21",
     "title": "The GPIO war: macro bunkers for typestate explosions (2) - cuervo",
     "link": "https://www.ecorax.net/macro-bunker-2/"
   },
   {
+    "date": "2021-03-24",
     "title": "The GPIO war: macro bunkers for typestate explosions - cuervo",
     "link": "https://www.ecorax.net/macro-bunker-1/"
   },
   {
+    "date": "2020-10-14",
     "title": "Rust after the honeymoon – The Observation Deck",
     "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"
   },
   {
+    "date": "2018-11-27",
     "title": "Serverless HTTP. Throw down your main! Rustlang… | by Doug Tangren | Medium",
     "link": "https://medium.com/@softprops/serverless-http-9a58f9b2df60"
   }

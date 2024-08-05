@@ -1,41 +1,76 @@
 [
   {
+    "date": "2018-05-15",
+    "title": "These Weeks in Dev-Tools, issue 4",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-4/"
+  },
+  {
+    "date": "2018-02-06",
+    "title": "These Weeks in Dev-Tools, issue 3",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-3/"
+  },
+  {
+    "date": "2018-01-09",
     "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
     "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
   },
   {
+    "date": "2017-09-26",
+    "title": "These Weeks in Dev-Tools, issue 2",
+    "link": "https://www.ncameron.org/blog/these-weeks-in-dev-tools-issue-2/"
+  },
+  {
+    "date": "2017-08-15",
     "title": "What the RLS can do",
     "link": "https://www.ncameron.org/blog/what-the-rls-can-do/"
   },
   {
+    "date": "2017-06-27",
     "title": "Rusoto codegen · Matthew Mayer's tech blog",
     "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-codegen/"
   },
   {
+    "date": "2017-06-06",
+    "title": "Rustfmt changes",
+    "link": "http://www.ncameron.org/blog/rustfmt-changes/"
+  },
+  {
+    "date": "2017-03-07",
     "title": "Setting up a Rust Development Environment",
     "link": "http://asquera.de/blog/2017-03-03/setting-up-a-rust-devenv/"
   },
   {
+    "date": "2017-01-31",
+    "title": "Mitigating Underhandedness: Clippy! - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/01/21/mitigating-underhandedness-clippy/"
+  },
+  {
+    "date": "2016-12-06",
     "title": "24 days of Rust - cargo subcommands | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-cargo-subcommands/"
   },
   {
+    "date": "2016-08-30",
     "title": "Running rustfmt on Travis CI",
     "link": "http://johannh.me/blog/rustfmt-ci.html"
   },
   {
+    "date": "2016-06-06",
     "title": "Things you could do with the Rust AST",
     "link": "http://kamalmarhubi.com/blog/2016/06/02/playing-with-the-rust-ast/"
   },
   {
+    "date": "2016-05-30",
     "title": "The Path to Rust :: Jon Gjengset",
     "link": "https://thesquareplanet.com/blog/the-path-to-rust/"
   },
   {
+    "date": "2016-05-16",
     "title": "articles - fancy rust development with emacs",
     "link": "http://julienblanchard.com/2016/fancy-rust-development-with-emacs/"
   },
   {
+    "date": "2015-08-17",
     "title": "Are we (I)DE yet?",
     "link": "http://areweideyet.com/"
   }

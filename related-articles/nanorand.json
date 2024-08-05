@@ -1,6 +1,12 @@
 [
   {
+    "date": "2024-06-05",
     "title": "Forming Clouds | Isaac Daoust",
     "link": "https://isaacdaou.st/blog/forming-clouds/"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "Rust has a small standard library (and that's ok) • Krishna's blog",
+    "link": "https://blog.nindalf.com/posts/rust-stdlib/"
   }
 ]

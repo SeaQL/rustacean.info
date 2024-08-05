@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2024-04-17",
+    "title": "Announcing async-openai-wasm, and thoughts on wasmization and streams | Ideas Reifying",
+    "link": "https://ideas.reify.ing/en/blog/announcing-async-openai-wasm/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "Rust Error Handling",
+    "link": "https://www.unwoundstack.com/blog/rust-error-handling.html"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "How to Deal with Out-of-memory Conditions in Rust | CrowdStrike",
+    "link": "https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/"
+  },
+  {
+    "date": "2021-07-14",
+    "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/023/"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Procedural Macros: The Basics | blog.turbo.fish",
+    "link": "https://blog.turbo.fish/proc-macro-basics/"
+  },
+  {
+    "date": "2020-07-14",
+    "title": "Getting in and out of trouble with Rust futures",
+    "link": "https://fasterthanli.me/articles/getting-in-and-out-of-trouble-with-rust-futures"
+  },
+  {
+    "date": "2018-11-20",
+    "title": "How to monitor hanging threads in Rust | Programming Servo",
+    "link": "https://medium.com/programming-servo/programming-servo-a-background-hang-monitor-73e89185ce1"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "Counter: an interactive widget - Kas Tutorials",
+    "link": "https://kas-gui.github.io/tutorials/counter.html"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "Calculator: make_widget and grid - Kas Tutorials",
+    "link": "https://kas-gui.github.io/tutorials/calculator.html"
+  },
+  {
+    "date": "2021-04-07",
+    "title": "Hello: push button - Kas Tutorials",
+    "link": "https://kas-gui.github.io/tutorials/hello.html"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Colin Woodbury - Software Development Languages: Rust",
+    "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
+  }
+]

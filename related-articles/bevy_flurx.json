@@ -1,9 +1,16 @@
 [
   {
+    "date": "2024-05-29",
     "title": "Cyberpunk UI, Minecraft simulation, and volumetric destruction",
     "link": "https://thisweekinbevy.com/issue/2024-05-27-cyberpunk-ui-minecraft-simulation-and-volumetric-destruction"
   },
   {
+    "date": "2024-05-01",
+    "title": "Motion Blur, Visualizations, and beautiful renders",
+    "link": "https://thisweekinbevy.com/issue/2024-04-29-motion-blur-visualizations-and-beautiful-renders"
+  },
+  {
+    "date": "2024-04-17",
     "title": "New Meshes, New Examples, and Compute Shaders",
     "link": "https://thisweekinbevy.com/issue/2024-04-15-new-meshes-new-examples-and-compute-shaders"
   }

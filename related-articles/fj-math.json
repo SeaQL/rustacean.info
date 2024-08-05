@@ -1,221 +1,281 @@
 [
   {
+    "date": "2024-04-10",
     "title": "Bevy 0.13.2, Curves, Gizmos, and Games",
     "link": "https://thisweekinbevy.com/issue/2024-04-08-bevy-0-13-2-curves-gizmos-and-games"
   },
   {
+    "date": "2024-04-03",
+    "title": "Rust Bytes: Is Rust the Future of JavaScript Tooling?",
+    "link": "https://weeklyrust.substack.com/p/rust-bytes-is-rust-the-future-of"
+  },
+  {
+    "date": "2024-03-27",
     "title": "Fornjot - Fornjot 0.49.0",
     "link": "https://www.fornjot.app/blog/release/0.49.0/"
   },
   {
+    "date": "2023-12-20",
     "title": "Fornjot - Fornjot 0.48.0",
     "link": "https://www.fornjot.app/blog/release/0.48.0/"
   },
   {
+    "date": "2023-05-03",
     "title": "Fornjot - Weekly Release - Inching Along",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w18/"
   },
   {
+    "date": "2023-04-26",
     "title": "Fornjot - Weekly Release - Where We've Been, Where We're Going",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w17/"
   },
   {
+    "date": "2023-03-29",
     "title": "Fornjot - Weekly Release - Some Good Progress",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w13/"
   },
   {
+    "date": "2023-03-22",
     "title": "Fornjot - Weekly Release - Finished!",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w12/"
   },
   {
+    "date": "2023-03-15",
     "title": "Fornjot - Weekly Release - Thoroughly Mediocre",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w11/"
   },
   {
+    "date": "2023-03-08",
     "title": "Fornjot - Weekly Release - Progressed Extremely Well",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w10/"
   },
   {
+    "date": "2023-03-01",
     "title": "Fornjot - Weekly Release - Still More To Do",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w09/"
   },
   {
+    "date": "2023-02-22",
     "title": "Fornjot - Weekly Release - Accidental Side-Effect",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w08/"
   },
   {
+    "date": "2023-02-15",
     "title": "Fornjot - Weekly Release - Really Shouldn't Be That Hard",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w07/"
   },
   {
+    "date": "2023-02-08",
     "title": "Fornjot - Weekly Release - Ostensibly Quiet",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w06/"
   },
   {
+    "date": "2023-02-01",
     "title": "Fornjot - Weekly Release - The Usual Rabbit Hole",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w05/"
   },
   {
+    "date": "2023-01-25",
     "title": "Fornjot - Weekly Release - Keep Things Moving",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w04/"
   },
   {
+    "date": "2023-01-18",
     "title": "Fornjot - Weekly Release - Slow Progress",
     "link": "https://www.fornjot.app/blog/weekly-release/2023-w03/"
   },
   {
+    "date": "2022-12-21",
     "title": "Fornjot - Weekly Release - Consolidation",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w51/"
   },
   {
+    "date": "2022-12-14",
     "title": "Fornjot - Weekly Release - Breakthrough",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w50/"
   },
   {
+    "date": "2022-12-07",
     "title": "Fornjot - Weekly Release - New Idea",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w49/"
   },
   {
+    "date": "2022-11-30",
     "title": "Fornjot - Weekly Release - Experimentation",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w48/"
   },
   {
+    "date": "2022-11-23",
     "title": "Fornjot - Weekly Release - Inspiration",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w47/"
   },
   {
+    "date": "2022-11-16",
     "title": "Fornjot - Progress Report - 2022-11",
     "link": "https://www.fornjot.app/blog/progress-report-2022-11/"
   },
   {
+    "date": "2022-10-12",
     "title": "Fornjot - Weekly Release - 2022-W41",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w41/"
   },
   {
+    "date": "2022-09-28",
     "title": "Fornjot - Weekly Release - 2022-W39",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w39/"
   },
   {
+    "date": "2022-09-14",
     "title": "Fornjot - Weekly Release - 2022-W37",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w37/"
   },
   {
+    "date": "2022-09-07",
     "title": "Fornjot - Weekly Release - 2022-W36",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w36/"
   },
   {
+    "date": "2022-08-31",
     "title": "Fornjot - Weekly Release - 2022-W35",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w35/"
   },
   {
+    "date": "2022-08-24",
     "title": "Fornjot - Weekly Release - 2022-W34",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w34/"
   },
   {
+    "date": "2022-08-10",
     "title": "Fornjot - Weekly Release - 2022-W32",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w32/"
   },
   {
+    "date": "2022-08-03",
     "title": "Fornjot - Weekly Release - 2022-W31",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w31/"
   },
   {
+    "date": "2022-07-27",
     "title": "Fornjot - Weekly Release - 2022-W30",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w30/"
   },
   {
+    "date": "2022-07-20",
     "title": "Fornjot - Weekly Release - 2022-W29",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w29/"
   },
   {
+    "date": "2022-07-13",
     "title": "Fornjot - Fornjot 0.7",
     "link": "https://www.fornjot.app/blog/fornjot-0.7/"
   },
   {
+    "date": "2022-07-06",
     "title": "Fornjot - Weekly Dev Log - 2022-W26",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w26/"
   },
   {
+    "date": "2022-06-29",
     "title": "Fornjot - Weekly Dev Log - 2022-W25",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w25/"
   },
   {
+    "date": "2022-06-22",
     "title": "Fornjot - Weekly Dev Log - 2022-W24",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w24/"
   },
   {
+    "date": "2022-06-15",
     "title": "Fornjot - Weekly Dev Log - 2022-W23",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w23/"
   },
   {
+    "date": "2022-06-08",
     "title": "Fornjot - Weekly Dev Log - 2022-W22",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w22/"
   },
   {
+    "date": "2022-06-01",
     "title": "Fornjot - Weekly Dev Log - 2022-W21",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w21/"
   },
   {
+    "date": "2022-05-25",
     "title": "Fornjot - Weekly Dev Log - 2022-W20",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w20/"
   },
   {
+    "date": "2022-05-18",
     "title": "Fornjot - Weekly Dev Log - 2022-W19",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w19/"
   },
   {
+    "date": "2022-05-11",
     "title": "Fornjot - Fornjot 0.6",
     "link": "https://www.fornjot.app/blog/fornjot-0.6/"
   },
   {
+    "date": "2022-05-04",
     "title": "Fornjot - Weekly Dev Log - 2022-W16/W17 (Post-Vacation Edition)",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w16-17/"
   },
   {
+    "date": "2022-04-20",
     "title": "Fornjot - Weekly Dev Log - 2022-W15 (Pre-Vacation Edition)",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w15/"
   },
   {
+    "date": "2022-04-13",
     "title": "Fornjot - Weekly Dev Log - 2022-W14",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w14/"
   },
   {
+    "date": "2022-04-06",
     "title": "Fornjot - Weekly Dev Log - 2022-W13",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w13/"
   },
   {
+    "date": "2022-03-30",
     "title": "Fornjot - Weekly Dev Log - 2022-W12",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w12/"
   },
   {
+    "date": "2022-03-23",
     "title": "Fornjot - Weekly Dev Log - 2022-W11",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w11/"
   },
   {
+    "date": "2022-03-16",
     "title": "Fornjot - Weekly Dev Log - 2022-W10",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w10/"
   },
   {
+    "date": "2022-03-09",
     "title": "Fornjot - Weekly Dev Log - 2022-W09",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w09/"
   },
   {
+    "date": "2022-03-02",
     "title": "Fornjot - Weekly Dev Log - 2022-W08",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w08/"
   },
   {
+    "date": "2022-02-23",
     "title": "Fornjot - Weekly Dev Log - 2022-W07",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w07/"
   },
   {
+    "date": "2022-02-16",
     "title": "Fornjot - Weekly Dev Log - 2022-W06",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w06/"
   },
   {
+    "date": "2022-02-09",
     "title": "Fornjot - Weekly Dev Log - 2022-W05",
     "link": "https://www.fornjot.app/blog/weekly-dev-log/2022-w05/"
   },
   {
+    "date": "2022-02-02",
     "title": "Fornjot - Fornjot 0.5.0",
     "link": "https://www.fornjot.app/blog/fornjot-0-5-0/"
   }

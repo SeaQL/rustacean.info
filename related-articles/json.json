@@ -1,6 +1,17 @@
 [
   {
+    "date": "2023-02-01",
+    "title": "Synchronizing state with Websockets and JSON Patch",
+    "link": "https://cetra3.github.io/blog/synchronising-with-websocket/"
+  },
+  {
+    "date": "2023-01-25",
     "title": "Surprises in the Rust JSON Ecosystem",
     "link": "https://ecton.dev/rust-json-ecosystem/"
+  },
+  {
+    "date": "2019-12-17",
+    "title": "The Common Rust Traits - Rustifications",
+    "link": "https://stevedonovan.github.io/rustifications/2018/09/08/common-rust-traits.html"
   }
 ]

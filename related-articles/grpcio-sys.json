@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-07-21",
     "title": "Benchmarking gRPC in Rust &amp; Go. Some background | by Rustler | Medium",
     "link": "https://medium.com/@Rustling_gopher/benchmarking-grpc-in-rust-go-184545e7688a"
   },
   {
+    "date": "2020-06-23",
     "title": "Rust at CNCF | CNCF",
     "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
   }

@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2023-12-27",
+    "title": "Can CppRef&lt;T&gt; be ergonomic?. In a previous post, I said that we… | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/can-cppref-t-be-ergonomic-c9cb1365bda1"
+  },
+  {
+    "date": "2023-08-02",
+    "title": "Distributing Lamport’s bakery with Automerge, and a touch of TLA+ | Medium",
+    "link": "https://medium.com/@polyglot_factotum/distributing-lamports-bakery-with-automerge-and-a-touch-of-tla-679b2705b7cc"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Are we reference yet? C++ references in Rust | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/are-we-reference-yet-c-references-in-rust-72c1c6c7015a"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "More Enum Types",
+    "link": "https://blog.yoshuawuyts.com/more-enum-types/"
+  },
+  {
+    "date": "2019-11-26",
+    "title": "Error Handling Survey",
+    "link": "https://blog.yoshuawuyts.com/error-handling-survey/"
+  }
+]

@@ -1,9 +1,11 @@
 [
   {
+    "date": "2019-01-08",
     "title": "Reflecting on Rust and WebAssembly in 2018 | Rust and WebAssembly",
     "link": "https://rustwasm.github.io/2018/12/06/reflecting-on-rust-and-wasm-in-2018.html"
   },
   {
+    "date": "2018-06-26",
     "title": "Our Vision for Rust and WebAssembly | Rust and WebAssembly",
     "link": "https://rustwasm.github.io/2018/06/25/vision-for-rust-and-wasm.html"
   }

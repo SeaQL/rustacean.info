@@ -1,30 +1,67 @@
 [
   {
+    "date": "2023-01-25",
+    "title": "14 Rust Tools for Linux Terminal Dwellers",
+    "link": "https://itsfoss.com/rust-cli-tools/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Things I hate about Rust, redux",
+    "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"
+  },
+  {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   },
   {
+    "date": "2021-06-09",
     "title": "From Julia to Rust",
     "link": "https://miguelraz.github.io/blog/juliatorust/"
   },
   {
+    "date": "2021-05-05",
     "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
   },
   {
+    "date": "2021-04-21",
     "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
   },
   {
+    "date": "2020-11-4-",
     "title": "One Hundred Rust Binaries - Wesley Moore",
     "link": "https://www.wezm.net/v2/posts/2020/100-rust-binaries/"
   },
   {
+    "date": "2020-11-11",
     "title": "gpg",
     "link": "https://andrewhalle.github.io/build-your-own/gpg"
   },
   {
+    "date": "2020-06-23",
+    "title": "GitHub Action for binary crates installation · svartalf",
+    "link": "https://svartalf.info/posts/2020-04-10-github-action-for-binary-crates-installation/"
+  },
+  {
+    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "date": "2019-07-23",
+    "title": "Announcing heim project · svartalf",
+    "link": "https://svartalf.info/posts/2019-07-17-announcing-heim-project/"
+  },
+  {
+    "date": "2019-06-04",
+    "title": "Poking the macOS IO Kit with Rust · svartalf",
+    "link": "https://svartalf.info/posts/2019-05-31-poking-the-macos-io-kit-with-rust/"
+  },
+  {
+    "date": "2019-03-05",
+    "title": "Exposing FFI from the Rust library · svartalf",
+    "link": "https://svartalf.info/posts/2019-03-01-exposing-ffi-from-the-rust-library/"
   }
 ]

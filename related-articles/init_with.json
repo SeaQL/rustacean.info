@@ -1,5 +1,6 @@
 [
   {
+    "date": "2018-12-25",
     "title": "Methods for Array Initialization in Rust",
     "link": "https://www.joshmcguigan.com/blog/array-initialization-rust/"
   }

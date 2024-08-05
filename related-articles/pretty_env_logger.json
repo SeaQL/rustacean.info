@@ -1,9 +1,16 @@
 [
   {
+    "date": "2020-02-25",
+    "title": "Building TodoMVC With vgtk : Bodil dot lol",
+    "link": "https://bodil.lol/vgtk/"
+  },
+  {
+    "date": "2020-01-21",
     "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
   },
   {
+    "date": "2019-04-16",
     "title": "Face Detection with Actix Web",
     "link": "https://cetra3.github.io/blog/face-detection-with-actix-web/"
   }

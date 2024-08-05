@@ -1,6 +1,22 @@
 [
   {
+    "date": "2023-11-22",
+    "title": "Bytecode Alliance — Wasmtime and Cranelift in 2023",
+    "link": "https://bytecodealliance.org/articles/wasmtime-and-cranelift-in-2023"
+  },
+  {
+    "date": "2022-05-04",
     "title": "Building a WebAssembly-powered serverless platform",
     "link": "https://blog.scottlogic.com/2022/04/16/wasm-faas.html"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Plugins in Rust: Getting Started | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-start/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Stubbing out WASI manually in Rust",
+    "link": "http://www.jakubkonka.com/2020/04/28/rust-wasi-from-scratch.html"
   }
 ]

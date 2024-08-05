@@ -1,6 +1,12 @@
 [
   {
+    "date": "2022-01-05",
     "title": "Rust is more portable than C for pngquant/libimagequant",
     "link": "https://pngquant.org/rust.html"
+  },
+  {
+    "date": "2018-12-25",
+    "title": "Using C libraries in Rust: make a sys crate",
+    "link": "https://kornel.ski/rust-sys-crate"
   }
 ]

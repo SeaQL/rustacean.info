@@ -1,17 +1,26 @@
 [
   {
+    "date": "2022-08-17",
     "title": "Using the Kani Rust Verifier on Tokio Bytes | Kani Rust Verifier Blog",
     "link": "https://model-checking.github.io/kani-verifier-blog/2022/08/17/using-the-kani-rust-verifier-on-tokio-bytes.html"
   },
   {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
   },
   {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust"
   },
   {
+    "date": "2020-01-28",
+    "title": "Lessons learnt updating a library to std::future",
+    "link": "https://cetra3.github.io/blog/mpart-async-0-3-0/"
+  },
+  {
+    "date": "2019-08-12",
     "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-08-alphas/"
   }

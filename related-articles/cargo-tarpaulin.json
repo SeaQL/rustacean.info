@@ -1,37 +1,46 @@
 [
   {
+    "date": "2023-06-28",
     "title": "Code coverage in Rust - RRM Programming",
     "link": "https://rrmprogramming.com/article/code-coverage-in-rust/"
   },
   {
+    "date": "2021-09-22",
     "title": "Rust Code Coverage with Daniel McKenna :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/037-daniel-mckenna/"
   },
   {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
   },
   {
+    "date": "2020-10-14",
     "title": "📽 2 videos about rust code coverage in VSCode • Marco Ieni",
     "link": "https://www.marcoieni.com/2020/10/2-videos-about-rust-code-coverage-in-vscode/"
   },
   {
+    "date": "2020-09-16",
     "title": "A Few Github Action “Recipes” for Rust - shift.click",
     "link": "https://shift.click/blog/github-actions-rust/"
   },
   {
+    "date": "2020-06-10",
     "title": "Setup - Toolchain, IDEs, CI | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/"
   },
   {
+    "date": "2020-05-12",
     "title": "Yak shaving conditional compilation in Rust · shifting bits",
     "link": "https://bitshifter.github.io/2020/05/07/conditional-compilation-in-rust/"
   },
   {
+    "date": "2019-09-17",
     "title": "Awesome Rust Mentors - github | awesome-rust-mentors",
     "link": "https://rustbeginners.github.io/awesome-rust-mentors/"
   },
   {
+    "date": "2017-07-25",
     "title": "Introducing Tarpaulin | xd009642",
     "link": "https://xd009642.github.io/2017/07/20/introducing-tarpaulin.html"
   }

@@ -1,14 +1,22 @@
 [
   {
+    "date": "2021-10-13",
     "title": "Testing With Spirit | Vorner’s random stuff",
     "link": "https://vorner.github.io/2021/10/10/testing-with-spirit.html"
   },
   {
+    "date": "2020-11-11",
     "title": "40 Ms Bug | Vorner’s random stuff",
     "link": "https://vorner.github.io/2020/11/06/40-ms-bug.html"
   },
   {
+    "date": "2019-08-12",
     "title": "Runtime Configuration Reloading | Vorner’s random stuff",
     "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
+  },
+  {
+    "date": "2019-05-21",
+    "title": "Rust In Avast | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/05/19/rust-in-avast.html"
   }
 ]

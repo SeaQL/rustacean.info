@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2024-03-27",
+    "title": "How I learned to stop worrying and love the global state – Symbolica | Modern Computer Algebra",
+    "link": "https://symbolica.io/posts/global_state/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Caches In Rust",
+    "link": "https://matklad.github.io/2022/06/11/caches-in-rust.html"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "Arenas in Rust - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/"
+  }
+]

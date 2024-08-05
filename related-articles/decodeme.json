@@ -1,18 +1,32 @@
 [
   {
+    "date": "2023-03-15",
+    "title": "SQLx Compile Time Woes - Cosmic Horror",
+    "link": "https://cosmichorror.dev/posts/speeding-up-sqlx-compile-times/"
+  },
+  {
+    "date": "2022-12-14",
     "title": "Data-driven performance optimization with Rust and Miri | by Keaton Brandt | Source and Buggy | Medium",
     "link": "https://medium.com/source-and-buggy/data-driven-performance-optimization-with-rust-and-miri-70cb6dde0d35"
   },
   {
+    "date": "2022-07-20",
     "title": "When rustc explodes",
     "link": "https://fasterthanli.me/articles/when-rustc-explodes"
   },
   {
+    "date": "2022-01-05",
     "title": "Why is my Rust build so slow?",
     "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
   },
   {
+    "date": "2019-10-29",
     "title": "Wiki - WhereRustcSpendsItsTime",
     "link": "https://wiki.alopex.li/WhereRustcSpendsItsTime"
+  },
+  {
+    "date": "2019-10-15",
+    "title": "How to speed up the Rust compiler some more in 2019 – Nicholas Nethercote",
+    "link": "https://blog.mozilla.org/nnethercote/2019/10/11/how-to-speed-up-the-rust-compiler-some-more-in-2019/"
   }
 ]

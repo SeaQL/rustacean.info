@@ -1,5 +1,11 @@
 [
   {
+    "date": "2021-12-15",
+    "title": "Communicating With Code: Less Painful Linear Types",
+    "link": "https://aidancully.blogspot.com/2021/12/less-painful-linear-types.html"
+  },
+  {
+    "date": "2019-02-26",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-15/"
   }

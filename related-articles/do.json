@@ -1,0 +1,47 @@
+[
+  {
+    "date": "2022-02-09",
+    "title": "Downcasting in Rust | Y. Santos Personal Page",
+    "link": "https://ysantos.com/blog/downcast-rust"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "31st of January 2022 to 6th of February 2022 — This week in Slint",
+    "link": "https://sixtyfps.io/thisweek/2022-02-07.html"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2019-04-16",
+    "title": "Keeping Rust projects' README.md code examples up-to-date",
+    "link": "https://blog.guillaume-gomez.fr/articles/2019-04-13+Keeping+Rust+projects%27+README.md+code+examples+up-to-date"
+  },
+  {
+    "date": "2018-02-06",
+    "title": "In Rust, ordinary vectors are values · baby steps",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/"
+  },
+  {
+    "date": "2017-05-16",
+    "title": "Writing a GitHub webhook with Rust! Part 1: Rocket | by Chris | Medium",
+    "link": "https://medium.com/@aergonaut/writing-a-github-webhook-with-rust-part-1-rocket-4426dd06d45d"
+  },
+  {
+    "date": "2016-12-06",
+    "title": "24 days of Rust - environment variables | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-environment-variables/"
+  },
+  {
+    "date": "2015-05-18",
+    "title": "Error Handling in Rust - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/rust-error-handling/"
+  },
+  {
+    "date": "2014-12-08",
+    "title": "24 days of Rust - docopt | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-docopt/"
+  }
+]

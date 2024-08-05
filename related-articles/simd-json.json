@@ -1,14 +1,32 @@
 [
   {
+    "date": "2024-01-24",
     "title": "Parsing JSON in Rust",
     "link": "https://www.shuttle.rs/blog/2024/01/18/parsing-json-rust"
   },
   {
+    "date": "2023-01-25",
     "title": "Surprises in the Rust JSON Ecosystem",
     "link": "https://ecton.dev/rust-json-ecosystem/"
   },
   {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
+  },
+  {
+    "date": "2020-09-09",
+    "title": "Deserializing JSON really fast",
+    "link": "https://blog.datalust.co/deserializing-json-really-fast/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
+  },
+  {
+    "date": "2020-07-14",
+    "title": "Faster Integer Parsing | Rust Malaysia",
+    "link": "https://rust-malaysia.github.io/code/2020/07/11/faster-integer-parsing.html"
   }
 ]

@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2017-10-10",
+    "title": "Wiki - AnOpinionatedGuideToRustWebServers",
+    "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
+  },
+  {
+    "date": "2016-12-20",
+    "title": "24 days of Rust - diesel | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-diesel/"
+  },
+  {
+    "date": "2016-10-04",
+    "title": "show_notes::interview::_3 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/interview/_3/"
+  },
+  {
+    "date": "2016-05-23",
+    "title": "Creating a basic webservice in Rust",
+    "link": "http://hermanradtke.com/2016/05/16/creating-a-basic-webservice-in-rust.html"
+  }
+]

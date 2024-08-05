@@ -1,17 +1,21 @@
 [
   {
+    "date": "2015-07-20",
     "title": "A Rusting Rubyist III. Rust HTTP Requests in a Ruby Module | by Mike Piccolo | Medium",
     "link": "https://medium.com/@mfpiccolo/a-rusting-rubyist-iii-5db9915e3269"
   },
   {
+    "date": "2014-12-29",
     "title": "Rust, an Anti-Sloppy Programming Language",
     "link": "http://arthurtw.github.io/2014/12/21/rust-anti-sloppy-programming-language.html"
   },
   {
+    "date": "2014-12-15",
     "title": "This Week In Servo 14 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
     "link": "http://blog.servo.org/2014/12/09/twis-14/"
   },
   {
+    "date": "2014-04-26",
     "title": "Introducing Teepee: the next step for rust-http - an article by Chris Morgan",
     "link": "http://chrismorgan.info/blog/introducing-teepee.html"
   }

@@ -1,33 +1,46 @@
 [
   {
+    "date": "2022-08-10",
     "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
   },
   {
+    "date": "2021-01-20",
     "title": "Pijul - Implementing cross-process Sanakirja locks",
     "link": "https://pijul.org/posts/2021-01-15-sanakirja-locks/"
   },
   {
+    "date": "2021-01-06",
     "title": "Pijul - How to survive?",
     "link": "https://pijul.org/posts/2021-01-05-how-to-survive/"
   },
   {
+    "date": "2020-12-2-",
     "title": "Pijul - The Mathematically Sound Version Control System Written in Rust",
     "link": "https://initialcommit.com/blog/pijul-version-control-system"
   },
   {
+    "date": "2020-09-16",
     "title": "OpenPGP in Rust: the Sequoia project [LWN.net]",
     "link": "https://lwn.net/SubscriberLink/830902/b751810a99460a39/"
   },
   {
+    "date": "2018-01-09",
     "title": "Goals and Directions for Rust in 2018 - WezM.net by Wesley Moore",
     "link": "http://www.wezm.net/technical/2018/01/goals-directions-rust-2018/"
   },
   {
+    "date": "2016-08-02",
+    "title": "https://pijul.org/openpgp/",
+    "link": "https://pijul.org/openpgp/"
+  },
+  {
+    "date": "2016-07-05",
     "title": "Pijul - Thrussh",
     "link": "https://pijul.org/thrussh/"
   },
   {
+    "date": "2016-02-08",
     "title": "Pijul",
     "link": "https://pijul.org/"
   }

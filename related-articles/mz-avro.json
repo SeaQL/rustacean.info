@@ -1,9 +1,31 @@
 [
   {
+    "date": "2023-10-18",
+    "title": "Compile Times and Code Graphs",
+    "link": "https://blog.danhhz.com/compile-times-and-code-graphs"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Async cancellation: a case study of pub-sub in mini-redis · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2022/06/13/async-cancellation-a-case-study-of-pub-sub-in-mini-redis/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Assorted thoughts on zig (and rust)",
+    "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Debugging async generator errors in Rust: Staying sane when Rust errors get worse than C++ errors | Meltware",
+    "link": "https://meltware.com/2020/10/21/rust-async-nonsense.html"
+  },
+  {
+    "date": "2020-06-30",
     "title": "This June in my Database project written in Rust",
     "link": "https://alex-dukhno.github.io/2020-06-27-This-June-in-my-Database-project-written-in-rust/"
   },
   {
+    "date": "2020-06-23",
     "title": "Rust for Data-Intensive Computation",
     "link": "https://materialize.io/rust-for-data-intensive-computation/"
   }

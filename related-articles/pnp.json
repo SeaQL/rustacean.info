@@ -1,6 +1,27 @@
 [
   {
+    "date": "2023-01-25",
+    "title": "Packaging Rust Applications for the NPM Registry - Orhun's Blog",
+    "link": "https://blog.orhun.dev/packaging-rust-for-npm/"
+  },
+  {
+    "date": "2021-08-10",
     "title": "Tauri with Standard Svelte or SvelteKit | by Dan Casler | Medium",
     "link": "https://medium.com/@cazanator/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Behind the scenes of 1Password for Linux | by Dave Teare | Medium",
+    "link": "https://dteare.medium.com/behind-the-scenes-of-1password-for-linux-d59b19143a23"
+  },
+  {
+    "date": "2019-07-23",
+    "title": "Gotham - From Start to Heroku | Cloudbees Blog",
+    "link": "https://blog.codeship.com/gotham-from-start-to-heroku/"
+  },
+  {
+    "date": "2018-04-24",
+    "title": "Hello wasm-pack! - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2018/04/hello-wasm-pack/"
   }
 ]

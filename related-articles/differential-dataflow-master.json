@@ -1,9 +1,16 @@
 [
   {
+    "date": "2023-01-25",
     "title": "First steps with NGenate - A dataflow and visual programming platform built with Rust | by Mark Mulligan",
     "link": "https://codetrance.io/blog/1/rust-visual-programming-dataflow-ngenate-first-steps/"
   },
   {
+    "date": "2020-10-21",
+    "title": "Assorted thoughts on zig (and rust)",
+    "link": "https://scattered-thoughts.net/writing/assorted-thoughts-on-zig-and-rust/"
+  },
+  {
+    "date": "2020-06-23",
     "title": "Rust for Data-Intensive Computation",
     "link": "https://materialize.io/rust-for-data-intensive-computation/"
   }

@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-01-31",
+    "title": "Where Does the Time Go? Rust's Problem with Slow Compiles - The New Stack",
+    "link": "https://thenewstack.io/where-does-the-time-go-rusts-problem-with-slow-compiles/"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Investigating crazy compile times",
+    "link": "https://blog.adamchalmers.com/crazy-compile-time/"
+  }
+]

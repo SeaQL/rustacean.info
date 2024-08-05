@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2024-06-19",
+    "title": "Using Tauri to build a cross-platform security app",
+    "link": "https://www.firezone.dev/blog/using-tauri"
+  },
+  {
+    "date": "2024-06-05",
+    "title": "Highlights from “I spent 6 years developing a game in Rust and it just shipped, AMA” | Games by Mason",
+    "link": "https://gamesbymason.com/2024/06/01/wor-ama/"
+  },
+  {
+    "date": "2024-04-24",
+    "title": "Porting a cross-platform GUI application to Rust - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/"
+  },
+  {
+    "date": "2024-02-14",
+    "title": "Tech Notes: Cross compiling Rust to win32",
+    "link": "https://neugierig.org/software/blog/2024/02/cross-compile.html"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Inline Crates",
+    "link": "https://blog.yoshuawuyts.com/inline-crates/"
+  }
+]

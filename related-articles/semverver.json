@@ -1,9 +1,11 @@
 [
   {
+    "date": "2022-08-31",
     "title": "Toward fearless cargo update",
     "link": "https://predr.ag/blog/toward-fearless-cargo-update/"
   },
   {
+    "date": "2022-04-13",
     "title": "Implied bounds and perfect derive · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2022/04/12/implied-bounds-and-perfect-derive/"
   }

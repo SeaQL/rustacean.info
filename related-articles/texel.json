@@ -1,9 +1,11 @@
 [
   {
+    "date": "2019-12-31",
     "title": "Rust Lifetimes and Iterators | Tidbits and Stuff",
     "link": "https://blog.katona.me/2019/12/29/Rust-Lifetimes-and-Iterators/"
   },
   {
+    "date": "2019-12-31",
     "title": "A Thought Experiment: Using the ECS Pattern Outside of Game Engines · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/ecs-outside-of-games/"
   }

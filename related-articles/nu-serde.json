@@ -1,26 +1,47 @@
 [
   {
+    "date": "2023-09-20",
     "title": "tuify your clap CLI apps and make them more interactive | developerlife.com",
     "link": "https://developerlife.com/2023/09/17/tuify-clap/"
   },
   {
+    "date": "2022-03-23",
     "title": "Nushell 0.60 | Nushell",
     "link": "https://www.nushell.sh/blog/2022-03-22-nushell_0_60.html"
   },
   {
+    "date": "2022-02-09",
     "title": "Nushell 0.44 | Nushell",
     "link": "https://www.nushell.sh/blog/2022-02-08-nushell_0_44.html"
   },
   {
+    "date": "2021-12-29",
     "title": "Nushell 0.42 | Nushell",
     "link": "https://www.nushell.sh/blog/2021-12-28-nushell_0_42.html"
   },
   {
+    "date": "2021-12-08",
     "title": "Nushell 0.41 | Nushell",
     "link": "https://www.nushell.sh/blog/2021-12-07-nushell_0_41.html"
   },
   {
+    "date": "2021-04-21",
     "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Managing Rust bloat with Github Actions",
+    "link": "https://tomforb.es/managing-rust-bloat-with-github-actions/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
+  },
+  {
+    "date": "2019-09-03",
+    "title": "udeps.md · GitHub",
+    "link": "https://gist.github.com/est31/3d9e880be746c3a443c699d9ff1888d2"
   }
 ]

@@ -1,14 +1,27 @@
 [
   {
+    "date": "2023-05-10",
+    "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
+    "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
+  },
+  {
+    "date": "2023-01-04",
     "title": "Parsing TFTP in Rust",
     "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/"
   },
   {
+    "date": "2021-06-16",
     "title": "Learning to Fly: Let's simulate evolution in Rust (pt 4) | pwy.io",
     "link": "https://pwy.io/en/posts/learning-to-fly-pt4/"
   },
   {
+    "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
   }
 ]

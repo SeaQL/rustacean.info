@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-06-23",
     "title": "Managing Rust bloat with Github Actions",
     "link": "https://tomforb.es/managing-rust-bloat-with-github-actions/"
   },
   {
+    "date": "2018-02-20",
     "title": "Porting Rust to WebAssembly · udoprog",
     "link": "https://udoprog.github.io/rust/2018-02-19/porting-rust-to-wasm.html"
   }

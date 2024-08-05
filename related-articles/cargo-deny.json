@@ -1,41 +1,61 @@
 [
   {
+    "date": "2024-03-13",
     "title": "Rust impact on engineering management | by Bastien Vigneron | Medium",
     "link": "https://bastienvigneron.medium.com/rust-impact-on-engineering-management-59647e5d0265"
   },
   {
+    "date": "2023-11-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
   },
   {
+    "date": "2023-07-19",
     "title": "Generating terminal user interfaces with Ratatui + ChatGPT - Orhun's Blog",
     "link": "https://blog.orhun.dev/ratatui-0-22-0/"
   },
   {
+    "date": "2023-02-22",
     "title": "Rust in Rhymes II explainer — Llogiq on stuff",
     "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
   },
   {
+    "date": "2022-06-15",
+    "title": "Clap 3.2: Last Call Before 4.0",
+    "link": "https://epage.github.io/blog/2022/06/clap-32-last-call-before-40/"
+  },
+  {
+    "date": "2022-06-01",
     "title": "How I speeded up my Rust builds on GitHub ~30 times | Ectobit",
     "link": "https://ectobit.com/blog/speed-up-github-actions-rust-pipelines/"
   },
   {
+    "date": "2022-05-25",
     "title": "Crash reporting in Rust",
     "link": "https://jake-shadle.github.io/crash-reporting/"
   },
   {
+    "date": "2022-05-18",
     "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
     "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
   },
   {
+    "date": "2022-03-16",
+    "title": "Things I hate about Rust, redux",
+    "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"
+  },
+  {
+    "date": "2022-01-12",
     "title": "Bevy 0.6",
     "link": "https://bevyengine.org/news/bevy-0-6/"
   },
   {
+    "date": "2020-08-18",
     "title": "Colin Woodbury - Software Development Languages: Rust",
     "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
   },
   {
+    "date": "2020-06-10",
     "title": "Setup - Toolchain, IDEs, CI | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-06-06-zero-to-production-1-setup-toolchain-ides-ci/"
   }

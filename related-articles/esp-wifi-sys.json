@@ -1,25 +1,51 @@
 [
   {
+    "date": "2023-10-11",
+    "title": "Rust on Espressif chips - 29-09-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-29-09-2023/"
+  },
+  {
+    "date": "2023-10-11",
     "title": "esp-rs Quarterly Planning: Q4 2023 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q4-2023/"
   },
   {
+    "date": "2023-09-20",
     "title": "The Embedded Rust ESP Development Ecosystem",
     "link": "https://apollolabsblog.hashnode.dev/the-embedded-rust-esp-development-ecosystem"
   },
   {
+    "date": "2023-07-12",
+    "title": "Rust on Espressif chips - 30-06-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-30-06-2023/"
+  },
+  {
+    "date": "2023-07-12",
     "title": "esp-rs Quarterly Planning: Q3 2023 | Beta7",
     "link": "https://beta7.io/posts/esp-rs-quarterly-planning-q3-2023/"
   },
   {
+    "date": "2023-05-03",
+    "title": "Rust on Espressif chips - 28-04-2023",
+    "link": "https://mabez.dev/blog/posts/esp-rust-28-04-2023/"
+  },
+  {
+    "date": "2023-03-01",
     "title": "Rust on Espressif chips - 2023 Roadmap",
     "link": "https://mabez.dev/blog/posts/esp-rust-24-02-2023/"
   },
   {
+    "date": "2022-10-19",
+    "title": "Rust on Espressif chips - 17-10-2022",
+    "link": "https://mabez.dev/blog/posts/esp-rust-17-10-2022/"
+  },
+  {
+    "date": "2022-07-20",
     "title": "Rust on Espressif chips - 15-07-2022",
     "link": "https://mabez.dev/blog/posts/esp-rust-15-07-2022/"
   },
   {
+    "date": "2022-07-13",
     "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
     "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
   }

@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-07-10",
+    "title": "How to configure CPU cores to be used in a Tokio application with core_affinity",
+    "link": "https://blog.veeso.dev/blog/en/how-to-configure-cpu-cores-to-be-used-on-a-tokio-with-core--affinity/"
+  },
+  {
+    "date": "2023-12-06",
+    "title": "Rust std fs slower than Python!? No, it's hardware!",
+    "link": "https://xuanwo.io/2023/04-rust-std-fs-slower-than-python/"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2021-02-10",
+    "title": "Eight million pixels and counting\n– Improving texture atlas allocation in WebRender",
+    "link": "https://nical.github.io/posts/etagere.html"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "Eight million pixels and counting\n– Introduction to lyon: 2D vector graphics rendering on the GPU in rust",
+    "link": "https://nical.github.io/posts/lyon-intro.html"
+  }
+]

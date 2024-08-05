@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2021-08-04",
+    "title": "Deep Learning in Rust with GPU",
+    "link": "https://able.bio/haixuanTao/deep-learning-in-rust-with-gpu--26c53a7f"
+  },
+  {
+    "date": "2020-06-10",
+    "title": "A Rust SentencePiece implementation | Rust NLP tales",
+    "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
+  }
+]

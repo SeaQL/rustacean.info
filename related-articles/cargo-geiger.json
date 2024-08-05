@@ -1,33 +1,46 @@
 [
   {
+    "date": "2023-10-11",
     "title": "Looking for Bad Apples in Rust Dependency Trees Using GraphQL and Trustfall | by Emil Jonathan Eriksson | Volvo Cars Engineering | Medium",
     "link": "https://medium.com/volvo-cars-engineering/looking-for-bad-apples-in-rust-dependency-trees-using-graphql-and-trustfall-cb88b835f652"
   },
   {
+    "date": "2022-05-18",
     "title": "Comparing Rust supply chain safety tools - LogRocket Blog",
     "link": "https://blog.logrocket.com/comparing-rust-supply-chain-safety-tools/"
   },
   {
+    "date": "2022-03-16",
+    "title": "Things I hate about Rust, redux",
+    "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"
+  },
+  {
+    "date": "2021-04-21",
     "title": "What's in the box?",
     "link": "https://fasterthanli.me/articles/whats-in-the-box"
   },
   {
+    "date": "2020-06-23",
     "title": "GitHub Action for binary crates installation · svartalf",
     "link": "https://svartalf.info/posts/2020-04-10-github-action-for-binary-crates-installation/"
   },
   {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
   },
   {
+    "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust"
   },
   {
+    "date": "2020-05-12",
     "title": "Wiki - WritingAWaylandCompositorInRust",
     "link": "https://wiki.alopex.li/WritingAWaylandCompositorInRust"
   },
   {
+    "date": "2019-08-27",
     "title": "Wiki - ActuallyUsingCrev",
     "link": "https://wiki.alopex.li/ActuallyUsingCrev"
   }

@@ -1,25 +1,51 @@
 [
   {
+    "date": "2024-01-31",
+    "title": "Arroyo with Micah Wylde - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s01e04-arroyo"
+  },
+  {
+    "date": "2023-06-21",
+    "title": "Fossil Data Platform Rewritten in Rust 🦀",
+    "link": "https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html"
+  },
+  {
+    "date": "2022-05-25",
     "title": "Apache Arrow DataFusion 8.0.0 Release | Apache Arrow",
     "link": "https://arrow.apache.org/blog/2022/05/16/datafusion-8.0.0/"
   },
   {
+    "date": "2021-10-20",
+    "title": "ROAPI: An API Server for Static Datasets",
+    "link": "https://tech.marksblogg.com/roapi-rust-data-api.html"
+  },
+  {
+    "date": "2021-08-25",
     "title": "Apache Arrow DataFusion 5.0.0 Release | Apache Arrow",
     "link": "https://arrow.apache.org/blog/2021/08/18/datafusion-5.0.0/"
   },
   {
+    "date": "2021-08-25",
     "title": "Apache Arrow Ballista 0.5.0 Release | Apache Arrow",
     "link": "https://arrow.apache.org/blog/2021/08/18/ballista-0.5.0/"
   },
   {
+    "date": "2021-05-12",
+    "title": "Increasing the level of parallelism in DataFusion 4.0 | by Daniël Heres | Medium",
+    "link": "https://medium.com/@danilheres/increasing-the-level-of-parallelism-in-datafusion-4-0-d2a15b5a2093"
+  },
+  {
+    "date": "2021-03-17",
     "title": "Data Manipulation: Polars vs Rust",
     "link": "https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8"
   },
   {
+    "date": "2021-03-10",
     "title": "Overview - ROAPI Documentation",
     "link": "https://roapi.github.io/docs/index.html"
   },
   {
+    "date": "2020-11-4-",
     "title": "Apache Arrow 2.0.0 Rust Highlights | Apache Arrow",
     "link": "https://arrow.apache.org/blog/2020/10/27/rust-2.0.0-release/"
   }

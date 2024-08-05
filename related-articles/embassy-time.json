@@ -1,29 +1,81 @@
 [
   {
+    "date": "2024-04-10",
+    "title": "Zed Decoded: Async Rust",
+    "link": "https://zed.dev/blog/zed-decoded-async-rust"
+  },
+  {
+    "date": "2024-01-10",
     "title": "What I'd like to see for Async Rust in 2024 🎄 · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2024/01/03/async-rust-2024/"
   },
   {
+    "date": "2023-12-13",
     "title": "Rust and ThreadX  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/rust-and-threadx/"
   },
   {
+    "date": "2023-12-06",
+    "title": "Embassy on ESP: GPIO",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-gpio"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Embassy on ESP: Getting Started",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-getting-started"
+  },
+  {
+    "date": "2023-09-20",
     "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/async/"
   },
   {
+    "date": "2023-09-06",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"
+  },
+  {
+    "date": "2023-07-19",
+    "title": "Asynchronous Rust on Cortex-M Microcontrollers | Interrupt",
+    "link": "https://interrupt.memfault.com/blog/embedded-async-rust"
+  },
+  {
+    "date": "2022-11-23",
+    "title": "Embedded Rust &amp; Embassy: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-embassy-gpio-button-controlled-blinking"
+  },
+  {
+    "date": "2022-09-21",
     "title": "Dyn async traits, part 8: the soul of Rust · baby steps",
     "link": "https://smallcultfollowing.com/babysteps/blog/2022/09/18/dyn-async-traits-part-8-the-soul-of-rust/"
   },
   {
+    "date": "2022-07-20",
+    "title": "Rust on Espressif chips - 15-07-2022",
+    "link": "https://mabez.dev/blog/posts/esp-rust-15-07-2022/"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown"
+  },
+  {
+    "date": "2021-11-17",
     "title": "What is an async runtime?",
     "link": "https://ncameron.org/blog/what-is-an-async-runtime/"
   },
   {
+    "date": "2021-10-27",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/blog/63/async-on-embedded-present-and-future"
+  },
+  {
+    "date": "2021-09-29",
     "title": "AnyLeaf articles: Writing embedded firmware using Rust",
     "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
   },
   {
+    "date": "2021-07-28",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/58/async-and-asleep-designing-our-future-embedded-applications"
   }

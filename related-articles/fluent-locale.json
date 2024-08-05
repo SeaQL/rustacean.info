@@ -1,17 +1,21 @@
 [
   {
+    "date": "2024-04-24",
     "title": "Porting a cross-platform GUI application to Rust - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/"
   },
   {
+    "date": "2023-01-18",
     "title": "Rails developers write some Rust: a review of Axum 0.6",
     "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
   },
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2018-08-07",
     "title": "intl_pluralrules: A Rust Crate for Handling Plural Forms with CLDR Plural Rules – Mozilla L10N",
     "link": "https://blog.mozilla.org/l10n/2018/08/03/intl_pluralrules-a-rust-crate-for-handling-plural-forms-with-cldr-plural-rules/"
   }

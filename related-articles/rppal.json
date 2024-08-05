@@ -1,5 +1,11 @@
 [
   {
+    "date": "2020-10-28",
+    "title": "Fighting Rust's Expressive Type System | thefuntastic",
+    "link": "https://thefuntastic.com/blog/fighting-rusts-type-system"
+  },
+  {
+    "date": "2020-10-07",
     "title": "Rust + Raspberry Pi Tide Clock | thefuntastic",
     "link": "https://thefuntastic.com/blog/rust-tide-clock"
   }

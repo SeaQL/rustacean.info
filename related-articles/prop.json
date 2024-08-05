@@ -1,0 +1,57 @@
+[
+  {
+    "date": "2024-03-27",
+    "title": "Everything you need to know about testing in Rust",
+    "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"
+  },
+  {
+    "date": "2024-02-21",
+    "title": "argmin_testfunctions 0.2.0 and argmin-testfunctions-py v0.0.1 released | argmin",
+    "link": "https://argmin-rs.org/blog/argmin-testfunctions-v0-2-0/"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "bridging fuzzing and property testing",
+    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
+  },
+  {
+    "date": "2023-03-29",
+    "title": "Tomáš Zemanovič : State machine testing with Proptest",
+    "link": "https://tzemanovic.gitlab.io/posts/state-machine-testing-with-proptest/"
+  },
+  {
+    "date": "2023-03-01",
+    "title": "When Rust hurts",
+    "link": "https://mmapped.blog/posts/15-when-rust-hurts.html"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Writing software that's reliable enough for production",
+    "link": "https://pythonspeed.com/fil/docs/fil4prod/reliable.html"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "An Introduction To Property-Based Testing In Rust | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/an-introduction-to-property-based-testing-in-rust/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Propane: an experimental generator syntax for Rust",
+    "link": "https://without.boats/blog/propane/"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "How to organize your Rust tests - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"
+  },
+  {
+    "date": "2018-06-05",
+    "title": "im - Rust",
+    "link": "https://docs.rs/im"
+  }
+]

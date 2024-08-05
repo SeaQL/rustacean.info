@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-05-29",
     "title": "Iggy.rs — one year of building the message streaming",
     "link": "https://blog.iggy.rs/posts/one-year-of-building-the-message-streaming/"
   },
   {
+    "date": "2024-01-03",
     "title": "Iggy.rs - building message streaming in Rust",
     "link": "https://blog.iggy.rs/posts/building-message-streaming-in-rust/"
   }

@@ -1,45 +1,66 @@
 [
   {
+    "date": "2024-04-10",
+    "title": "Ratatui Received Funding: What's Next? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/open-source-funding-with-ratatui/"
+  },
+  {
+    "date": "2024-01-10",
     "title": "Why stdout is faster than stderr? - Orhun's Blog",
     "link": "https://blog.orhun.dev/stdout-vs-stderr/"
   },
   {
+    "date": "2023-08-30",
     "title": "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs - Orhun's Blog",
     "link": "https://blog.orhun.dev/ratatui-0-23-0/"
   },
   {
+    "date": "2023-07-19",
     "title": "ratatui - Rust",
     "link": "https://docs.rs/ratatui"
   },
   {
+    "date": "2023-07-05",
     "title": "Projectable: A Command-Line Project Manager - dzfrias",
     "link": "https://dzfrias.dev/blog/projectable"
   },
   {
+    "date": "2023-05-10",
     "title": "Episode 1: Hello, World! - The Way of the Crab",
     "link": "https://wayofthecrab.com/episodes/001/"
   },
   {
+    "date": "2023-03-15",
     "title": "Rewriting the CLI in Rust: Was It Worth It?",
     "link": "https://blog.railway.app/p/rust-cli-rewrite"
   },
   {
+    "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
   },
   {
+    "date": "2021-07-14",
     "title": "This Month in Rust GameDev #23 - June 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/023/"
   },
   {
+    "date": "2021-04-21",
     "title": "Rust and TUI: Building a command-line interface in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
   },
   {
+    "date": "2021-04-07",
+    "title": "How I Used Rust + Lunatic to Build a TelNet Chat Server With WebAssembly | HackerNoon",
+    "link": "https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg"
+  },
+  {
+    "date": "2020-09-02",
     "title": "Fireworks for your terminal - Darrien's technical blog",
     "link": "https://blog.darrien.dev/posts/fireworks-for-your-terminal/"
   },
   {
+    "date": "2020-05-12",
     "title": "Porting North Korean Dictionaries with Rust – Digital NK",
     "link": "https://digitalnk.com/blog/2020/05/08/porting-north-korean-dictionaries-with-rust/"
   }

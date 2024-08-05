@@ -1,5 +1,6 @@
 [
   {
+    "date": "2019-03-19",
     "title": "Implementing a static stack usage analysis tool | Embedded in Rust",
     "link": "https://blog.japaric.io/stack-analysis/"
   }

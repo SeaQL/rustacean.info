@@ -1,9 +1,16 @@
 [
   {
+    "date": "2020-08-04",
     "title": "Beginner's guide to Error Handling in Rust",
     "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
   },
   {
+    "date": "2020-05-27",
+    "title": "Just: How I Organize Large Rust Programs – Casey Rodarmor's Blog",
+    "link": "https://rodarmor.com/blog/tour-de-just"
+  },
+  {
+    "date": "2019-11-19",
     "title": "Thoughts on Error Handling in Rust · Lukasʼ Blog",
     "link": "https://lukaskalbertodt.github.io/2019/11/14/thoughts-on-error-handling-in-rust.html"
   }

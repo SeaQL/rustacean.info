@@ -1,53 +1,156 @@
 [
   {
+    "date": "2023-02-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/82/crash-and-now-what"
   },
   {
+    "date": "2022-03-16",
+    "title": "Knurling-rs changelog #34  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-34/"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "Knurling-rs changelog #33  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-33/"
+  },
+  {
+    "date": "2021-12-29",
     "title": "Rust Embedded Working Group",
     "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
   },
   {
+    "date": "2021-10-13",
+    "title": "Knurling-rs changelog #32  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-32/"
+  },
+  {
+    "date": "2021-09-29",
     "title": "AnyLeaf articles: Writing embedded firmware using Rust",
     "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
   },
   {
+    "date": "2021-09-01",
+    "title": "Knurling-rs changelog #30  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-30/"
+  },
+  {
+    "date": "2021-07-07",
+    "title": "Knurling-rs changelog #28  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-28/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "Knurling-rs changelog #24  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-24/"
+  },
+  {
+    "date": "2021-05-05",
     "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
   },
   {
+    "date": "2021-04-28",
     "title": "Rust Notebooks with Evcxr - by Josh Kuhn",
     "link": "https://blog.abor.dev/p/evcxr"
   },
   {
+    "date": "2021-04-21",
+    "title": "Knurling-rs changelog #23  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-23/"
+  },
+  {
+    "date": "2021-03-31",
     "title": "Testing an embedded application  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/test-embedded-app/"
   },
   {
+    "date": "2021-03-03",
+    "title": "Knurling-rs changelog #18  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-18/"
+  },
+  {
+    "date": "2021-02-24",
+    "title": "Knurling-rs changelog #17  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-17/"
+  },
+  {
+    "date": "2021-02-24",
     "title": "Testing a Hardware Abstraction Layer (HAL)  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/defmt-test-hal/"
   },
   {
+    "date": "2021-01-20",
+    "title": "Knurling-rs changelog #13  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-13/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "Knurling-rs changelog #12  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-12/"
+  },
+  {
+    "date": "2020-12-23",
+    "title": "Knurling-rs changelog #11  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-11/"
+  },
+  {
+    "date": "2020-12-2-",
+    "title": "Knurling-rs changelog #8  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-8/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Knurling-rs changelog #10  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-10/"
+  },
+  {
+    "date": "2020-11-25",
+    "title": "Knurling-rs changelog #7  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-7/"
+  },
+  {
+    "date": "2020-11-18",
     "title": "Writing an embedded display driver in Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Writing-an-embedded-display-driver-in-Rust/"
   },
   {
+    "date": "2020-11-18",
+    "title": "Knurling-rs changelog #6  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-6/"
+  },
+  {
+    "date": "2020-10-28",
+    "title": "Knurling-rs changelog #3  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-3/"
+  },
+  {
+    "date": "2020-10-07",
     "title": "Getting Started with the nRF52840 in Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Getting-Started-with-the-nRF52840-in-Rust/"
   },
   {
+    "date": "2020-09-30",
     "title": "Rusty-PID: Porting the TSic sensor from C to Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Rusty-PID-Porting-the-TSic-sensor-from-C-to-Rust/"
   },
   {
+    "date": "2020-09-30",
+    "title": "Knurling-rs changelog #2  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-2/"
+  },
+  {
+    "date": "2020-09-02",
     "title": "Using `cargo test` for embedded testing with `panic-probe`  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/cargo-test-with-panic-probe/"
   },
   {
+    "date": "2020-08-25",
     "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/defmt/"
   },
   {
+    "date": "2020-08-18",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-24/"
   }

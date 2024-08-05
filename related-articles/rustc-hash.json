@@ -1,10 +1,22 @@
 [
   {
+    "date": "2023-02-08",
+    "title": "Improving Rust compile times to enable adoption of memory safety - Prossimo",
+    "link": "https://www.memorysafety.org/blog/remy-rakic-compile-times/"
+  },
+  {
+    "date": "2022-11-02",
     "title": "The stable HashMap trap | More Stina Blog!",
     "link": "https://morestina.net/blog/1843/the-stable-hashmap-trap"
   },
   {
+    "date": "2022-03-02",
     "title": "Modern Telecom Network Tracing - OXIO",
     "link": "https://oxio.com/blog/modern-telecom-network-tracing/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "A brutally effective hash function in Rust | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2021/12/08/a-brutally-effective-hash-function-in-rust.html"
   }
 ]

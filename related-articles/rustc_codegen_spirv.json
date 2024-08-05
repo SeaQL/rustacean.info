@@ -1,37 +1,51 @@
 [
   {
+    "date": "2023-06-07",
     "title": "Introducing posh: Type-Safe Graphics Programming with Functional Shaders in Rust | leod’s blog",
     "link": "https://leod.github.io/rust/gamedev/posh/2023/06/04/posh.html"
   },
   {
+    "date": "2023-05-03",
     "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/044/"
   },
   {
+    "date": "2023-02-01",
     "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/041/"
   },
   {
+    "date": "2022-01-26",
     "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/029/"
   },
   {
+    "date": "2021-12-22",
     "title": "Homegrown rendering with Rust. In this post, Embark software engineer… | by Tomasz Stachowiak | Embark Studios | Medium",
     "link": "https://medium.com/embarkstudios/homegrown-rendering-with-rust-1e39068e56a7"
   },
   {
+    "date": "2021-12-15",
     "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/028/"
   },
   {
+    "date": "2021-08-25",
     "title": "Cross compiling Windows binaries from Linux",
     "link": "https://jake-shadle.github.io/xwin/"
   },
   {
+    "date": "2021-05-05",
     "title": "Making Generative Art with Rust - by Josh Kuhn",
     "link": "https://blog.abor.dev/p/making-generative-art-with-rust"
   },
   {
+    "date": "2021-04-14",
+    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/020/"
+  },
+  {
+    "date": "2020-11-11",
     "title": "Why Rust is the Future of Game Development | thefuntastic",
     "link": "https://thefuntastic.com/blog/why-rust-is-the-future-game-dev"
   }

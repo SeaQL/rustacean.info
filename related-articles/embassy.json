@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2023-12-06",
+    "title": "Embassy on ESP: GPIO",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-gpio"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Embassy on ESP: Getting Started",
+    "link": "https://apollolabsblog.hashnode.dev/embassy-on-esp-getting-started"
+  },
+  {
+    "date": "2023-07-19",
+    "title": "Asynchronous Rust on Cortex-M Microcontrollers | Interrupt",
+    "link": "https://interrupt.memfault.com/blog/embedded-async-rust"
+  },
+  {
+    "date": "2023-01-11",
+    "title": "Sharing Data Among Tasks in Rust Embassy: Synchronization Primitives",
+    "link": "https://apollolabsblog.hashnode.dev/sharing-data-among-tasks-in-rust-embassy-synchronization-primitives"
+  },
+  {
+    "date": "2022-11-23",
+    "title": "Embedded Rust &amp; Embassy: GPIO Button Controlled Blinking",
+    "link": "https://apollolabsblog.hashnode.dev/embedded-rust-embassy-gpio-button-controlled-blinking"
+  }
+]

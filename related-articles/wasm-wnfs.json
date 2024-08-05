@@ -1,10 +1,17 @@
 [
   {
+    "date": "2024-04-03",
     "title": "Functions Everywhere, Only Once: Writing Functions for the Everywhere Computer – Fission",
     "link": "https://fission.codes/blog/functions-everywhere-only-once/"
   },
   {
+    "date": "2022-12-14",
     "title": "Composing an observable Rust application - LogRocket Blog",
     "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Console devtools podcast with Michelle Lim &amp; Zach Lloyd",
+    "link": "https://console.dev/podcast/s02e10-terminal-tools-michell-lim-zach-lloyd-warp/"
   }
 ]

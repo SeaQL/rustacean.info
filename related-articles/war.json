@@ -1,0 +1,122 @@
+[
+  {
+    "date": "2023-12-27",
+    "title": "Web development in Rust",
+    "link": "https://rust.code-maven.com/web"
+  },
+  {
+    "date": "2023-07-26",
+    "title": "tower - Rust",
+    "link": "https://docs.rs/tower"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/044/"
+  },
+  {
+    "date": "2023-03-15",
+    "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/043/"
+  },
+  {
+    "date": "2023-01-11",
+    "title": "Potential DoS Vulnerability in Rust Hyper",
+    "link": "https://jfrog.com/blog/watch-out-for-dos-when-using-rusts-popular-hyper-package/"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "date": "2022-12-21",
+    "title": "UI development in Rust | Raimundo Saona",
+    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
+  },
+  {
+    "date": "2022-11-30",
+    "title": "Migrating from warp to axum",
+    "link": "https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "When rustc explodes",
+    "link": "https://fasterthanli.me/articles/when-rustc-explodes"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "Local Async Executors and Why They Should be the Default",
+    "link": "https://maciej.codes/2022-06-09-local-async.html"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "Request coalescing in async Rust",
+    "link": "https://fasterthanli.me/articles/request-coalescing-in-async-rust"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Why is my Rust build so slow?",
+    "link": "https://fasterthanli.me/articles/why-is-my-rust-build-so-slow"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "Validating JSON input in Rust web services | Vinted Engineering",
+    "link": "https://vinted.engineering/2021/02/15/validating-json-input-in-rust-web-services/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Holmusk | Building a reliable and tRUSTworthy web service 🦀",
+    "link": "https://holmusk.dev/blog/2021-05-29-using-rust.html"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "GSoC 2021, GA4GH and htsget-rs | UMCCR Genomics Platform Group",
+    "link": "https://umccr.org/blog/htsget-rs/"
+  },
+  {
+    "date": "2021-06-02",
+    "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Rust Macros Rule: DRY warp Routes ― A Place For My Head",
+    "link": "https://shivjm.blog/rust-macros-rule-dry-warp-routes/"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Captures in closures and async blocks",
+    "link": "https://www.fpcomplete.com/blog/captures-closures-async/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Image decay as a service",
+    "link": "https://fasterthanli.me/articles/image-decay-as-a-service"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-06-02",
+    "title": "How to build a WebSocket server with Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-build-a-websocket-server-with-rust/"
+  },
+  {
+    "date": "2019-12-03",
+    "title": "Let's make a simple authentication server in Rust with Warp | JocoBlog",
+    "link": "https://blog.joco.dev/posts/warp_auth_server_tutorial"
+  },
+  {
+    "date": "2018-08-21",
+    "title": "Rust GraphQL webserver with Warp, Juniper and MongoDB",
+    "link": "http://alex.amiran.it/post/2018-08-16-rust-graphql-webserver-with-warp-juniper-and-mongodb.html"
+  },
+  {
+    "date": "2018-02-20",
+    "title": "strongly-typed-thoughts.net",
+    "link": "http://phaazon.net/blog/spectra_plugins"
+  }
+]

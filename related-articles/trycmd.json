@@ -1,5 +1,11 @@
 [
   {
+    "date": "2023-06-14",
+    "title": "Iterating on Testing in Rust",
+    "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
+  },
+  {
+    "date": "2018-01-16",
     "title": "clap - Rust",
     "link": "https://clap.rs/2018/01/09/new-years-weight-loss/"
   }

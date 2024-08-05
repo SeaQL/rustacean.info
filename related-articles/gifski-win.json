@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-01-05",
     "title": "Rust is more portable than C for pngquant/libimagequant",
     "link": "https://pngquant.org/rust.html"
   }

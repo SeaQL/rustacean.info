@@ -1,29 +1,56 @@
 [
   {
+    "date": "2024-06-05",
     "title": "How to build a plugin system in Rust | Arroyo",
     "link": "https://www.arroyo.dev/blog/rust-plugin-systems"
   },
   {
+    "date": "2022-08-10",
     "title": "Hot Reloading Rust — for Fun and Faster Feedback Cycles | Robert Krahn",
     "link": "https://robert.kra.hn/posts/hot-reloading-rust/"
   },
   {
+    "date": "2022-02-16",
     "title": "Plugins in Rust: Getting our Hands Dirty | NullDeref",
     "link": "https://nullderef.com/blog/plugin-impl/"
   },
   {
+    "date": "2021-11-10",
     "title": "Plugins in Rust: Reducing the Pain with Dependencies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-abi-stable/"
   },
   {
+    "date": "2021-10-06",
+    "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-dynload/"
+  },
+  {
+    "date": "2021-09-08",
     "title": "Plugins in Rust: Getting Started | NullDeref",
     "link": "https://nullderef.com/blog/plugin-start/"
   },
   {
+    "date": "2021-05-19",
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "date": "2020-09-30",
     "title": "So you want to live-reload Rust",
     "link": "https://fasterthanli.me/articles/so-you-want-to-live-reload-rust"
   },
   {
+    "date": "2019-10-01",
+    "title": "Plugins in Rust · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/plugins-in-rust/"
+  },
+  {
+    "date": "2019-04-30",
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
+    "date": "2018-02-20",
     "title": "strongly-typed-thoughts.net",
     "link": "http://phaazon.net/blog/spectra_plugins"
   }

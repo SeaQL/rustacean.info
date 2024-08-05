@@ -1,5 +1,6 @@
 [
   {
+    "date": "2023-04-26",
     "title": "Bringing runtime checks to compile time in Rust · Kai Kaufman's tech blog",
     "link": "https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/"
   }

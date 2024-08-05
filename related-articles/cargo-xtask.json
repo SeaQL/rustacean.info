@@ -1,13 +1,16 @@
 [
   {
+    "date": "2021-04-21",
     "title": "Knurling-rs changelog #23  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/knurling-changelog-23/"
   },
   {
+    "date": "2021-01-13",
     "title": "Expose a Rust Library to Other Languages — Slint Blog",
     "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
   },
   {
+    "date": "2018-02-06",
     "title": "Make your own make",
     "link": "https://matklad.github.io/2018/01/03/make-your-own-make.html"
   }

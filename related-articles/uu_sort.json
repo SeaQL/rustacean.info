@@ -1,34 +1,57 @@
 [
   {
+    "date": "2022-05-18",
     "title": "Things Are Getting Rusty In Kernel Land | Hackaday",
     "link": "https://hackaday.com/2022/05/17/things-are-getting-rusty-in-kernel-land/"
   },
   {
+    "date": "2021-05-05",
     "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
   },
   {
+    "date": "2017-09-26",
     "title": "This Week in Redox 29 - Redox - Your Next(Gen) OS",
     "link": "https://redox-os.org/news/this-week-in-redox-29/"
   },
   {
+    "date": "2017-08-29",
+    "title": "GSoC Project: Making Redox Self-hosting, Final Summary - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-final/"
+  },
+  {
+    "date": "2017-08-22",
     "title": "GSoC Project: Making Redox Self-hosting, Status Report 4 - Redox - Your Next(Gen) OS",
     "link": "https://redox-os.org/news/gsoc-self-hosting-4/"
   },
   {
+    "date": "2017-07-25",
+    "title": "GSoC Project: Making Redox Self-hosting, Status Report 3 - Redox - Your Next(Gen) OS",
+    "link": "https://redox-os.org/news/gsoc-self-hosting-3/"
+  },
+  {
+    "date": "2016-12-27",
     "title": "24 days of Rust - built with Rust | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-built-rust-2016/"
   },
   {
+    "date": "2016-12-13",
     "title": "24 days of Rust - winreg | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-winreg/"
   },
   {
+    "date": "2015-02-23",
     "title": "Show HN: Exa, a replacement for ls written in Rust | Hacker News",
     "link": "https://news.ycombinator.com/item?id=9087108"
   },
   {
+    "date": "2014-12-29",
     "title": "24 days of Rust - built with Rust | siciarz.net",
     "link": "https://siciarz.net/24-days-of-rust-built-with-rust/"
+  },
+  {
+    "date": "2014-12-08",
+    "title": "24 days of Rust - docopt | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-docopt/"
   }
 ]

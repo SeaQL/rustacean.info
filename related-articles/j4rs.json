@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-09-23",
     "title": "j4rs: JavaFX support (WIP) - Aston's Programming Thoughts",
     "link": "https://astonbitecode.github.io/blog/post/j4rs_javafx_support/"
   },
   {
+    "date": "2019-06-04",
     "title": "Announcing j4rs - Aston's Programming Thoughts",
     "link": "https://astonbitecode.github.io/blog/post/j4rs_0.6.0/"
   }

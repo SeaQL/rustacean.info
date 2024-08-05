@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-04-20",
     "title": "Building and Deploying a URL shortener with Rust in 10 minutes or less",
     "link": "https://www.shuttle.rs/blog/2022/03/13/url-shortener"
   }

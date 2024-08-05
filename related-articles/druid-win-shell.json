@@ -1,17 +1,26 @@
 [
   {
+    "date": "2020-08-18",
     "title": "The smooth resize test | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/gui/2019/06/21/smooth-resize-test.html"
   },
   {
+    "date": "2019-11-26",
     "title": "Towards a unified theory of reactive UI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html"
   },
   {
+    "date": "2019-10-29",
     "title": "Building a widget for Druid",
     "link": "https://pauljmiller.com/posts/druid-widget-tutorial.html"
   },
   {
+    "date": "2019-08-27",
+    "title": "Thoughts on Rust bloat | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/2019/08/21/rust-bloat.html"
+  },
+  {
+    "date": "2019-08-06",
     "title": "Rust vs GUI",
     "link": "https://turbomack.github.io/posts/2019-07-28-rust-vs-gui.html"
   }

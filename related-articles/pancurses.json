@@ -1,9 +1,11 @@
 [
   {
+    "date": "2019-02-05",
     "title": "Learning Rust via Advent of Code",
     "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
   },
   {
+    "date": "2016-12-13",
     "title": "24 days of Rust - winreg | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-winreg/"
   }

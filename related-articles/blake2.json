@@ -1,6 +1,22 @@
 [
   {
+    "date": "2023-04-05",
+    "title": "Follow up on cracking ZIP archives in Rust",
+    "link": "https://agourlay.github.io/follow-up-cracking-zip-rust/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Connect devices to blockchains with Léger.",
+    "link": "http://www.cyrilfougeray.com/2020/12/14/leger-rust-wallet-1.html"
+  },
+  {
+    "date": "2020-09-23",
     "title": "Rust 2021 Post · GitHub",
     "link": "https://gist.github.com/pickfire/3bcceeacf0bae22dd9f03c5053a976e3"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rusty Chains: A Basic Blockchain Implementation Written in Pure Rust | HackerNoon",
+    "link": "https://hackernoon.com/rusty-chains-a-basic-blockchain-implementation-written-in-pure-rust-gk2m3uri"
   }
 ]

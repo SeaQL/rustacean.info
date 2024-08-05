@@ -1,66 +1,112 @@
 [
   {
+    "date": "2024-06-26",
     "title": "June 2024 dev update",
     "link": "https://godot-rust.github.io/dev/june-2024-update/"
   },
   {
+    "date": "2024-05-01",
     "title": "LogLog Games",
     "link": "https://loglog.games/blog/leaving-rust-gamedev/"
   },
   {
+    "date": "2024-03-06",
     "title": "February 2024 dev update",
     "link": "https://godot-rust.github.io/dev/february-2024-update/"
   },
   {
+    "date": "2024-01-03",
     "title": "2023 in Review: Establishing Rust as a Godot 4 language",
     "link": "https://godot-rust.github.io/dev/godot-rust-2023-review/"
   },
   {
+    "date": "2023-09-06",
     "title": "FFI optimizations and benchmarking",
     "link": "https://godot-rust.github.io/dev/ffi-optimizations-benchmarking/"
   },
   {
+    "date": "2023-08-02",
+    "title": "This Month in Rust GameDev #47 - June 2023 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/047/"
+  },
+  {
+    "date": "2022-10-19",
     "title": "This Month in Rust GameDev #38 - September 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/038/"
   },
   {
+    "date": "2022-08-17",
     "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/036/"
   },
   {
+    "date": "2022-04-13",
     "title": "This Month in Rust GameDev #32 - March 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/032/"
   },
   {
+    "date": "2022-02-16",
     "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/030/"
   },
   {
+    "date": "2022-01-26",
     "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/029/"
   },
   {
+    "date": "2021-12-15",
     "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/028/"
   },
   {
+    "date": "2021-11-10",
     "title": "This Month in Rust GameDev #27 - October 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/027/"
   },
   {
+    "date": "2021-10-13",
     "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/026/"
   },
   {
+    "date": "2021-09-08",
     "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/025/"
   },
   {
+    "date": "2020-12-16",
+    "title": "CrabbyBird #4 Generowanie świata gry – cześć II – Postać normalna",
+    "link": "https://postacnormalna.pl/crabbybird-4-generowanie-swiata-gry-czesc-ii/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "CrabbyBird #3 Generowanie świata gry – cześć I – Postać normalna",
+    "link": "https://postacnormalna.pl/crabbybird-3-generowanie-swiata-gry-czesc-i/"
+  },
+  {
+    "date": "2020-11-11",
     "title": "Why Rust is the Future of Game Development | thefuntastic",
     "link": "https://thefuntastic.com/blog/why-rust-is-the-future-game-dev"
   },
   {
+    "date": "2020-09-09",
+    "title": "CrabbyBird #2 Poruszanie kamerą – Postać normalna",
+    "link": "https://postacnormalna.pl/ruch-kamery/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "CrabbyBird #1 O tym, jak animować postać gracza – Postać normalna",
+    "link": "https://postacnormalna.pl/animacja-kraboptaka/"
+  },
+  {
+    "date": "2020-08-25",
     "title": "CrabbyBird #0 Pierwsza przygoda z Rustem i Godotem – Postać normalna",
     "link": "https://postacnormalna.pl/pierwsza-przygoda-z-rustem-i-godotem/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Porting Godot Games To Rust (Part 1) | Paytonrules Ramblings",
+    "link": "https://paytonrules.com/post/games-in-rust-with-godot-part-one/"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "date": "2024-01-03",
+    "title": "avatar.png",
+    "link": "https://tuckersiemens.com/posts/avatar-png/"
+  },
+  {
+    "date": "2022-07-06",
     "title": "Pathfinding in Rust: A tutorial with examples - LogRocket Blog",
     "link": "https://blog.logrocket.com/pathfinding-rust-tutorial-examples/"
   }

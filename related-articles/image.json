@@ -1,41 +1,81 @@
 [
   {
+    "date": "2024-06-05",
+    "title": "layoutparser_ort - Rust",
+    "link": "https://docs.rs/layoutparser-ort"
+  },
+  {
+    "date": "2024-01-03",
     "title": "avatar.png",
     "link": "https://tuckersiemens.com/posts/avatar-png/"
   },
   {
+    "date": "2022-07-06",
+    "title": "Pathfinding in Rust: A tutorial with examples - LogRocket Blog",
+    "link": "https://blog.logrocket.com/pathfinding-rust-tutorial-examples/"
+  },
+  {
+    "date": "2022-01-19",
     "title": "New year, new release! – gtk-rs",
     "link": "https://gtk-rs.org/blog/2022/01/16/new-release.html"
   },
   {
+    "date": "2022-01-05",
+    "title": "Rust is more portable than C for pngquant/libimagequant",
+    "link": "https://pngquant.org/rust.html"
+  },
+  {
+    "date": "2021-11-24",
+    "title": "http://cmoran.xyz/writing/adventures_in_photogrammetry",
+    "link": "http://cmoran.xyz/writing/adventures_in_photogrammetry"
+  },
+  {
+    "date": "2021-10-13",
     "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   },
   {
+    "date": "2021-05-05",
     "title": "The Great Rewriting In Rust - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
   },
   {
+    "date": "2021-02-17",
     "title": "Smerity.com: Zero dependency images (of chaos) in Rust",
     "link": "https://state.smerity.com/smerity/state/01EYB6YQ5T2KFSC1PF55A3B8DG"
   },
   {
+    "date": "2020-04-21",
+    "title": "Building a Rust Web Browser",
+    "link": "https://joshondesign.com/2020/03/10/rust_minibrowser"
+  },
+  {
+    "date": "2019-08-06",
     "title": "Rust reverses research ruin. 31–07–2019 | by Benjamin Blundell | Medium",
     "link": "https://medium.com/@me_26124/rust-reverses-research-ruin-88641c11a99f"
   },
   {
+    "date": "2019-07-02",
     "title": "One Program Written in Python, Go, and Rust – Nicolas Hahn",
     "link": "http://www.nicolas-hahn.com/python/go/rust/programming/2019/07/01/program-in-python-go-rust/"
   },
   {
+    "date": "2018-11-13",
+    "title": "Running Rust natively in AWS Lambda and testing it locally | by Bernardo Belchior | Medium",
+    "link": "https://medium.com/@bernardo.belchior1/running-rust-natively-in-aws-lambda-and-testing-it-locally-57080421426d"
+  },
+  {
+    "date": "2017-04-04",
     "title": "Writing a Raytracer in Rust - Part 1 - First Rays | bheisler.github.io",
     "link": "https://bheisler.github.io/post/writing-raytracer-in-rust-part-1/"
   },
   {
+    "date": "2017-01-10",
     "title": "The image library is now pure Rust · Piston",
     "link": "http://blog.piston.rs/2017/01/08/the-image-library-is-now-pure-rust/"
   },
   {
+    "date": "2014-12-15",
     "title": "24 days of Rust - image | siciarz.net",
     "link": "https://siciarz.net/24-days-of-rust-image/"
   }

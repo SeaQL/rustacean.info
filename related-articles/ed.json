@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2022-09-28",
+    "title": "This Month in Rust GameDev #37 - August 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/037/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Blog - Sequoia PGP v1.0 Released: The Seedling's a Sapling",
+    "link": "https://sequoia-pgp.org/blog/2020/12/16/202012-1.0/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Rust Embedded Working Group",
+    "link": "https://rust-embedded.github.io/blog/newsletter-24/"
+  },
+  {
+    "date": "2017-10-10",
+    "title": "Wiki - AnOpinionatedGuideToRustWebServers",
+    "link": "https://wiki.alopex.li/AnOpinionatedGuideToRustWebServers"
+  }
+]

@@ -1,29 +1,41 @@
 [
   {
+    "date": "2023-12-20",
     "title": "v0.25.0 | Ratatui",
     "link": "https://ratatui.rs/highlights/v025/"
   },
   {
+    "date": "2023-01-18",
+    "title": "Displaying Images on ESP32 with Rust! - lily's thots",
+    "link": "https://lilymara.xyz/posts/images-esp32/"
+  },
+  {
+    "date": "2022-07-13",
     "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
     "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
   },
   {
+    "date": "2021-09-29",
     "title": "20th of September to 26th of September 2021 — This week in Slint",
     "link": "https://sixtyfps.io/thisweek/2021-09-27.html"
   },
   {
+    "date": "2021-07-07",
     "title": "Rust on the front-end",
     "link": "https://blog.frankel.ch/start-rust/5/"
   },
   {
+    "date": "2020-08-25",
     "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/defmt/"
   },
   {
+    "date": "2019-12-03",
     "title": "How to RiiR · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/how-to-riir/index.html"
   },
   {
+    "date": "2019-11-19",
     "title": "Implementing ArrayVec Using Const Generics · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/const-arrayvec/"
   }

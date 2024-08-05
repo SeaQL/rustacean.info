@@ -1,10 +1,77 @@
 [
   {
+    "date": "2023-08-23",
+    "title": "Ockam | Build Trust",
+    "link": "https://www.ockam.io/blog/basic_web_app"
+  },
+  {
+    "date": "2023-08-02",
+    "title": "Ockam Routing | Ockam | Build Trust",
+    "link": "https://www.ockam.io/blog/routing"
+  },
+  {
+    "date": "2023-06-21",
+    "title": "Rewriting Ockam in Rust | Ockam | Build Trust",
+    "link": "https://www.ockam.io/blog/rewriting_in_rust"
+  },
+  {
+    "date": "2022-09-28",
     "title": "Ockam with Mrinal Wadhwa :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/mrinal-wadhwa/"
   },
   {
+    "date": "2022-01-05",
     "title": "Ockam",
     "link": "https://jobs.lever.co/ockam"
+  },
+  {
+    "date": "2021-06-30",
+    "title": "Open Roles | Ockam | Build Trust",
+    "link": "https://www.ockam.io/team#open-roles"
+  },
+  {
+    "date": "2021-06-02",
+    "title": "Open Roles | Ockam | Build Trust",
+    "link": "https://www.ockam.io/team/Architect-Rust-Library-Design/53838c2d-1e48-5cec-8bb4-8fa8420e6171"
+  },
+  {
+    "date": "2021-06-02",
+    "title": "Open Roles | Ockam | Build Trust",
+    "link": "https://www.ockam.io/team/Applied-Cryptographer-Rust/61e07e82-0589-51de-b250-42dbceb31c3c"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Ockam | Build Trust",
+    "link": "https://www.ockam.io/team/Head-of-Developer-Relations/1e365b6a-9df0-5eec-9762-a4b25f913d23"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Open Roles | Ockam | Build Trust",
+    "link": "https://www.ockam.io/team/Senior-Engineer-Embedded-Rust/31b8be44-ca35-5e12-8777-ab16d7b08033"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "RiB Newsletter #13 – Stuck inside, hacking away - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-07-01-stuck-inside-hacking-away/"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "Open Roles | Ockam | Build Trust",
+    "link": "https://www.ockam.io/team/Senior-Software-Engineer-Protocols-in-Rust/1d3e2e2d-e538-5847-874f-6bec1b63af97"
+  },
+  {
+    "date": "2020-06-10",
+    "title": "RiB Newsletter #12 – ZK-Rustups - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-06-03-zk-rustups/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Open Roles | Ockam | Build Trust",
+    "link": "https://www.ockam.io/team/Software-Architect-Applied-Cryptography-in-Rust/61e07e82-0589-51de-b250-42dbceb31c3c"
+  },
+  {
+    "date": "2020-03-17",
+    "title": "Open Roles | Ockam | Build Trust",
+    "link": "https://www.ockam.io/team"
   }
 ]

@@ -1,6 +1,17 @@
 [
   {
+    "date": "2023-04-26",
+    "title": "3308-offset_of - The Rust RFC Book",
+    "link": "https://rust-lang.github.io/rfcs/3308-offset_of.html"
+  },
+  {
+    "date": "2022-07-27",
     "title": "Aya: your tRusty eBPF companion - Deepfence",
     "link": "https://deepfence.io/aya-your-trusty-ebpf-companion/"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "What's New in Rust 1.50 and 1.51 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/033-rust-1.50-1.51/"
   }
 ]

@@ -1,9 +1,16 @@
 [
   {
+    "date": "2024-06-26",
     "title": "When Is Parallelism Fearless and Zero-Cost with Rust? | Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures",
     "link": "https://dl.acm.org/doi/10.1145/3626183.3659966"
   },
   {
+    "date": "2023-12-13",
+    "title": "Common Mistakes with Rust Async",
+    "link": "https://www.qovery.com/blog/common-mistakes-with-rust-async/"
+  },
+  {
+    "date": "2020-09-30",
     "title": "Optimization - Making Rust Code Go Brrrr",
     "link": "https://aspenuwu.me/posts/rust-optimization.html"
   }

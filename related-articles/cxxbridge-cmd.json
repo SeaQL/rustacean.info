@@ -1,41 +1,101 @@
 [
   {
+    "date": "2024-02-21",
+    "title": "Rust/C++ Interop Part 3 - Cxx |",
+    "link": "https://tylerjw.dev/posts/rust-cmake-interop-part-3-cxx/"
+  },
+  {
+    "date": "2024-02-14",
+    "title": "Rust/C++ Interop Part 1 - Just the Basics |",
+    "link": "https://tylerjw.dev/posts/rust-cpp-interop/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "The case for stabilizing arbitrary_self_types | by Adrian Taylor | Medium",
+    "link": "https://medium.com/@adetaylor/the-case-for-stabilizing-arbitrary-self-types-b07bab22bb45"
+  },
+  {
+    "date": "2023-03-15",
     "title": "Why Turborepo is migrating from Go to Rust – Vercel",
     "link": "https://vercel.com/blog/turborepo-migration-go-rust"
   },
   {
+    "date": "2023-02-01",
     "title": "One step forward, an easier interoperability between Rust and Haskell | IOG Engineering",
     "link": "https://engineering.iog.io/2023-01-26-hs-bindgen-introduction/"
   },
   {
+    "date": "2023-01-25",
+    "title": "Rust in 2023: Growing up · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2023/01/20/rust-in-2023-growing-up/"
+  },
+  {
+    "date": "2022-12-14",
     "title": "Shopify Embraces Rust for Systems Programming",
     "link": "https://shopify.engineering/shopify-rust-systems-programming"
   },
   {
+    "date": "2022-10-19",
     "title": "Are we reference yet? C++ references in Rust | by Adrian Taylor | Medium",
     "link": "https://medium.com/@adetaylor/are-we-reference-yet-c-references-in-rust-72c1c6c7015a"
   },
   {
+    "date": "2022-09-07",
+    "title": "Introducing `cxx-async` – pcwalton – pcwalton's blog",
+    "link": "https://pcwalton.github.io/_posts/2022-08-19-introducing-cxx-async.html"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "A Tour of the Rust and C++ interoperability ecosystem",
+    "link": "https://blog.tetrane.com/2022/Rust-Cxx-interop.html"
+  },
+  {
+    "date": "2021-07-21",
+    "title": "Franzplot: a teaching software (re)written in Rust | wgpu user stories",
+    "link": "https://gfx-rs.github.io/stories/franzplot.html"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "Google Online Security Blog: Rust/C++ interop in the Android Platform",
+    "link": "https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html"
+  },
+  {
+    "date": "2021-05-12",
     "title": "Google Online Security Blog: Integrating Rust Into the Android Open Source Project",
     "link": "https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html"
   },
   {
+    "date": "2021-04-28",
+    "title": "Move Constructors in Rust: Is it possible? · mcyoung",
+    "link": "https://mcyoung.xyz/2021/04/26/move-ctors/"
+  },
+  {
+    "date": "2021-02-24",
     "title": "Integrating Rust and C++ in Firefox - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2021/02/22/integrating-rust-and-c-plus-plus-in-firefox/"
   },
   {
+    "date": "2021-01-13",
     "title": "Expose a Rust Library to Other Languages — Slint Blog",
     "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
   },
   {
+    "date": "2020-12-9-",
     "title": "Safe Interoperability between Rust and C++ with CXX - InfoQ",
     "link": "https://www.infoq.com/news/2020/12/cpp-rust-interop-cxx/"
   },
   {
+    "date": "2020-09-23",
     "title": "Why Not Rust?",
     "link": "https://matklad.github.io//2020/09/20/why-not-rust.html"
   },
   {
+    "date": "2020-08-25",
+    "title": "The problem of safe FFI bindings in Rust - Abubalay",
+    "link": "https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust"
+  },
+  {
+    "date": "2020-08-25",
     "title": "The CXX Debate",
     "link": "https://steveklabnik.com/writing/the-cxx-debate"
   }

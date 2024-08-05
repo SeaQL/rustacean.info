@@ -1,6 +1,17 @@
 [
   {
+    "date": "2023-09-27",
     "title": "Logging in Rust - How to Get Started",
     "link": "https://www.shuttle.rs/blog/2023/09/20/logging-in-rust"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Advanced logging in Rust with log4rs: rotation, retention, patterns, multiple loggers | by Nikita Maslov | Medium",
+    "link": "https://medium.com/nikmas-group/advanced-logging-in-rust-with-log4rs-2d712bb322de"
+  },
+  {
+    "date": "2021-07-14",
+    "title": "A Rust controller for Kubernetes",
+    "link": "https://blog.frankel.ch/start-rust/6/"
   }
 ]

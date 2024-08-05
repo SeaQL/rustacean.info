@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-03-31",
     "title": "AWS Rust Lambdas and Bioinformatics | UMCCR Genomics Platform Group",
     "link": "https://umccr.org/blog/aws-bioinformatics-rust/"
   },
   {
+    "date": "2016-11-08",
     "title": "Rust Performance Testing on Travis CI - BeachApe.",
     "link": "https://beachape.com/blog/2016/11/02/rust-performance-testing-on-travis-ci/"
   }

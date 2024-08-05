@@ -1,9 +1,11 @@
 [
   {
+    "date": "2021-11-17",
     "title": "Monitoring Rust web application with Prometheus and Grafana · Roman Kudryashov's tech blog",
     "link": "https://romankudryashov.com/blog/2021/11/monitoring-rust-web-application/"
   },
   {
+    "date": "2020-06-23",
     "title": "Rust at CNCF | CNCF",
     "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
   }

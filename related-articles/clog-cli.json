@@ -1,9 +1,11 @@
 [
   {
+    "date": "2016-02-01",
     "title": "Rust Guide to CHANGELOG.md. Rust stats on keeping a CHANGELOG.md… | by Autumn Engineering | Medium",
     "link": "https://medium.com/@autumn_eng/guide-to-changelog-md-in-rust-6eb349808fa4"
   },
   {
+    "date": "2015-10-26",
     "title": "Good Practices for Writing Rust Libraries – Pascal Hertleif",
     "link": "https://pascalhertleif.de/artikel/good-practices-for-writing-rust-libraries/"
   }

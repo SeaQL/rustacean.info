@@ -1,26 +1,57 @@
 [
   {
+    "date": "2021-05-05",
     "title": "This Month in Rust OSDev (April 2021) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2021-04/"
   },
   {
+    "date": "2021-01-13",
     "title": "This Month in Rust OSDev (December 2020) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2020-12/"
   },
   {
+    "date": "2020-09-09",
     "title": "This Month in Rust OSDev (August 2020) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2020-08/"
   },
   {
+    "date": "2020-08-04",
     "title": "This Month in Rust OSDev (July 2020) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2020-07/"
   },
   {
+    "date": "2020-06-10",
     "title": "This Month in Rust OSDev (May 2020) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2020-05/"
   },
   {
+    "date": "2020-05-12",
     "title": "This Month in Rust OSDev (April 2020) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2020-04/"
+  },
+  {
+    "date": "2019-09-10",
+    "title": "Updates in August 2019 | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/status-update/2019-09-09/"
+  },
+  {
+    "date": "2019-08-06",
+    "title": "Updates in July 2019 | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/status-update/2019-08-02/"
+  },
+  {
+    "date": "2019-06-04",
+    "title": "Updates in May 2019 | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/status-update/2019-06-03/"
+  },
+  {
+    "date": "2019-05-07",
+    "title": "Updates in April 2019 | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/status-update/2019-05-01/"
+  },
+  {
+    "date": "2019-04-30",
+    "title": "Testing | Writing an OS in Rust",
+    "link": "https://os.phil-opp.com/testing/"
   }
 ]

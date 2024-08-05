@@ -1,9 +1,36 @@
 [
   {
+    "date": "2022-08-03",
+    "title": "Patterns with Rust types",
+    "link": "https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "More Enum Types",
+    "link": "https://blog.yoshuawuyts.com/more-enum-types/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "Why Static Languages Suffer From Complexity",
+    "link": "https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Rust iterators tips and tricks",
+    "link": "https://robinmoussu.gitlab.io/blog/post/2021-03-25_rust_iterators_tips_and_tricks/"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "variadics_analysis.md · GitHub",
+    "link": "https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667"
+  },
+  {
+    "date": "2016-10-04",
     "title": "Itertools 0.5.0",
     "link": "https://bluss.github.io/rust/2016/09/26/itertools-0.5.0/"
   },
   {
+    "date": "2016-09-27",
     "title": "Itertools 0.5.0",
     "link": "http://bluss.github.io/rust/2016/09/26/itertools-0.5.0/"
   }

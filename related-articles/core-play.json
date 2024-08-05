@@ -1,53 +1,121 @@
 [
   {
+    "date": "2023-09-06",
+    "title": "Why Rust is the most admired language among developers - The GitHub Blog",
+    "link": "https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/"
+  },
+  {
+    "date": "2022-05-18",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs"
   },
   {
+    "date": "2022-02-02",
+    "title": "001. 与 Folyd 聊他的 Rust 使用经历 – RustTalk",
+    "link": "https://rusttalk.github.io/podcast/001/"
+  },
+  {
+    "date": "2021-09-15",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs/"
   },
   {
+    "date": "2021-09-01",
+    "title": "RiB Newsletter #27 - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/rib-newsletter-27/"
+  },
+  {
+    "date": "2021-06-02",
     "title": "A Polkadot Postmortem - 24.05.2021",
     "link": "https://polkadot.network/a-polkadot-postmortem-24-05-2021/"
   },
   {
+    "date": "2021-06-02",
     "title": "Careers | Parity Technologies",
     "link": "https://parity.io/jobs"
   },
   {
+    "date": "2021-03-10",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs/#jobs"
   },
   {
+    "date": "2021-03-10",
+    "title": "https://www.parity.io/apply/?gh_jid=4385365003",
+    "link": "https://www.parity.io/apply/?gh_jid=4385365003"
+  },
+  {
+    "date": "2021-03-10",
+    "title": "https://www.parity.io/apply/?gh_jid=4347843003",
+    "link": "https://www.parity.io/apply/?gh_jid=4347843003"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Written in Rust - What is the Rust language used for | Evrone",
+    "link": "https://evrone.com/rust-vs-c"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "RiB Newsletter #16 – Secure Enclaves à la Crab - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-09-30-secure-enclaves-a-la-crab/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "https://www.parity.io/apply/?gh_jid=4170712003",
+    "link": "https://www.parity.io/apply/?gh_jid=4170712003"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "RiB Newsletter #15 – Turbofish in the Blocksea - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-09-02-turbofish-in-the-blocksea/"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "RiB Newsletter #13 – Stuck inside, hacking away - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-07-01-stuck-inside-hacking-away/"
+  },
+  {
+    "date": "2020-06-10",
+    "title": "RiB Newsletter #12 – ZK-Rustups - Rust in Blockchain ❤ rib.rs",
+    "link": "https://rustinblockchain.org/newsletters/2020-06-03-zk-rustups/"
+  },
+  {
+    "date": "2019-11-12",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs/#undefined-rust-core-developer"
   },
   {
+    "date": "2019-10-22",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs/#berlin-rust-core-developer"
   },
   {
+    "date": "2019-09-03",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs/#berlin-blockchain-runtime-engineer"
   },
   {
+    "date": "2019-08-12",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs/#berlin-security-engineer"
   },
   {
+    "date": "2019-04-30",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs/#berlin-developer-advocate"
   },
   {
+    "date": "2019-04-16",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs/#berlin-database-engine-developer"
   },
   {
+    "date": "2019-03-05",
     "title": "Careers | Parity Technologies",
     "link": "https://www.parity.io/jobs/#berlin-tech-ambassador"
   },
   {
+    "date": "2017-05-16",
     "title": "Home | Parity Technologies",
     "link": "https://parity.io/#rust-dev-job"
   }

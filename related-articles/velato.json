@@ -1,9 +1,11 @@
 [
   {
+    "date": "2024-01-31",
     "title": "High performance vector graphic video games | Spencer C. Imbleau’s blog",
     "link": "https://simbleau.github.io/rust/graphics/2023/11/20/using-vello-for-video-games.html"
   },
   {
+    "date": "2023-09-06",
     "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/048/"
   }

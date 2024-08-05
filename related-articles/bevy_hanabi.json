@@ -1,33 +1,46 @@
 [
   {
+    "date": "2024-06-12",
     "title": "Bevy 0.14-rc.2, Powerglove, and Soup!",
     "link": "https://thisweekinbevy.com/issue/2024-06-10-bevy-014-rc2-powerglove-and-soup"
   },
   {
+    "date": "2024-06-05",
     "title": "Tiny Glade, VJ performances, and 2d lighting",
     "link": "https://thisweekinbevy.com/issue/2024-06-03-tiny-glade-vj-performances-and-2d-lighting"
   },
   {
+    "date": "2024-06-05",
+    "title": "This Month in Rust GameDev #51 - May 2024 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/051/"
+  },
+  {
+    "date": "2024-04-17",
     "title": "New Meshes, New Examples, and Compute Shaders",
     "link": "https://thisweekinbevy.com/issue/2024-04-15-new-meshes-new-examples-and-compute-shaders"
   },
   {
+    "date": "2024-04-03",
     "title": "2d Lighting, Particle Systems, Meshlets, and more",
     "link": "https://thisweekinbevy.com/issue/2024-04-01-2d-lighting-particle-systems-meshlets-and-more"
   },
   {
+    "date": "2024-03-20",
     "title": "Foundations, Meetups, and more Bevy Cheatbook updates",
     "link": "https://thisweekinbevy.com/issue/2024-03-18-foundations-meetups-and-more-bevy-cheatbook-updates"
   },
   {
+    "date": "2023-09-06",
     "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/048/"
   },
   {
+    "date": "2023-05-03",
     "title": "This Month in Rust GameDev #44 - March 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/044/"
   },
   {
+    "date": "2022-11-16",
     "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/039/"
   }

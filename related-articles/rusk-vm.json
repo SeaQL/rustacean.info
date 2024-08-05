@@ -1,9 +1,11 @@
 [
   {
+    "date": "2020-09-02",
     "title": "RiB Newsletter #15 – Turbofish in the Blocksea - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-09-02-turbofish-in-the-blocksea/"
   },
   {
+    "date": "2020-06-10",
     "title": "RiB Newsletter #12 – ZK-Rustups - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-06-03-zk-rustups/"
   }

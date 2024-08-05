@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2023-08-30",
+    "title": "We’re Open-Sourcing the Library that Powers 1Password’s Passwordless Authentication | 1Password",
+    "link": "https://blog.1password.com/passkey-crates/"
+  },
+  {
+    "date": "2022-10-05",
+    "title": "impl Future { }",
+    "link": "https://implfuture.dev/blog/rewriting-the-modern-web-in-rust"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Jonas Hietala: Rewriting my blog in Rust for fun and profit",
+    "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
+    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "Making My Website Part 2: The Webserver",
+    "link": "https://www.rotoclone.zone/blog/posts/webserver"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Creating a Robust, Reusable Link-Checker · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/linkchecker/"
+  },
+  {
+    "date": "2020-02-11",
+    "title": "I Made A Thing: Markedit · Michael-F-Bryan",
+    "link": "http://adventures.michaelfbryan.com/posts/markedit/"
+  }
+]

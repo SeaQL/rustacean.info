@@ -1,13 +1,16 @@
 [
   {
+    "date": "2024-06-05",
     "title": "How to build a plugin system in Rust | Arroyo",
     "link": "https://www.arroyo.dev/blog/rust-plugin-systems"
   },
   {
+    "date": "2024-01-31",
     "title": "Arroyo with Micah Wylde - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e04-arroyo"
   },
   {
+    "date": "2023-09-20",
     "title": "Announcing Arroyo 0.6.0 | Arroyo",
     "link": "https://www.arroyo.dev/blog/arroyo-0-6-0"
   }

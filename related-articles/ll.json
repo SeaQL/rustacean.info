@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2023-03-15",
+    "title": "Writing an LLVM backend for the Move language in Rust",
+    "link": "https://brson.github.io/2023/03/12/move-on-llvm"
+  },
+  {
+    "date": "2021-12-01",
+    "title": "LLVM internals, part 4: attributes and attribute groups",
+    "link": "https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups"
+  }
+]

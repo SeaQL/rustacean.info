@@ -1,5 +1,6 @@
 [
   {
+    "date": "2021-04-07",
     "title": "A new Left Recursive PEG Parser Generator for rust | Sean Young's linux ramblings",
     "link": "https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/"
   }

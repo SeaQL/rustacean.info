@@ -1,33 +1,41 @@
 [
   {
+    "date": "2022-08-17",
     "title": "This Month in Rust GameDev #36 - July 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/036/"
   },
   {
+    "date": "2022-01-19",
     "title": "Tutorial: Writing a Tiny Rust Game Engine for Web",
     "link": "https://ianjk.com/game-engine-in-rust/"
   },
   {
+    "date": "2021-12-15",
     "title": "This Month in Rust GameDev #28 - November 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/028/"
   },
   {
+    "date": "2021-10-13",
     "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/026/"
   },
   {
+    "date": "2021-05-12",
     "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/021/"
   },
   {
+    "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"
   },
   {
+    "date": "2021-04-07",
     "title": "Bevy 0.5",
     "link": "https://bevyengine.org/news/bevy-0-5/"
   },
   {
+    "date": "2021-03-24",
     "title": "Tutorial: Writing a tiny Entity Component System in Rust",
     "link": "https://ianjk.com/ecs-in-rust/"
   }

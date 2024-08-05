@@ -1,5 +1,16 @@
 [
   {
+    "date": "2020-01-21",
+    "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "date": "2020-01-07",
+    "title": "I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2020/1/1/async-pressure/"
+  },
+  {
+    "date": "2019-10-08",
     "title": "Tonic: gRPC has come to async/await!",
     "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
   }

@@ -1,17 +1,21 @@
 [
   {
+    "date": "2024-05-01",
     "title": "LogLog Games",
     "link": "https://loglog.games/blog/leaving-rust-gamedev/"
   },
   {
+    "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2020-09-30",
     "title": "Towards principled reactive UI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html"
   },
   {
+    "date": "2019-11-26",
     "title": "Towards a unified theory of reactive UI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html"
   }

@@ -1,17 +1,31 @@
 [
   {
+    "date": "2024-02-14",
     "title": "Speeding up data analysis with Rayon and Rust | The Data Quarry",
     "link": "https://thedataquarry.com/posts/intro-to-rayon/"
   },
   {
+    "date": "2024-02-07",
     "title": "Preprocessing trillions of tokens with Rust | Work | Mainmatter",
     "link": "https://mainmatter.com/cases/aleph-alpha/"
   },
   {
+    "date": "2022-07-06",
+    "title": "Insights of Porting Hugging Face Rust Tokenizers to WASM",
+    "link": "https://blog.mithrilsecurity.io/porting-tokenizers-to-wasm/"
+  },
+  {
+    "date": "2021-08-04",
+    "title": "Deep Learning in Rust with GPU",
+    "link": "https://able.bio/haixuanTao/deep-learning-in-rust-with-gpu--26c53a7f"
+  },
+  {
+    "date": "2021-01-06",
     "title": "Home – NAPI-RS",
     "link": "https://napi.rs"
   },
   {
+    "date": "2020-06-10",
     "title": "A Rust SentencePiece implementation | Rust NLP tales",
     "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
   }

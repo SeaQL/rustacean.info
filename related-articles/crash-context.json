@@ -1,5 +1,6 @@
 [
   {
+    "date": "2022-05-25",
     "title": "Crash reporting in Rust",
     "link": "https://jake-shadle.github.io/crash-reporting/"
   }

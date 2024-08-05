@@ -1,25 +1,46 @@
 [
   {
+    "date": "2023-06-14",
+    "title": "A Beginner’s Guide to Rust Procedural Macros: Creating a JSON Derive Macro | by Kofi Otuo | Dev Genius",
+    "link": "https://medium.com/@otukof/a-beginners-guide-to-rust-procedural-macros-creating-a-json-derive-macro-eb44279e7244"
+  },
+  {
+    "date": "2023-02-08",
+    "title": "Improving Rust compile times to enable adoption of memory safety - Prossimo",
+    "link": "https://www.memorysafety.org/blog/remy-rakic-compile-times/"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "How to speed up the Rust compiler in April 2022 | Nicholas Nethercote",
+    "link": "https://nnethercote.github.io/2022/04/12/how-to-speed-up-the-rust-compiler-in-april-2022.html"
+  },
+  {
+    "date": "2021-08-25",
     "title": "Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume",
     "link": "https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/"
   },
   {
+    "date": "2021-01-27",
     "title": "Introducing usb-ids.rs",
     "link": "https://blog.yossarian.net/2021/01/21/Introducing-usb-ids-rs"
   },
   {
+    "date": "2020-07-14",
     "title": "Building Canrun: A statically typed logic programming library for Rust",
     "link": "https://esimmler.com/building-canrun-part-1/"
   },
   {
+    "date": "2019-01-22",
     "title": "proc-macro-rules",
     "link": "https://www.ncameron.org/blog/proc-macro-rules/"
   },
   {
+    "date": "2019-01-08",
     "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
     "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
   },
   {
+    "date": "2017-01-31",
     "title": "An overview of macros in Rust",
     "link": "http://words.steveklabnik.com/an-overview-of-macros-in-rust"
   }

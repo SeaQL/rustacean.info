@@ -1,13 +1,16 @@
 [
   {
+    "date": "2021-12-08",
     "title": "How to Overriding (Patch) Cargo Dependencies - by YJ Park",
     "link": "https://edger.substack.com/p/how-to-overriding-patch-cargo-dependencies"
   },
   {
+    "date": "2021-09-08",
     "title": "This Month in Rust GameDev #25 - August 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/025/"
   },
   {
+    "date": "2021-05-12",
     "title": "This Month in Rust GameDev #21 - April 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/021/"
   }

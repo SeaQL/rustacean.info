@@ -1,78 +1,427 @@
 [
   {
+    "date": "2024-04-10",
+    "title": "Pavex with Luca Palmieri :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/luca-palmieri-pavex/"
+  },
+  {
+    "date": "2024-03-13",
     "title": "biscotti, a new crate for HTTP cookies | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/biscotti-http-cookies-in-rust/"
   },
   {
+    "date": "2024-02-07",
+    "title": "Rust web frameworks have subpar error reporting | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/rust-web-frameworks-have-subpar-error-reporting/"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "Web development with Rocket",
+    "link": "https://meet-os.com/event/1"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Rocket - logging in the web application",
+    "link": "https://rust.code-maven.com/rocket-logging"
+  },
+  {
+    "date": "2024-01-24",
+    "title": "Rocket - access custom configuration in the routes",
+    "link": "https://rust.code-maven.com/rocket-access-custom-configuration"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "avatar.png",
+    "link": "https://tuckersiemens.com/posts/avatar-png/"
+  },
+  {
+    "date": "2023-12-20",
+    "title": "Getting Started with Rocket in Rust",
+    "link": "https://www.shuttle.rs/blog/2023/12/13/using-rocket-rust"
+  },
+  {
+    "date": "2023-11-22",
+    "title": "Rocket v0.5: Stable, Async, Sentinels, Streams, SSE, Forms, WebSockets, &amp; So Much More - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5/news/2023-11-17-version-0.5/"
+  },
+  {
+    "date": "2023-11-22",
     "title": "Building a Better Foundation for Rocket's Future - Rocket Web Framework",
     "link": "https://rocket.rs/v0.5/news/2023-11-17-rwf2-prelaunch/"
   },
   {
+    "date": "2023-11-22",
     "title": "Rocket - Simple, Fast, Type-Safe Web Framework for Rust",
     "link": "https://rocket.rs"
   },
   {
+    "date": "2023-11-08",
+    "title": "Rocket's 4th v0.5 Release Candidate - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5-rc/news/2023-11-01-version-0.5-rc.4/"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Pavex DevLog #6: designing safe and ergonomic middlewares | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-06/"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Why Rust is the most admired language among developers - The GitHub Blog",
+    "link": "https://github.blog/2023-08-30-why-rust-is-the-most-admired-language-among-developers/"
+  },
+  {
+    "date": "2023-08-30",
     "title": "Best Rust Web Frameworks to Use in 2023",
     "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
   },
   {
+    "date": "2023-06-28",
+    "title": "Auto-Generating &amp; Validating OpenAPI Docs in Rust: A Streamlined Approach with Utoipa and Schemathesis – Identeco",
+    "link": "https://identeco.de/en/blog/generating_and_validating_openapi_docs_in_rust/"
+  },
+  {
+    "date": "2023-05-10",
+    "title": "Episode 1: Hello, World! - The Way of the Crab",
+    "link": "https://wayofthecrab.com/episodes/001/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "A Mirror for Rust: Compile-Time Reflection Report - Shepherd's Oasis",
+    "link": "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
+  },
+  {
+    "date": "2023-05-03",
+    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
+    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
+  },
+  {
+    "date": "2023-03-29",
+    "title": "Rocket's 3rd v0.5 Release Candidate - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5-rc/news/2023-03-23-version-0.5-rc.3/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Battle Of The Backends: Rust vs. Go vs. C# vs. Kotlin - inovex GmbH",
+    "link": "https://www.inovex.de/de/blog/rust-vs-go-vs-c-vs-kotlin/"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "IntelliJ Rust Changelog #187",
+    "link": "https://intellij-rust.github.io/2023/01/30/changelog-187.html"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
+    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
+  },
+  {
+    "date": "2022-11-30",
+    "title": "Building an API in Rust with Rocket.rs and Diesel.rs (Clean Architecture) | by Brook Jeynes | Medium",
+    "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "Ferris Talk #12: Web-APIs mit Rust erstellen | heise online",
+    "link": "https://www.heise.de/hintergrund/Ferris-Talk-12-Web-APIs-mit-Rust-erstellen-7321340.html"
+  },
+  {
+    "date": "2022-10-26",
     "title": "Writing Better Integration Tests with RAII",
     "link": "https://notado.substack.com/p/writing-better-integration-tests"
   },
   {
+    "date": "2022-10-26",
     "title": "Creating a minimal RESTful song request API using Rocket",
     "link": "https://imajindevon.hashnode.dev/rust-rocket-song-request-api"
   },
   {
+    "date": "2022-10-19",
     "title": "Magical handler functions in Rust | Lunatic",
     "link": "https://lunatic.solutions/blog/magic-handler-functions-in-rust/"
   },
   {
+    "date": "2022-08-10",
+    "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
+    "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "Hyper vs Rocket - Low Level vs Batteries included",
+    "link": "https://www.shuttle.rs/blog/2022/06/01/hyper-vs-rocket"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "Rocket's 2nd v0.5 Release Candidate - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5-rc/news/2022-05-09-version-0.5-rc.2/"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "How hard upgrading a Rust JWT library could be? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/upgrading-rust-jwt/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "Building and Deploying a URL shortener with Rust in 10 minutes or less",
+    "link": "https://www.shuttle.rs/blog/2022/03/13/url-shortener"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "Rust on Nails | Cloak",
+    "link": "https://cloak.software/blog/rust-on-nails/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "Making My Website Part 2: The Webserver",
+    "link": "https://www.rotoclone.zone/blog/posts/webserver"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "Rust Web Development with Bastian Gruber :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/043-bastian-gruber/"
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Rocket: A Web Framework for Rust",
+    "link": "https://tech.marksblogg.com/rocket-rust-web-framework.html"
+  },
+  {
+    "date": "2021-09-15",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/61/an-experimental-diesel-based-crud-for-rocket"
   },
   {
+    "date": "2021-06-23",
+    "title": "Making My Website Part 1: Monitoring On A Raspberry Pi",
+    "link": "https://www.rotoclone.zone/blog/posts/raspberry-pi-monitoring"
+  },
+  {
+    "date": "2021-06-09",
+    "title": "Rocket v0.5 Release Candidate - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.5-rc/news/2021-06-09-version-0.5-rc.1/"
+  },
+  {
+    "date": "2021-06-09",
     "title": "First impressions of Rust programming on Solana",
     "link": "https://brson.github.io/2021/06/08/rust-on-solana"
   },
   {
+    "date": "2021-04-21",
+    "title": "Late Night Confessions — Building a Website Using Rust, Rocket, Diesel, and Askama — Part 1 | by Johnny Tordgeman | PerimeterX | Medium",
+    "link": "https://medium.com/perimeterx/late-night-confessions-building-a-website-using-rust-rocket-diesel-and-askama-part-1-aeccade43252"
+  },
+  {
+    "date": "2021-04-21",
     "title": "My journey to understand rust-lang | by David Shawley | Medium",
     "link": "https://daveshawley.medium.com/my-journey-to-understand-rust-lang-28e4cf808b12"
   },
   {
+    "date": "2021-03-31",
+    "title": "Exploring the top Rust web frameworks - LogRocket Blog",
+    "link": "https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Captures in closures and async blocks",
+    "link": "https://www.fpcomplete.com/blog/captures-closures-async/"
+  },
+  {
+    "date": "2021-02-17",
+    "title": "Building an OpenStreetMap app in Rust, Part II | by Tor Hovland | Bekk",
+    "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-ii-933ca8d0c48a"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Written in Rust - What is the Rust language used for | Evrone",
+    "link": "https://evrone.com/rust-vs-c"
+  },
+  {
+    "date": "2020-11-4-",
     "title": "Trisiel Progress: Rewritten in Rust - Xe Iaso",
     "link": "https://christine.website/blog/wasmcloud-progress-domains-2020-10-31"
   },
   {
+    "date": "2020-10-28",
+    "title": "Are we web yet? Yes, and it's freaking fast!",
+    "link": "http://www.arewewebyet.org/"
+  },
+  {
+    "date": "2020-10-21",
+    "title": "Compile Rust for Raspberry Pi ARM | by Tiziano Santoro | The Startup | Medium",
+    "link": "https://medium.com/swlh/compiling-rust-for-raspberry-pi-arm-922b55dbb050"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Types Over Strings: Extensible Architectures in Rust | Will Crichton",
+    "link": "https://willcrichton.net/notes/types-over-strings/"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "Rust 2021 Post · GitHub",
+    "link": "https://gist.github.com/pickfire/3bcceeacf0bae22dd9f03c5053a976e3"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Building web apps with Rust using the Rocket framework - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-web-apps-using-rocket-framework/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "A Simple Crud on Rust (With Rocket.rs and Diesel.rs) | by Luís Von Müller | The Startup | Medium",
+    "link": "https://medium.com/swlh/a-simple-crud-on-rust-with-rocket-rs-and-diesel-rs-e885672cb23d"
+  },
+  {
+    "date": "2020-07-07",
+    "title": "Choosing a Rust web framework, 2020 edition | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-07-04-choosing-a-rust-web-framework-2020-edition/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2020-04-14",
+    "title": "Types Over Strings: Extensible Architectures in Rust | Will Crichton",
+    "link": "http://willcrichton.net/notes/types-over-strings/"
+  },
+  {
+    "date": "2019-05-21",
+    "title": "How to start Rust Chat App. In this post, we will learn how to… | by Steadylearner | Medium",
+    "link": "https://medium.com/@steadylearner/how-to-start-rust-chat-app-499a194d0820"
+  },
+  {
+    "date": "2019-03-12",
+    "title": "Intro to Web Development with Rust for NodeJS Developers | by Bastian Gruber | Level Up Coding",
+    "link": "https://medium.com/@gruberbastian/intro-to-web-programming-in-rust-for-nodejs-developers-1a9c048c4de1"
+  },
+  {
+    "date": "2018-12-11",
+    "title": "Rocket v0.4: Typed URIs, Database Support, Revamped Queries, &amp; More! - Rocket Web Framework",
+    "link": "https://rocket.rs/v0.4/news/2018-12-08-version-0.4/"
+  },
+  {
+    "date": "2018-12-04",
+    "title": "Rust - Passenger Library",
+    "link": "https://www.phusionpassenger.com/docs/advanced_guides/gls/rust.html"
+  },
+  {
+    "date": "2018-11-27",
     "title": "strongly-typed-thoughts.net",
     "link": "https://phaazon.net/blog/rust-traits-privacy"
   },
   {
+    "date": "2018-11-06",
     "title": "strongly-typed-thoughts.net",
     "link": "https://phaazon.net/blog/on-owning-borrowing-pub-interface"
   },
   {
+    "date": "2018-10-09",
     "title": "strongly-typed-thoughts.net",
     "link": "https://phaazon.net/blog/glsl-quasiquoting"
   },
   {
+    "date": "2018-07-24",
     "title": "strongly-typed-thoughts.net",
     "link": "https://phaazon.net/blog/on-rust-impl-block"
   },
   {
+    "date": "2018-06-12",
+    "title": "Actix::From(Rocket)",
+    "link": "https://noyez.gitlab.io/post/2018-06-11-rocket-to-actix/"
+  },
+  {
+    "date": "2018-05-22",
+    "title": "Migrating to Actix Web from Rocket for Stability",
+    "link": "https://nbsoftsolutions.com/blog/migrating-to-actix-web-from-rocket-for-stability"
+  },
+  {
+    "date": "2018-03-27",
+    "title": "Build a CRUD API with Rust. Since my initial Node/Rust REST… | by Sean Wragg | Sean’s Blog | Medium",
+    "link": "https://medium.com/sean3z/building-a-restful-crud-api-with-rust-1867308352d8"
+  },
+  {
+    "date": "2018-03-06",
+    "title": "Why Rust Has Macros · Bloggedy blog",
+    "link": "https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/"
+  },
+  {
+    "date": "2018-03-06",
     "title": "Writing a Microservice in Rust – Peter Goldsborough",
     "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
   },
   {
+    "date": "2018-02-20",
     "title": "strongly-typed-thoughts.net",
     "link": "http://phaazon.net/blog/spectra_plugins"
   },
   {
+    "date": "2017-12-05",
+    "title": "Replacing Elasticsearch with Rust and SQLite",
+    "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"
+  },
+  {
+    "date": "2017-10-24",
+    "title": "How to Deploy a Rocket Application to Heroku - \n      John Hume, duelinmarkers.com",
+    "link": "http://www.duelinmarkers.com/2017/10/21/how-to-deploy-a-rocket-application-to-heroku.html"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "Implementing a bot for Slack in Rust, Rocket and Anterofit - Part 2 | Araz Abishov",
+    "link": "https://abishov.com/2017/08/08/hexocat-bot-part-2.html"
+  },
+  {
+    "date": "2017-07-18",
+    "title": "Rocket v0.3: Fairings, TLS, Private Cookies - Rocket Web Framework",
+    "link": "https://rocket.rs/news/2017-07-14-version-0.3/"
+  },
+  {
+    "date": "2017-07-04",
     "title": "show_notes::cysk::rocket - Rust",
     "link": "http://www.newrustacean.com/show_notes/cysk/rocket/"
   },
   {
+    "date": "2017-05-23",
+    "title": "Rusoto RDS walkthrough · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-walkthrough/"
+  },
+  {
+    "date": "2017-05-16",
+    "title": "Writing a GitHub webhook with Rust! Part 1: Rocket | by Chris | Medium",
+    "link": "https://medium.com/@aergonaut/writing-a-github-webhook-with-rust-part-1-rocket-4426dd06d45d"
+  },
+  {
+    "date": "2017-05-02",
+    "title": "Karol Kuczmarski's Blog – Asynchronous Rust for fun &amp;&nbsp;profit",
+    "link": "http://xion.io/post/programming/rust-async-closer-look.html"
+  },
+  {
+    "date": "2017-04-11",
+    "title": "Launching a URL Shortener in Rust using Rocket | Matthias Endler",
+    "link": "https://matthias-endler.de/2017/rust-url-shortener"
+  },
+  {
+    "date": "2017-02-07",
+    "title": "Rocket v0.2: Managed State &amp; More - Rocket Web Framework",
+    "link": "https://rocket.rs/news/2017-02-06-version-0.2/"
+  },
+  {
+    "date": "2017-01-03",
     "title": "show_notes::news::_2 - Rust",
     "link": "http://www.newrustacean.com/show_notes/news/_2/index.html"
+  },
+  {
+    "date": "2016-12-27",
+    "title": "24 days of Rust - conclusion | siciarz.net",
+    "link": "https://siciarz.net/24-days-rust-conclusion-2016/"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "Introduction · Maud: a compile-time template engine for Rust",
+    "link": "http://lfairy.gitbooks.io/maud/content/"
   }
 ]
