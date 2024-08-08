@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://rustacean.net/assets/rustacean-flat-happy.png"/>
+  <img src="https://rustacean.info/assets/ferris.png"/>
 
   <h1>
     <a href="https://rustacean.info" target="_blank">
