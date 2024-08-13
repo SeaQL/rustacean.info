@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://rustacean.info/sitemap-pages.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rustacean.info/sitemap-crates-000.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://rustacean.info/sitemap-articles-000.xml</loc>
+  </sitemap>
+</sitemapindex>
