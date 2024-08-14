@@ -5,16 +5,6 @@
     "link": "https://github.com/tyt2y3/frozen-hashbrown"
   },
   {
-    "date": "2019-07-27",
-    "title": "Swisstable, a Quick and Dirty Description",
-    "link": "https://faultlore.com/blah/hashbrown-tldr/"
-  },
-  {
-    "date": "2019-03-20",
-    "title": "Why Hashbrown Does A Double-Lookup",
-    "link": "https://faultlore.com/blah/hashbrown-insert/"
-  },
-  {
     "date": "2024-05-29",
     "title": "When allocating unused memory boosts performance by 2x | Quickwit",
     "link": "https://quickwit.io/blog/performance-investigation"
@@ -105,9 +95,19 @@
     "link": "https://matklad.github.io/2020/03/22/fast-simple-rust-interner.html"
   },
   {
+    "date": "2019-07-27",
+    "title": "Swisstable, a Quick and Dirty Description",
+    "link": "https://faultlore.com/blah/hashbrown-tldr/"
+  },
+  {
     "date": "2019-07-16",
     "title": "Announcing Rustacean Station and Rust 1.36 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/000-rust-1.36.0/"
+  },
+  {
+    "date": "2019-03-20",
+    "title": "Why Hashbrown Does A Double-Lookup",
+    "link": "https://faultlore.com/blah/hashbrown-insert/"
   },
   {
     "date": "2019-02-05",

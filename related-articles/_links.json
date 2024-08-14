@@ -108,6 +108,12 @@
     "link": "https://antoniosbarotsis.github.io/posts/efficient-logging/"
   },
   {
+    "crate_name": "hashbrown",
+    "date": "2024-08-05",
+    "title": "Frozen version of Rust standard library's hashbrown",
+    "link": "https://github.com/tyt2y3/frozen-hashbrown"
+  },
+  {
     "crate_name": "indulgence",
     "date": "2024-07-31",
     "title": "Crafting Interpreters with Rust: On Garbage Collection | Tung Le Vo",
@@ -18864,6 +18870,12 @@
     "link": "https://andrewhalle.github.io/build-your-own/gpg"
   },
   {
+    "crate_name": "vtracer",
+    "date": "2020-11-01",
+    "title": "A description of VTracer's tracing algorithm",
+    "link": "https://www.visioncortex.org/vtracer-docs"
+  },
+  {
     "crate_name": "cargo-util",
     "date": "2020-10-28",
     "title": "5x Faster Rust Docker Builds with cargo-chef | Luca Palmieri",
@@ -23364,6 +23376,12 @@
     "link": "http://lucumr.pocoo.org/2019/7/29/dependency-scaling/"
   },
   {
+    "crate_name": "hashbrown",
+    "date": "2019-07-27",
+    "title": "Swisstable, a Quick and Dirty Description",
+    "link": "https://faultlore.com/blah/hashbrown-tldr/"
+  },
+  {
     "crate_name": "psutil",
     "date": "2019-07-23",
     "title": "Announcing heim project · svartalf",
@@ -23914,6 +23932,12 @@
     "date": "2019-03-26",
     "title": "Rust All Hands 2019: Array iterators, Rayon, and more | Red Hat Developer",
     "link": "https://developers.redhat.com/blog/2019/03/22/rust-all-hands-2019-array-iterators-rayon-and-more/"
+  },
+  {
+    "crate_name": "hashbrown",
+    "date": "2019-03-20",
+    "title": "Why Hashbrown Does A Double-Lookup",
+    "link": "https://faultlore.com/blah/hashbrown-insert/"
   },
   {
     "crate_name": "num-traits",
