@@ -5,6 +5,16 @@
     "link": "https://github.com/tyt2y3/frozen-hashbrown"
   },
   {
+    "date": "2019-07-27",
+    "title": "Swisstable, a Quick and Dirty Description",
+    "link": "https://faultlore.com/blah/hashbrown-tldr/"
+  },
+  {
+    "date": "2019-03-20",
+    "title": "Why Hashbrown Does A Double-Lookup",
+    "link": "https://faultlore.com/blah/hashbrown-insert/"
+  },
+  {
     "date": "2024-05-29",
     "title": "When allocating unused memory boosts performance by 2x | Quickwit",
     "link": "https://quickwit.io/blog/performance-investigation"
@@ -55,11 +65,6 @@
     "link": "https://nullderef.com/blog/plugin-impl/"
   },
   {
-    "date": "2022-01-05",
-    "title": "Rust is more portable than C for pngquant/libimagequant",
-    "link": "https://pngquant.org/rust.html"
-  },
-  {
     "date": "2021-07-28",
     "title": "How to Deal with Out-of-memory Conditions in Rust | CrowdStrike",
     "link": "https://www.crowdstrike.com/blog/dealing-with-out-of-memory-conditions-in-rust/"
@@ -90,11 +95,6 @@
     "link": "https://matklad.github.io/2020/12/28/csdi.html"
   },
   {
-    "date": "2020-09-30",
-    "title": "Building even faster interpreters in Rust",
-    "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
-  },
-  {
     "date": "2020-06-10",
     "title": "A Rust SentencePiece implementation | Rust NLP tales",
     "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
@@ -105,29 +105,14 @@
     "link": "https://matklad.github.io/2020/03/22/fast-simple-rust-interner.html"
   },
   {
-    "date": "2019-07-27",
-    "title": "Swisstable, a Quick and Dirty Description",
-    "link": "https://faultlore.com/blah/hashbrown-tldr/"
-  },
-  {
     "date": "2019-07-16",
     "title": "Announcing Rustacean Station and Rust 1.36 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/000-rust-1.36.0/"
   },
   {
-    "date": "2019-03-20",
-    "title": "Why Hashbrown Does A Double-Lookup",
-    "link": "https://faultlore.com/blah/hashbrown-insert/"
-  },
-  {
     "date": "2019-02-05",
     "title": "Learning Rust via Advent of Code",
     "link": "https://www.forrestthewoods.com/blog/learning-rust-via-advent-of-code/"
-  },
-  {
-    "date": "2019-01-29",
-    "title": "Enjoy a slice of QUIC, and Rust!",
-    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
   },
   {
     "date": "2018-11-27",
