@@ -3,20 +3,5 @@
     "date": "2023-09-27",
     "title": "Rust Community Meetup в СПб",
     "link": "https://rurust-saint-petersburg-m.timepad.ru/event/2561864/"
-  },
-  {
-    "date": "2022-02-09",
-    "title": "Вангеры 3D: пример использования Emscripten в Rust / Хабр",
-    "link": "https://habr.com/ru/post/649457/"
-  },
-  {
-    "date": "2019-01-22",
-    "title": "A bot for Starcraft in Rust, C or any other language / Habr",
-    "link": "https://habr.com/en/post/436254/"
-  },
-  {
-    "date": "2014-12-22",
-    "title": "Сравнение Rust и С++ на примерах / Habr",
-    "link": "http://habrahabr.ru/post/225003/"
   }
 ]

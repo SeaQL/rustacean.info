@@ -10,11 +10,6 @@
     "link": "https://www.shuttle.rs/blog/2024/07/31/rust-on-the-backend"
   },
   {
-    "date": "2024-07-31",
-    "title": "How to do named function arguments in Rust | Bon",
-    "link": "https://elastio.github.io/bon/blog/how-to-do-named-function-arguments-in-rust"
-  },
-  {
     "date": "2024-07-17",
     "title": "Build with Naz : Box and Pin exploration in Rust | developerlife.com",
     "link": "https://developerlife.com/2024/07/16/pin-box-dynamic-duo"
