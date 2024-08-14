@@ -20,6 +20,11 @@
     "link": "https://deprogrammaticaipsum.com/the-great-rewriting-in-rust/"
   },
   {
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
+  },
+  {
     "date": "2020-06-23",
     "title": "Rust at CNCF | CNCF",
     "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
@@ -53,15 +58,5 @@
     "date": "2018-04-17",
     "title": "Go: the Good, the Bad and the Ugly",
     "link": "https://bluxte.net/musings/2018/04/10/go-good-bad-ugly/"
-  },
-  {
-    "date": "2017-12-12",
-    "title": "Not Found",
-    "link": "https://buoyant.io/2017/12/05/introducing-conduit/"
-  },
-  {
-    "date": "2017-04-04",
-    "title": "Not Found",
-    "link": "https://blog.buoyant.io/2017/03/29/introducing-linkerd-tcp/"
   }
 ]

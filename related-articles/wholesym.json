@@ -20,11 +20,6 @@
     "link": "https://nnethercote.github.io/2023/07/11/back-end-parallelism-in-the-rust-compiler.html"
   },
   {
-    "date": "2023-05-24",
-    "title": "Pavex, progress report #4: performance is a feature | Luca Palmieri",
-    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-04/"
-  },
-  {
     "date": "2023-04-05",
     "title": "How to speed up the Rust compiler in March 2023 | Nicholas Nethercote",
     "link": "https://nnethercote.github.io/2023/03/24/how-to-speed-up-the-rust-compiler-in-march-2023.html"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2020-08-04",
+    "title": "Tiemoko Ballo",
+    "link": "https://tiemoko.com/blog/blue-team-rust/"
+  },
+  {
     "date": "2019-12-17",
     "title": "James Munns",
     "link": "https://jamesmunns.com/blog/fmt-unreasonably-expensive/"

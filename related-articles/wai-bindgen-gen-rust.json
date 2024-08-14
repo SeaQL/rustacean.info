@@ -26,6 +26,11 @@
   },
   {
     "date": "2022-03-09",
+    "title": "Improving Criterion.rs - Tweag",
+    "link": "https://www.tweag.io/blog/2022-03-03-criterion-rs/"
+  },
+  {
+    "date": "2022-03-09",
     "title": "WebAssembly-Runtime: Wasmer 2.2 liefert mehr Leistung im Singlepass Compiler | heise online",
     "link": "https://www.heise.de/news/WebAssembly-Runtime-Wasmer-2-2-liefert-mehr-Leistung-im-Singlepass-Compiler-6533165.html"
   },

@@ -195,6 +195,11 @@
     "link": "https://gamedev.rs/news/025/"
   },
   {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
+  },
+  {
     "date": "2021-08-10",
     "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/024/"
@@ -213,6 +218,11 @@
     "date": "2020-08-18",
     "title": "The smooth resize test | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/gui/2019/06/21/smooth-resize-test.html"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Making a Game in 48 hours with Rust and WebAssembly",
+    "link": "https://ianjk.com/rust-gamejam/"
   },
   {
     "date": "2019-12-10",

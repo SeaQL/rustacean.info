@@ -45,11 +45,6 @@
     "link": "https://medium.com/perimeterx/late-night-confessions-building-a-website-using-rust-rocket-diesel-and-askama-part-1-aeccade43252"
   },
   {
-    "date": "2021-04-07",
-    "title": "How I Used Rust + Lunatic to Build a TelNet Chat Server With WebAssembly | HackerNoon",
-    "link": "https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg"
-  },
-  {
     "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"

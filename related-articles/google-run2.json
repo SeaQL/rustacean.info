@@ -5,6 +5,11 @@
     "link": "https://modal.com/blog/serverless-http"
   },
   {
+    "date": "2023-10-04",
+    "title": "Rust Vs Go: A Hands-On Comparison",
+    "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
+  },
+  {
     "date": "2020-09-16",
     "title": "What I Learnt from Benchmarking Http4k, Ktor (Kotlin) and Actix v2, v3 (Rust) Microservices – Matěj Laitl a.k.a. strohel – Technical Blog",
     "link": "https://matej.laitl.cz/bench-rust-kotlin-microservices/"

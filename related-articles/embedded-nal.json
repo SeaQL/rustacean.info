@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-04-05",
-    "title": "Building a Classic Mac OS App in Rust - Wesley Moore",
-    "link": "https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/"
-  },
-  {
     "date": "2022-06-29",
     "title": "Call for applications: Knurling-rs Summer of Code 2022 🦀  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/knurling-summer-of-code/"

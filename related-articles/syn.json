@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Debugging a rustc segfault on illumos :: sunshowers",
+    "link": "https://sunshowers.io/posts/rustc-segfault-illumos/"
+  },
+  {
     "date": "2024-07-03",
     "title": "Adding compile-time safety to the AWS SDK with syn’s Visit trait | by Sam Van Overmeire | Jul, 2024 | Medium",
     "link": "https://medium.com/@sam.van.overmeire/adding-compile-time-safety-to-the-aws-sdk-with-syns-visit-trait-57bfbbac8677"
@@ -65,19 +70,9 @@
     "link": "https://cohenarthur.github.io/2023/06/05/rust-derives.html"
   },
   {
-    "date": "2023-05-03",
-    "title": "A Mirror for Rust: Compile-Time Reflection Report - Shepherd's Oasis",
-    "link": "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
-  },
-  {
     "date": "2023-04-26",
     "title": "Guide to Rust procedural macros | developerlife.com",
     "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"
-  },
-  {
-    "date": "2023-04-12",
-    "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
-    "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
   },
   {
     "date": "2022-12-28",
@@ -105,29 +100,9 @@
     "link": "https://y86-dev.github.io/blog/safe-pinned-initialization/overview.html"
   },
   {
-    "date": "2022-09-07",
-    "title": "WCT | HexoSynth Modular Synthesizer in Rust - Devlog #11: VST3/CLAP Plugin Integration",
-    "link": "https://m8geil.de/posts/hexosynth-11/"
-  },
-  {
-    "date": "2022-08-31",
-    "title": "Jonas Hietala: Rewriting my blog in Rust for fun and profit",
-    "link": "https://www.jonashietala.se/blog/2022/08/29/rewriting_my_blog_in_rust_for_fun_and_profit/"
-  },
-  {
     "date": "2022-08-24",
     "title": "State Machines II: an enum-based design",
     "link": "https://blog.yoshuawuyts.com/state-machines-2/"
-  },
-  {
-    "date": "2022-08-10",
-    "title": "WCT | HexoSynth 2022 - Devlog #8 - A Visual DSP Programming Language",
-    "link": "https://m8geil.de/posts/hexosynth-8/"
-  },
-  {
-    "date": "2022-08-03",
-    "title": "WCT | HexoSynth 2022 - Devlog #7 - The DSP JIT Compiler",
-    "link": "https://m8geil.de/posts/hexosynth-7/"
   },
   {
     "date": "2022-07-27",
@@ -221,13 +196,13 @@
   },
   {
     "date": "2020-09-02",
-    "title": "Type-directed metaprogramming in Rust | Will Crichton",
-    "link": "https://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
-  },
-  {
-    "date": "2020-09-02",
     "title": "Objective-Rust // -dealloc",
     "link": "https://belkadan.com/blog/2020/08/Objective-Rust/"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Some Learnings from Implementing a Normalizing Rust Representer · Sean Chen's Blog",
+    "link": "https://seanchen1991.github.io/posts/rust-representer/"
   },
   {
     "date": "2020-07-14",
@@ -255,16 +230,6 @@
     "link": "https://llogiq.github.io/2018/11/10/proc-macro.html"
   },
   {
-    "date": "2018-08-28",
-    "title": "Easy `proc_macro_derive`s with `synstructure` — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2018/08/25/synstruct.html"
-  },
-  {
-    "date": "2018-03-20",
-    "title": "Type-directed metaprogramming in Rust | Will Crichton",
-    "link": "http://willcrichton.net/notes/type-directed-metaprogramming-in-rust/"
-  },
-  {
     "date": "2018-03-06",
     "title": "Why Rust Has Macros · Bloggedy blog",
     "link": "https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/"
@@ -275,28 +240,8 @@
     "link": "http://words.steveklabnik.com/an-overview-of-macros-in-rust"
   },
   {
-    "date": "2017-01-17",
-    "title": "Debugging Rust's new Custom Derive system | Light Fiction",
-    "link": "https://quodlibetor.github.io/posts/debugging-rusts-new-custom-derive-system/"
-  },
-  {
     "date": "2017-01-03",
     "title": "Creating an enum iterator using Macros 1.1 – Christopher Breeden – impl From&lt;Words&gt; for Blog",
     "link": "https://cbreeden.github.io/Macros11/"
-  },
-  {
-    "date": "2016-06-06",
-    "title": "Things you could do with the Rust AST",
-    "link": "http://kamalmarhubi.com/blog/2016/06/02/playing-with-the-rust-ast/"
-  },
-  {
-    "date": "2016-03-28",
-    "title": "Rust Mutation Testing — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2016/03/24/mutest.html"
-  },
-  {
-    "date": "2015-05-04",
-    "title": "Racer on Rust Beta!",
-    "link": "http://phildawes.net/blog/2015/05/02/racer-on-rust-beta/"
   }
 ]

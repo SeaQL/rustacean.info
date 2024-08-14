@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-02-14",
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
+  },
+  {
     "date": "2023-01-11",
     "title": "Introducing OkayWAL: A write-ahead log for Rust",
     "link": "https://bonsaidb.io/blog/introducing-okaywal/"
@@ -48,11 +53,6 @@
     "date": "2021-06-09",
     "title": "From Julia to Rust",
     "link": "https://miguelraz.github.io/blog/juliatorust/"
-  },
-  {
-    "date": "2021-04-14",
-    "title": "Rust in Production: MeiliSearch",
-    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
     "date": "2020-10-21",

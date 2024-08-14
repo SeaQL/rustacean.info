@@ -10,59 +10,9 @@
     "link": "https://www.unscript.net/redblog/posts/trait-impl-macros/"
   },
   {
-    "date": "2023-02-01",
-    "title": "Ordering Numbers, How Hard Can It Be? | orlp.net",
-    "link": "https://orlp.net/blog/ordering-numbers/"
-  },
-  {
-    "date": "2023-01-04",
-    "title": "Parsing TFTP in Rust",
-    "link": "https://tuckersiemens.com/posts/parsing-tftp-in-rust/"
-  },
-  {
-    "date": "2022-10-26",
-    "title": "Rust Embedded Graphics with the MAX7219",
-    "link": "https://apollolabsblog.hashnode.dev/rust-embedded-graphics-with-the-max7219"
-  },
-  {
-    "date": "2022-04-06",
-    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
-    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
-  },
-  {
-    "date": "2022-03-09",
-    "title": "What's New in Rust 1.58 and 1.59 :: Rustacean Station",
-    "link": "https://rustacean-station.org/episode/058-rust-1.58-1.59/"
-  },
-  {
-    "date": "2022-01-26",
-    "title": "println!(\"Hello, World!\")",
-    "link": "https://www.printlnhello.world/blog/publishing-to-crates-io/"
-  },
-  {
-    "date": "2022-01-26",
-    "title": "Taking Rust for a Ride to Azeroth: What writing an AH Scanner in Rust taught me | by Marco Amann | Digital Frontiers — Das Blog | Medium",
-    "link": "https://medium.com/digitalfrontiers/taking-rust-for-a-ride-to-azeroth-what-writing-an-ah-scanner-in-rust-taught-me-58edc936cbb"
-  },
-  {
     "date": "2021-12-08",
     "title": "My Cryptography Final Project - The Codegito",
     "link": "https://codegito.xyz/2021/12/05/cryptography-final-project/"
-  },
-  {
-    "date": "2021-08-10",
-    "title": "Renato Athaydes",
-    "link": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html"
-  },
-  {
-    "date": "2021-04-14",
-    "title": "Easy Cast - KAS blog",
-    "link": "https://kas-gui.github.io/blog/easy-cast.html"
-  },
-  {
-    "date": "2021-02-17",
-    "title": "ThatGeoGuy - Rust is cool – Enums",
-    "link": "https://thatgeoguy.ca/blog/2021/02/15/rust-is-cool-enums/"
   },
   {
     "date": "2020-11-11",
@@ -73,11 +23,6 @@
     "date": "2019-08-27",
     "title": "Polsim - a case study for small-scale scientific computing in Rust · Tinkering",
     "link": "https://tinkering.xyz/polsim/"
-  },
-  {
-    "date": "2019-03-19",
-    "title": "Generics And Zero-cost Abstractions | Luca Palmieri",
-    "link": "https://www.lpalmieri.com/posts/2019-03-12-scientific-computing-a-rust-adventure-part-1-zero-cost-abstractions/"
   },
   {
     "date": "2018-06-26",

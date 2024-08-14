@@ -1,13 +1,13 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Don't Use Preludes And Globs | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/dont-use-preludes-and-globs/"
+  },
+  {
     "date": "2024-03-20",
     "title": "SemVer in Rust: Tooling, Breakage, and Edge Cases — FOSDEM 2024",
     "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
-  },
-  {
-    "date": "2024-03-06",
-    "title": "Replacing PyO3's API without breaking everything downstream by davidhewitt",
-    "link": "https://polar.sh/davidhewitt/posts/replacing-pyo3-api-pt1"
   },
   {
     "date": "2024-02-07",

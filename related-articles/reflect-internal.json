@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-05-03",
-    "title": "A Mirror for Rust: Compile-Time Reflection Report - Shepherd's Oasis",
-    "link": "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
-  },
-  {
     "date": "2021-08-25",
     "title": "Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume",
     "link": "https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/"

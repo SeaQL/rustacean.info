@@ -5,11 +5,6 @@
     "link": "https://grafbase.com/blog/how-we-built-the-grafbase-cli-in-rust"
   },
   {
-    "date": "2023-04-19",
-    "title": "BlogWerx: Improving build times for derive macros by 3x or more",
-    "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
-  },
-  {
     "date": "2022-11-02",
     "title": "Fathomable Rust Macros - GeekLaunch",
     "link": "https://geeklaunch.net/blog/fathomable-rust-macros/"

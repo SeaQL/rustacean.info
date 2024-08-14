@@ -1,30 +1,5 @@
 [
   {
-    "date": "2024-07-03",
-    "title": "Meilisearch 1.9",
-    "link": "https://blog.meilisearch.com/meilisearch-1-9/"
-  },
-  {
-    "date": "2024-05-08",
-    "title": "Meilisearch 1.8",
-    "link": "https://blog.meilisearch.com/meilisearch-1-8/"
-  },
-  {
-    "date": "2024-03-13",
-    "title": "Meilisearch 1.7",
-    "link": "https://blog.meilisearch.com/meilisearch-1-7/"
-  },
-  {
-    "date": "2023-11-22",
-    "title": "Meilisearch v1.5",
-    "link": "https://blog.meilisearch.com/meilisearch-1-5/"
-  },
-  {
-    "date": "2023-08-02",
-    "title": "What’s new in v1.3?",
-    "link": "https://blog.meilisearch.com/v1-3-release/"
-  },
-  {
     "date": "2023-06-07",
     "title": "What's new in v1.2?",
     "link": "https://blog.meilisearch.com/v1-2-release/"

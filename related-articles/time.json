@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-04-03",
-    "title": "EtherCrab 0.4: Distributed Clocks, `io_uring`, Derives, Oh My",
-    "link": "https://wapl.es/ethercrab-0-4-io-uring-derives-ethercat-distributed-clocks/"
-  },
-  {
     "date": "2023-11-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
@@ -20,11 +15,6 @@
     "link": "https://docs.rs/ratatui"
   },
   {
-    "date": "2022-10-26",
-    "title": "Enums and Pattern Matching in Rust",
-    "link": "https://serokell.io/blog/enums-and-pattern-matching"
-  },
-  {
     "date": "2022-07-20",
     "title": "What's new in SeaORM 0.9.0 | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
     "link": "https://www.sea-ql.org/SeaORM/blog/2022-07-17-whats-new-in-0.9.0/"
@@ -35,11 +25,6 @@
     "link": "https://nnethercote.github.io/2022/04/12/how-to-speed-up-the-rust-compiler-in-april-2022.html"
   },
   {
-    "date": "2022-04-06",
-    "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
-    "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
-  },
-  {
     "date": "2022-01-19",
     "title": "Mapping my walks with OSRM and Rust",
     "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
@@ -48,6 +33,11 @@
     "date": "2022-01-12",
     "title": "Crate of the Week second chance list – Brian Kung",
     "link": "https://briankung.dev/2022/01/07/crate-of-the-week-second-chance-list/"
+  },
+  {
+    "date": "2021-12-22",
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
   },
   {
     "date": "2021-10-27",
@@ -65,19 +55,14 @@
     "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   },
   {
+    "date": "2021-08-10",
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
     "date": "2021-02-10",
     "title": "Rust for Clojurists · GitHub",
     "link": "https://gist.github.com/oakes/4af1023b6c5162c6f8f0"
-  },
-  {
-    "date": "2021-01-20",
-    "title": "Rust in Production: 1Password",
-    "link": "https://serokell.io/blog/rust-in-production-1password"
-  },
-  {
-    "date": "2020-06-23",
-    "title": "Rust for Data-Intensive Computation",
-    "link": "https://materialize.io/rust-for-data-intensive-computation/"
   },
   {
     "date": "2018-01-02",

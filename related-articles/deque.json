@@ -1,10 +1,5 @@
 [
   {
-    "date": "2020-06-02",
-    "title": "Rust at OneSignal",
-    "link": "https://onesignal.com/blog/rust-at-onesignal/"
-  },
-  {
     "date": "2016-10-04",
     "title": "Observational equivalence and unsafe code · baby steps",
     "link": "http://smallcultfollowing.com/babysteps/blog/2016/10/02/observational-equivalence-and-unsafe-code/"

@@ -5,11 +5,6 @@
     "link": "https://servo.org/blog/2024/02/28/gamepads-font-fallback-space-jam/"
   },
   {
-    "date": "2023-04-12",
-    "title": "Eight million pixels and counting\n– Custom allocators in Rust",
-    "link": "https://nical.github.io/posts/rust-custom-allocators.html"
-  },
-  {
     "date": "2022-02-09",
     "title": "Sayonara, Mozilla",
     "link": "https://kvark.github.io/mozilla/2022/02/02/leaving-mozilla.html"
@@ -173,11 +168,6 @@
     "date": "2016-08-16",
     "title": "This Week In Servo 74 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
     "link": "https://blog.servo.org/2016/08/08/twis-74/"
-  },
-  {
-    "date": "2016-06-27",
-    "title": "This Week In Servo 69 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
-    "link": "https://blog.servo.org/2016/06/27/twis-69/"
   },
   {
     "date": "2016-06-20",

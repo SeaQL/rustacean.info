@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Jan Veen",
+    "link": "https://j.njsm.de/blog/tracing-rs/"
+  },
+  {
     "date": "2024-06-05",
     "title": "Highlights from “I spent 6 years developing a game in Rust and it just shipped, AMA” | Games by Mason",
     "link": "https://gamesbymason.com/2024/06/01/wor-ama/"

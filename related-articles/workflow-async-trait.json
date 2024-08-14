@@ -18,10 +18,5 @@
     "date": "2020-10-21",
     "title": "Debugging async generator errors in Rust: Staying sane when Rust errors get worse than C++ errors | Meltware",
     "link": "https://meltware.com/2020/10/21/rust-async-nonsense.html"
-  },
-  {
-    "date": "2019-10-29",
-    "title": "why async fn in traits are hard · baby steps",
-    "link": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "0.14.1, tracking change detection, and more rendering examples",
+    "link": "https://thisweekinbevy.com/issue/2024-08-05-0141-tracking-change-detection-and-more-rendering-examples"
+  },
+  {
     "date": "2024-06-19",
     "title": "Meshlets, Stable Interpolation, and Generalized ECS Reactivity with Observers!",
     "link": "https://thisweekinbevy.com/issue/2024-06-17-meshlets-stable-interpolation-and-generalized-ecs-reactivity-with-observers"

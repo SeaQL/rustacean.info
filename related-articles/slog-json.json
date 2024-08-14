@@ -5,11 +5,6 @@
     "link": "https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library"
   },
   {
-    "date": "2022-09-28",
-    "title": "Better Java logging, inspired by Clojure and Rust",
-    "link": "https://mccue.dev/pages/9-25-22-better-java-logging"
-  },
-  {
     "date": "2022-02-16",
     "title": "Rotating log files in Rust, and reassembling them for inspection",
     "link": "https://www.openanalytics.eu/blog/2022/02/15/log-files-in-rust/"
@@ -18,11 +13,6 @@
     "date": "2019-04-09",
     "title": "A Basic Web Application with Rust and Actix-web - zupzup",
     "link": "https://zupzup.org/rust-webapp/"
-  },
-  {
-    "date": "2019-01-29",
-    "title": "Enjoy a slice of QUIC, and Rust!",
-    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
   },
   {
     "date": "2016-12-06",

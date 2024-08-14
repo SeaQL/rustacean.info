@@ -1,10 +1,5 @@
 [
   {
-    "date": "2021-03-17",
-    "title": "100ms delays with Rust on Lambda · Peakscale",
-    "link": "https://www.peakscale.com/100ms-gotcha/"
-  },
-  {
     "date": "2016-10-11",
     "title": "Overview · Serde",
     "link": "https://serde.rs/"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Jan Veen",
+    "link": "https://j.njsm.de/blog/tracing-rs/"
+  },
+  {
     "date": "2023-09-27",
     "title": "Logging in Rust - How to Get Started",
     "link": "https://www.shuttle.rs/blog/2023/09/20/logging-in-rust"

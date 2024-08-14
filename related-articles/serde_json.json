@@ -1,18 +1,18 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "SBOM support in Rust  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/stackable-client/"
+  },
+  {
     "date": "2024-06-12",
-    "title": "From Sender to Receiver: Rust’s Approach to Local File Transfers | by Kofi Otuo | Jun, 2024 | Level Up Coding",
+    "title": "From Sender to Receiver: Rust’s Approach to Local File Transfers | by Kofi Otuo | Level Up Coding",
     "link": "https://medium.com/@otukof/from-sender-to-receiver-rusts-approach-to-local-file-transfers-e6a778020d90"
   },
   {
     "date": "2024-06-12",
     "title": "How to build a Custom Benchmarking Harness in Rust | Bencher - Continuous Benchmarking",
     "link": "https://bencher.dev/learn/benchmarking/rust/custom-harness/"
-  },
-  {
-    "date": "2024-01-24",
-    "title": "Parsing JSON in Rust",
-    "link": "https://www.shuttle.rs/blog/2024/01/18/parsing-json-rust"
   },
   {
     "date": "2023-12-27",
@@ -95,6 +95,11 @@
     "link": "https://burgers.io/custom-logging-in-rust-using-tracing"
   },
   {
+    "date": "2021-06-30",
+    "title": "Type-checked keypaths in Rust",
+    "link": "http://www.cmyr.net/blog/keypaths.html"
+  },
+  {
     "date": "2021-05-26",
     "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-valuable"
@@ -113,11 +118,6 @@
     "date": "2020-09-16",
     "title": "Collecting Data from an API - David MacEachern",
     "link": "https://davidmaceachern.com/posts/collecting-data-from-an-api"
-  },
-  {
-    "date": "2020-09-09",
-    "title": "Deserializing JSON really fast",
-    "link": "https://blog.datalust.co/deserializing-json-really-fast/"
   },
   {
     "date": "2020-09-02",
@@ -143,11 +143,6 @@
     "date": "2019-11-19",
     "title": "Understanding Serde",
     "link": "https://www.joshmcguigan.com/blog/understanding-serde/"
-  },
-  {
-    "date": "2018-10-30",
-    "title": "Parsing logs 230x faster with Rust",
-    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
   },
   {
     "date": "2018-10-16",

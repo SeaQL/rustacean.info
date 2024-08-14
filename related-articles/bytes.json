@@ -10,11 +10,6 @@
     "link": "https://towardsdatascience.com/nine-rules-for-accessing-cloud-files-from-your-rust-code-d456c1e2ceb4"
   },
   {
-    "date": "2024-01-31",
-    "title": "Some recent and notable changes to Rust [LWN.net]",
-    "link": "https://lwn.net/Articles/954033/"
-  },
-  {
     "date": "2024-01-03",
     "title": "Iggy.rs - building message streaming in Rust",
     "link": "https://blog.iggy.rs/posts/building-message-streaming-in-rust/"
@@ -58,11 +53,6 @@
     "date": "2020-11-11",
     "title": "40 Ms Bug | Vorner’s random stuff",
     "link": "https://vorner.github.io/2020/11/06/40-ms-bug.html"
-  },
-  {
-    "date": "2020-07-07",
-    "title": "Small strings in Rust",
-    "link": "https://fasterthanli.me/articles/small-strings-in-rust"
   },
   {
     "date": "2020-06-23",

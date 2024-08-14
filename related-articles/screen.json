@@ -30,6 +30,11 @@
     "link": "https://linebender.org/blog/xilem-2024/"
   },
   {
+    "date": "2024-01-17",
+    "title": "Let's Make an Information Display Part 2: Frontend",
+    "link": "https://blog.stillinbeta.com/2024-01-06-let's-make-an-information-display-part-2.html"
+  },
+  {
     "date": "2023-12-27",
     "title": "Web development in Rust",
     "link": "https://rust.code-maven.com/web"
@@ -55,24 +60,19 @@
     "link": "https://bcnrust.github.io/devbcn-workshop/"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
     "date": "2023-03-29",
     "title": "Introducing Kobold",
     "link": "https://maciej.codes/2023-03-23-kobold.html"
   },
   {
-    "date": "2023-03-01",
-    "title": "Dioxus | An elegant GUI library for Rust",
-    "link": "https://dioxuslabs.com/blog/release-030/"
-  },
-  {
     "date": "2022-12-28",
     "title": "Rust in 2023 - GBurghoorn",
     "link": "https://gburghoorn.com/posts/rust-in-2023/"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "Catch 22! Rust in Review — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2022/12/11/catch22.html"
   },
   {
     "date": "2022-12-14",

@@ -60,11 +60,6 @@
     "link": "https://blog.paulme.ng/posts/2019-06-30-optimizing-jieba-rs-to-be-33percents-faster-than-cppjieba.html"
   },
   {
-    "date": "2018-10-30",
-    "title": "Parsing logs 230x faster with Rust",
-    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
-  },
-  {
     "date": "2017-12-05",
     "title": "Replacing Elasticsearch with Rust and SQLite",
     "link": "https://nbsoftsolutions.com/blog/replacing-elasticsearch-with-rust-and-sqlite"

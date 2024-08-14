@@ -21,11 +21,6 @@
   },
   {
     "date": "2022-10-26",
-    "title": "Enums and Pattern Matching in Rust",
-    "link": "https://serokell.io/blog/enums-and-pattern-matching"
-  },
-  {
-    "date": "2022-10-26",
     "title": "Contention on multi-threaded regex matching | More Stina Blog!",
     "link": "https://morestina.net/blog/1827/multi-threaded-regex"
   },
@@ -55,6 +50,11 @@
     "link": "https://www.freecodecamp.org/news/implement-naive-bayes-with-rust/"
   },
   {
+    "date": "2021-12-22",
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  },
+  {
     "date": "2021-11-10",
     "title": "Discover Hidden Secrets in Git Repos with Rust",
     "link": "https://blog.jonaylor.xyz/discover-hidden-secrets-in-git-repos-with-rust"
@@ -65,9 +65,9 @@
     "link": "https://owengage.com/writing/2021-08-30-how-to-think-of-unwrap/"
   },
   {
-    "date": "2021-01-20",
-    "title": "Rust in Production: 1Password",
-    "link": "https://serokell.io/blog/rust-in-production-1password"
+    "date": "2021-08-10",
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
   },
   {
     "date": "2021-01-13",
@@ -143,11 +143,6 @@
     "date": "2018-11-27",
     "title": "Rust Language Cheat Sheet",
     "link": "https://cheats.rs"
-  },
-  {
-    "date": "2018-10-30",
-    "title": "Parsing logs 230x faster with Rust",
-    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
   },
   {
     "date": "2018-01-30",

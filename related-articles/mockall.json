@@ -20,11 +20,6 @@
     "link": "https://blog.logrocket.com/mocking-rust-mockall-alternatives"
   },
   {
-    "date": "2023-04-12",
-    "title": "How to write a type-level mock library in Rust - Audun Halland",
-    "link": "https://audunhalland.github.io/blog/how-to-write-a-type-level-mock-library-in-rust/"
-  },
-  {
     "date": "2023-01-18",
     "title": "Ferris Talk #13: Rust-Web-APIs und Mocking mit Axum | heise online",
     "link": "https://www.heise.de/hintergrund/Ferris-Talk-13-Rust-Web-APIs-und-Mocking-mit-Axum-7457143.html"

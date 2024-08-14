@@ -28,5 +28,10 @@
     "date": "2022-07-20",
     "title": "Advice for the next dozen Rust GUIs | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
   }
 ]

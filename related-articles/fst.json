@@ -1,15 +1,5 @@
 [
   {
-    "date": "2023-01-11",
-    "title": "Rust vs C++ Formatting | Barry's C++ Blog",
-    "link": "https://brevzin.github.io/c++/2023/01/02/rust-cpp-format/"
-  },
-  {
-    "date": "2022-03-23",
-    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
-    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
-  },
-  {
     "date": "2021-08-18",
     "title": "Index 1,600,000,000 Keys with Automata and Rust - Andrew Gallant's Blog",
     "link": "https://blog.burntsushi.net/transducers/"

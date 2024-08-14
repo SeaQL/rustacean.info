@@ -10,6 +10,11 @@
     "link": "https://www.shuttle.rs/blog/2023/12/06/using-axum-rust"
   },
   {
+    "date": "2023-08-30",
+    "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
+    "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
+  },
+  {
     "date": "2023-08-09",
     "title": "Rust Server Components - Articles - Antonio Pitasi",
     "link": "https://anto.pt/articles/rust-server-components"
@@ -20,13 +25,13 @@
     "link": "https://joeprevite.com/rust-lang-ecosystem"
   },
   {
+    "date": "2018-03-06",
+    "title": "Writing a Microservice in Rust – Peter Goldsborough",
+    "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
+  },
+  {
     "date": "2016-10-11",
     "title": "Using Rust for Webdev as a Hobby Programmer",
     "link": "http://neikos.me/Using_Rust_for_Webdev_as_a_Hobby_Programmer.html"
-  },
-  {
-    "date": "2015-06-08",
-    "title": "Introduction · Maud: a compile-time template engine for Rust",
-    "link": "http://lfairy.gitbooks.io/maud/content/"
   }
 ]

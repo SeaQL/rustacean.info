@@ -1,5 +1,10 @@
 [
   {
+    "date": "2016-05-02",
+    "title": "Multithreaded matrix multiplication in Rust - Part II",
+    "link": "https://athemathmo.github.io/2016/04/25/multithreading-multiplication-2.html"
+  },
+  {
     "date": "2016-04-04",
     "title": "gemm: a rabbit hole",
     "link": "https://bluss.github.io/rust/2016/03/28/a-gemmed-rabbit-hole/"

@@ -8,15 +8,5 @@
     "date": "2017-08-01",
     "title": "Revisiting Rust’s modules · Aaron Turon",
     "link": "https://aturon.github.io/blog/2017/07/26/revisiting-rusts-modules/"
-  },
-  {
-    "date": "2017-01-24",
-    "title": "Site not found · GitHub Pages",
-    "link": "https://withoutboats.github.io/blog/rust/patterns/traits/2017/01/21/handshake-patterns.html"
-  },
-  {
-    "date": "2017-01-10",
-    "title": "Site not found · GitHub Pages",
-    "link": "https://withoutboats.github.io/blog/rust/2017/01/04/the-rust-module-system-is-too-confusing.html"
   }
 ]

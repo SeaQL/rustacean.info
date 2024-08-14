@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "v0.28.0 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v028/"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Don't Use Preludes And Globs | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/dont-use-preludes-and-globs/"
+  },
+  {
     "date": "2024-07-03",
     "title": "Rustlings Rewrite",
     "link": "https://mo8it.com/blog/rustlings-rewrite/"
@@ -13,11 +23,6 @@
     "date": "2024-06-26",
     "title": "v0.27.0 | Ratatui",
     "link": "https://ratatui.rs/highlights/v027/"
-  },
-  {
-    "date": "2024-06-12",
-    "title": "Bevy 0.14-rc.2, Powerglove, and Soup!",
-    "link": "https://thisweekinbevy.com/issue/2024-06-10-bevy-014-rc2-powerglove-and-soup"
   },
   {
     "date": "2024-05-22",
@@ -68,11 +73,6 @@
     "date": "2023-11-29",
     "title": "Oatmeal",
     "link": "https://dustinblackman.com/posts/oatmeal/"
-  },
-  {
-    "date": "2023-11-01",
-    "title": "404 | Ratatui",
-    "link": "https://ratatui.rs/highlights/v0.24.html"
   },
   {
     "date": "2023-08-30",

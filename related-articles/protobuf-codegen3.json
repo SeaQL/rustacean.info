@@ -3,5 +3,20 @@
     "date": "2024-04-10",
     "title": "Fivefold Slower Compared to Go? Optimizing Rust's Protobuf Decoding Performance | Greptime",
     "link": "https://www.greptime.com/blogs/2024-04-09-rust-protobuf-performance"
+  },
+  {
+    "date": "2017-03-21",
+    "title": "Rendering Vector Map Tiles (Rust + asm.js demo) – Pyfisch’s Blog",
+    "link": "https://pyfisch.org/blog/rendering-vector-map-tiles/"
+  },
+  {
+    "date": "2014-12-22",
+    "title": "24 days of Rust - zeromq | siciarz.net",
+    "link": "https://siciarz.net/24-days-of-rust-zeromq/"
+  },
+  {
+    "date": "2014-11-17",
+    "title": "Rewriting Rust Serialization, Part 2.1: Benchmarks - Chasing Rabbits",
+    "link": "http://erickt.github.io/blog/2014/11/11/benchmarks/"
   }
 ]

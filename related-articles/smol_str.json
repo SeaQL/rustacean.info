@@ -10,11 +10,6 @@
     "link": "https://gregstoll.wordpress.com/2021/01/10/parsing-baseball-files-in-rust-instead-of-python-for-an-8x-speedup/"
   },
   {
-    "date": "2020-09-30",
-    "title": "Optimization - Making Rust Code Go Brrrr",
-    "link": "https://aspenuwu.me/posts/rust-optimization.html"
-  },
-  {
     "date": "2020-07-21",
     "title": "Geometric Constraint Solvers Part 1: Algebraic Expressions · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/?utm_source=reddit&utm_medium=social&utm_campaign=constraint-solver-1-expression-trees"

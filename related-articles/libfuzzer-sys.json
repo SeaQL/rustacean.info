@@ -13,10 +13,5 @@
     "date": "2020-08-25",
     "title": "Writing a Test Case Generator for a Programming Language",
     "link": "https://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
-  },
-  {
-    "date": "2017-04-04",
-    "title": "Fuzzing is magic - Or how I found a panic in Rust's regex library",
-    "link": "https://www.nibor.org/blog/fuzzing-is-magic---or-how-i-found-a-panic-in-rusts-regex-library/"
   }
 ]

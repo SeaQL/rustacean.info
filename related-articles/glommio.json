@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Async Rust Challenges in Iroh - Iroh",
+    "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"
+  },
+  {
     "date": "2024-03-06",
     "title": "Designing an Async Runtime for WASI 0.2",
     "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"

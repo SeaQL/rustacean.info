@@ -65,11 +65,6 @@
     "link": "https://sabrinajewson.org/blog/errors"
   },
   {
-    "date": "2023-04-19",
-    "title": "BlogWerx: Improving build times for derive macros by 3x or more",
-    "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
-  },
-  {
     "date": "2023-01-25",
     "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
     "link": "https://johns.codes/blog/build-a-db/part02"
@@ -98,11 +93,6 @@
     "date": "2022-11-02",
     "title": "Fathomable Rust Macros - GeekLaunch",
     "link": "https://geeklaunch.net/blog/fathomable-rust-macros/"
-  },
-  {
-    "date": "2022-10-26",
-    "title": "Enums and Pattern Matching in Rust",
-    "link": "https://serokell.io/blog/enums-and-pattern-matching"
   },
   {
     "date": "2022-08-24",
@@ -150,6 +140,11 @@
     "link": "https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/"
   },
   {
+    "date": "2021-12-22",
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  },
+  {
     "date": "2021-12-15",
     "title": "Rust Error Handling",
     "link": "https://www.unwoundstack.com/blog/rust-error-handling.html"
@@ -158,6 +153,11 @@
     "date": "2021-11-24",
     "title": "Error Handling in Rust with Jane Lusby :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/047-jane-lusby/"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
   },
   {
     "date": "2021-07-07",
@@ -193,11 +193,6 @@
     "date": "2021-01-27",
     "title": "Wrapping errors in Rust",
     "link": "https://edgarluque.com/blog/wrapping-errors-in-rust"
-  },
-  {
-    "date": "2021-01-20",
-    "title": "Rust in Production: 1Password",
-    "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
     "date": "2021-01-20",

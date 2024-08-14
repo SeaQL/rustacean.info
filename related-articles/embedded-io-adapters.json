@@ -45,11 +45,6 @@
     "link": "https://objectdisoriented.evokewonder.com/posts/introducing-rustybot-part-1/"
   },
   {
-    "date": "2020-12-16",
-    "title": "Debug Rust on PineCone BL602 with VSCode and GDB",
-    "link": "https://lupyuen.github.io/articles/debug"
-  },
-  {
     "date": "2020-11-18",
     "title": "Writing an embedded display driver in Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Writing-an-embedded-display-driver-in-Rust/"

@@ -30,11 +30,6 @@
     "link": "https://notgull.net/new-smol-rs-subcrates/"
   },
   {
-    "date": "2023-11-29",
-    "title": "Announcing axum 0.7.0 | Tokio - An asynchronous Rust runtime",
-    "link": "https://tokio.rs/blog/2023-11-27-announcing-axum-0-7-0"
-  },
-  {
     "date": "2023-07-26",
     "title": "A gentle introduction to IMAP",
     "link": "https://duesee.dev/p/a-gentle-introduction-to-imap/"
@@ -58,11 +53,6 @@
     "date": "2023-01-18",
     "title": "Rust | Wasm Workers Server",
     "link": "https://workers.wasmlabs.dev/docs/tutorials/rust-workers/"
-  },
-  {
-    "date": "2022-12-21",
-    "title": "UI development in Rust | Raimundo Saona",
-    "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
   },
   {
     "date": "2022-11-09",
@@ -95,16 +85,6 @@
     "link": "https://www.lpalmieri.com/posts/idempotency/"
   },
   {
-    "date": "2021-10-27",
-    "title": "How Linkerd retries HTTP requests with bodies | Linkerd",
-    "link": "https://linkerd.io/2021/10/26/how-linkerd-retries-http-requests-with-bodies/"
-  },
-  {
-    "date": "2021-09-22",
-    "title": "Combining Axum, Hyper, Tonic, and Tower for hybrid web/gRPC apps: Part 3",
-    "link": "https://www.fpcomplete.com/blog/axum-hyper-tonic-tower-part3"
-  },
-  {
     "date": "2021-09-08",
     "title": "Let’s overtake go/fasthttp with rust/warp | by Gleb Pomykalov | Medium",
     "link": "https://medium.com/@glebpomykalov/lets-overtake-go-fasthttp-with-rust-hyper-b2d1004914f"
@@ -118,11 +98,6 @@
     "date": "2021-05-19",
     "title": "optimizing hashmaps even more",
     "link": "https://blog.yoshuawuyts.com/optimizing-hashmaps-even-more/"
-  },
-  {
-    "date": "2020-11-4-",
-    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
-    "link": "https://alastairreid.github.io/rust-testability/"
   },
   {
     "date": "2020-08-18",
@@ -173,10 +148,5 @@
     "date": "2017-08-15",
     "title": "Gotham web framework",
     "link": "https://gotham.rs/blog"
-  },
-  {
-    "date": "2016-08-16",
-    "title": "Zero-cost futures in Rust · Aaron Turon",
-    "link": "https://aturon.github.io/blog/2016/08/11/futures/"
   }
 ]

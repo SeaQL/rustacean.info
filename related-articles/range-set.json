@@ -1,32 +1,7 @@
 [
   {
-    "date": "2023-12-20",
-    "title": "Boost Rust Code 7x with SIMD: Key Rules | Towards Data Science | Medium | Towards Data Science",
-    "link": "https://medium.com/towards-data-science/nine-rules-for-simd-acceleration-of-your-rust-code-part-2-6a104b3be6f3"
-  },
-  {
-    "date": "2023-12-13",
-    "title": "Boost Rust Code 7x with SIMD: Key Rules | Towards Data Science",
-    "link": "https://towardsdatascience.com/nine-rules-for-simd-acceleration-of-your-rust-code-part-1-c16fe639ce21"
-  },
-  {
-    "date": "2023-10-25",
-    "title": "Nine Rules to Formally Validate Rust Algorithms with Dafny (Part 2) | by Carl M. Kadie | Towards Data Science",
-    "link": "https://medium.com/towards-data-science/nine-rules-to-formally-validate-rust-algorithms-with-dafny-part-2-f2a279686700"
-  },
-  {
-    "date": "2023-10-04",
-    "title": "Nine Rules to Formally Validate Rust Algorithms with&nbsp;Dafny by Carl Kadie &amp; Divyanshu Ranjan | Towards Data Science",
-    "link": "https://towardsdatascience.com/nine-rules-to-formally-validate-rust-algorithms-with-dafny-part-1-5cb8c8a0bb92"
-  },
-  {
     "date": "2023-04-12",
     "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 2) | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-2-da5e6961a0b7"
-  },
-  {
-    "date": "2023-04-05",
-    "title": "Nine Rules for Creating Fast, Safe, and Compatible Data Structures in Rust (Part 1) | by Carl M. Kadie | Towards Data Science",
-    "link": "https://towardsdatascience.com/nine-rules-for-creating-fast-safe-and-compatible-data-structures-in-rust-part-1-c0973092e0a3"
   }
 ]

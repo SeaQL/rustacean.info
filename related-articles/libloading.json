@@ -53,5 +53,10 @@
     "date": "2018-02-20",
     "title": "strongly-typed-thoughts.net",
     "link": "http://phaazon.net/blog/spectra_plugins"
+  },
+  {
+    "date": "2017-05-16",
+    "title": "How to write build.rs scripts properly",
+    "link": "https://kazlauskas.me/entries/writing-proper-buildrs-scripts.html"
   }
 ]

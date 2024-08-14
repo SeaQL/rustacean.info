@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-04-12",
-    "title": "Build faster with Buck2: Our open source build system",
-    "link": "https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/"
-  },
-  {
     "date": "2020-09-30",
     "title": "Towards principled reactive UI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html"

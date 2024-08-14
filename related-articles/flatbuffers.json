@@ -5,6 +5,11 @@
     "link": "https://nullderef.com/blog/plugin-tech/"
   },
   {
+    "date": "2021-03-17",
+    "title": "rkyv is faster than {bincode, capnp, cbor, flatbuffers, postcard, prost, serde_json}",
+    "link": "https://davidkoloski.me/blog/rkyv-is-faster-than/"
+  },
+  {
     "date": "2020-05-05",
     "title": "Rust at Fullstory, Part 2: A Look Inside Our Mobile SDK | Fullstory",
     "link": "https://bionic.fullstory.com/rust-at-fullstory-part-2/"

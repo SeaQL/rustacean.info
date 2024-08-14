@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Debugging a rustc segfault on illumos :: sunshowers",
+    "link": "https://sunshowers.io/posts/rustc-segfault-illumos/"
+  },
+  {
     "date": "2023-09-27",
     "title": "Cross-compiling Rust on Github Actions",
     "link": "https://blog.timhutt.co.uk/cross-compiling-rust/"

@@ -135,11 +135,6 @@
     "link": "https://gamedev.rs/news/020/"
   },
   {
-    "date": "2016-07-12",
-    "title": "Overview of Open Source Game Engines in Rust",
-    "link": "http://www.shadercat.com/overview-of-open-source-game-engines-in-rust/"
-  },
-  {
     "date": "2016-05-02",
     "title": "Graphics and FPL: Porting a Haskell graphics framework to Rust (luminance)",
     "link": "http://phaazon.blogspot.in/2016/04/porting-haskell-graphics-framework-to.html"

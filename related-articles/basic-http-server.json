@@ -3,10 +3,5 @@
     "date": "2022-06-08",
     "title": "Logan Keenan - A Rust Server App Compiled to WASM as an SPA",
     "link": "https://logankeenan.com/posts/a-rust-server-app-compiled-to-wasm-as-an-spa/"
-  },
-  {
-    "date": "2022-04-20",
-    "title": "An Intro to the Sauron web Framework",
-    "link": "https://blog.chainsafe.io/an-intro-to-the-sauron-web-framework-a6093a2ac9eb"
   }
 ]

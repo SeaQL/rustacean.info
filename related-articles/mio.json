@@ -55,11 +55,6 @@
     "link": "https://jake-shadle.github.io/xwin/"
   },
   {
-    "date": "2020-10-21",
-    "title": "Basic non-blocking IO using epoll in Rust - zupzup",
-    "link": "https://zupzup.org/epoll-with-rust/"
-  },
-  {
     "date": "2020-09-30",
     "title": "Are we observable yet? An introduction to Rust telemetry | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-09-27-zero-to-production-4-are-we-observable-yet/"

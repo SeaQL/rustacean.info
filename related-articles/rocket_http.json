@@ -85,16 +85,6 @@
     "link": "https://wayofthecrab.com/episodes/001/"
   },
   {
-    "date": "2023-05-03",
-    "title": "A Mirror for Rust: Compile-Time Reflection Report - Shepherd's Oasis",
-    "link": "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
-    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
-  },
-  {
     "date": "2023-03-29",
     "title": "Rocket's 3rd v0.5 Release Candidate - Rocket Web Framework",
     "link": "https://rocket.rs/v0.5-rc/news/2023-03-23-version-0.5-rc.3/"

@@ -105,11 +105,6 @@
     "link": "https://www.joshfinnie.com/blog/a-command-line-application-in-rust/"
   },
   {
-    "date": "2022-10-26",
-    "title": "Enums and Pattern Matching in Rust",
-    "link": "https://serokell.io/blog/enums-and-pattern-matching"
-  },
-  {
     "date": "2022-10-19",
     "title": "Felix' Blog - The Little Joys of Code: Proc Macros",
     "link": "https://felix-knorr.net/posts/2022-10-14-proc-macros.html"
@@ -155,6 +150,11 @@
     "link": "https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/"
   },
   {
+    "date": "2021-12-22",
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  },
+  {
     "date": "2021-12-15",
     "title": "Rust Error Handling",
     "link": "https://www.unwoundstack.com/blog/rust-error-handling.html"
@@ -168,6 +168,11 @@
     "date": "2021-09-01",
     "title": "Rust Option and Result",
     "link": "https://saidvandeklundert.net/learn/2021-09-01-rust-option-and-result/"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
   },
   {
     "date": "2021-05-19",
@@ -193,11 +198,6 @@
     "date": "2021-01-27",
     "title": "Wrapping errors in Rust",
     "link": "https://edgarluque.com/blog/wrapping-errors-in-rust"
-  },
-  {
-    "date": "2021-01-20",
-    "title": "Rust in Production: 1Password",
-    "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
     "date": "2021-01-13",

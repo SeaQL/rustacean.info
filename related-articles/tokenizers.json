@@ -10,11 +10,6 @@
     "link": "https://mainmatter.com/cases/aleph-alpha/"
   },
   {
-    "date": "2022-07-06",
-    "title": "Insights of Porting Hugging Face Rust Tokenizers to WASM",
-    "link": "https://blog.mithrilsecurity.io/porting-tokenizers-to-wasm/"
-  },
-  {
     "date": "2021-08-04",
     "title": "Deep Learning in Rust with GPU",
     "link": "https://able.bio/haixuanTao/deep-learning-in-rust-with-gpu--26c53a7f"

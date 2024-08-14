@@ -3,10 +3,5 @@
     "date": "2022-04-27",
     "title": "How hard upgrading a Rust JWT library could be? - Orhun's Blog",
     "link": "https://blog.orhun.dev/upgrading-rust-jwt/"
-  },
-  {
-    "date": "2020-10-14",
-    "title": "Learning Rust through open source and live code reviews",
-    "link": "https://loige.co/learning-rust-through-open-source-and-live-code-reviews/"
   }
 ]

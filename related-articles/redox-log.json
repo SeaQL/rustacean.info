@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "System76 with Jeremy Soller - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e07-system76/"
+  },
+  {
     "date": "2024-05-08",
     "title": "This Month in Rust OSDev: April 2024 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2024-04/"
@@ -33,11 +38,6 @@
     "date": "2020-07-21",
     "title": "RSoC: improving drivers and kernel - part 3 (largely io_uring) - Redox - Your Next(Gen) OS",
     "link": "https://redox-os.org/news/io_uring-3/"
-  },
-  {
-    "date": "2019-03-19",
-    "title": "https://fosdem.org/2019/schedule/event/microkernel_written_in_rust/attachments/slides/3258/export/events/attachments/microkernel_written_in_rust/slides/3258/FOSDEM_2019___A_microkernel_written_in_Rust.pdf",
-    "link": "https://fosdem.org/2019/schedule/event/microkernel_written_in_rust/attachments/slides/3258/export/events/attachments/microkernel_written_in_rust/slides/3258/FOSDEM_2019___A_microkernel_written_in_Rust.pdf"
   },
   {
     "date": "2018-01-02",
@@ -133,11 +133,6 @@
     "date": "2017-01-10",
     "title": "fireflowers - The Rust Programming Language, in the words of its practitioners",
     "link": "https://brson.github.io/fireflowers/"
-  },
-  {
-    "date": "2017-01-03",
-    "title": "404 Not Found",
-    "link": "https://redox-os.org/news/rust-is-softwares-salvation-17/"
   },
   {
     "date": "2017-01-03",

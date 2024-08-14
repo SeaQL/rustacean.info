@@ -30,9 +30,9 @@
     "link": "https://nickb.dev/blog/reality-check-for-cloudflare-wasm-workers-and-rust"
   },
   {
-    "date": "2019-03-05",
-    "title": "Building fast interpreters in Rust",
-    "link": "https://blog.cloudflare.com/building-fast-interpreters-in-rust/"
+    "date": "2021-09-15",
+    "title": "Native Rust support on Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/workers-rust-sdk/"
   },
   {
     "date": "2019-01-29",

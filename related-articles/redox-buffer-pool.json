@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "System76 with Jeremy Soller - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e07-system76/"
+  },
+  {
     "date": "2024-05-08",
     "title": "This Month in Rust OSDev: April 2024 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2024-04/"
@@ -120,14 +125,14 @@
     "link": "https://redox-os.org/news/visual-refresh-19/"
   },
   {
+    "date": "2017-01-17",
+    "title": "Rust and the limits of swarm design – Armed and Dangerous",
+    "link": "http://esr.ibiblio.org/?p=7303"
+  },
+  {
     "date": "2017-01-10",
     "title": "fireflowers - The Rust Programming Language, in the words of its practitioners",
     "link": "https://brson.github.io/fireflowers/"
-  },
-  {
-    "date": "2017-01-03",
-    "title": "404 Not Found",
-    "link": "https://redox-os.org/news/rust-is-softwares-salvation-17/"
   },
   {
     "date": "2017-01-03",

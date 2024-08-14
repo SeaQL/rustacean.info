@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-03-01",
-    "title": "When Rust hurts",
-    "link": "https://mmapped.blog/posts/15-when-rust-hurts.html"
-  },
-  {
     "date": "2021-12-15",
     "title": "Bytecode Alliance — Cranelift Progress Report: A Look Back at 2021",
     "link": "https://bytecodealliance.org/articles/cranelift-progress-2021"

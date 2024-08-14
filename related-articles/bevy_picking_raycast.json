@@ -1,8 +1,23 @@
 [
   {
+    "date": "2024-06-19",
+    "title": "Meshlets, Stable Interpolation, and Generalized ECS Reactivity with Observers!",
+    "link": "https://thisweekinbevy.com/issue/2024-06-17-meshlets-stable-interpolation-and-generalized-ecs-reactivity-with-observers"
+  },
+  {
+    "date": "2024-03-20",
+    "title": "Foundations, Meetups, and more Bevy Cheatbook updates",
+    "link": "https://thisweekinbevy.com/issue/2024-03-18-foundations-meetups-and-more-bevy-cheatbook-updates"
+  },
+  {
     "date": "2022-07-13",
     "title": "This Month in Rust GameDev #35 - June 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/035/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/030/"
   },
   {
     "date": "2020-12-16",

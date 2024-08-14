@@ -5,6 +5,11 @@
     "link": "https://firedbg.sea-ql.org/blog/2024-06-30-fizzbuzz-multithread/"
   },
   {
+    "date": "2024-05-22",
+    "title": "The rainbow bridge between sync and async Rust | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-05-20-async-rainbow-bridge/"
+  },
+  {
     "date": "2024-05-08",
     "title": "Building a Redis / Kafka Data Sink | SeaQL",
     "link": "https://www.sea-ql.org/blog/2024-05-05-redis-kafka-data-sink/"

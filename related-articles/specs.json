@@ -43,10 +43,5 @@
     "date": "2016-09-20",
     "title": "Programming Model - gfx-rs nuts and bolts",
     "link": "http://gfx-rs.github.io/2016/09/14/programming-model.html"
-  },
-  {
-    "date": "2016-07-12",
-    "title": "Overview of Open Source Game Engines in Rust",
-    "link": "http://www.shadercat.com/overview-of-open-source-game-engines-in-rust/"
   }
 ]

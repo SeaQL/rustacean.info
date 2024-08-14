@@ -1,28 +1,13 @@
 [
   {
-    "date": "2024-01-31",
-    "title": "Playing with Nom and parser combinators · Andrea Bergia's Website",
-    "link": "https://andreabergia.com/blog/2024/01/playing-with-nom-and-parser-combinators/"
-  },
-  {
-    "date": "2023-10-25",
-    "title": "Analyzing Data 180,000x Faster with Rust",
-    "link": "https://willcrichton.net/notes/k-corrset/"
+    "date": "2024-02-14",
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
   },
   {
     "date": "2022-05-25",
     "title": "BonsaiDb performance update: A deep-dive on file synchronization",
     "link": "https://bonsaidb.io/blog/durable-writes/"
-  },
-  {
-    "date": "2022-05-18",
-    "title": "Audio Libraries Considered Challenging | Tesselode Labs",
-    "link": "https://tesselode.github.io/articles/audio-libraries-considered-challenging/"
-  },
-  {
-    "date": "2022-04-27",
-    "title": "Unlocking greater performance in the MongoDB Rust Driver via raw BSON and zero copy deserialization | patrickfreed's blog",
-    "link": "https://patrickfreed.github.io/rust/2022/04/27/unlocking-greater-performance-in-the-mongodb-rust-driver-via-raw-bson-and-zero-copy-deserialization.html"
   },
   {
     "date": "2021-12-22",
@@ -33,16 +18,6 @@
     "date": "2021-08-10",
     "title": "Rust in Production: Qovery",
     "link": "https://serokell.io/blog/rust-in-production-qovery"
-  },
-  {
-    "date": "2021-04-14",
-    "title": "Rust in Production: MeiliSearch",
-    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
-  },
-  {
-    "date": "2021-03-24",
-    "title": "The magical applications of Zero-Sized Types in Rust - Hardmo.de",
-    "link": "https://www.hardmo.de/article/2021-03-14-zst-proof-types.md"
   },
   {
     "date": "2020-09-02",
@@ -63,10 +38,5 @@
     "date": "2020-04-07",
     "title": "Error Handling in a Correctness-Critical Rust Project | sled-rs.github.io",
     "link": "http://sled.rs/errors"
-  },
-  {
-    "date": "2019-08-12",
-    "title": "followup_hkt_emu.md · GitHub",
-    "link": "https://gist.github.com/edmundsmith/e09d5f473172066c0023ef84ee830cad"
   }
 ]

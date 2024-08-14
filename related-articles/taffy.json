@@ -30,11 +30,6 @@
     "link": "https://bevyengine.org/news/bevy-0-10/"
   },
   {
-    "date": "2023-03-01",
-    "title": "Dioxus | An elegant GUI library for Rust",
-    "link": "https://dioxuslabs.com/blog/release-030/"
-  },
-  {
     "date": "2022-12-14",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/templates-diffing/"

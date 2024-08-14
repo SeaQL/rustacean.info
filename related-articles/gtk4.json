@@ -5,11 +5,6 @@
     "link": "https://relm4.org/blog/posts/announcing_relm4_v0.7/"
   },
   {
-    "date": "2023-02-22",
-    "title": "A long journey: Announcing Relm4 v0.5! | Relm4 blog",
-    "link": "https://relm4.org/blog/posts/announcing_relm4_v0.5"
-  },
-  {
     "date": "2023-02-15",
     "title": "New release – gtk-rs",
     "link": "https://gtk-rs.org/blog/2023/02/10/new-release.html"
@@ -63,10 +58,5 @@
     "date": "2021-08-18",
     "title": "Relm4 beta released 🎉 | Eberhardt blog",
     "link": "https://aaronerhardt.github.io/blog/posts/relm_beta/"
-  },
-  {
-    "date": "2021-04-14",
-    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
-    "link": "https://gamedev.rs/news/020/"
   }
 ]

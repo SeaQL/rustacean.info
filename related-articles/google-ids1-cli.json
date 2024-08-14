@@ -15,11 +15,6 @@
     "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
   },
   {
-    "date": "2023-05-24",
-    "title": "flox | Rust &amp; Nix: Parallels in Complexity Management",
-    "link": "https://floxdev.com/blog/rust-nix-parallels"
-  },
-  {
     "date": "2023-02-22",
     "title": "I love building a startup in Rust. I wouldn't pick it again. | PropelAuth Blog",
     "link": "https://www.propelauth.com/post/i-love-building-a-startup-in-rust-i-wouldnt-pick-it-again"
@@ -60,6 +55,11 @@
     "link": "https://blog.abstractinvoke.com/05-07-unftp.html"
   },
   {
+    "date": "2021-05-26",
+    "title": "Trail of Bits Blog",
+    "link": "https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy"
+  },
+  {
     "date": "2021-01-20",
     "title": "Rust is a hard way to make a web API - macwright.com",
     "link": "https://macwright.com/2021/01/15/rust.html"
@@ -93,6 +93,11 @@
     "date": "2020-05-27",
     "title": "Foreword | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-05-24-zero-to-production-0-foreword/"
+  },
+  {
+    "date": "2019-06-25",
+    "title": "Jason Williams: Let’s build a JavaScript Engine",
+    "link": "https://2019.jsconf.eu/jason-williams/lets-build-a-javascript-engine.html"
   },
   {
     "date": "2018-10-30",

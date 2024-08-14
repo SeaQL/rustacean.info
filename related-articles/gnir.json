@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-02-14",
-    "title": "Rust in Production: Interview with FOSSA",
-    "link": "https://serokell.io/blog/rust-in-production-fossa"
-  },
-  {
     "date": "2023-09-27",
     "title": "My Pure Rust Wishlist - GBurghoorn",
     "link": "https://gburghoorn.com/posts/pure-rust-wishlist/"
@@ -45,11 +40,6 @@
     "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
-    "date": "2021-01-27",
-    "title": "24 Awesome Open-Source Rust Projects",
-    "link": "https://serokell.io/blog/open-source-rust"
-  },
-  {
     "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
@@ -58,6 +48,11 @@
     "date": "2020-10-14",
     "title": "Memory Safe ‘curl’ for a More Secure Internet -  Internet Security Research Group",
     "link": "https://www.abetterinternet.org/post/memory-safe-curl/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
   },
   {
     "date": "2020-01-21",

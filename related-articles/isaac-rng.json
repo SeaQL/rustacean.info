@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-02-14",
-    "title": "Rust in Production: Interview with FOSSA",
-    "link": "https://serokell.io/blog/rust-in-production-fossa"
-  },
-  {
     "date": "2023-04-05",
     "title": "Follow up on cracking ZIP archives in Rust",
     "link": "https://agourlay.github.io/follow-up-cracking-zip-rust/"
@@ -63,11 +58,6 @@
     "date": "2021-04-14",
     "title": "Rust in Production: MeiliSearch",
     "link": "https://serokell.io/blog/rust-in-production-meilisearch"
-  },
-  {
-    "date": "2021-01-27",
-    "title": "24 Awesome Open-Source Rust Projects",
-    "link": "https://serokell.io/blog/open-source-rust"
   },
   {
     "date": "2021-01-20",

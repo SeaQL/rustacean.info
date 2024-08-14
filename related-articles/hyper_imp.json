@@ -50,11 +50,6 @@
     "link": "https://blog.cloudflare.com/introducing-oxy/"
   },
   {
-    "date": "2023-03-01",
-    "title": "ROFL with a LOL: rewriting an NGINX module in Rust",
-    "link": "https://blog.cloudflare.com/rust-nginx-module/"
-  },
-  {
     "date": "2023-02-08",
     "title": "Improving Rust compile times to enable adoption of memory safety - Prossimo",
     "link": "https://www.memorysafety.org/blog/remy-rakic-compile-times/"
@@ -185,11 +180,6 @@
     "link": "https://www.fpcomplete.com/blog/captures-closures-async/"
   },
   {
-    "date": "2021-03-03",
-    "title": "Evolution of kube | probes",
-    "link": "https://clux.github.io/probes/post/2021-02-28-kube-evolution/"
-  },
-  {
     "date": "2021-02-17",
     "title": "The Tokio Upgrade from 0.2 to 1.x · The Fly Blog",
     "link": "https://fly.io/blog/the-tokio-1-x-upgrade/"
@@ -220,6 +210,11 @@
     "link": "https://matej.laitl.cz/bench-actix-rocket/"
   },
   {
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
+  },
+  {
     "date": "2020-06-23",
     "title": "Rust at CNCF | CNCF",
     "link": "https://www.cncf.io/blog/2020/06/22/rust-at-cncf/"
@@ -233,11 +228,6 @@
     "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
-  },
-  {
-    "date": "2020-06-02",
-    "title": "Rust at OneSignal",
-    "link": "https://onesignal.com/blog/rust-at-onesignal/"
   },
   {
     "date": "2020-03-31",

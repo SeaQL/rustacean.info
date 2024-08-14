@@ -1,52 +1,7 @@
 [
   {
-    "date": "2023-06-14",
-    "title": "Iterating on Testing in Rust",
-    "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
-  },
-  {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
-  },
-  {
-    "date": "2023-01-25",
-    "title": "`toml` vs `toml_edit`",
-    "link": "https://epage.github.io/blog/2023/01/toml-vs-toml-edit/"
-  },
-  {
-    "date": "2023-01-18",
-    "title": "clap v4.1, a Rust CLI argument parser",
-    "link": "https://epage.github.io/blog/2023/01/clap-v4-1/"
-  },
-  {
-    "date": "2022-10-12",
-    "title": "What's New in Rust 1.62, 1.63, and 1.64 :: Rustacean Station",
-    "link": "https://rustacean-station.org/episode/rust-1.62-1.63-1.64/"
-  },
-  {
-    "date": "2022-06-29",
-    "title": "What's New in Rust 1.60 and 1.61 :: Rustacean Station",
-    "link": "https://rustacean-station.org/episode/rust-1.60-1.61/"
-  },
-  {
     "date": "2018-06-19",
     "title": "A Trick For Test Maintenance",
     "link": "https://matklad.github.io/2018/06/18/a-trick-for-test-maintenance.html"
-  },
-  {
-    "date": "2018-04-10",
-    "title": "toml::toml - Rust",
-    "link": "https://docs.rs/toml/0.4/toml/macro.toml.html"
-  },
-  {
-    "date": "2016-12-27",
-    "title": "24 days of Rust - app_dirs and preferences | siciarz.net",
-    "link": "https://siciarz.net/24-days-rust-app_dirs-and-preferences/"
-  },
-  {
-    "date": "2016-10-11",
-    "title": "Overview · Serde",
-    "link": "https://serde.rs/"
   }
 ]

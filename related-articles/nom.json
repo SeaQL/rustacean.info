@@ -145,6 +145,11 @@
     "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
   },
   {
+    "date": "2020-07-21",
+    "title": "Rust Closures: Returning `impl Fn` for `move` closures | IV Notes",
+    "link": "https://notes.iveselov.info/programming/rust-closures-combining-move-and-fn"
+  },
+  {
     "date": "2020-07-14",
     "title": "Code and Bitters",
     "link": "https://codeandbitters.com/lets-build-a-parser/"

@@ -48,10 +48,5 @@
     "date": "2019-05-07",
     "title": "Updates in April 2019 | Writing an OS in Rust",
     "link": "https://os.phil-opp.com/status-update/2019-05-01/"
-  },
-  {
-    "date": "2019-04-30",
-    "title": "Testing | Writing an OS in Rust",
-    "link": "https://os.phil-opp.com/testing/"
   }
 ]

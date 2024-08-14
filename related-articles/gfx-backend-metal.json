@@ -140,11 +140,6 @@
     "link": "http://gfx-rs.github.io/2016/09/14/programming-model.html"
   },
   {
-    "date": "2016-07-12",
-    "title": "Overview of Open Source Game Engines in Rust",
-    "link": "http://www.shadercat.com/overview-of-open-source-game-engines-in-rust/"
-  },
-  {
     "date": "2016-02-08",
     "title": "This Week in Amethyst 3 | Amethyst",
     "link": "https://thisweekinamethyst.wordpress.com/2016/02/01/twia-3/"
@@ -153,10 +148,5 @@
     "date": "2016-01-25",
     "title": "Pipeline State Objects - gfx-rs nuts and bolts",
     "link": "http://gfx-rs.github.io/2016/01/22/pso.html"
-  },
-  {
-    "date": "2015-03-09",
-    "title": "Device Abstraction - gfx-rs nuts and bolts",
-    "link": "https://gfx-rs.github.io/2015/03/01/device.html"
   }
 ]

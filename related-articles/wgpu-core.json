@@ -86,11 +86,6 @@
   },
   {
     "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
-    "date": "2023-05-03",
     "title": "Fun and Hackable Tensors in Rust, From Scratch - by Kurt",
     "link": "https://getcode.substack.com/p/fun-and-hackable-tensors-in-rust"
   },
@@ -260,6 +255,11 @@
     "link": "https://gfx-rs.github.io/2021/08/18/release-0.10.html"
   },
   {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
+  },
+  {
     "date": "2021-08-10",
     "title": "This Month in Rust GameDev #24 - July 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/024/"
@@ -295,11 +295,6 @@
     "link": "https://blog.abor.dev/p/making-generative-art-with-rust"
   },
   {
-    "date": "2021-04-14",
-    "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
-    "link": "https://gamedev.rs/news/020/"
-  },
-  {
     "date": "2021-02-03",
     "title": "Release of v0.7 - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2021/02/02/release-0.7.html"
@@ -318,11 +313,6 @@
     "date": "2020-04-21",
     "title": "wgpu-rs on the web - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2020/04/21/wgpu-web.html"
-  },
-  {
-    "date": "2020-03-10",
-    "title": "Nannou Update - WebGPU, capturing frames and more! | Nannou",
-    "link": "https://nannou.cc/posts/nannou_v0.13"
   },
   {
     "date": "2019-10-01",

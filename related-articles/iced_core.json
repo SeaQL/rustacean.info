@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "System76 with Jeremy Soller - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s02e07-system76/"
+  },
+  {
     "date": "2024-07-17",
     "title": "Playing guitar tablatures in Rust",
     "link": "https://agourlay.github.io/ruxguitar-tablature-player/"
@@ -43,16 +48,6 @@
     "date": "2023-09-06",
     "title": "This Month in Rust GameDev #48 - July 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/048/"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
-    "date": "2023-04-26",
-    "title": "Console #154 - An Interview with Giuliano of Sniffnet - Rust app to easily monitor network traffic",
-    "link": "https://console.substack.com/p/console-154#§sniffnet"
   },
   {
     "date": "2023-02-22",

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Overview | Bon",
+    "link": "https://elastio.github.io/bon/docs/guide/overview"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "How to do named function arguments in Rust | Bon",
+    "link": "https://elastio.github.io/bon/blog/how-to-do-named-function-arguments-in-rust"
+  },
+  {
     "date": "2022-12-21",
     "title": "How to build a Rust API with the builder pattern - LogRocket Blog",
     "link": "https://blog.logrocket.com/build-rust-api-builder-pattern/"

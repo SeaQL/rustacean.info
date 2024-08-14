@@ -10,6 +10,11 @@
     "link": "https://zed.dev/blog/videogame"
   },
   {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
+  },
+  {
     "date": "2021-05-26",
     "title": "2D Web Rendering with Rust. I’m playing around with a new project… | by Tom Lagier | Studio Lagier | Medium",
     "link": "https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31"

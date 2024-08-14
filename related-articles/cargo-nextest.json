@@ -5,11 +5,6 @@
     "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
   },
   {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
-  },
-  {
     "date": "2022-11-02",
     "title": "Rustdoc doctests need fixing",
     "link": "https://swatinem.de/blog/fix-rustdoc/"

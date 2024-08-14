@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Panic! At The Async Runtime Shutdown",
+    "link": "https://www.mattkeeter.com/blog/2024-08-01-panic/"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "Jan Veen",
+    "link": "https://j.njsm.de/blog/tracing-rs/"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "tracing tokio resources - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/tracing-tokio-resources/"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Rob Ede - Actix Web, Life as an Open Source Maintainer, Supply-chain Security - timClicks (Tim McNamara)",
+    "link": "https://timclicks.dev/podcast/rob-ede/"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Async Rust Challenges in Iroh - Iroh",
+    "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"
+  },
+  {
     "date": "2024-07-17",
     "title": "Surprises with Rust's `as` (and Python division) | Anna Hope",
     "link": "https://annahope.me/blog/rust-as/"
@@ -13,11 +38,6 @@
     "date": "2024-06-26",
     "title": "tokio waker instrumentation - hēg denu - Hayden\n\t\tStainsby",
     "link": "https://hegdenu.net/posts/tokio-waker-instrumentation/"
-  },
-  {
-    "date": "2024-06-26",
-    "title": "When Is Parallelism Fearless and Zero-Cost with Rust? | Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures",
-    "link": "https://dl.acm.org/doi/10.1145/3626183.3659966"
   },
   {
     "date": "2024-06-19",
@@ -88,6 +108,11 @@
     "date": "2024-02-21",
     "title": "FuturesUnordered and the order of futures",
     "link": "https://without.boats/blog/futures-unordered/"
+  },
+  {
+    "date": "2024-02-14",
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
   },
   {
     "date": "2024-02-14",
@@ -580,11 +605,6 @@
     "link": "https://holmusk.dev/blog/2021-05-29-using-rust.html"
   },
   {
-    "date": "2021-08-25",
-    "title": "Hoes of Tech - Formal Concept Analysis with Rust (3) - Parallization",
-    "link": "https://www.horsal.dev/formal-concept-analysis-with-rust-3-parallization"
-  },
-  {
     "date": "2021-08-10",
     "title": "Rust in Production: Qovery",
     "link": "https://serokell.io/blog/rust-in-production-qovery"
@@ -750,14 +770,29 @@
     "link": "https://www.fosskers.ca/en/blog/rust-software-dev"
   },
   {
+    "date": "2020-08-11",
+    "title": "Two easy ways to test async functions in Rust - x5ff",
+    "link": "https://blog.x5ff.xyz/blog/async-tests-tokio-rust/"
+  },
+  {
     "date": "2020-08-04",
     "title": "Deis Labs",
     "link": "https://deislabs.io/posts/a-heaping-helping-of-stacks/"
   },
   {
     "date": "2020-07-28",
+    "title": "Tutorial | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/tokio/tutorial"
+  },
+  {
+    "date": "2020-07-28",
     "title": "This Week in Rust - Issue 349 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/024-twir-349/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
   },
   {
     "date": "2020-07-21",
@@ -783,11 +818,6 @@
     "date": "2020-06-16",
     "title": "Hyper Traps | Vorner’s random stuff",
     "link": "https://vorner.github.io/2020/04/13/hyper-traps.html"
-  },
-  {
-    "date": "2020-05-27",
-    "title": "Integrating Qt events into Actix and Rust",
-    "link": "https://www.rubdos.be/corona/qt/rust/tokio/actix/2020/05/23/actix-qt.html"
   },
   {
     "date": "2020-05-05",
@@ -910,11 +940,6 @@
     "link": "https://medium.com/@gruberbastian/intro-to-web-programming-in-rust-for-nodejs-developers-1a9c048c4de1"
   },
   {
-    "date": "2019-01-29",
-    "title": "Enjoy a slice of QUIC, and Rust!",
-    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
-  },
-  {
     "date": "2018-12-25",
     "title": "A great 2018, an even better 2019 | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2018-12-recap-2018/"
@@ -965,11 +990,6 @@
     "link": "https://tokio.rs/blog/2018-03-timers/"
   },
   {
-    "date": "2018-03-13",
-    "title": "Announcing the Tokio runtime | Tokio - An asynchronous Rust runtime",
-    "link": "https://tokio.rs/blog/2018-03-tokio-runtime/"
-  },
-  {
     "date": "2018-03-06",
     "title": "Writing a Microservice in Rust – Peter Goldsborough",
     "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
@@ -993,11 +1013,6 @@
     "date": "2017-10-03",
     "title": "Looking into the Future.md · GitHub",
     "link": "https://gist.github.com/Diggsey/6f924bf3f741bcdffd240faee102fe92"
-  },
-  {
-    "date": "2017-09-26",
-    "title": "404: This page could not be found",
-    "link": "https://tokio.rs/blog/tokio-reform/"
   },
   {
     "date": "2017-08-15",
@@ -1030,11 +1045,6 @@
     "link": "https://www.clever-cloud.com/blog/engineering/2017/03/28/lapin-new-rust-amqp-library/"
   },
   {
-    "date": "2017-03-21",
-    "title": "404: This page could not be found",
-    "link": "https://tokio.rs/blog/tokio-io/"
-  },
-  {
     "date": "2017-03-07",
     "title": "The Future With Futures",
     "link": "http://asquera.de/blog/2017-03-01/the-future-with-futures/"
@@ -1043,11 +1053,6 @@
     "date": "2017-02-07",
     "title": "Stupid tricks with Rust higher-order functions and \"impl trait\"",
     "link": "http://integer32.com/2017/02/02/stupid-tricks-with-higher-order-functions.html"
-  },
-  {
-    "date": "2017-01-17",
-    "title": "404: This page could not be found",
-    "link": "https://tokio.rs/blog/tokio-0-1/"
   },
   {
     "date": "2017-01-17",

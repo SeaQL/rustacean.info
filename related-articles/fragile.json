@@ -3,10 +3,5 @@
     "date": "2022-11-23",
     "title": "A Better Way to Borrow in Rust: Stack Tokens | Armin Ronacher's Thoughts and Writings",
     "link": "https://lucumr.pocoo.org/2022/11/23/stack-tokens/"
-  },
-  {
-    "date": "2018-09-25",
-    "title": "How we integrate Rust with C#",
-    "link": "https://blog.getseq.net/rust-at-datalust-how-we-integrate-rust-with-csharp/"
   }
 ]

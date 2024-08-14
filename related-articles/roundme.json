@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Rob Ede - Actix Web, Life as an Open Source Maintainer, Supply-chain Security - timClicks (Tim McNamara)",
+    "link": "https://timclicks.dev/podcast/rob-ede/"
+  },
+  {
     "date": "2024-06-05",
     "title": "Don't Worry About Lifetimes | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/lifetimes/"
@@ -13,6 +18,16 @@
     "date": "2024-05-22",
     "title": "AMP with Carter Schultz - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s02e02-amp/"
+  },
+  {
+    "date": "2024-04-03",
+    "title": "Easy Mode Rust — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2024/03/28/easy.html"
+  },
+  {
+    "date": "2024-02-14",
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
   },
   {
     "date": "2024-01-31",
@@ -60,24 +75,9 @@
     "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
   },
   {
-    "date": "2023-06-28",
-    "title": "Tinkerer - Serde Errors When Deserializing Untagged Enums Are Bad - But Easy to Make Better",
-    "link": "https://www.gustavwengel.dk/serde-untagged-enum-errors-are-bad"
-  },
-  {
     "date": "2023-06-21",
     "title": "Fossil Data Platform Rewritten in Rust 🦀",
     "link": "https://blog.duyet.net/2023/06/fossil-data-platform-written-rust.html"
-  },
-  {
-    "date": "2023-04-05",
-    "title": "Building a Classic Mac OS App in Rust - Wesley Moore",
-    "link": "https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/"
-  },
-  {
-    "date": "2023-04-05",
-    "title": "Rust Tidbits #1 :: The Coded Message",
-    "link": "https://www.thecodedmessage.com/posts/rust-tidbits-1/"
   },
   {
     "date": "2023-03-22",
@@ -100,11 +100,6 @@
     "link": "https://woile.dev/posts/web-app-with-template-in-rust/"
   },
   {
-    "date": "2022-10-26",
-    "title": "Enums and Pattern Matching in Rust",
-    "link": "https://serokell.io/blog/enums-and-pattern-matching"
-  },
-  {
     "date": "2022-09-14",
     "title": "A byte string library for Rust - Andrew Gallant's Blog",
     "link": "https://blog.burntsushi.net/bstr/"
@@ -113,6 +108,11 @@
     "date": "2022-09-07",
     "title": "How to build a (simple) blog using Rust",
     "link": "https://mortenvistisen.com/posts/how-to-build-a-simple-blog-using-rust"
+  },
+  {
+    "date": "2022-09-07",
+    "title": "Maik Klein",
+    "link": "https://maikklein.github.io/unreal-rust-1/"
   },
   {
     "date": "2022-08-17",
@@ -141,13 +141,18 @@
   },
   {
     "date": "2022-06-08",
-    "title": "Fluvio - This Week in Fluvio #35",
+    "title": "This Week in Fluvio #35 | Fluvio",
     "link": "https://www.fluvio.io/news/this-week-in-fluvio-0035/"
   },
   {
     "date": "2022-05-18",
     "title": "Learning Rust - creating a full-text search engine – Rebeca Sarai – A collection of everything that goes in my head",
     "link": "https://www.rsarai.xyz/learning-rust-by-creating-fts-db/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "Rust is hard, yes, but does it matter? | Lobsters",
+    "link": "https://lobste.rs/s/ksj3ii/rust_is_hard_yes_does_it_matter"
   },
   {
     "date": "2022-05-11",
@@ -163,6 +168,11 @@
     "date": "2022-04-27",
     "title": "How hard upgrading a Rust JWT library could be? - Orhun's Blog",
     "link": "https://blog.orhun.dev/upgrading-rust-jwt/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "James Munns",
+    "link": "https://jamesmunns.com/blog/mnemos-initial-release/"
   },
   {
     "date": "2022-01-19",
@@ -221,6 +231,11 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
+    "date": "2021-08-10",
     "title": "Gradients #1: How Do Mina Nodes Communicate? | ChainSafe by Rahul Sharma | ChainSafe",
     "link": "https://medium.com/chainsafe-systems/how-do-mina-nodes-communicate-5a10b80fa253"
   },
@@ -235,6 +250,11 @@
     "link": "https://www.rotoclone.zone/blog/posts/raspberry-pi-monitoring"
   },
   {
+    "date": "2021-06-02",
+    "title": "Taking Rust for a Test Drive  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/rust-test-drive/"
+  },
+  {
     "date": "2021-05-26",
     "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-valuable"
@@ -243,6 +263,11 @@
     "date": "2021-05-19",
     "title": "Plugins in Rust: The Technologies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "How I Implemented /dev/printerfact in Rust - Xe Iaso",
+    "link": "https://christine.website/blog/dev-printerfact-2021-04-17"
   },
   {
     "date": "2021-03-31",
@@ -270,6 +295,11 @@
     "link": "https://radekvit.medium.com/examples-of-declarative-style-in-rust-9fae89c0fea"
   },
   {
+    "date": "2021-01-27",
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
     "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
@@ -285,6 +315,11 @@
     "link": "https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667"
   },
   {
+    "date": "2020-12-16",
+    "title": "Deis Labs",
+    "link": "https://deislabs.io/posts/still-rusting-one-year-later/"
+  },
+  {
     "date": "2020-11-18",
     "title": "Generating a Config File Reference for a CLI Tool in Rust - tarquin-the-brave",
     "link": "https://tarquin-the-brave.github.io/blog/posts/generating-config-reference-rust-cli/"
@@ -293,6 +328,11 @@
     "date": "2020-09-23",
     "title": "Writing a Modern HTTP(S) Tunnel in Rust. | by Eugene Retunsky | Medium",
     "link": "https://medium.com/@xnuter/writing-a-modern-http-s-tunnel-in-rust-56e70d898700"
+  },
+  {
+    "date": "2020-09-23",
+    "title": "TL;DR Rust - Xe Iaso",
+    "link": "https://christine.website/blog/TLDR-rust-2020-09-19"
   },
   {
     "date": "2020-09-02",
@@ -308,6 +348,11 @@
     "date": "2020-09-02",
     "title": "Building web apps with Rust using the Rocket framework - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-web-apps-using-rocket-framework/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
+    "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"
   },
   {
     "date": "2020-08-04",
@@ -360,6 +405,21 @@
     "link": "https://aws.amazon.com/blogs/opensource/aws-sponsorship-of-the-rust-project/"
   },
   {
+    "date": "2019-09-24",
+    "title": "Generic Newtypes: A way to work around the orphan rule | Thomas Eizinger",
+    "link": "https://blog.eizinger.io/8593/generic-newtypes-a-way-to-work-around-the-orphan-rule"
+  },
+  {
+    "date": "2019-08-12",
+    "title": "Runtime Configuration Reloading | Vorner’s random stuff",
+    "link": "https://vorner.github.io/2019/08/11/runtime-configuration-reloading.html"
+  },
+  {
+    "date": "2019-04-30",
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
     "date": "2019-01-29",
     "title": "Exporting Serde types to TypeScript | Non-Recurring Engineering",
     "link": "http://timryan.org/2019/01/22/exporting-serde-types-to-typescript.html"
@@ -368,6 +428,11 @@
     "date": "2019-01-08",
     "title": "Deriving Traits in Rust with Procedural Macros · naftuli.wtf",
     "link": "https://naftuli.wtf/2019/01/02/rust-derive-macros/"
+  },
+  {
+    "date": "2018-10-30",
+    "title": "Parsing logs 230x faster with Rust",
+    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
   },
   {
     "date": "2018-10-16",
@@ -383,6 +448,11 @@
     "date": "2018-07-31",
     "title": "Recommending books (with Rust) - Mostly Engineering",
     "link": "https://maciejkula.github.io/2018/07/27/recommending-books-with-rust/"
+  },
+  {
+    "date": "2018-06-05",
+    "title": "The Secret Life of Cows - Pascal’s Scribbles",
+    "link": "https://deterministic.space/secret-life-of-cows.html"
   },
   {
     "date": "2018-04-17",
@@ -403,6 +473,31 @@
     "date": "2018-03-06",
     "title": "Serializing awkward data with serde - \t\tScrewtape's Notepad",
     "link": "http://zork.net/~st/jottings/Serializing_awkward_data_with_serde.html"
+  },
+  {
+    "date": "2018-02-13",
+    "title": "show_notes::cysk::serde - Rust",
+    "link": "http://www.newrustacean.com/show_notes/cysk/serde/"
+  },
+  {
+    "date": "2018-01-30",
+    "title": "Karol Kuczmarski's Blog – Unfolding a Stream of paginated&nbsp;items",
+    "link": "http://xion.io/post/code/rust-unfold-pagination.html"
+  },
+  {
+    "date": "2018-01-23",
+    "title": "WebRender capture infrastructure",
+    "link": "https://kvark.github.io/webrender/debug/ron/2018/01/23/wr-capture-infra.html"
+  },
+  {
+    "date": "2017-11-07",
+    "title": "Portability concerns with Path · udoprog",
+    "link": "https://udoprog.github.io/rust/2017-11-05/portability-concerns-with-path.html"
+  },
+  {
+    "date": "2017-08-15",
+    "title": "Gotham web framework",
+    "link": "https://gotham.rs/blog"
   },
   {
     "date": "2017-06-27",

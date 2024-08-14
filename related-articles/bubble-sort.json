@@ -5,6 +5,11 @@
     "link": "https://alastairreid.github.io/rust-testability/"
   },
   {
+    "date": "2020-08-11",
+    "title": "Two easy ways to test async functions in Rust - x5ff",
+    "link": "https://blog.x5ff.xyz/blog/async-tests-tokio-rust/"
+  },
+  {
     "date": "2019-01-22",
     "title": "Rust 2019 – Read Rust",
     "link": "https://readrust.net/rust-2019/"

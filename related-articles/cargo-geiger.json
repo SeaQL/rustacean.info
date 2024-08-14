@@ -20,6 +20,11 @@
     "link": "https://fasterthanli.me/articles/whats-in-the-box"
   },
   {
+    "date": "2020-08-04",
+    "title": "Giving Rust Another Shot in 2020 | Mathias Lafeldt",
+    "link": "https://sharpend.io/giving-rust-another-shot-in-2020/"
+  },
+  {
     "date": "2020-06-23",
     "title": "GitHub Action for binary crates installation · svartalf",
     "link": "https://svartalf.info/posts/2020-04-10-github-action-for-binary-crates-installation/"

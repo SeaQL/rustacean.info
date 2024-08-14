@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Rob Ede - Actix Web, Life as an Open Source Maintainer, Supply-chain Security - timClicks (Tim McNamara)",
+    "link": "https://timclicks.dev/podcast/rob-ede/"
+  },
+  {
     "date": "2024-07-03",
     "title": "Master hexagonal architecture in Rust",
     "link": "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust#service-the-heart-of-hexagonal-architecture"
@@ -150,14 +155,14 @@
     "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
   },
   {
+    "date": "2022-10-26",
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
     "date": "2022-08-31",
     "title": "OpenTelemetry Distributed Tracing in Rust | Aspecto",
     "link": "https://www.aspecto.io/blog/distributed-tracing-with-opentelemetry-rust/"
-  },
-  {
-    "date": "2022-08-17",
-    "title": "Get Started with Rust: Structs",
-    "link": "https://serokell.io/blog/structs-in-rust"
   },
   {
     "date": "2022-08-10",
@@ -178,6 +183,11 @@
     "date": "2022-04-20",
     "title": "Rust on Nails | Cloak",
     "link": "https://cloak.software/blog/rust-on-nails/"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
   },
   {
     "date": "2022-03-16",
@@ -260,11 +270,6 @@
     "link": "https://www.lpalmieri.com/posts/error-handling-rust/"
   },
   {
-    "date": "2021-05-19",
-    "title": "Authorization mechanisms in Rust web applications",
-    "link": "https://ddtkey.com/blog/authz-mechanisms-in-Rust/"
-  },
-  {
     "date": "2021-05-12",
     "title": "Building a REST and Web Socket API with Actix and Rust | AGM Projects",
     "link": "https://agmprojects.com/blog/building-a-rest-and-web-socket-api-with-actix.html"
@@ -345,6 +350,16 @@
     "link": "https://serokell.io/blog/rust-guide"
   },
   {
+    "date": "2020-08-11",
+    "title": "How To Bootstrap A Rust Web API From Scratch | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-09-zero-to-production-3-how-to-bootstrap-a-new-rust-web-api-from-scratch/"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Two easy ways to test async functions in Rust - x5ff",
+    "link": "https://blog.x5ff.xyz/blog/async-tests-tokio-rust/"
+  },
+  {
     "date": "2020-08-04",
     "title": "Video recording technology at RustFest - Estada.ch",
     "link": "https://estada.ch/2020/7/30/video-recording-technology-at-rustfest/"
@@ -368,11 +383,6 @@
     "date": "2020-06-16",
     "title": "BlogWerx: The Rust compiler isn't slow; we are.",
     "link": "https://blog.kodewerx.org/2020/06/the-rust-compiler-isnt-slow-we-are.html"
-  },
-  {
-    "date": "2020-05-27",
-    "title": "Integrating Qt events into Actix and Rust",
-    "link": "https://www.rubdos.be/corona/qt/rust/tokio/actix/2020/05/23/actix-qt.html"
   },
   {
     "date": "2020-05-05",

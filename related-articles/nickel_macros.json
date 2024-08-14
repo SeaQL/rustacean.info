@@ -28,15 +28,5 @@
     "date": "2015-07-27",
     "title": "Maniagnosis - Reimplementing ashurbanipal.web in Rust",
     "link": "http://maniagnosis.crsr.net/2015/07/reimplementing-ashurbanipalweb-in-rust.html"
-  },
-  {
-    "date": "2015-06-08",
-    "title": "A Simple Web App in Rust, Part 2b",
-    "link": "http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-2b/"
-  },
-  {
-    "date": "2015-06-08",
-    "title": "A Simple Web App in Rust, Part 1",
-    "link": "http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/"
   }
 ]

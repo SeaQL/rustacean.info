@@ -1,7 +1,0 @@
-[
-  {
-    "date": "2022-01-12",
-    "title": "Adding parallelism to your Rust iterators with `dpc-pariter`",
-    "link": "https://dpc.pw/adding-parallelism-to-your-rust-iterators"
-  }
-]

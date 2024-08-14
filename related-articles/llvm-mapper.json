@@ -5,6 +5,11 @@
     "link": "https://blog.yossarian.net/2021/11/29/LLVM-internals-part-4-attributes-and-attribute-groups"
   },
   {
+    "date": "2021-09-15",
+    "title": "LLVM internals, part 3: from bitcode to IR",
+    "link": "https://blog.yossarian.net/2021/09/14/LLVM-internals-part-3-from-bitcode-to-IR"
+  },
+  {
     "date": "2021-08-18",
     "title": "LLVM internals, part 2: parsing the bitstream",
     "link": "https://blog.yossarian.net/2021/08/10/LLVM-internals-part-2-parsing-the-bitstream"

@@ -28,5 +28,10 @@
     "date": "2021-02-24",
     "title": "Python cryptography, Rust, and Gentoo [LWN.net]",
     "link": "https://lwn.net/Articles/845535/"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "What Is The Minimal Set Of Optimizations Needed For Zero-Cost Abstraction?",
+    "link": "https://robert.ocallahan.org/2020/08/what-is-minimal-set-of-optimizations.html"
   }
 ]

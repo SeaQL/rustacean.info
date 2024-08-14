@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
-  },
-  {
     "date": "2022-10-26",
     "title": "Making Rust attractive for writing GTK applications",
     "link": "https://belmoussaoui.com/blog/15-making-rust-attractive-for-writing-gtk-applications/"

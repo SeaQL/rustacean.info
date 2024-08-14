@@ -5,11 +5,6 @@
     "link": "https://docs.rs/heck"
   },
   {
-    "date": "2023-07-12",
-    "title": "bridging fuzzing and property testing",
-    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
-  },
-  {
     "date": "2021-02-03",
     "title": "Parsing PDF Documents in Rust · Michael-F-Bryan",
     "link": "https://adventures.michaelfbryan.com/posts/parsing-pdfs-in-rust/?utm_source=reddit&utm_medium=social&utm_campaign=parsing-pdf-documents"

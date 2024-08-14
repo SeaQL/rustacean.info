@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "tracing tokio resources - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/tracing-tokio-resources/"
+  },
+  {
     "date": "2024-06-26",
     "title": "tokio waker instrumentation - hēg denu - Hayden\n\t\tStainsby",
     "link": "https://hegdenu.net/posts/tokio-waker-instrumentation/"

@@ -125,6 +125,11 @@
     "link": "https://blog.nindalf.com/posts/rust-2021/"
   },
   {
+    "date": "2020-07-28",
+    "title": "Public Announcement: You Can Now Debug Programs Using GDB on Redox OS - Redox - Your Next(Gen) OS",
+    "link": "https://www.redox-os.org/news/public-announcement-gdb/"
+  },
+  {
     "date": "2020-06-30",
     "title": "Fixing Rust's test suite on RISC-V",
     "link": "https://www.codethink.co.uk/articles/2020/fixing-rusts-test-suite-on-risc-v/"

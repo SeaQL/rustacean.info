@@ -28,5 +28,10 @@
     "date": "2020-09-23",
     "title": "A Bazel Persistent Worker for Rust - Nikhil's blog",
     "link": "https://nikhilism.com/post/2020/bazel-persistent-worker-rust/"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "First impressions of Rust",
+    "link": "https://john-millikin.com/first-impressions-of-rust"
   }
 ]

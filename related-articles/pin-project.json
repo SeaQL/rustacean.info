@@ -1,15 +1,5 @@
 [
   {
-    "date": "2024-07-24",
-    "title": "Pinned places",
-    "link": "https://without.boats/blog/pinned-places/"
-  },
-  {
-    "date": "2024-07-24",
-    "title": "Pin",
-    "link": "https://without.boats/blog/pin/"
-  },
-  {
     "date": "2024-02-07",
     "title": "AsyncWrite and a Tale of Four Implementations | by Razieh Behjati, PhD | ITNEXT",
     "link": "https://medium.com/@razieh.behjati/asyncwrite-and-a-tale-of-four-implementations-e63aef8397f7"
@@ -28,16 +18,6 @@
     "date": "2022-09-28",
     "title": "Overview: Safe Pinned Initialization | blog",
     "link": "https://y86-dev.github.io/blog/safe-pinned-initialization/overview.html"
-  },
-  {
-    "date": "2022-07-20",
-    "title": "How to speed up the Rust compiler in July 2022 | Nicholas Nethercote",
-    "link": "https://nnethercote.github.io/2022/07/20/how-to-speed-up-the-rust-compiler-in-july-2022.html"
-  },
-  {
-    "date": "2022-04-06",
-    "title": "Futures Nostalgia",
-    "link": "https://fasterthanli.me/articles/futures-nostalgia"
   },
   {
     "date": "2022-03-09",
@@ -63,11 +43,6 @@
     "date": "2019-12-24",
     "title": "Announcing Tokio-Compat | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-12-compat/"
-  },
-  {
-    "date": "2019-12-03",
-    "title": "Down and dirty with Future - Rust Crash Course lesson 8",
-    "link": "https://www.snoyman.com/blog/2019/12/rust-crash-course-08-down-dirty-future"
   },
   {
     "date": "2019-09-17",

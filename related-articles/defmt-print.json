@@ -115,11 +115,6 @@
     "link": "https://ferrous-systems.com/blog/knurling-changelog-2/"
   },
   {
-    "date": "2020-09-23",
-    "title": "Knurling-rs changelog #1  - Ferrous Systems",
-    "link": "https://ferrous-systems.com/blog/knurling-changelog-1/"
-  },
-  {
     "date": "2020-09-02",
     "title": "Using `cargo test` for embedded testing with `panic-probe`  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/cargo-test-with-panic-probe/"

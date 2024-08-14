@@ -20,11 +20,6 @@
     "link": "https://vorner.github.io/2021/03/28/const-generic-slipstreem.html"
   },
   {
-    "date": "2020-09-30",
-    "title": "Optimization - Making Rust Code Go Brrrr",
-    "link": "https://aspenuwu.me/posts/rust-optimization.html"
-  },
-  {
     "date": "2020-09-16",
     "title": "Rust 2021",
     "link": "https://hsivonen.fi/rust2021/"

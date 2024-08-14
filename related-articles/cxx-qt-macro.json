@@ -1,5 +1,10 @@
 [
   {
+    "date": "2023-03-29",
+    "title": "A Rustaceans tour of embedded world  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/a-rustacean-tour-of-embedded-world/"
+  },
+  {
     "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"

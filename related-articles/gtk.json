@@ -1,18 +1,8 @@
 [
   {
-    "date": "2024-03-13",
-    "title": "Relm4 is back! Announcing version 0.7 and 0.8 | Relm4 blog",
-    "link": "https://relm4.org/blog/posts/announcing_relm4_v0.7/"
-  },
-  {
     "date": "2024-01-03",
     "title": "Open Source Applications written in Rust",
     "link": "https://rust.code-maven.com/applications"
-  },
-  {
-    "date": "2023-02-22",
-    "title": "A long journey: Announcing Relm4 v0.5! | Relm4 blog",
-    "link": "https://relm4.org/blog/posts/announcing_relm4_v0.5"
   },
   {
     "date": "2023-02-15",
@@ -35,19 +25,9 @@
     "link": "https://belmoussaoui.com/blog/15-making-rust-attractive-for-writing-gtk-applications/"
   },
   {
-    "date": "2022-09-07",
-    "title": "One year of Relm4 | Relm4 blog",
-    "link": "https://relm4.org/blog/posts/one_year_of_relm4/"
-  },
-  {
     "date": "2022-08-10",
     "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"
-  },
-  {
-    "date": "2022-07-27",
-    "title": "Off to new adventures - Announcing Relm4 v0.5 beta! | Relm4 blog",
-    "link": "https://relm4.org/blog/posts/announcing_relm4_v0.5_beta"
   },
   {
     "date": "2022-01-19",
@@ -63,11 +43,6 @@
     "date": "2021-12-08",
     "title": "Speedrunning GUI development in Rust | Eberhardt blog",
     "link": "https://aaronerhardt.github.io/blog/posts/gui_speedrun/"
-  },
-  {
-    "date": "2021-09-08",
-    "title": "Announcing Relm4 v0.1 | Eberhardt blog",
-    "link": "https://aaronerhardt.github.io/blog/posts/announcing_relm4/"
   },
   {
     "date": "2021-08-18",
@@ -130,9 +105,24 @@
     "link": "https://coaxion.net/blog/2018/04/glib-gio-async-operations-and-rust-futures-async-await/"
   },
   {
+    "date": "2017-11-21",
+    "title": "Rust+GNOME Hackfest in Berlin",
+    "link": "https://blog.guillaume-gomez.fr/articles/2017-11-18+Rust%2BGNOME+Hackfest+in+Berlin"
+  },
+  {
+    "date": "2017-09-12",
+    "title": "Exporting a GObject C API from Rust code and using it from C, Python, JavaScript and others – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2017/09/exporting-a-gobject-c-api-from-rust-code-and-using-it-from-c-python-javascript-and-others/"
+  },
+  {
     "date": "2017-08-22",
     "title": "The huge and long awaited release is finally here! – gtk-rs",
     "link": "http://gtk-rs.org/blog/2017/08/20/new-release.html"
+  },
+  {
+    "date": "2017-08-01",
+    "title": "Writing GStreamer Applications in Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2017/07/writing-gstreamer-applications-in-rust/"
   },
   {
     "date": "2017-05-09",
@@ -143,11 +133,6 @@
     "date": "2017-05-09",
     "title": "New crates.io versions available and API improvements – gtk-rs",
     "link": "http://gtk-rs.org/blog/2017/05/06/api-improvements.html"
-  },
-  {
-    "date": "2017-04-25",
-    "title": "Page not found · GitHub Pages",
-    "link": "http://gtk-rs.org/docs-src/tutorial"
   },
   {
     "date": "2016-11-29",

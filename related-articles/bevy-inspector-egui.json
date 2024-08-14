@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-07-10",
+    "title": "Bevy 0.14",
+    "link": "https://bevyengine.org/news/bevy-0-14/"
+  },
+  {
+    "date": "2024-05-29",
+    "title": "Cyberpunk UI, Minecraft simulation, and volumetric destruction",
+    "link": "https://thisweekinbevy.com/issue/2024-05-27-cyberpunk-ui-minecraft-simulation-and-volumetric-destruction"
+  },
+  {
     "date": "2024-02-21",
     "title": "Bevy 0.13",
     "link": "https://bevyengine.org/news/bevy-0-13/"

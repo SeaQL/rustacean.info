@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Async Rust Challenges in Iroh - Iroh",
+    "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"
+  },
+  {
     "date": "2024-05-22",
     "title": "The rainbow bridge between sync and async Rust | SeaQL",
     "link": "https://www.sea-ql.org/blog/2024-05-20-async-rainbow-bridge/"
@@ -18,10 +23,5 @@
     "date": "2021-11-17",
     "title": "Tag1 Joins the Rust Foundation as the First Silver Member | Tag1 Consulting",
     "link": "https://www.tag1consulting.com/blog/tag1-joins-rust-foundation-first-silver-member"
-  },
-  {
-    "date": "2020-09-30",
-    "title": "Optimization - Making Rust Code Go Brrrr",
-    "link": "https://aspenuwu.me/posts/rust-optimization.html"
   }
 ]

@@ -28,15 +28,5 @@
     "date": "2023-03-15",
     "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/043/"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "Ambient",
-    "link": "https://www.ambient.run/post/introducing-ambient"
-  },
-  {
-    "date": "2021-06-16",
-    "title": "Introducing cap-std, a capability-based version of the Rust standard library · sunfishcode's blog",
-    "link": "https://blog.sunfishcode.online/introducing-cap-std/"
   }
 ]

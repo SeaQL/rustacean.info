@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-07-17",
-    "title": "How to make Rust Desktop App with Egui and ChatGPT - OnlyCoiners",
-    "link": "https://www.onlycoiners.com/user/steadylearner/blog/how-to-make-rust-desktop-app-with-egui-and-chatgpt"
-  },
-  {
     "date": "2024-05-01",
     "title": "LogLog Games",
     "link": "https://loglog.games/blog/leaving-rust-gamedev/"
@@ -18,11 +13,6 @@
     "date": "2023-09-20",
     "title": "Three years of Bevy",
     "link": "https://trent.kiwi/bevy-three-years"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
   },
   {
     "date": "2023-03-15",
@@ -60,11 +50,6 @@
     "link": "https://www.fornjot.app/blog/progress-report-2022-11/"
   },
   {
-    "date": "2022-10-19",
-    "title": "This Month in Rust GameDev #38 - September 2022 | Rust GameDev WG",
-    "link": "https://gamedev.rs/news/038/"
-  },
-  {
     "date": "2022-09-21",
     "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
     "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
@@ -73,11 +58,6 @@
     "date": "2022-07-27",
     "title": "Fornjot - Weekly Release - 2022-W30",
     "link": "https://www.fornjot.app/blog/weekly-release/2022-w30/"
-  },
-  {
-    "date": "2022-07-20",
-    "title": "WCT | HexoSynth 2022 - Devlog #5 - Signal Monitors and HexoTK Bugfixing",
-    "link": "https://m8geil.de/posts/hexosynth-5/"
   },
   {
     "date": "2022-07-13",

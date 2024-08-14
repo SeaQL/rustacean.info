@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "v0.28.0 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v028/"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "tracing tokio resources - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/tracing-tokio-resources/"
+  },
+  {
     "date": "2024-06-19",
     "title": "I ported h2spec to Rust (also: codegen!)",
     "link": "https://fasterthanli.me/videos/h2spec-to-rust"
@@ -60,11 +70,6 @@
     "link": "https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/"
   },
   {
-    "date": "2023-05-10",
-    "title": "Breaking semver in Rust by adding a private type, or by adding an import",
-    "link": "https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/"
-  },
-  {
     "date": "2023-04-05",
     "title": "A definitive guide to sealed traits in Rust",
     "link": "https://predr.ag/blog/definitive-guide-to-sealed-traits-in-rust/"
@@ -73,11 +78,6 @@
     "date": "2023-03-08",
     "title": "Re-exporting an enum with a type alias is breaking, but not major",
     "link": "https://predr.ag/blog/re-exporting-enum-with-type-alias-breaking-change-not-major/"
-  },
-  {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
   },
   {
     "date": "2023-02-08",
@@ -118,10 +118,5 @@
     "date": "2022-09-07",
     "title": "Arti 1.0.0 is released: Our Rust Tor implementation is ready for production use. | The Tor Project",
     "link": "https://blog.torproject.org/arti_100_released/"
-  },
-  {
-    "date": "2022-08-31",
-    "title": "Toward fearless cargo update",
-    "link": "https://predr.ag/blog/toward-fearless-cargo-update/"
   }
 ]

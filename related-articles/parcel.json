@@ -1,7 +1,0 @@
-[
-  {
-    "date": "2022-01-19",
-    "title": "Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!",
-    "link": "https://parceljs.org/blog/parcel-css/"
-  }
-]

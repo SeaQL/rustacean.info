@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Code and Bitters",
+    "link": "https://codeandbitters.com/once-upon-a-lazy-init/"
+  },
+  {
     "date": "2024-05-29",
     "title": "Parsing structured environment variables in Rust",
     "link": "https://blog.frankel.ch/structured-env-vars-rust/"
@@ -15,11 +20,6 @@
     "link": "https://tuckersiemens.com/posts/avatar-png/"
   },
   {
-    "date": "2022-10-26",
-    "title": "Enums and Pattern Matching in Rust",
-    "link": "https://serokell.io/blog/enums-and-pattern-matching"
-  },
-  {
     "date": "2022-04-06",
     "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
     "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
@@ -30,6 +30,16 @@
     "link": "https://blog.nindalf.com/posts/rust-stdlib/"
   },
   {
+    "date": "2021-12-22",
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
     "date": "2021-08-10",
     "title": "Renato Athaydes",
     "link": "https://renato.athaydes.com/posts/how-to-write-slow-rust-code-part-2.html"
@@ -38,11 +48,6 @@
     "date": "2021-07-28",
     "title": "BlogWerx: Mutable statics have scary superpowers! Do not use them",
     "link": "https://blog.kodewerx.org/2021/07/mutable-statics-have-scary-superpowers.html"
-  },
-  {
-    "date": "2021-01-20",
-    "title": "Rust in Production: 1Password",
-    "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
     "date": "2020-11-11",

@@ -25,6 +25,11 @@
     "link": "https://tylerjw.dev/posts/rust-cpp-interop/"
   },
   {
+    "date": "2024-01-24",
+    "title": "Pq-sys 0.5.0 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/pq-sys-05/"
+  },
+  {
     "date": "2024-01-10",
     "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
     "link": "https://thewolfsound.com/talk016/"
@@ -43,11 +48,6 @@
     "date": "2023-08-16",
     "title": "Our latest adventures with bindgen  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/bindgen/"
-  },
-  {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
   },
   {
     "date": "2023-03-15",
@@ -76,7 +76,7 @@
   },
   {
     "date": "2022-12-14",
-    "title": "Shopify Embraces Rust for Systems Programming",
+    "title": "Shopify Embraces Rust for Systems Programming - Shopify",
     "link": "https://shopify.engineering/shopify-rust-systems-programming"
   },
   {
@@ -106,8 +106,13 @@
   },
   {
     "date": "2022-05-18",
-    "title": "Our Experience Porting the YJIT Ruby Compiler to Rust",
+    "title": "Our Experience Porting the YJIT Ruby Compiler to Rust - Shopify",
     "link": "https://shopify.engineering/porting-yjit-ruby-compiler-to-rust"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
   },
   {
     "date": "2022-03-23",
@@ -143,6 +148,11 @@
     "date": "2021-05-12",
     "title": "Google Online Security Blog: Integrating Rust Into the Android Open Source Project",
     "link": "https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
     "date": "2021-02-24",
@@ -193,6 +203,11 @@
     "date": "2020-08-25",
     "title": "The problem of safe FFI bindings in Rust - Abubalay",
     "link": "https://www.abubalay.com/blog/2020/08/22/safe-bindings-in-rust"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
   },
   {
     "date": "2020-08-11",

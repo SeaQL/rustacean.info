@@ -10,6 +10,11 @@
     "link": "https://edgarluque.com/blog/mlir-with-rust/"
   },
   {
+    "date": "2020-08-11",
+    "title": "Building a Brainf*ck Compiler with Rust and LLVM – Ben Konz – (λ x . x Konz) Benjamin",
+    "link": "https://benkonz.github.io/building-a-brainfuck-compiler-with-rust-and-llvm/"
+  },
+  {
     "date": "2020-06-10",
     "title": "Introduction - Create Your Own Programming Language with Rust",
     "link": "https://createlang.rs/"

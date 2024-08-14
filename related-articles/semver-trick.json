@@ -10,11 +10,6 @@
     "link": "https://medium.com/volvo-cars-engineering/looking-for-bad-apples-in-rust-dependency-trees-using-graphql-and-trustfall-cb88b835f652"
   },
   {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
-  },
-  {
     "date": "2022-10-12",
     "title": "What's New in Rust 1.62, 1.63, and 1.64 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/rust-1.62-1.63-1.64/"

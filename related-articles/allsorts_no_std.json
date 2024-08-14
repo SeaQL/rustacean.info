@@ -1,13 +1,13 @@
 [
   {
-    "date": "2023-04-05",
-    "title": "Building a Classic Mac OS App in Rust - Wesley Moore",
-    "link": "https://www.wezm.net/v2/posts/2023/rust-classic-mac-os-app/"
-  },
-  {
     "date": "2023-03-15",
     "title": "Leveraging Rust and the GPU to render user interfaces at 120 FPS",
     "link": "https://zed.dev/blog/videogame"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
   },
   {
     "date": "2021-07-21",

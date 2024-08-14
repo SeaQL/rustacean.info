@@ -5,11 +5,6 @@
     "link": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
     "date": "2023-01-04",
     "title": "Zero-dependency random number generation in Rust - Orhun's Blog",
     "link": "https://blog.orhun.dev/zero-deps-random-in-rust"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "This month in Servo: console logging, parallel tables, OpenXR, and more! - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://servo.org/blog/2024/07/31/this-month-in-servo/"
+  },
+  {
     "date": "2022-01-19",
     "title": "Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!",
     "link": "https://parceljs.org/blog/parcel-css/"

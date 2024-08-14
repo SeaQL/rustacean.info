@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "v0.28.0 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v028/"
+  },
+  {
     "date": "2024-05-22",
     "title": "v0.26.3 | Ratatui",
     "link": "https://ratatui.rs/highlights/v0263/"
@@ -28,11 +33,6 @@
     "date": "2023-05-10",
     "title": "Episode 1: Hello, World! - The Way of the Crab",
     "link": "https://wayofthecrab.com/episodes/001/"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "Pretty Rust backtraces in raw terminal mode | Andy Hippo",
-    "link": "https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/"
   },
   {
     "date": "2022-08-03",

@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-06-19",
-    "title": "Using Tauri to build a cross-platform security app",
-    "link": "https://www.firezone.dev/blog/using-tauri"
-  },
-  {
     "date": "2024-03-13",
     "title": "Rust impact on engineering management | by Bastien Vigneron | Medium",
     "link": "https://bastienvigneron.medium.com/rust-impact-on-engineering-management-59647e5d0265"

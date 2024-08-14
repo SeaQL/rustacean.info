@@ -1,7 +1,0 @@
-[
-  {
-    "date": "2022-03-09",
-    "title": "Implementing a size-bounded LRU cache with expiring entries for my DNS server (in Rust)",
-    "link": "https://memo.barrucadu.co.uk/dns-cache.html"
-  }
-]

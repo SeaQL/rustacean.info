@@ -10,11 +10,6 @@
     "link": "https://linebender.org/blog/xilem-2024/"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
     "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"
@@ -30,9 +25,9 @@
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
-    "date": "2022-08-17",
-    "title": "Get Started with Rust: Structs",
-    "link": "https://serokell.io/blog/structs-in-rust"
+    "date": "2022-10-26",
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
   },
   {
     "date": "2022-07-20",
@@ -43,6 +38,21 @@
     "date": "2022-05-11",
     "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
+  },
+  {
+    "date": "2021-06-30",
+    "title": "Type-checked keypaths in Rust",
+    "link": "http://www.cmyr.net/blog/keypaths.html"
   },
   {
     "date": "2021-02-17",
@@ -78,6 +88,11 @@
     "date": "2020-09-30",
     "title": "Towards principled reactive UI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
   },
   {
     "date": "2020-06-30",

@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-02-07",
-    "title": "Nine Rules for Accessing Cloud Files from Your Rust Code | by Carl M. Kadie | Towards Data Science",
-    "link": "https://towardsdatascience.com/nine-rules-for-accessing-cloud-files-from-your-rust-code-d456c1e2ceb4"
-  },
-  {
     "date": "2023-01-04",
     "title": "Compiling Brainfuck code - Part 4: A Static Compiler | Rodrigodd",
     "link": "https://rodrigodd.github.io/2022/12/31/bf_compiler-part4.html"

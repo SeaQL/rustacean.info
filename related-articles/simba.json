@@ -5,6 +5,11 @@
     "link": "https://dimforge.com/blog/2022/01/02/the-year-2021-in-dimforge/"
   },
   {
+    "date": "2021-04-14",
+    "title": "Integrating const-generics to nalgebra 0.26 | Dimforge",
+    "link": "https://www.dimforge.com/blog/2021/04/12/integrating-const-generics-to-nalgebra/"
+  },
+  {
     "date": "2020-12-2-",
     "title": "This month in Dimforge \\#3 (November 2020) | Dimforge",
     "link": "https://www.dimforge.com/blog/2020/12/01/this-month-in-dimforge/"
@@ -13,16 +18,6 @@
     "date": "2020-11-4-",
     "title": "This month in Dimforge \\#2 (October 2020) | Dimforge",
     "link": "https://www.dimforge.com/blog/2020/11/01/this-month-in-dimforge/"
-  },
-  {
-    "date": "2020-10-07",
-    "title": "This month in Dimforge \\#1 (September 2020) | Dimforge",
-    "link": "https://www.dimforge.com/blog/2020/10/01/this-month-in-dimforge/"
-  },
-  {
-    "date": "2020-08-25",
-    "title": "Announcing the Rapier physics engine | Dimforge",
-    "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
   },
   {
     "date": "2020-08-25",

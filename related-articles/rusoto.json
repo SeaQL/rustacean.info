@@ -1,10 +1,5 @@
 [
   {
-    "date": "2022-01-12",
-    "title": "Rust Async and the Terrible, Horrible, No Good, Very Bad Day | by Kevin Hoffman | Medium",
-    "link": "https://kevinhoffman.medium.com/rust-async-and-the-terrible-horrible-no-good-very-bad-day-348ebc836274"
-  },
-  {
     "date": "2021-09-08",
     "title": "Holmusk | Building a reliable and tRUSTworthy web service 🦀",
     "link": "https://holmusk.dev/blog/2021-05-29-using-rust.html"
@@ -25,9 +20,9 @@
     "link": "https://medium.com/digitalfrontiers/microservices-in-rust-with-kafka-2b671295b24e"
   },
   {
-    "date": "2020-03-24",
-    "title": "Rust Async and the Terrible, Horrible, No Good, Very Bad Day | by Kevin Hoffman | Medium",
-    "link": "https://medium.com/@KevinHoffman/rust-async-and-the-terrible-horrible-no-good-very-bad-day-348ebc836274"
+    "date": "2020-07-28",
+    "title": "Rusty von Humboldt · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusty-von-humboldt/"
   },
   {
     "date": "2019-10-15",
@@ -63,10 +58,5 @@
     "date": "2017-05-23",
     "title": "Rusoto RDS walkthrough · Matthew Mayer's tech blog",
     "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-walkthrough/"
-  },
-  {
-    "date": "2016-10-11",
-    "title": "Overview · Serde",
-    "link": "https://serde.rs/"
   }
 ]

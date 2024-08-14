@@ -1,8 +1,28 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Changelog #244",
+    "link": "https://rust-analyzer.github.io/thisweek/2024/07/29/changelog-244.html"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "SBOM support in Rust  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/stackable-client/"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Don't Use Preludes And Globs | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/dont-use-preludes-and-globs/"
+  },
+  {
     "date": "2024-07-03",
     "title": "Changelog #240",
     "link": "https://rust-analyzer.github.io/thisweek/2024/07/01/changelog-240.html"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Resolving Rust Symbols • Shriram Balaji's Blog",
+    "link": "https://blog.shrirambalaji.com/posts/resolving-rust-symbols/"
   },
   {
     "date": "2024-06-19",
@@ -235,11 +255,6 @@
     "link": "https://rust-analyzer.github.io/thisweek/2023/04/17/changelog-177.html"
   },
   {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
-  },
-  {
     "date": "2023-04-12",
     "title": "Changelog #176",
     "link": "https://rust-analyzer.github.io/thisweek/2023/04/10/changelog-176.html"
@@ -253,6 +268,11 @@
     "date": "2023-03-29",
     "title": "Changelog #174",
     "link": "https://rust-analyzer.github.io/thisweek/2023/03/27/changelog-174.html"
+  },
+  {
+    "date": "2023-03-29",
+    "title": "Zig And Rust",
+    "link": "https://matklad.github.io/2023/03/26/zig-and-rust.html"
   },
   {
     "date": "2023-03-22",
@@ -298,6 +318,11 @@
     "date": "2023-02-01",
     "title": "Changelog #166",
     "link": "https://rust-analyzer.github.io/thisweek/2023/01/30/changelog-166.html"
+  },
+  {
+    "date": "2023-02-01",
+    "title": "Next Rust Compiler",
+    "link": "https://matklad.github.io/2023/01/25/next-rust-compiler.html"
   },
   {
     "date": "2023-01-25",
@@ -441,11 +466,6 @@
   },
   {
     "date": "2022-08-17",
-    "title": "Get Started with Rust: Structs",
-    "link": "https://serokell.io/blog/structs-in-rust"
-  },
-  {
-    "date": "2022-08-17",
     "title": "Changelog #142",
     "link": "https://rust-analyzer.github.io/thisweek/2022/08/15/changelog-142.html"
   },
@@ -488,6 +508,11 @@
     "date": "2022-07-20",
     "title": "Changelog #138",
     "link": "https://rust-analyzer.github.io/thisweek/2022/07/18/changelog-138.html"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "Improving “Extract Function” in Rust Analyzer&nbsp; - Dorian Listens",
+    "link": "https://dorianlistens.com/2022/07/improving-extract-function-in-rust-analyzer/"
   },
   {
     "date": "2022-07-13",
@@ -1231,6 +1256,11 @@
   },
   {
     "date": "2020-09-23",
+    "title": "Learning Rust: OMG WTF RS – resources to help you get started with Rust  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/omg-wtf-rs-resources-to-help-you-get-started-with-rust/"
+  },
+  {
+    "date": "2020-09-23",
     "title": "Rust 2021: Lower the barriers • Krishna's blog",
     "link": "https://blog.nindalf.com/posts/rust-2021/"
   },
@@ -1288,6 +1318,11 @@
     "date": "2020-08-18",
     "title": "Who Builds the Builder?",
     "link": "https://matklad.github.io/2020/08/12/who-builds-the-builder.html"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Run Rust on your embedded device from VSCode in one click  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/run-rust-on-your-embedded-device-from-vscode/"
   },
   {
     "date": "2020-08-11",
@@ -1508,16 +1543,6 @@
     "date": "2019-12-10",
     "title": "Inside Rust at Embark 🦀. A peek inside our day-to-day work with… | by Ari V | Embark Studios | Medium",
     "link": "https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4"
-  },
-  {
-    "date": "2019-11-19",
-    "title": "Page not found · GitHub Pages",
-    "link": "https://rust-analyzer.github.io/2019/11/13/find-usages.html"
-  },
-  {
-    "date": "2019-10-29",
-    "title": "Page not found · GitHub Pages",
-    "link": "https://rust-analyzer.github.io/2019/10/16/finance.html"
   },
   {
     "date": "2019-08-06",

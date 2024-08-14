@@ -1,10 +1,5 @@
 [
   {
-    "date": "2022-05-18",
-    "title": "Introducing BlindAI, an Open-Source, Privacy-Friendly AI Deployment in Rust",
-    "link": "https://blog.mithrilsecurity.io/introducing-blindai/"
-  },
-  {
     "date": "2021-08-25",
     "title": "Cross compiling Windows binaries from Linux",
     "link": "https://jake-shadle.github.io/xwin/"

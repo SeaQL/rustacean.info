@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Code and Bitters",
+    "link": "https://codeandbitters.com/once-upon-a-lazy-init/"
+  },
+  {
     "date": "2024-01-10",
     "title": "Why stdout is faster than stderr? - Orhun's Blog",
     "link": "https://blog.orhun.dev/stdout-vs-stderr/"
@@ -8,16 +13,6 @@
     "date": "2023-11-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
-  },
-  {
-    "date": "2023-04-12",
-    "title": "How to write a type-level mock library in Rust - Audun Halland",
-    "link": "https://audunhalland.github.io/blog/how-to-write-a-type-level-mock-library-in-rust/"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "(Possibly) Emulate PinePhone with Unicorn Emulator",
-    "link": "https://lupyuen.github.io/articles/unicorn"
   },
   {
     "date": "2022-06-15",

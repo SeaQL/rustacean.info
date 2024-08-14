@@ -20,11 +20,6 @@
     "link": "https://bencher.dev/learn/engineering/sqlite-performance-tuning/"
   },
   {
-    "date": "2024-03-13",
-    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
-    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
-  },
-  {
     "date": "2024-01-17",
     "title": "A Guide to Rust ORMs in 2024",
     "link": "https://www.shuttle.rs/blog/2024/01/16/best-orm-rust"
@@ -35,11 +30,6 @@
     "link": "https://blog.weiznich.de/blog/diagnostic-namespace-10-23/"
   },
   {
-    "date": "2023-09-06",
-    "title": "Diesel Async 0.4 - Weiznich's Blog",
-    "link": "https://blog.weiznich.de/blog/diesel-async-0-4/"
-  },
-  {
     "date": "2023-08-16",
     "title": "Our latest adventures with bindgen  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/bindgen/"
@@ -48,11 +38,6 @@
     "date": "2023-06-07",
     "title": "Diesel 2.1.0",
     "link": "https://diesel.rs/news/2_1_0_release.html"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
-    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
   },
   {
     "date": "2023-03-22",
@@ -208,11 +193,6 @@
     "date": "2020-06-30",
     "title": "Implementing a Job queue with SQLx and Postgres",
     "link": "https://cetra3.github.io/blog/implementing-a-jobq-sqlx/"
-  },
-  {
-    "date": "2020-06-23",
-    "title": "GitHub Action for binary crates installation · svartalf",
-    "link": "https://svartalf.info/posts/2020-04-10-github-action-for-binary-crates-installation/"
   },
   {
     "date": "2020-06-02",

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "SBOM support in Rust  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/stackable-client/"
+  },
+  {
     "date": "2022-11-16",
     "title": "cargo-auditable with Sergey Davidoff :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/sergey-davidoff/"

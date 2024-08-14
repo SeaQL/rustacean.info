@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-06-26",
-    "title": "Life in the FastLanes",
-    "link": "https://blog.spiraldb.com/life-in-the-fastlanes/"
-  },
-  {
     "date": "2023-12-27",
     "title": "The dark side of inlining and monomorphization",
     "link": "https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/"
@@ -28,11 +23,6 @@
     "date": "2023-04-26",
     "title": "Bringing runtime checks to compile time in Rust · Kai Kaufman's tech blog",
     "link": "https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/"
-  },
-  {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
   },
   {
     "date": "2022-10-12",

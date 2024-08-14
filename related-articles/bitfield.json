@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-11-22",
-    "title": "A JVM in Rust part 8 - Retrospective · Andrea Bergia's Website",
-    "link": "https://andreabergia.com/blog/2023/11/a-jvm-in-rust-part-8-retrospective/"
-  },
-  {
     "date": "2023-10-11",
     "title": "bit_seq in Rust: A Procedural Macro for Bit Sequence Generation | by Johannes Z. | Medium",
     "link": "https://medium.com/@jozott/bit-seq-in-rust-a-procedural-macro-for-bit-sequence-generation-5a4b856d629a"

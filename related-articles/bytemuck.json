@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine - paavohtl's blog",
+    "link": "https://blog.paavo.me/demo-engine-part-1/"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "`repr(C)`: Clear, Simple and (Sometimes) Wrong",
+    "link": "https://jack.wrenn.fyi/blog/repr-c-limitations/"
+  },
+  {
     "date": "2023-04-26",
     "title": "3308-offset_of - The Rust RFC Book",
     "link": "https://rust-lang.github.io/rfcs/3308-offset_of.html"

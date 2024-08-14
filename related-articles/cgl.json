@@ -1,10 +1,5 @@
 [
   {
-    "date": "2021-11-10",
-    "title": "Plugins in Rust: Reducing the Pain with Dependencies | NullDeref",
-    "link": "https://nullderef.com/blog/plugin-abi-stable/"
-  },
-  {
     "date": "2015-11-16",
     "title": "This Week In Servo 41 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
     "link": "http://blog.servo.org/2015/11/09/twis-41/"

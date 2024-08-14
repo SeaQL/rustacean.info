@@ -65,11 +65,6 @@
     "link": "https://fosdem.org/2023/schedule/event/building_an_actor_library_for_quickwits_indexing_pipeline/"
   },
   {
-    "date": "2022-09-07",
-    "title": "Page Not Found | Quickwit",
-    "link": "https://quickwit.io/blog/filtering%20a%20vector%20with%20simd%20instructions%20avx-2%20and%20avx-512/"
-  },
-  {
     "date": "2022-06-01",
     "title": "Senior Software Engineer, Rust &amp; distributed systems | Quickwit",
     "link": "https://quickwit.io/jobs/distributed-software-engineer"
@@ -85,16 +80,6 @@
     "link": "https://jakejscott.com/full-text-search-for-dynamodb-using-lambda-efs-tantivy-and-rust"
   },
   {
-    "date": "2022-03-30",
-    "title": "Page Not Found | Quickwit",
-    "link": "https://quickwit.io/jobs/oss-software-search-engineering-intern"
-  },
-  {
-    "date": "2022-03-16",
-    "title": "Page Not Found | Quickwit",
-    "link": "https://quickwit.io/blog/tantivy-0.17/"
-  },
-  {
     "date": "2022-01-19",
     "title": "Quickwit 0.2 brings full-text search to ClickHouse and Kafka! | Quickwit",
     "link": "https://quickwit.io/blog/quickwit-0.2"
@@ -103,15 +88,5 @@
     "date": "2021-11-24",
     "title": "How lnx does fuzzy searching over 5x faster with SymSpell",
     "link": "https://chillfish8.ghost.io/fuzzy-searching-5x-faster-with-symspell/"
-  },
-  {
-    "date": "2021-10-27",
-    "title": "Page Not Found | Quickwit",
-    "link": "https://quickwit.io/blog/search-a-sorted-block/"
-  },
-  {
-    "date": "2021-07-21",
-    "title": "Page Not Found | Quickwit",
-    "link": "https://quickwit.io/blog/quickwit-first-release/"
   }
 ]

@@ -10,11 +10,6 @@
     "link": "https://blog.fponzi.me/2023-08-13-bare-metal-space-invaders.html"
   },
   {
-    "date": "2023-04-26",
-    "title": "Rust programming language - what is rust used for and why is so popular? - CodiLime",
-    "link": "https://codilime.com/blog/why-is-rust-programming-language-so-popular/"
-  },
-  {
     "date": "2021-06-02",
     "title": "Justin Restivo - Writing a \"hello world\" Riscv Kernel with Nix in Rust",
     "link": "https://justin.restivo.me/posts/2021-05-30-nix-rust-riscv-toy-kernel.html"

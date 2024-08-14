@@ -1,10 +1,5 @@
 [
   {
-    "date": "2022-05-18",
-    "title": "Do not wait for Rust generators | Medium",
-    "link": "https://david-delassus.medium.com/do-not-wait-for-rust-generators-9e7753465f59"
-  },
-  {
     "date": "2021-11-17",
     "title": "Rust Iterator Items An exploration of syntax | estebank.github.io",
     "link": "https://estebank.github.io/rust-iterator-item-syntax.html"

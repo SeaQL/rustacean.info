@@ -10,19 +10,9 @@
     "link": "https://tuckersiemens.com/posts/avatar-png/"
   },
   {
-    "date": "2022-07-06",
-    "title": "Pathfinding in Rust: A tutorial with examples - LogRocket Blog",
-    "link": "https://blog.logrocket.com/pathfinding-rust-tutorial-examples/"
-  },
-  {
     "date": "2022-01-19",
     "title": "New year, new release! – gtk-rs",
     "link": "https://gtk-rs.org/blog/2022/01/16/new-release.html"
-  },
-  {
-    "date": "2022-01-05",
-    "title": "Rust is more portable than C for pngquant/libimagequant",
-    "link": "https://pngquant.org/rust.html"
   },
   {
     "date": "2021-11-24",

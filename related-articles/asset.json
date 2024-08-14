@@ -50,24 +50,9 @@
     "link": "https://bcnrust.github.io/devbcn-workshop/"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
     "date": "2023-03-29",
     "title": "Introducing Kobold",
     "link": "https://maciej.codes/2023-03-23-kobold.html"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "Dioxus | An elegant GUI library for Rust",
-    "link": "https://dioxuslabs.com/blog/release-030/"
-  },
-  {
-    "date": "2023-02-01",
-    "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
-    "link": "https://gamedev.rs/news/041/"
   },
   {
     "date": "2022-12-28",

@@ -101,11 +101,6 @@
   },
   {
     "date": "2022-10-26",
-    "title": "Enums and Pattern Matching in Rust",
-    "link": "https://serokell.io/blog/enums-and-pattern-matching"
-  },
-  {
-    "date": "2022-10-26",
     "title": "The HTTP crash course nobody asked for",
     "link": "https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for"
   },
@@ -150,6 +145,11 @@
     "link": "https://www.lpalmieri.com/posts/session-based-authentication-in-rust/"
   },
   {
+    "date": "2021-12-22",
+    "title": "Rust in Production: Astropad",
+    "link": "https://serokell.io/blog/rust-in-production-astropad"
+  },
+  {
     "date": "2021-11-24",
     "title": "Netbox to Netshot: how I used Rust for the first time | Scaleway",
     "link": "https://blog.scaleway.com/i-used-rust-for-the-first-time-to-bridge-two-softwares-heres-how-it-went/"
@@ -191,6 +191,11 @@
   },
   {
     "date": "2021-08-10",
+    "title": "Rust in Production: Qovery",
+    "link": "https://serokell.io/blog/rust-in-production-qovery"
+  },
+  {
+    "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
@@ -223,11 +228,6 @@
     "date": "2021-01-20",
     "title": "How To Write A REST Client In Rust | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/how-to-write-a-rest-client-in-rust-with-reqwest-and-wiremock/"
-  },
-  {
-    "date": "2021-01-20",
-    "title": "Rust in Production: 1Password",
-    "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
     "date": "2020-12-9-",
@@ -265,9 +265,19 @@
     "link": "https://www.fpcomplete.com/blog/http-status-codes-async-rust/"
   },
   {
+    "date": "2020-08-11",
+    "title": "How To Bootstrap A Rust Web API From Scratch | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-09-zero-to-production-3-how-to-bootstrap-a-new-rust-web-api-from-scratch/"
+  },
+  {
     "date": "2020-08-04",
     "title": "Beginner's guide to Error Handling in Rust",
     "link": "http://www.sheshbabu.com/posts/rust-error-handling/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Tutorial | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/tokio/tutorial"
   },
   {
     "date": "2020-07-14",
@@ -288,11 +298,6 @@
     "date": "2020-06-30",
     "title": "A practical guide to async in Rust - LogRocket Blog",
     "link": "https://blog.logrocket.com/a-practical-guide-to-async-in-rust/"
-  },
-  {
-    "date": "2020-06-23",
-    "title": "Managing Rust bloat with Github Actions",
-    "link": "https://tomforb.es/managing-rust-bloat-with-github-actions/"
   },
   {
     "date": "2020-06-23",

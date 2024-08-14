@@ -1,10 +1,5 @@
 [
   {
-    "date": "2022-10-19",
-    "title": "Introducing BastionAI, an Open-Source Privacy-Friendly AI Training Framework in Rust",
-    "link": "https://blog.mithrilsecurity.io/introducing-bastionai/"
-  },
-  {
     "date": "2022-09-21",
     "title": "PostgresML is Moving to Rust for our 2.0 Release – PostgresML",
     "link": "https://postgresml.org/blog/postgresml-is-moving-to-rust-for-our-2.0-release/"

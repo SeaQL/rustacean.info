@@ -8,5 +8,10 @@
     "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
   }
 ]

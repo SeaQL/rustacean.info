@@ -1,7 +1,17 @@
 [
   {
+    "date": "2018-12-25",
+    "title": "Methods for Array Initialization in Rust",
+    "link": "https://www.joshmcguigan.com/blog/array-initialization-rust/"
+  },
+  {
     "date": "2018-05-01",
     "title": "Unit Testing | Writing an OS in Rust",
     "link": "https://os.phil-opp.com/unit-testing/"
+  },
+  {
+    "date": "2017-08-08",
+    "title": "Rust: Not So Great for Codec Implementing «  Kostya's Boring Codec World",
+    "link": "https://codecs.multimedia.cx/?p=1246"
   }
 ]

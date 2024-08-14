@@ -1,18 +1,8 @@
 [
   {
-    "date": "2023-05-03",
-    "title": "A Mirror for Rust: Compile-Time Reflection Report - Shepherd's Oasis",
-    "link": "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
-  },
-  {
     "date": "2022-12-21",
     "title": "Native Reflection in Rust",
     "link": "https://jack.wrenn.fyi/blog/deflect/"
-  },
-  {
-    "date": "2022-03-23",
-    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
-    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
   },
   {
     "date": "2022-01-26",
@@ -20,34 +10,19 @@
     "link": "https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity"
   },
   {
-    "date": "2021-08-10",
-    "title": "Rust in Production: Qovery",
-    "link": "https://serokell.io/blog/rust-in-production-qovery"
-  },
-  {
     "date": "2021-05-26",
     "title": "Structural Typing in Rust - BeachApe.",
     "link": "https://beachape.com/blog/2021/05/25/structural-typing-in-rust/"
   },
   {
-    "date": "2021-04-14",
-    "title": "Rust in Production: MeiliSearch",
-    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+    "date": "2021-01-27",
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
   },
   {
     "date": "2021-01-06",
     "title": "Building a runtime reflection system for Rust 🦀️ (Part 3)",
     "link": "https://www.osohq.com/post/runtime-reflection-pt-3"
-  },
-  {
-    "date": "2020-08-11",
-    "title": "Implementing a Type-safe printf in Rust | Will Crichton",
-    "link": "https://willcrichton.net/notes/type-safe-printf/"
-  },
-  {
-    "date": "2020-06-23",
-    "title": "Implementing a Type-safe printf in Rust | Will Crichton",
-    "link": "http://willcrichton.net/notes/type-safe-printf/"
   },
   {
     "date": "2017-05-30",

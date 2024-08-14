@@ -10,11 +10,6 @@
     "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
   },
   {
-    "date": "2023-05-03",
-    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
-    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
-  },
-  {
     "date": "2022-04-06",
     "title": "Introducing StarfishQL | SeaORM 🐚 An async &amp; dynamic ORM for Rust",
     "link": "https://www.sea-ql.org/SeaORM/blog/2022-04-04-introducing-starfish-ql/"
@@ -33,11 +28,6 @@
     "date": "2021-10-20",
     "title": "serde_with - Rust",
     "link": "https://docs.rs/serde_with"
-  },
-  {
-    "date": "2021-04-07",
-    "title": "How I Used Rust + Lunatic to Build a TelNet Chat Server With WebAssembly | HackerNoon",
-    "link": "https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg"
   },
   {
     "date": "2020-12-23",

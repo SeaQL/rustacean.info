@@ -46,11 +46,6 @@
   },
   {
     "date": "2023-03-29",
-    "title": "ngrok blog: Introducing ngrok-rs - safe and portable network ingress to your Rust apps 🦀",
-    "link": "https://ngrok.com/blog-post/ngrok-rs"
-  },
-  {
-    "date": "2023-03-29",
     "title": "Linearity and Control",
     "link": "https://blog.yoshuawuyts.com/linearity-and-control/"
   },
@@ -115,11 +110,6 @@
     "link": "https://rustacean-station.org/episode/056-zeeshan-ali/"
   },
   {
-    "date": "2021-12-22",
-    "title": "Rust in Production: Astropad",
-    "link": "https://serokell.io/blog/rust-in-production-astropad"
-  },
-  {
     "date": "2021-11-17",
     "title": "What is an async runtime?",
     "link": "https://ncameron.org/blog/what-is-an-async-runtime/"
@@ -163,6 +153,11 @@
     "date": "2021-05-19",
     "title": "Speicherverwaltung in Rust • Am Interneteingang&nbsp;8",
     "link": "https://jo-so.de/2021-01/Speicher-Rust.html"
+  },
+  {
+    "date": "2021-04-14",
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
     "date": "2021-04-14",

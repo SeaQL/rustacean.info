@@ -30,11 +30,6 @@
     "link": "https://quickwit.io/blog/whichlang-language-detection-library"
   },
   {
-    "date": "2023-03-01",
-    "title": "Through the looking glass • Create a launchbar app w/ Tauri",
-    "link": "https://blog.spyglass.fyi/posts/2023/creating-a-launcher-in-tauri/"
-  },
-  {
     "date": "2022-04-20",
     "title": "Full-text search for DynamoDB using Lambda, EFS, Tantivy and Rust.",
     "link": "https://jakejscott.com/full-text-search-for-dynamodb-using-lambda-efs-tantivy-and-rust"

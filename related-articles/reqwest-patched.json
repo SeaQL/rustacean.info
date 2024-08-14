@@ -81,11 +81,6 @@
   },
   {
     "date": "2020-06-23",
-    "title": "Managing Rust bloat with Github Actions",
-    "link": "https://tomforb.es/managing-rust-bloat-with-github-actions/"
-  },
-  {
-    "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"
   },

@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-01-24",
-    "title": "Parsing JSON in Rust",
-    "link": "https://www.shuttle.rs/blog/2024/01/18/parsing-json-rust"
-  },
-  {
     "date": "2023-01-25",
     "title": "Surprises in the Rust JSON Ecosystem",
     "link": "https://ecton.dev/rust-json-ecosystem/"
@@ -30,11 +25,6 @@
     "link": "https://blog.knoldus.com/compilation-of-active-directory-logs-using-rust/"
   },
   {
-    "date": "2020-09-09",
-    "title": "Deserializing JSON really fast",
-    "link": "https://blog.datalust.co/deserializing-json-really-fast/"
-  },
-  {
     "date": "2020-09-02",
     "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
@@ -48,11 +38,6 @@
     "date": "2019-11-19",
     "title": "Understanding Serde",
     "link": "https://www.joshmcguigan.com/blog/understanding-serde/"
-  },
-  {
-    "date": "2018-10-30",
-    "title": "Parsing logs 230x faster with Rust",
-    "link": "https://andre.arko.net/2018/10/25/parsing-logs-230x-faster-with-rust/"
   },
   {
     "date": "2018-10-16",

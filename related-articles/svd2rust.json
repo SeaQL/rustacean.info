@@ -25,9 +25,29 @@
     "link": "https://apollolabsblog.hashnode.dev/34-must-know-terms-for-embedded-rust-newbies"
   },
   {
+    "date": "2022-07-13",
+    "title": "Bare-Metal Rust on ESP32: A Brief Overview | Beta7",
+    "link": "https://beta7.io/posts/bare-metal-rust-on-esp32/"
+  },
+  {
+    "date": "2021-12-29",
+    "title": "Rust Embedded Working Group",
+    "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "y|sndr - Rust as a platform for IoT",
+    "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
+  },
+  {
     "date": "2021-04-21",
     "title": "The GPIO war: macro bunkers for typestate explosions (2) - cuervo",
     "link": "https://www.ecorax.net/macro-bunker-2/"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Using Rust for a simple hardware project | tonari blog",
+    "link": "https://blog.tonari.no/rust-simple-hardware-project"
   },
   {
     "date": "2020-08-18",
@@ -48,6 +68,11 @@
     "date": "2019-04-23",
     "title": "Using DMA to transfer data with Embedded Rust [ant @ flowdsp.io]",
     "link": "https://flowdsp.io/blog/stm32f3-02-dac-dma/"
+  },
+  {
+    "date": "2018-11-27",
+    "title": "Bootstrapping My Embedded Rust Development Environment",
+    "link": "https://josh.robsonchase.com/embedded-bootstrapping/"
   },
   {
     "date": "2018-06-12",

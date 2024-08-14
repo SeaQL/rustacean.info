@@ -180,6 +180,11 @@
     "link": "https://raphlinus.github.io/rust/gui/2019/06/21/smooth-resize-test.html"
   },
   {
+    "date": "2020-07-28",
+    "title": "Making a Game in 48 hours with Rust and WebAssembly",
+    "link": "https://ianjk.com/rust-gamejam/"
+  },
+  {
     "date": "2019-12-10",
     "title": "Code Slow: Tiny Windows executable in Rust",
     "link": "https://www.codeslow.com/2019/12/tiny-windows-executable-in-rust.html"

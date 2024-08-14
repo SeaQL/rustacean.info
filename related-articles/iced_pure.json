@@ -25,24 +25,9 @@
     "link": "https://gamedev.rs/news/048/"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
-    "date": "2023-04-26",
-    "title": "Console #154 - An Interview with Giuliano of Sniffnet - Rust app to easily monitor network traffic",
-    "link": "https://console.substack.com/p/console-154#§sniffnet"
-  },
-  {
     "date": "2023-02-22",
     "title": "Why is building a UI in Rust so hard?",
     "link": "https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard"
-  },
-  {
-    "date": "2023-02-08",
-    "title": "Tauri vs Iced vs egui: Rust GUI framework performance comparison (including startup time, input lag, resize tests) · Lukasʼ Blog",
-    "link": "https://lukaskalbertodt.github.io/2023/02/03/tauri-iced-egui-performance-comparison.html"
   },
   {
     "date": "2022-12-21",

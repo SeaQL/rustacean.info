@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-02-14",
-    "title": "Rust in Production: Interview with FOSSA",
-    "link": "https://serokell.io/blog/rust-in-production-fossa"
-  },
-  {
     "date": "2023-11-29",
     "title": "3324-dyn-upcasting - The Rust RFC Book",
     "link": "https://rust-lang.github.io/rfcs/3324-dyn-upcasting.html"
@@ -20,11 +15,6 @@
     "link": "https://smallcultfollowing.com/babysteps/blog/2022/08/18/come-contribute-to-salsa-2022/"
   },
   {
-    "date": "2022-03-23",
-    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
-    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
-  },
-  {
     "date": "2022-03-02",
     "title": "IDEs and proc-macros",
     "link": "https://veykril.github.io/posts/ide-proc-macros/"
@@ -38,6 +28,11 @@
     "date": "2020-11-4-",
     "title": "For Complex Applications, Rust is as Productive as Kotlin  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/rust-as-productive-as-kotlin/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "The bytes // they want you",
+    "link": "https://pnevyk.github.io/posts/query-system-in-rust/"
   },
   {
     "date": "2020-07-21",

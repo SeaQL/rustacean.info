@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Async Rust Challenges in Iroh - Iroh",
+    "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"
+  },
+  {
     "date": "2024-06-19",
     "title": "Future's liveness problem • Skepfyr",
     "link": "https://skepfyr.me/blog/futures-liveness-problem/"

@@ -15,6 +15,11 @@
     "link": "https://bencher.dev/learn/case-study/diesel/"
   },
   {
+    "date": "2024-04-24",
+    "title": "Why SQLite Performance Tuning made Bencher 1200x Faster | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/engineering/sqlite-performance-tuning/"
+  },
+  {
     "date": "2024-01-17",
     "title": "A Guide to Rust ORMs in 2024",
     "link": "https://www.shuttle.rs/blog/2024/01/16/best-orm-rust"
@@ -28,11 +33,6 @@
     "date": "2023-06-07",
     "title": "Diesel 2.1.0",
     "link": "https://diesel.rs/news/2_1_0_release.html"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
-    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
   },
   {
     "date": "2023-03-22",
@@ -75,6 +75,11 @@
     "link": "https://diesel.rs/news/2_0_0_release.html"
   },
   {
+    "date": "2022-08-10",
+    "title": "Fang, async background processing for Rust - The software engineer oasis",
+    "link": "https://pxp9.github.io/rust/async-processing/"
+  },
+  {
     "date": "2022-07-20",
     "title": "Getting Started with SeaORM - Anshul Chauhan",
     "link": "https://anshulchauhan.com/getting-started-seaorm"
@@ -115,6 +120,11 @@
     "link": "https://rustacean-station.org/episode/046-alice-ryhl/"
   },
   {
+    "date": "2021-11-10",
+    "title": "IntelliJ Rust Changelog #159",
+    "link": "https://intellij-rust.github.io/2021/11/08/changelog-159.html"
+  },
+  {
     "date": "2021-10-27",
     "title": "Rust Web Development with Bastian Gruber :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/043-bastian-gruber/"
@@ -128,6 +138,11 @@
     "date": "2021-09-15",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/blog/61/an-experimental-diesel-based-crud-for-rocket"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
   },
   {
     "date": "2021-07-07",
@@ -270,6 +285,11 @@
     "link": "https://medium.com/@sgrif/impl-version-1-0-for-diesel-10f5872c7be"
   },
   {
+    "date": "2017-08-15",
+    "title": "Gotham web framework",
+    "link": "https://gotham.rs/blog"
+  },
+  {
     "date": "2017-08-01",
     "title": "Grokking Diesel. Diesel (http://diesel.rs) is an ORM… | by Stephan Buys | HackerNoon.com | Medium",
     "link": "https://medium.com/@Buys/grokking-diesel-652cb8886a63"
@@ -278,6 +298,11 @@
     "date": "2017-06-06",
     "title": "Rusoto RDS walkthrough, mk 2 · Matthew Mayer's tech blog",
     "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-mk2/"
+  },
+  {
+    "date": "2017-05-23",
+    "title": "Rusoto RDS walkthrough · Matthew Mayer's tech blog",
+    "link": "https://matthewkmayer.github.io/blag/public/post/rusoto-rds-walkthrough/"
   },
   {
     "date": "2017-05-16",

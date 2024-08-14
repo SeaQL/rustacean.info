@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2024-03-06",
+    "title": "Borrow checking without lifetimes · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2024/03/04/borrow-checking-without-lifetimes/"
+  },
+  {
+    "date": "2024-01-10",
+    "title": "What I'd like to see for Async Rust in 2024 🎄 · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2024/01/03/async-rust-2024/"
+  },
+  {
+    "date": "2023-09-27",
+    "title": "Polonius revisited, part 1 · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2023/09/22/polonius-part-1/"
+  },
+  {
+    "date": "2023-09-27",
+    "title": "My Pure Rust Wishlist - GBurghoorn",
+    "link": "https://gburghoorn.com/posts/pure-rust-wishlist/"
+  },
+  {
+    "date": "2023-09-20",
+    "title": "Stability without stressing the !@#! out · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2023/09/18/stability-without-stressing-the-out/"
+  }
+]

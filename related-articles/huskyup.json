@@ -1,13 +1,8 @@
 [
   {
     "date": "2023-03-22",
-    "title": "Item Patterns And Struct Else :: nilstriebs blog",
+    "title": "Item Patterns And Struct Else :: Noratrieb's blog",
     "link": "https://blog.nilstrieb.dev/posts/item-patterns-and-struct-else/"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "When Rust hurts",
-    "link": "https://mmapped.blog/posts/15-when-rust-hurts.html"
   },
   {
     "date": "2023-02-08",
@@ -38,15 +33,5 @@
     "date": "2021-06-09",
     "title": "First impressions of Rust programming on Solana",
     "link": "https://brson.github.io/2021/06/08/rust-on-solana"
-  },
-  {
-    "date": "2019-09-17",
-    "title": "GitHub Actions for Rust · svartalf",
-    "link": "https://svartalf.info/posts/2019-09-16-github-actions-for-rust/"
-  },
-  {
-    "date": "2019-05-07",
-    "title": "Cargo in 2019",
-    "link": "https://www.ncameron.org/blog/cargo-in-2019/"
   }
 ]

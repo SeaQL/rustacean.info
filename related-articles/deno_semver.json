@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-06-19",
+    "title": "Exograph at the Edge with Cloudflare Workers | Exograph",
+    "link": "https://exograph.dev/blog/cloudflare-workers"
+  },
+  {
+    "date": "2022-10-05",
+    "title": "Last mile DynamoDB: Deno Deploy edition - The Art of Serverless",
+    "link": "https://artofserverless.com/dynamodb-deno-deploy/"
+  },
+  {
     "date": "2022-08-10",
     "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"

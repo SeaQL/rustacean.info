@@ -35,11 +35,6 @@
     "link": "https://nnethercote.github.io/2022/02/25/how-to-speed-up-the-rust-compiler-in-2022.html"
   },
   {
-    "date": "2022-01-05",
-    "title": "Rust is more portable than C for pngquant/libimagequant",
-    "link": "https://pngquant.org/rust.html"
-  },
-  {
     "date": "2021-07-28",
     "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
     "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"
@@ -60,11 +55,6 @@
     "link": "https://cheats.rs/"
   },
   {
-    "date": "2020-09-30",
-    "title": "Building even faster interpreters in Rust",
-    "link": "https://blog.cloudflare.com/building-even-faster-interpreters-in-rust/"
-  },
-  {
     "date": "2020-06-10",
     "title": "A Rust SentencePiece implementation | Rust NLP tales",
     "link": "https://guillaume-be.github.io/2020-05-30/sentence_piece"
@@ -73,11 +63,6 @@
     "date": "2019-07-16",
     "title": "Announcing Rustacean Station and Rust 1.36 :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/000-rust-1.36.0/"
-  },
-  {
-    "date": "2019-01-29",
-    "title": "Enjoy a slice of QUIC, and Rust!",
-    "link": "https://blog.cloudflare.com/enjoy-a-slice-of-quic-and-rust/"
   },
   {
     "date": "2018-11-27",

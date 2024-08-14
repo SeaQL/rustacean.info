@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "The Hitchhiker’s Guide to Building a Distributed Filesystem in Rust. The continuation (part 2) | by Radu Marias | Aug, 2024 | System Weakness",
+    "link": "https://medium.com/@xorio42/the-hitchhikers-guide-to-building-a-distributed-filesystem-in-rust-the-continuation-part-2-ad1fd8bc9cf8"
+  },
+  {
     "date": "2024-07-10",
     "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
     "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"

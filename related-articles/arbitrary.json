@@ -15,6 +15,11 @@
     "link": "https://www.greyblake.com/blog/property-based-testing-in-rust-with-arbitrary/"
   },
   {
+    "date": "2022-09-14",
+    "title": "Bytecode Alliance — Security and Correctness in Wasmtime",
+    "link": "https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime"
+  },
+  {
     "date": "2022-03-09",
     "title": "Fuzzing unsafe code in a Rust crate | by Adrian Taylor | Medium",
     "link": "https://medium.com/@adetaylor/fuzzing-unsafe-code-in-a-rust-crate-dcf3ec04d79a"
@@ -25,11 +30,6 @@
     "link": "https://tiemoko.com/blog/diff-fuzz/"
   },
   {
-    "date": "2021-05-26",
-    "title": "Trail of Bits Blog",
-    "link": "https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy"
-  },
-  {
     "date": "2020-11-4-",
     "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/rust-testability/"
@@ -38,6 +38,11 @@
     "date": "2020-08-25",
     "title": "Writing a Test Case Generator for a Programming Language",
     "link": "https://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "Rust verification tools (2020) – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-verification-tools/"
   },
   {
     "date": "2018-06-05",

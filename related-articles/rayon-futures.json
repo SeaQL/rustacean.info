@@ -100,6 +100,11 @@
     "link": "https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html"
   },
   {
+    "date": "2020-07-28",
+    "title": "Parallel stream processing with Rayon | More Stina Blog!",
+    "link": "https://morestina.net/blog/1432/parallel-stream-processing-with-rayon"
+  },
+  {
     "date": "2020-05-05",
     "title": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf",
     "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
@@ -128,11 +133,6 @@
     "date": "2019-03-26",
     "title": "Rust All Hands 2019: Array iterators, Rayon, and more | Red Hat Developer",
     "link": "https://developers.redhat.com/blog/2019/03/22/rust-all-hands-2019-array-iterators-rayon-and-more/"
-  },
-  {
-    "date": "2019-03-12",
-    "title": "From 46s to 5s - Optimizing a 350 Line Raytracer in Rust | by Carl Fredrik Samson | Medium",
-    "link": "https://blog.usejournal.com/from-48s-to-5s-optimizing-a-350-line-pathtracer-in-rust-191ab4a1a412"
   },
   {
     "date": "2019-02-05",

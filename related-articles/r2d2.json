@@ -5,16 +5,6 @@
     "link": "https://medium.com/@jeynesbrook/building-an-api-in-rust-with-rocket-rs-and-diesel-rs-clean-architecture-8f6092ee2606"
   },
   {
-    "date": "2020-06-02",
-    "title": "Rust at OneSignal",
-    "link": "https://onesignal.com/blog/rust-at-onesignal/"
-  },
-  {
-    "date": "2018-09-18",
-    "title": "Postgres over TLS with postgres and r2d2_postgres · Matthew Mayer's tech blog",
-    "link": "https://matthewkmayer.github.io/blag/public/post/postgres-tls/"
-  },
-  {
     "date": "2018-07-10",
     "title": "A web application completely in Rust | by Sascha Grunert | Medium",
     "link": "https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471"

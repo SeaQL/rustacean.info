@@ -80,19 +80,9 @@
     "link": "https://docs.rs/tower"
   },
   {
-    "date": "2023-03-29",
-    "title": "ngrok blog: Introducing ngrok-rs - safe and portable network ingress to your Rust apps 🦀",
-    "link": "https://ngrok.com/blog-post/ngrok-rs"
-  },
-  {
     "date": "2023-03-08",
     "title": "Oxy is Cloudflare's Rust-based next generation proxy framework",
     "link": "https://blog.cloudflare.com/introducing-oxy/"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "ROFL with a LOL: rewriting an NGINX module in Rust",
-    "link": "https://blog.cloudflare.com/rust-nginx-module/"
   },
   {
     "date": "2023-02-08",
@@ -270,11 +260,6 @@
     "link": "https://tokio.rs/blog/2021-07-tokio-uring"
   },
   {
-    "date": "2021-07-07",
-    "title": "Knurling-rs changelog #28  - Ferrous Systems",
-    "link": "https://ferrous-systems.com/blog/knurling-changelog-28/"
-  },
-  {
     "date": "2021-06-02",
     "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
@@ -340,6 +325,11 @@
     "link": "https://matej.laitl.cz/bench-actix-rocket/"
   },
   {
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
+  },
+  {
     "date": "2020-07-07",
     "title": "Image decay as a service",
     "link": "https://fasterthanli.me/articles/image-decay-as-a-service"
@@ -358,11 +348,6 @@
     "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"
-  },
-  {
-    "date": "2020-06-02",
-    "title": "Rust at OneSignal",
-    "link": "https://onesignal.com/blog/rust-at-onesignal/"
   },
   {
     "date": "2020-03-31",

@@ -5,16 +5,6 @@
     "link": "https://rust.code-maven.com/applications"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
-  },
-  {
     "date": "2023-02-15",
     "title": "New release – gtk-rs",
     "link": "https://gtk-rs.org/blog/2023/02/10/new-release.html"
@@ -143,11 +133,6 @@
     "date": "2017-05-09",
     "title": "New crates.io versions available and API improvements – gtk-rs",
     "link": "http://gtk-rs.org/blog/2017/05/06/api-improvements.html"
-  },
-  {
-    "date": "2017-04-25",
-    "title": "Page not found · GitHub Pages",
-    "link": "http://gtk-rs.org/docs-src/tutorial"
   },
   {
     "date": "2016-11-29",

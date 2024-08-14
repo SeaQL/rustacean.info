@@ -5,23 +5,8 @@
     "link": "https://alona.page/posts/rustdoc-json-2023/"
   },
   {
-    "date": "2023-11-22",
-    "title": "Checking semver in the presence of doc(hidden) items",
-    "link": "https://predr.ag/blog/checking-semver-for-doc-hidden-items/"
-  },
-  {
-    "date": "2023-05-10",
-    "title": "Breaking semver in Rust by adding a private type, or by adding an import",
-    "link": "https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/"
-  },
-  {
     "date": "2023-02-08",
     "title": "Speeding up Rust semver-checking by over 2000x",
     "link": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/"
-  },
-  {
-    "date": "2023-02-01",
-    "title": "Moving and re-exporting a Rust type can be a major breaking change",
-    "link": "https://predr.ag/blog/moving-and-reexporting-rust-type-can-be-major-breaking-change/"
   }
 ]

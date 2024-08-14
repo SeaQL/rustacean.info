@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Why you should use Rust on the backend",
+    "link": "https://www.shuttle.rs/blog/2024/07/31/rust-on-the-backend"
+  },
+  {
     "date": "2024-01-24",
     "title": "My Best and Worst Deadlock in Rust",
     "link": "https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/"
@@ -13,11 +18,6 @@
     "date": "2023-11-08",
     "title": "This Month in Rust OSDev: October 2023 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2023-10/"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "Pretty Rust backtraces in raw terminal mode | Andy Hippo",
-    "link": "https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/"
   },
   {
     "date": "2022-06-29",

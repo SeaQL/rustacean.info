@@ -1,23 +1,8 @@
 [
   {
-    "date": "2024-06-26",
-    "title": "When Is Parallelism Fearless and Zero-Cost with Rust? | Proceedings of the 36th ACM Symposium on Parallelism in Algorithms and Architectures",
-    "link": "https://dl.acm.org/doi/10.1145/3626183.3659966"
-  },
-  {
-    "date": "2024-04-17",
-    "title": "New Meshes, New Examples, and Compute Shaders",
-    "link": "https://thisweekinbevy.com/issue/2024-04-15-new-meshes-new-examples-and-compute-shaders"
-  },
-  {
     "date": "2023-11-22",
     "title": "A close encounter with false sharing | More Stina Blog!",
     "link": "https://morestina.net/blog/1976/a-close-encounter-with-false-sharing"
-  },
-  {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
   },
   {
     "date": "2023-02-15",
@@ -65,11 +50,6 @@
     "link": "https://fasterthanli.me/articles/some-mistakes-rust-doesnt-catch"
   },
   {
-    "date": "2022-02-16",
-    "title": "Futures Concurrency III: select!",
-    "link": "https://blog.yoshuawuyts.com/futures-concurrency-3/"
-  },
-  {
     "date": "2022-01-19",
     "title": "0xC45 - Digital Audio Synthesizer in Rust",
     "link": "https://0xc45.com/blog/digital-audio-synthesizer-in-rust/"
@@ -78,11 +58,6 @@
     "date": "2022-01-05",
     "title": "12 Rust Tips and Tricks you might not know yet - Federico Terzi - A Software Engineering Journey",
     "link": "https://federicoterzi.com/blog/12-rust-tips-and-tricks-you-might-not-know-yet/"
-  },
-  {
-    "date": "2021-12-22",
-    "title": "Rust in Production: Astropad",
-    "link": "https://serokell.io/blog/rust-in-production-astropad"
   },
   {
     "date": "2021-12-15",
@@ -130,21 +105,6 @@
     "link": "https://codeandbitters.com/static-trait-bound/"
   },
   {
-    "date": "2020-09-30",
-    "title": "Optimization - Making Rust Code Go Brrrr",
-    "link": "https://aspenuwu.me/posts/rust-optimization.html"
-  },
-  {
-    "date": "2020-09-23",
-    "title": "Throw Away Code | Vorner’s random stuff",
-    "link": "https://vorner.github.io/2020/09/20/throw-away-code.html"
-  },
-  {
-    "date": "2020-09-09",
-    "title": "Performance Cheating | Vorner’s random stuff",
-    "link": "https://vorner.github.io/2020/09/03/performance-cheating.html"
-  },
-  {
     "date": "2020-09-02",
     "title": "Supporting Linux kernel development in Rust [LWN.net]",
     "link": "https://lwn.net/SubscriberLink/829858/281103f9c6fd0dc2/"
@@ -153,21 +113,6 @@
     "date": "2020-08-18",
     "title": "Frustrated? It's not you, it's Rust",
     "link": "https://fasterthanli.me/articles/frustrated-its-not-you-its-rust"
-  },
-  {
-    "date": "2020-07-14",
-    "title": "Programming Servo: the bird’s-eyes view | Programming Servo",
-    "link": "https://medium.com/programming-servo/programming-servo-the-birds-eyes-view-201d28220b9a?source=friends_link&sk=b8610f254bf6faf8b81c81729c1b3498"
-  },
-  {
-    "date": "2020-06-23",
-    "title": "Using Rust to Delete Gitignored Cruft - ForrestTheWoods",
-    "link": "https://www.forrestthewoods.com/blog/using-rust-to-delete-gitignored-cruft/"
-  },
-  {
-    "date": "2020-06-23",
-    "title": "Rust: the archetype of a message-passing bug. | Medium",
-    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-the-archetype-of-a-message-passing-bug-817b60efd8f8?source=friends_link&sk=ad32b77d42eda3dd28a26671282271df"
   },
   {
     "date": "2020-06-23",
@@ -180,19 +125,9 @@
     "link": "https://blog.tonari.no/why-we-love-rust"
   },
   {
-    "date": "2020-06-23",
-    "title": "Pont",
-    "link": "http://www.mattkeeter.com/projects/pont/"
-  },
-  {
     "date": "2020-05-12",
     "title": "Rust concurrency: the single-writer principle | Medium",
     "link": "https://medium.com/@polyglot_factotum/rust-concurrency-the-single-writer-principle-applied-aada2cdc6fb0?source=friends_link&sk=cafc8dcf8babf4ec95b1b62ccde7e54b"
-  },
-  {
-    "date": "2020-05-05",
-    "title": "Rust concurrency: streaming with back-pressure.  | Medium",
-    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-a-streaming-workflow-served-with-a-side-of-back-pressure-955bdf0266b5"
   },
   {
     "date": "2020-05-05",
@@ -200,19 +135,9 @@
     "link": "https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf"
   },
   {
-    "date": "2020-04-29",
-    "title": "Rust concurrency — five easy pieces. | by Gregory Terzian | Medium",
-    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-five-easy-pieces-871f1c62906a"
-  },
-  {
     "date": "2020-03-31",
     "title": "Async/Await | Writing an OS in Rust",
     "link": "https://os.phil-opp.com/async-await/"
-  },
-  {
-    "date": "2020-01-07",
-    "title": "Mutexes Are Faster Than Spinlocks",
-    "link": "https://matklad.github.io/2020/01/04/mutexes-are-faster-than-spinlocks.html"
   },
   {
     "date": "2020-01-07",
@@ -245,11 +170,6 @@
     "link": "https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/"
   },
   {
-    "date": "2019-10-29",
-    "title": "Programming Servo: the incredibly shrinking timer. | by Gregory Terzian | Programming Servo | Medium",
-    "link": "https://medium.com/programming-servo/programming-servo-the-incredibly-shrinking-timer-7283ae2a2669"
-  },
-  {
     "date": "2019-10-15",
     "title": "Making the Tokio scheduler 10x faster | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-10-scheduler/"
@@ -273,26 +193,6 @@
     "date": "2019-02-05",
     "title": "Rust: regret-less concurrency | by Gregory Terzian | Medium",
     "link": "https://medium.com/@polyglot_factotum/rust-regret-less-concurrency-2238b9e53333"
-  },
-  {
-    "date": "2018-07-24",
-    "title": "Rust concurrency patterns: communicate by sharing your Sender | by Gregory Terzian | Medium",
-    "link": "https://medium.com/@polyglot_factotum/rust-concurrency-patterns-communicate-by-sharing-your-sender-11a496ce7791"
-  },
-  {
-    "date": "2018-07-03",
-    "title": "A Rusty Go at Channels - Garrett's Blog",
-    "link": "https://gsquire.github.io/static/post/a-rusty-go-at-channels/"
-  },
-  {
-    "date": "2018-06-26",
-    "title": "Arc More Atomic | Vorner’s random stuff",
-    "link": "https://vorner.github.io/2018/06/24/arc-more-atomic.html"
-  },
-  {
-    "date": "2018-06-05",
-    "title": "The Secret Life of Cows - Pascal’s Scribbles",
-    "link": "https://deterministic.space/secret-life-of-cows.html"
   },
   {
     "date": "2018-03-27",

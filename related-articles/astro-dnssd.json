@@ -1,7 +1,22 @@
 [
   {
+    "date": "2024-02-14",
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
+  },
+  {
     "date": "2021-12-22",
     "title": "Rust in Production: Astropad",
     "link": "https://serokell.io/blog/rust-in-production-astropad"
+  },
+  {
+    "date": "2021-01-27",
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
   }
 ]

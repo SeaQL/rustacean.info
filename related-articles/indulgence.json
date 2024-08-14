@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Crafting Interpreters with Rust: On Garbage Collection | Tung Le Vo",
+    "link": "https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/"
+  },
+  {
     "date": "2024-06-05",
     "title": "Let's build a Load Balancer in Rust - Part 3 | Marco Bacis",
     "link": "https://marcobacis.com/blog/load-balancer-rust-3/"
@@ -18,16 +23,6 @@
     "date": "2024-02-07",
     "title": "Garbage Collection Without Unsafe Code",
     "link": "https://fitzgeraldnick.com/2024/02/06/safe-gc.html"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "A Mirror for Rust: Compile-Time Reflection Report - Shepherd's Oasis",
-    "link": "https://soasis.org/posts/a-mirror-for-rust-a-plan-for-generic-compile-time-introspection-in-rust/"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "Sam Sartor - All the Problems of Mutation",
-    "link": "https://samsartor.com/guis-3/"
   },
   {
     "date": "2023-02-22",
@@ -118,11 +113,6 @@
     "date": "2019-10-22",
     "title": "I made a NES emulator in Rust using generators | ~kylewlacy",
     "link": "https://kyle.space/posts/i-made-a-nes-emulator/"
-  },
-  {
-    "date": "2019-08-12",
-    "title": "Functional Programming Jargon in Rust",
-    "link": "https://functional.works-hub.com/learn/functional-programming-jargon-in-rust-1b555"
   },
   {
     "date": "2019-02-12",
@@ -268,11 +258,6 @@
     "date": "2016-08-23",
     "title": "GC Support in Rust: API Design - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2016/08/18/gc-support-in-rust-api-design/"
-  },
-  {
-    "date": "2016-07-26",
-    "title": "Page not found · GitHub Pages",
-    "link": "https://manishearth.github.io/rust-clippy/master/"
   },
   {
     "date": "2016-05-23",

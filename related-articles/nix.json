@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-04-19",
-    "title": "Announcing tuxedo-rs | Eberhardt blog",
-    "link": "https://aaronerhardt.github.io/blog/posts/announcing_tuxedo_rs/"
-  },
-  {
     "date": "2022-05-04",
     "title": "Time For Crab 🦀",
     "link": "https://gatowololo.github.io/blog/cargo-patch/"
@@ -28,6 +23,11 @@
     "date": "2020-09-09",
     "title": "Linux System Call `fork()` in Rust - Knoldus Blogs",
     "link": "https://blog.knoldus.com/linux-system-call-fork-in-rust/"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "First impressions of Rust",
+    "link": "https://john-millikin.com/first-impressions-of-rust"
   },
   {
     "date": "2019-10-22",

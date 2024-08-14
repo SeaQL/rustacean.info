@@ -20,11 +20,6 @@
     "link": "https://maybevoid.com/blog/mononym-part-1/"
   },
   {
-    "date": "2021-07-14",
-    "title": "How to Simplify Working With Time-Series Data in PostgreSQL",
-    "link": "https://blog.timescale.com/blog/introducing-hyperfunctions-new-sql-functions-to-simplify-working-with-time-series-data-in-postgresql/?utm_source=timescaledb&utm_medium=social&utm_campaign=hyperfunctions-1-0-release&utm_content=blog-introducing-hyperfunctions"
-  },
-  {
     "date": "2020-10-14",
     "title": "Learning Rust through open source and live code reviews",
     "link": "https://loige.co/learning-rust-through-open-source-and-live-code-reviews/"

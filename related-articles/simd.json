@@ -3,15 +3,5 @@
     "date": "2021-08-10",
     "title": "SIMD usage in C++, C# and Rust | vkSegfault",
     "link": "https://vksegfault.github.io/posts/simd-usage-cpp-csharp-rust/"
-  },
-  {
-    "date": "2020-09-02",
-    "title": "HTML forms, Databases, Integration tests | Luca Palmieri",
-    "link": "https://www.lpalmieri.com/posts/2020-08-31-zero-to-production-3-5-html-forms-databases-integration-tests/"
-  },
-  {
-    "date": "2020-06-23",
-    "title": "Simd Library Plans | Vorner’s random stuff",
-    "link": "https://vorner.github.io/2020/05/08/simd-library-plans.html"
   }
 ]

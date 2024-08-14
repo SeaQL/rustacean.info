@@ -25,11 +25,6 @@
     "link": "https://zellij.dev/news/new-plugin-system/"
   },
   {
-    "date": "2023-03-08",
-    "title": "Zellij 0.35.1 Stacked Panes and Swap Layouts",
-    "link": "https://zellij.dev/news/stacked-panes-swap-layouts/"
-  },
-  {
     "date": "2022-10-26",
     "title": "Zellij 0.32.0: YAML =&gt; KDL, Control Zellij through the CLI, Command Panes and a new Layout System",
     "link": "https://zellij.dev/news/config-command-layouts/"

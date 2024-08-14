@@ -1,5 +1,10 @@
 [
   {
+    "date": "2021-09-29",
+    "title": "AnyLeaf articles: Writing embedded firmware using Rust",
+    "link": "https://www.anyleaf.org/blog/writing-embedded-firmware-using-rust"
+  },
+  {
     "date": "2021-05-05",
     "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
@@ -8,5 +13,10 @@
     "date": "2020-08-25",
     "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/defmt/"
+  },
+  {
+    "date": "2019-04-23",
+    "title": "What I learned from my failed attempt of writing baremetal android in Rust | Extremely random blog posts from Onat",
+    "link": "https://onatm.dev/2019/04/22/what-i-learned-from-my-failed-attempt-of-writing-baremetal-android-in-rust/"
   }
 ]

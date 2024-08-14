@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Announcing SeaORM 1.0 🐚 | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-08-04-sea-orm-1.0/"
+  },
+  {
     "date": "2024-07-24",
     "title": "Diesel Async 0.5 - Weiznich's Blog",
     "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"
@@ -16,13 +21,8 @@
   },
   {
     "date": "2024-03-13",
-    "title": "Season Finale - Rust in Production Podcast | corrode Rust Consulting",
+    "title": "Season 1 - Finale - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e07-season-finale/"
-  },
-  {
-    "date": "2024-03-13",
-    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
-    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
   },
   {
     "date": "2024-03-13",
@@ -76,7 +76,7 @@
   },
   {
     "date": "2023-08-16",
-    "title": "Announcing SeaORM 0.12 🐚 | SeaQL",
+    "title": "Announcing SeaORM 0.12 | SeaQL",
     "link": "https://www.sea-ql.org/blog/2023-08-12-announcing-seaorm-0.12/"
   },
   {

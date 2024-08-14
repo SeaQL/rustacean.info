@@ -5,6 +5,16 @@
     "link": "https://lib.rs/crates/cargo-show-asm"
   },
   {
+    "date": "2020-08-04",
+    "title": "Giving Rust Another Shot in 2020 | Mathias Lafeldt",
+    "link": "https://sharpend.io/giving-rust-another-shot-in-2020/"
+  },
+  {
+    "date": "2020-07-21",
+    "title": "My Bet on Rust has been Vindicated",
+    "link": "https://nbsoftsolutions.com/blog/my-bet-on-rust-has-been-vindicated.html"
+  },
+  {
     "date": "2020-07-14",
     "title": "nnnoiseless: porting audio code from C to rust | A new version",
     "link": "https://jneem.github.io/nnnoiseless/"

@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
-  },
-  {
     "date": "2019-07-16",
     "title": "Rust as the new C: building and combining native libs into C API · Victor Baybekov",
     "link": "http://hotforknowledge.com/2019/07/14/6-rust-the-new-c/"

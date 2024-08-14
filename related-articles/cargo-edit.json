@@ -50,6 +50,11 @@
     "link": "https://sgolem.com/halite-iii-bot-development-kit-in-rust"
   },
   {
+    "date": "2020-08-11",
+    "title": "How To Bootstrap A Rust Web API From Scratch | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/2020-08-09-zero-to-production-3-how-to-bootstrap-a-new-rust-web-api-from-scratch/"
+  },
+  {
     "date": "2020-06-23",
     "title": "Kevin K's Blog - Diving into Rust with a CLI",
     "link": "https://kbknapp.dev/rust-cli/"

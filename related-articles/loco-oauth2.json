@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Announcing SeaORM 1.0 🐚 | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-08-04-sea-orm-1.0/"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Rob Ede - Actix Web, Life as an Open Source Maintainer, Supply-chain Security - timClicks (Tim McNamara)",
+    "link": "https://timclicks.dev/podcast/rob-ede/"
+  },
+  {
+    "date": "2024-07-03",
+    "title": "Adding GraphQL Support to Loco with Seaography | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-07-01-graphql-support-with-loco-seaography/"
+  },
+  {
     "date": "2024-05-29",
     "title": "Getting Started with Loco &amp; SeaORM | SeaQL",
     "link": "https://www.sea-ql.org/blog/2024-05-28-getting-started-with-loco-seaorm/"

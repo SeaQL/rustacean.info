@@ -10,6 +10,11 @@
     "link": "https://slint-ui.com/thisweek/2022-02-28.html"
   },
   {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
+  },
+  {
     "date": "2021-04-14",
     "title": "This Month in Rust GameDev #20 - March 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/020/"

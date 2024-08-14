@@ -1,13 +1,53 @@
 [
   {
+    "date": "2023-01-18",
+    "title": "Rails developers write some Rust: a review of Axum 0.6",
+    "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
+  },
+  {
+    "date": "2022-08-10",
+    "title": "Announcing Cargo WAPM · Michael-F-Bryan",
+    "link": "https://adventures.michaelfbryan.com/posts/announcing-cargo-wapm/"
+  },
+  {
+    "date": "2022-07-27",
+    "title": "Console #115 - Interview with Jonathan of BonsaiDb",
+    "link": "https://console.substack.com/p/console-115"
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Large Rust Workspaces",
+    "link": "https://matklad.github.io/2021/08/22/large-rust-workspaces.html"
+  },
+  {
+    "date": "2021-05-05",
+    "title": "Using GDB and defmt to debug embedded programs  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/gdb-and-defmt/"
+  },
+  {
     "date": "2021-04-21",
     "title": "Knurling-rs changelog #23  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/knurling-changelog-23/"
   },
   {
+    "date": "2021-03-31",
+    "title": "Testing an embedded application  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/test-embedded-app/"
+  },
+  {
     "date": "2021-01-13",
     "title": "Expose a Rust Library to Other Languages — Slint Blog",
     "link": "https://sixtyfps.io/blog/expose-rust-library-to-other-languages.html"
+  },
+  {
+    "date": "2020-09-16",
+    "title": "Rust in 2021",
+    "link": "https://matklad.github.io/2020/09/12/rust-in-2021.html"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Embedded Rust tooling for the 21st century  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/21st-century-embedded-tooling/"
   },
   {
     "date": "2018-02-06",

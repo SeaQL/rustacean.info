@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
     "date": "2022-02-23",
     "title": "Checking Tailwind Class Names at Compile Time with Rust - House Absolute(ly Pointless)",
     "link": "https://blog.urth.org/2022/02/21/checking-tailwind-class-names-at-compile-time-with-rust/"

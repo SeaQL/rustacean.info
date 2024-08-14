@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-02-15",
-    "title": "The bottom emoji breaks rust-analyzer",
-    "link": "https://fasterthanli.me/articles/the-bottom-emoji-breaks-rust-analyzer"
-  },
-  {
     "date": "2020-10-28",
     "title": "Fighting Rust's Expressive Type System | thefuntastic",
     "link": "https://thefuntastic.com/blog/fighting-rusts-type-system"
@@ -18,11 +13,6 @@
     "date": "2020-09-16",
     "title": "Rust in Science and ever-changing requirements | Amanjeev Sethi",
     "link": "https://amanjeev.com/blog/rust-in-science-and-ever-changing-requirements"
-  },
-  {
-    "date": "2020-08-25",
-    "title": "First thoughts on Rust vs OCaml",
-    "link": "https://blog.darklang.com/first-thoughts-on-rust-vs-ocaml/"
   },
   {
     "date": "2020-08-18",

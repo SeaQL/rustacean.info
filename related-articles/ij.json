@@ -1,7 +1,0 @@
-[
-  {
-    "date": "2023-10-11",
-    "title": "How we reduced the memory usage of our Rust extension by 4x",
-    "link": "https://blog.kolo.app/optimising-rust-memory.html"
-  }
-]

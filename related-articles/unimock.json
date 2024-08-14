@@ -10,11 +10,6 @@
     "link": "https://blog.logrocket.com/mocking-rust-mockall-alternatives"
   },
   {
-    "date": "2023-04-12",
-    "title": "How to write a type-level mock library in Rust - Audun Halland",
-    "link": "https://audunhalland.github.io/blog/how-to-write-a-type-level-mock-library-in-rust/"
-  },
-  {
     "date": "2022-12-21",
     "title": "UI development in Rust | Raimundo Saona",
     "link": "https://saona-raimundo.github.io/2022/12/21/UI-development-in-Rust.html"

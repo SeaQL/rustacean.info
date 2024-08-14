@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2024-02-14",
+    "title": "Tweede Golf with Folkert de Vries - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s01e05-tweede-golf/"
+  },
+  {
+    "date": "2023-11-01",
+    "title": "Can Rust prevent logic errors? | It's all about the bit",
+    "link": "https://itsallaboutthebit.com/logic-errors-in-rust/"
+  },
+  {
+    "date": "2023-10-04",
+    "title": "Nine Rules to Formally Validate Rust Algorithms with&nbsp;Dafny by Carl Kadie &amp; Divyanshu Ranjan | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-to-formally-validate-rust-algorithms-with-dafny-part-1-5cb8c8a0bb92"
+  },
+  {
+    "date": "2023-07-12",
+    "title": "bridging fuzzing and property testing",
+    "link": "https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "Bytecode Alliance — Security and Correctness in Wasmtime",
+    "link": "https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Fuzzing rust-minidump for Embarrassment and Crashes - Part 2 - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2022/06/fuzzing-rust-minidump-for-embarrassment-and-crashes/"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "Tiemoko Ballo",
+    "link": "https://tiemoko.com/blog/diff-fuzz/"
+  },
+  {
+    "date": "2021-02-10",
+    "title": "Eight million pixels and counting\n– Improving texture atlas allocation in WebRender",
+    "link": "https://nical.github.io/posts/etagere.html"
+  },
+  {
+    "date": "2021-01-27",
+    "title": "Unsafe Rust: How and when (not) to use it - LogRocket Blog",
+    "link": "https://blog.logrocket.com/unsafe-rust-how-and-when-not-to-use-it/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "Writing a Test Case Generator for a Programming Language",
+    "link": "https://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
+  },
+  {
+    "date": "2020-07-21",
+    "title": "My Bet on Rust has been Vindicated",
+    "link": "https://nbsoftsolutions.com/blog/my-bet-on-rust-has-been-vindicated.html"
+  },
+  {
+    "date": "2020-06-02",
+    "title": "Fuzzing Sequoia-PGP – Hackeriet Blog",
+    "link": "https://blog.hackeriet.no/fuzzing-sequoia/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "How to write CRaP Rust code - LogRocket Blog",
+    "link": "https://blog.logrocket.com/how-to-write-crap-rust-code/"
+  },
+  {
+    "date": "2018-10-02",
+    "title": "How I’ve found vulnerability in a popular Rust crate (and you can too) | by Sergey \"Shnatsel\" Davidoff | Medium",
+    "link": "https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb"
+  },
+  {
+    "date": "2018-05-29",
+    "title": "Fuzz testing in Rust with Cargo-fuzz | by Seasoned Software | Medium",
+    "link": "https://medium.com/@seasoned_sw/fuzz-testing-in-rust-with-cargo-fuzz-13b89feecc30"
+  },
+  {
+    "date": "2017-07-11",
+    "title": "How Rust is tested",
+    "link": "https://brson.github.io/2017/07/10/how-rust-is-tested"
+  },
+  {
+    "date": "2017-04-04",
+    "title": "Fuzzing is magic - Or how I found a panic in Rust's regex library",
+    "link": "https://www.nibor.org/blog/fuzzing-is-magic---or-how-i-found-a-panic-in-rusts-regex-library/"
+  },
+  {
+    "date": "2017-03-07",
+    "title": "Mitigating Underhandedness: Fuzzing Your Code - In Pursuit of Laziness",
+    "link": "https://manishearth.github.io/blog/2017/03/02/mitigating-underhandedness-fuzzing-your-code/"
+  }
+]

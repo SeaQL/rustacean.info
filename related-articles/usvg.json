@@ -5,11 +5,6 @@
     "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
   },
   {
-    "date": "2023-05-31",
-    "title": "Serving dynamic social preview images with rust and serverless functions",
-    "link": "https://traits-crates-and-awaits.ghost.io/serving-dynamic-social-preview-images-with-rust-and-serverless-functions/"
-  },
-  {
     "date": "2023-02-01",
     "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/041/"

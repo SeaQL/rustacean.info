@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-07-17",
-    "title": "How to make Rust Desktop App with Egui and ChatGPT - OnlyCoiners",
-    "link": "https://www.onlycoiners.com/user/steadylearner/blog/how-to-make-rust-desktop-app-with-egui-and-chatgpt"
-  },
-  {
     "date": "2024-01-10",
     "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
     "link": "https://thewolfsound.com/talk016/"
@@ -13,11 +8,6 @@
     "date": "2023-09-20",
     "title": "Three years of Bevy",
     "link": "https://trent.kiwi/bevy-three-years"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
   },
   {
     "date": "2023-03-15",

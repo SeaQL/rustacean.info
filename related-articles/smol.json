@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Async Rust Challenges in Iroh - Iroh",
+    "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"
+  },
+  {
     "date": "2024-04-10",
     "title": "Zed Decoded: Async Rust",
     "link": "https://zed.dev/blog/zed-decoded-async-rust"
@@ -61,11 +66,6 @@
   },
   {
     "date": "2023-09-20",
-    "title": "Choosing a more optimal `String` type",
-    "link": "https://swatinem.de/blog/optimized-strings/"
-  },
-  {
-    "date": "2023-09-20",
     "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/async/"
   },
@@ -83,11 +83,6 @@
     "date": "2023-05-17",
     "title": "smol with John Nunley :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/john-nunley/"
-  },
-  {
-    "date": "2023-03-08",
-    "title": "Oxy is Cloudflare's Rust-based next generation proxy framework",
-    "link": "https://blog.cloudflare.com/introducing-oxy/"
   },
   {
     "date": "2022-12-21",
@@ -115,11 +110,6 @@
     "link": "https://sabrinajewson.org/blog/async-drop"
   },
   {
-    "date": "2022-03-16",
-    "title": "Knurling-rs changelog #34  - Ferrous Systems",
-    "link": "https://ferrous-systems.com/blog/knurling-changelog-34/"
-  },
-  {
     "date": "2021-11-17",
     "title": "What is an async runtime?",
     "link": "https://ncameron.org/blog/what-is-an-async-runtime/"
@@ -135,39 +125,9 @@
     "link": "https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg"
   },
   {
-    "date": "2021-03-31",
-    "title": "A look back at asynchronous Rust. In 2013, I discovered the Rust… | by tomaka | Medium",
-    "link": "https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c"
-  },
-  {
-    "date": "2021-01-13",
-    "title": "parsing baseball files in Rust instead of Python for an 8x speedup! – Greg's Blog",
-    "link": "https://gregstoll.wordpress.com/2021/01/10/parsing-baseball-files-in-rust-instead-of-python-for-an-8x-speedup/"
-  },
-  {
-    "date": "2020-09-30",
-    "title": "Optimization - Making Rust Code Go Brrrr",
-    "link": "https://aspenuwu.me/posts/rust-optimization.html"
-  },
-  {
     "date": "2020-07-21",
     "title": "Popol: Minimal non-blocking I/O with Rust ~ cloudhead.io",
     "link": "https://cloudhead.io/popol/"
-  },
-  {
-    "date": "2020-07-21",
-    "title": "Geometric Constraint Solvers Part 1: Algebraic Expressions · Michael-F-Bryan",
-    "link": "http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/?utm_source=reddit&utm_medium=social&utm_campaign=constraint-solver-1-expression-trees"
-  },
-  {
-    "date": "2020-07-14",
-    "title": "Geometric Constraint Solvers Part 1: Algebraic Expressions · Michael-F-Bryan",
-    "link": "http://adventures.michaelfbryan.com/posts/constraints-part-1-expressions/"
-  },
-  {
-    "date": "2020-07-07",
-    "title": "Small strings in Rust",
-    "link": "https://fasterthanli.me/articles/small-strings-in-rust"
   },
   {
     "date": "2020-06-30",
@@ -188,10 +148,5 @@
     "date": "2020-06-02",
     "title": "Ringbahn: a safe, ergonomic API for io-uring in Rust",
     "link": "https://boats.gitlab.io/blog/post/ringbahn/"
-  },
-  {
-    "date": "2020-02-25",
-    "title": "Working with strings in Rust",
-    "link": "https://fasterthanli.me/blog/2020/working-with-strings-in-rust/"
   }
 ]

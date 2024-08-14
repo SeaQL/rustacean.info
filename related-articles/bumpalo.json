@@ -5,16 +5,6 @@
     "link": "https://blog.yoshuawuyts.com/nesting-allocators/"
   },
   {
-    "date": "2023-04-12",
-    "title": "Eight million pixels and counting\n– Custom allocators in Rust",
-    "link": "https://nical.github.io/posts/rust-custom-allocators.html"
-  },
-  {
-    "date": "2023-03-08",
-    "title": "When Zig is safer and faster than Rust",
-    "link": "https://zackoverflow.dev/writing/unsafe-rust-vs-zig/"
-  },
-  {
     "date": "2022-11-30",
     "title": "Measuring the overhead of HashMaps in Rust | nicole@web",
     "link": "https://ntietz.com/blog/rust-hashmap-overhead/"
@@ -58,6 +48,11 @@
     "date": "2020-09-09",
     "title": "Performance Cheating | Vorner’s random stuff",
     "link": "https://vorner.github.io/2020/09/03/performance-cheating.html"
+  },
+  {
+    "date": "2020-08-11",
+    "title": "Allocation API, allocators and virtual memory | IV Notes",
+    "link": "https://notes.iveselov.info/programming/allocation-api-and-allocators"
   },
   {
     "date": "2020-06-10",

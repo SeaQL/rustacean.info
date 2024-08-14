@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-03-01",
-    "title": "(Possibly) Emulate PinePhone with Unicorn Emulator",
-    "link": "https://lupyuen.github.io/articles/unicorn"
-  },
-  {
     "date": "2020-10-14",
     "title": "Rust after the honeymoon – The Observation Deck",
     "link": "http://dtrace.org/blogs/bmc/2020/10/11/rust-after-the-honeymoon/"

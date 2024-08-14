@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Proposal: Deprecate Tokio's LocalSet · Issue #6741 · tokio-rs/tokio · GitHub",
+    "link": "https://www.github.com/tokio-rs/tokio/issues/6741"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Why you should use Rust on the backend",
+    "link": "https://www.shuttle.rs/blog/2024/07/31/rust-on-the-backend"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "How to do named function arguments in Rust | Bon",
+    "link": "https://elastio.github.io/bon/blog/how-to-do-named-function-arguments-in-rust"
+  },
+  {
     "date": "2024-07-17",
     "title": "Build with Naz : Box and Pin exploration in Rust | developerlife.com",
     "link": "https://developerlife.com/2024/07/16/pin-box-dynamic-duo"
@@ -235,19 +250,9 @@
     "link": "https://bevyengine.org/news/bevys-first-birthday/"
   },
   {
-    "date": "2021-06-09",
-    "title": "404: Page not found | Technology blog",
-    "link": "https://www.jakobmeier.ch/blogging/Untapped-Rust.html"
-  },
-  {
     "date": "2021-04-07",
     "title": "Bevy 0.5",
     "link": "https://bevyengine.org/news/bevy-0-5/"
-  },
-  {
-    "date": "2021-03-17",
-    "title": "404: Page not found | Technology blog",
-    "link": "https://www.jakobmeier.ch/blogging/Enums.html"
   },
   {
     "date": "2021-01-27",
@@ -275,11 +280,6 @@
     "link": "https://benjamin.computer/posts/2020-12-12-rust-python.html"
   },
   {
-    "date": "2020-10-07",
-    "title": "404: Page not found | Technology blog",
-    "link": "https://www.jakobmeier.ch/blogging/Rust_on_the_Web.html"
-  },
-  {
     "date": "2020-09-16",
     "title": "Collecting Data from an API - David MacEachern",
     "link": "https://davidmaceachern.com/posts/collecting-data-from-an-api"
@@ -290,9 +290,9 @@
     "link": "https://bevyengine.org/news/scaling-bevy/"
   },
   {
-    "date": "2020-05-19",
-    "title": "404: Page not found | Technology blog",
-    "link": "https://www.jakobmeier.ch/blogging/Paddlers_4.html"
+    "date": "2020-07-21",
+    "title": "Implementing flat_map in Rust",
+    "link": "https://www.eltonpinto.me/blog/posts/implementing_flatmap_in_rust/"
   },
   {
     "date": "2019-12-24",

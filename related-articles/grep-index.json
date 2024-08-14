@@ -30,11 +30,6 @@
     "link": "https://blog.axo.dev/2023/02/cargo-dist"
   },
   {
-    "date": "2023-01-25",
-    "title": "14 Rust Tools for Linux Terminal Dwellers",
-    "link": "https://itsfoss.com/rust-cli-tools/"
-  },
-  {
     "date": "2022-09-14",
     "title": "A byte string library for Rust - Andrew Gallant's Blog",
     "link": "https://blog.burntsushi.net/bstr/"

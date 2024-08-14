@@ -105,6 +105,11 @@
     "link": "https://coaxion.net/blog/2018/04/glib-gio-async-operations-and-rust-futures-async-await/"
   },
   {
+    "date": "2017-11-21",
+    "title": "Rust+GNOME Hackfest in Berlin",
+    "link": "https://blog.guillaume-gomez.fr/articles/2017-11-18+Rust%2BGNOME+Hackfest+in+Berlin"
+  },
+  {
     "date": "2017-09-12",
     "title": "Exporting a GObject C API from Rust code and using it from C, Python, JavaScript and others – coaxion.net – slomo's blog",
     "link": "https://coaxion.net/blog/2017/09/exporting-a-gobject-c-api-from-rust-code-and-using-it-from-c-python-javascript-and-others/"
@@ -115,6 +120,11 @@
     "link": "http://gtk-rs.org/blog/2017/08/20/new-release.html"
   },
   {
+    "date": "2017-08-01",
+    "title": "Writing GStreamer Applications in Rust – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2017/07/writing-gstreamer-applications-in-rust/"
+  },
+  {
     "date": "2017-05-09",
     "title": "gnome-class: Integrating Rust and the GNOME object system · baby steps",
     "link": "http://smallcultfollowing.com/babysteps/blog/2017/05/02/gnome-class-integrating-rust-and-the-gnome-object-system/"
@@ -123,11 +133,6 @@
     "date": "2017-05-09",
     "title": "New crates.io versions available and API improvements – gtk-rs",
     "link": "http://gtk-rs.org/blog/2017/05/06/api-improvements.html"
-  },
-  {
-    "date": "2017-04-25",
-    "title": "Page not found · GitHub Pages",
-    "link": "http://gtk-rs.org/docs-src/tutorial"
   },
   {
     "date": "2016-11-29",

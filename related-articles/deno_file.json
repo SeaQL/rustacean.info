@@ -40,11 +40,6 @@
     "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
   },
   {
-    "date": "2020-09-23",
-    "title": "Pure AST based linting sucks | RDambrosio",
-    "link": "https://rdambrosio016.github.io/rust/2020/09/18/pure-ast-based-linting-sucks.html"
-  },
-  {
     "date": "2020-06-16",
     "title": "Understanding the Rust Ecosystem",
     "link": "https://joeprevite.com/rust-lang-ecosystem"

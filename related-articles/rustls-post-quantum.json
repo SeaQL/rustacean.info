@@ -68,10 +68,5 @@
     "date": "2022-02-02",
     "title": "curl with rust | daniel.haxx.se",
     "link": "https://daniel.haxx.se/blog/2022/02/01/curl-with-rust/"
-  },
-  {
-    "date": "2021-04-21",
-    "title": "Preparing Rustls for Wider Adoption -  Internet Security Research Group",
-    "link": "https://www.abetterinternet.org/post/preparing-rustls-for-wider-adoption/"
   }
 ]

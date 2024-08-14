@@ -13,10 +13,5 @@
     "date": "2023-07-05",
     "title": "Intercepting Allocations with the Global Allocator",
     "link": "https://bd103.github.io/blog/2023-06-27-global-allocators"
-  },
-  {
-    "date": "2023-04-12",
-    "title": "Eight million pixels and counting\n– Custom allocators in Rust",
-    "link": "https://nical.github.io/posts/rust-custom-allocators.html"
   }
 ]

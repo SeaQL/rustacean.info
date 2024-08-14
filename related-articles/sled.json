@@ -1,8 +1,8 @@
 [
   {
-    "date": "2022-12-14",
-    "title": "Dioxus | An elegant GUI library for Rust",
-    "link": "https://dioxuslabs.com/blog/templates-diffing/"
+    "date": "2024-02-14",
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
   },
   {
     "date": "2022-05-25",
@@ -18,11 +18,6 @@
     "date": "2021-08-10",
     "title": "Rust in Production: Qovery",
     "link": "https://serokell.io/blog/rust-in-production-qovery"
-  },
-  {
-    "date": "2021-04-14",
-    "title": "Rust in Production: MeiliSearch",
-    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
     "date": "2020-09-02",

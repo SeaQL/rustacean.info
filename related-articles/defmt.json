@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-01-03",
-    "title": "Testing Your Embedded Rust (feat. embedded-hal-mock and explosions) - Barrett's Club",
-    "link": "https://barretts.club/posts/embedded-tests/"
-  },
-  {
     "date": "2023-07-05",
     "title": "Nine Rules for Running Rust on the Web and on Embedded | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2"

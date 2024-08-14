@@ -1,10 +1,5 @@
 [
   {
-    "date": "2022-09-14",
-    "title": "A byte string library for Rust - Andrew Gallant's Blog",
-    "link": "https://blog.burntsushi.net/bstr/"
-  },
-  {
     "date": "2022-03-16",
     "title": "Things I hate about Rust, redux",
     "link": "https://blog.yossarian.net/2022/03/10/Things-I-hate-about-Rust-redux"

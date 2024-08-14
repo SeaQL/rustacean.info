@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Jan Veen",
+    "link": "https://j.njsm.de/blog/tracing-rs/"
+  },
+  {
     "date": "2024-02-07",
     "title": "Rust web frameworks have subpar error reporting | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/rust-web-frameworks-have-subpar-error-reporting/"

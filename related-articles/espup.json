@@ -10,11 +10,6 @@
     "link": "https://mabez.dev/blog/posts/esp-rust-24-02-2023/"
   },
   {
-    "date": "2023-01-18",
-    "title": "Displaying Images on ESP32 with Rust! - lily's thots",
-    "link": "https://lilymara.xyz/posts/images-esp32/"
-  },
-  {
     "date": "2022-10-19",
     "title": "Rust on Espressif chips - 17-10-2022",
     "link": "https://mabez.dev/blog/posts/esp-rust-17-10-2022/"

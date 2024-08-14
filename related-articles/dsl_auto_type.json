@@ -15,11 +15,6 @@
     "link": "https://diesel.rs/news/2_1_0_release.html"
   },
   {
-    "date": "2023-05-03",
-    "title": "Build a Rust API with Rocket, Diesel, and MySQL",
-    "link": "https://planetscale.com/blog/build-a-rust-api-with-rocket-diesel-mysql"
-  },
-  {
     "date": "2023-03-22",
     "title": "Why use Rust on the backend?",
     "link": "https://blog.adamchalmers.com/why-rust-on-backend/"

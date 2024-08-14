@@ -20,11 +20,6 @@
     "link": "https://notgull.net/why-you-want-async/"
   },
   {
-    "date": "2023-02-01",
-    "title": "Managing complex communication over raw I/O streams using async-io-typed and async-io-converse – X Blog – A blog for Xaeroxe, Software Engineer",
-    "link": "https://xaeroxe.github.io/async-io/"
-  },
-  {
     "date": "2022-06-15",
     "title": "Local Async Executors and Why They Should be the Default",
     "link": "https://maciej.codes/2022-06-09-local-async.html"

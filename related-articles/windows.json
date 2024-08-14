@@ -10,16 +10,6 @@
     "link": "https://gamesbymason.com/2024/06/01/wor-ama/"
   },
   {
-    "date": "2024-04-24",
-    "title": "Porting a cross-platform GUI application to Rust - Mozilla Hacks - the Web developer blog",
-    "link": "https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/"
-  },
-  {
-    "date": "2024-02-14",
-    "title": "Tech Notes: Cross compiling Rust to win32",
-    "link": "https://neugierig.org/software/blog/2024/02/cross-compile.html"
-  },
-  {
     "date": "2023-11-15",
     "title": "Blog - Tracking the current active process in Windows with Rust · Hello Code.",
     "link": "https://hellocode.co/blog/post/tracking-active-process-windows-rust/"

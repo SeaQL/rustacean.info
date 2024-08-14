@@ -15,11 +15,6 @@
     "link": "https://gist.github.com/est31/8d0465997ea920c5ba917cbbf80a822d"
   },
   {
-    "date": "2020-08-11",
-    "title": "Propane: an experimental generator syntax for Rust",
-    "link": "https://without.boats/blog/propane/"
-  },
-  {
     "date": "2020-04-14",
     "title": "From failure to Fehler",
     "link": "https://boats.gitlab.io/blog/post/failure-to-fehler"

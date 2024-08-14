@@ -16,7 +16,7 @@
   },
   {
     "date": "2021-12-15",
-    "title": "Fluvio - This Week in Fluvio #16",
+    "title": "This Week in Fluvio #16 | Fluvio",
     "link": "https://www.fluvio.io/news/this-week-in-fluvio-0016/"
   },
   {
@@ -48,6 +48,11 @@
     "date": "2020-08-18",
     "title": "I am a Java, C#, C or C++ developer, time to do some Rust",
     "link": "https://fasterthanli.me/articles/i-am-a-java-csharp-c-or-cplusplus-dev-time-to-do-some-rust"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Ballista Distributed Compute: One Year Later",
+    "link": "https://andygrove.io/2020/07/ballista-one-year-on/"
   },
   {
     "date": "2019-09-10",

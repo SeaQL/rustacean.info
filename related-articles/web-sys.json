@@ -15,6 +15,11 @@
     "link": "https://caiiiycuk.medium.com/vange-rs-webassembly-in-rust-498e2f960a04"
   },
   {
+    "date": "2021-09-15",
+    "title": "Native Rust support on Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/workers-rust-sdk/"
+  },
+  {
     "date": "2021-06-02",
     "title": "WebRTC Video chat tutorial using Rust+WASM | by Charles Schleich | Medium",
     "link": "https://charles-schleich.medium.com/webrtc-video-chat-tutorial-using-rust-wasm-fa340f7aeef9"
@@ -28,6 +33,11 @@
     "date": "2021-02-24",
     "title": "Building an OpenStreetMap app in Rust, Part III | by Tor Hovland | Bekk",
     "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-iii-ab9ad4b83bd8"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Hello World with Rust and WebAssembly - blog.nodraak.fr",
+    "link": "https://blog.nodraak.fr/2020/07/rust-wasm-2-hello-world/"
   },
   {
     "date": "2020-07-07",

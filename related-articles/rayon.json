@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "This month in Servo: console logging, parallel tables, OpenXR, and more! - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://servo.org/blog/2024/07/31/this-month-in-servo/"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Don't Use Preludes And Globs | corrode Rust Consulting",
+    "link": "https://corrode.dev/blog/dont-use-preludes-and-globs/"
+  },
+  {
     "date": "2024-05-29",
     "title": "How We Migrated Our Static Analyzer From Java to Rust | Datadog",
     "link": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"
@@ -250,11 +260,6 @@
     "link": "https://da-data.blogspot.com/2020/10/no-c-still-isnt-cutting-it.html"
   },
   {
-    "date": "2020-09-30",
-    "title": "Optimization - Making Rust Code Go Brrrr",
-    "link": "https://aspenuwu.me/posts/rust-optimization.html"
-  },
-  {
     "date": "2020-09-23",
     "title": "Throw Away Code | Vorner’s random stuff",
     "link": "https://vorner.github.io/2020/09/20/throw-away-code.html"
@@ -273,6 +278,16 @@
     "date": "2020-08-04",
     "title": "Countdown problem in Rust | Memetic Musings",
     "link": "https://amitdev.github.io/posts/2020-07-27-countdown-rust/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Tutorial | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/tokio/tutorial"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Parallel stream processing with Rayon | More Stina Blog!",
+    "link": "https://morestina.net/blog/1432/parallel-stream-processing-with-rayon"
   },
   {
     "date": "2020-05-05",
@@ -298,11 +313,6 @@
     "date": "2020-03-17",
     "title": "parallel-stream",
     "link": "https://blog.yoshuawuyts.com/parallel-stream/"
-  },
-  {
-    "date": "2020-02-11",
-    "title": "Async Interview #6: Eliza Weisman · baby steps",
-    "link": "https://smallcultfollowing.com/babysteps/blog/2020/02/11/async-interview-6-eliza-weisman/"
   },
   {
     "date": "2019-12-24",
@@ -353,11 +363,6 @@
     "date": "2019-03-26",
     "title": "Rust All Hands 2019: Array iterators, Rayon, and more | Red Hat Developer",
     "link": "https://developers.redhat.com/blog/2019/03/22/rust-all-hands-2019-array-iterators-rayon-and-more/"
-  },
-  {
-    "date": "2019-03-12",
-    "title": "From 46s to 5s - Optimizing a 350 Line Raytracer in Rust | by Carl Fredrik Samson | Medium",
-    "link": "https://blog.usejournal.com/from-48s-to-5s-optimizing-a-350-line-pathtracer-in-rust-191ab4a1a412"
   },
   {
     "date": "2019-02-05",

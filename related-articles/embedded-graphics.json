@@ -35,6 +35,11 @@
     "link": "https://ferrous-systems.com/blog/knurling-sessions-introduction/"
   },
   {
+    "date": "2020-07-28",
+    "title": "Optimising Rust: Clockwise Triangles",
+    "link": "https://wapl.es/rust/2020/07/25/optimising-with-cmp-and-ordering.html"
+  },
+  {
     "date": "2019-03-12",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-16/"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Announcing SeaORM 1.0 🐚 | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-08-04-sea-orm-1.0/"
+  },
+  {
     "date": "2024-04-10",
     "title": "What's new in SeaORM 1.0-rc.x | SeaQL",
     "link": "https://www.sea-ql.org/blog/2024-04-08-whats-new-in-seaorm-1.0-rc.x/"

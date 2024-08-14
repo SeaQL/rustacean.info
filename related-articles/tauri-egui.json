@@ -50,21 +50,6 @@
     "link": "https://gamedev.rs/news/046/"
   },
   {
-    "date": "2023-06-07",
-    "title": "Rust's cfg Attribute",
-    "link": "https://blog.parker-codes.dev/posts/rusts-cfg-attribute"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "Through the looking glass • Create a launchbar app w/ Tauri",
-    "link": "https://blog.spyglass.fyi/posts/2023/creating-a-launcher-in-tauri/"
-  },
-  {
     "date": "2023-02-22",
     "title": "Why is building a UI in Rust so hard?",
     "link": "https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard"
@@ -73,11 +58,6 @@
     "date": "2023-02-22",
     "title": "Lodestone with Wilbur Zhang, Peter Jiang, and Kevin Huang :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/lodestone/"
-  },
-  {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
   },
   {
     "date": "2023-02-08",

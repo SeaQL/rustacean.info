@@ -13,10 +13,5 @@
     "date": "2020-11-25",
     "title": "Jitter | Electronic Design and Consultancy",
     "link": "https://jitter.company/blog/2020/11/23/bootstrapping-support-for-the-stm32wle-with-the-embedded-rust-ecosystem/"
-  },
-  {
-    "date": "2020-06-02",
-    "title": "Current State of Embedded Rust for Flight Controllers · GitHub",
-    "link": "https://gist.github.com/tstellanova/81c963f556522447dd007a0c3a84ebc3"
   }
 ]

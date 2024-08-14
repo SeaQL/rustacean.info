@@ -10,11 +10,6 @@
     "link": "https://romankudryashov.com/blog/2021/06/mongodb-redis-rust/"
   },
   {
-    "date": "2015-11-02",
-    "title": "articles - using resque with rust",
-    "link": "http://julienblanchard.com/2015/using-resque-with-rust/"
-  },
-  {
     "date": "2015-01-19",
     "title": "rdb-rs - fast and efficient RDB parsing utility",
     "link": "http://fnordig.de/2015/01/15/rdb-rs-fast-and-efficient-rdb-parsing-utility/"

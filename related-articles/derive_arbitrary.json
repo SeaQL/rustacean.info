@@ -5,11 +5,6 @@
     "link": "https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime"
   },
   {
-    "date": "2021-05-26",
-    "title": "Trail of Bits Blog",
-    "link": "https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy"
-  },
-  {
     "date": "2020-08-25",
     "title": "Writing a Test Case Generator for a Programming Language",
     "link": "https://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"

@@ -5,11 +5,6 @@
     "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
   },
   {
-    "date": "2024-03-06",
-    "title": "Replacing PyO3's API without breaking everything downstream by davidhewitt",
-    "link": "https://polar.sh/davidhewitt/posts/replacing-pyo3-api-pt1"
-  },
-  {
     "date": "2024-01-17",
     "title": "Highlights of 2023 for cargo-semver-checks",
     "link": "https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/"

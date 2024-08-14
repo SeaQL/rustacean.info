@@ -10,9 +10,9 @@
     "link": "https://neosmart.net/blog/using-build-rs-to-integrate-rust-applications-with-system-libraries-like-a-pro/"
   },
   {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
+    "date": "2024-01-24",
+    "title": "Pq-sys 0.5.0 - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/pq-sys-05/"
   },
   {
     "date": "2023-03-15",

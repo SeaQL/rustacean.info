@@ -10,11 +10,6 @@
     "link": "https://lucumr.pocoo.org/2024/3/26/rust-cdo/"
   },
   {
-    "date": "2023-05-31",
-    "title": "Serving dynamic social preview images with rust and serverless functions",
-    "link": "https://traits-crates-and-awaits.ghost.io/serving-dynamic-social-preview-images-with-rust-and-serverless-functions/"
-  },
-  {
     "date": "2023-05-10",
     "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
     "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
@@ -28,6 +23,11 @@
     "date": "2023-01-04",
     "title": "How to Test",
     "link": "https://matklad.github.io/2021/05/31/how-to-test.html"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Writing Better Integration Tests with RAII",
+    "link": "https://notado.substack.com/p/writing-better-integration-tests"
   },
   {
     "date": "2022-06-15",

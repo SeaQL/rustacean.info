@@ -45,11 +45,6 @@
     "link": "https://nickb.dev/blog/avoiding-allocations-in-rust-to-shrink-wasm-modules/"
   },
   {
-    "date": "2022-07-06",
-    "title": "Insights of Porting Hugging Face Rust Tokenizers to WASM",
-    "link": "https://blog.mithrilsecurity.io/porting-tokenizers-to-wasm/"
-  },
-  {
     "date": "2022-01-26",
     "title": "Part 1: The life of an optimization barrier | Trail of Bits Blog",
     "link": "https://blog.trailofbits.com/2022/01/26/part-1-the-life-of-an-optimization-barrier/"
@@ -75,9 +70,9 @@
     "link": "https://blog.ysndr.de/posts/essays/2021-12-12-rust-for-iot/"
   },
   {
-    "date": "2021-07-21",
-    "title": "Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG",
-    "link": "https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg"
+    "date": "2021-09-15",
+    "title": "Native Rust support on Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/workers-rust-sdk/"
   },
   {
     "date": "2021-06-16",
@@ -118,6 +113,11 @@
     "date": "2020-08-04",
     "title": "Rust for a Pythonista #1: Why and when?",
     "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Making a Game in 48 hours with Rust and WebAssembly",
+    "link": "https://ianjk.com/rust-gamejam/"
   },
   {
     "date": "2020-07-14",

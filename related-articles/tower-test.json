@@ -10,11 +10,6 @@
     "link": "https://docs.rs/tower"
   },
   {
-    "date": "2022-12-14",
-    "title": "Composing an observable Rust application - LogRocket Blog",
-    "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
-  },
-  {
     "date": "2022-04-06",
     "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
     "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
@@ -35,11 +30,6 @@
     "link": "https://leshow.github.io/post/nailgun/"
   },
   {
-    "date": "2021-06-02",
-    "title": "Announcing tower-http | Tokio - An asynchronous Rust runtime",
-    "link": "https://tokio.rs/blog/2021-05-announcing-tower-http"
-  },
-  {
     "date": "2021-05-19",
     "title": "Inventing the Service trait | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-14-inventing-the-service-trait"
@@ -50,9 +40,9 @@
     "link": "https://clux.github.io/probes/post/2021-02-28-kube-evolution/"
   },
   {
-    "date": "2020-07-21",
-    "title": "Benchmarking gRPC in Rust &amp; Go. Some background | by Rustler | Medium",
-    "link": "https://medium.com/@Rustling_gopher/benchmarking-grpc-in-rust-go-184545e7688a"
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
   },
   {
     "date": "2020-01-07",

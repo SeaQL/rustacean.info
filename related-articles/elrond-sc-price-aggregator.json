@@ -15,6 +15,11 @@
     "link": "https://rustinblockchain.org/newsletters/2020-09-30-secure-enclaves-a-la-crab/"
   },
   {
+    "date": "2020-08-18",
+    "title": "My first smart contract in Rust on Elrond VM | Hiddentao Labs",
+    "link": "https://hiddentao.com/archives/2020/07/17/my-first-smart-contract-in-rust-on-elrond-vm"
+  },
+  {
     "date": "2020-08-11",
     "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"

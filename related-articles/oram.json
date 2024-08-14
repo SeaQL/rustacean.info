@@ -5,14 +5,39 @@
     "link": "https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/"
   },
   {
-    "date": "2023-04-12",
-    "title": "Build faster with Buck2: Our open source build system",
-    "link": "https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/"
+    "date": "2024-06-19",
+    "title": "This Week in Fluvio #62 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0062/"
+  },
+  {
+    "date": "2024-04-24",
+    "title": "This Week in Fluvio #60 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0060/"
+  },
+  {
+    "date": "2024-03-06",
+    "title": "This Week in Fluvio #59 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0059/"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "This Week in Fluvio #58 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0058/"
   },
   {
     "date": "2023-03-15",
     "title": "Why Turborepo is migrating from Go to Rust – Vercel",
     "link": "https://vercel.com/blog/turborepo-migration-go-rust"
+  },
+  {
+    "date": "2022-11-09",
+    "title": "This Week in Fluvio #48 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0048/"
+  },
+  {
+    "date": "2022-10-05",
+    "title": "This Week in Fluvio #47 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0047/"
   },
   {
     "date": "2022-09-28",
@@ -25,14 +50,219 @@
     "link": "https://pcwalton.github.io/_posts/2022-08-19-introducing-cxx-async.html"
   },
   {
+    "date": "2022-08-17",
+    "title": "This Week in Fluvio #42 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0042/"
+  },
+  {
+    "date": "2022-08-03",
+    "title": "This Week in Fluvio #41 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0041/"
+  },
+  {
+    "date": "2022-07-27",
+    "title": "This Week in Fluvio #40 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0040/"
+  },
+  {
+    "date": "2022-07-27",
+    "title": "This Week in Fluvio #39 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0039/"
+  },
+  {
+    "date": "2022-07-13",
+    "title": "This Week in Fluvio #38 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0038/"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "This Week in Fluvio #37 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0037/"
+  },
+  {
+    "date": "2022-06-15",
+    "title": "This Week in Fluvio #36 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0036/"
+  },
+  {
+    "date": "2022-06-08",
+    "title": "This Week in Fluvio #35 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0035/"
+  },
+  {
+    "date": "2022-05-25",
+    "title": "This Week in Fluvio #34 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0034/"
+  },
+  {
     "date": "2022-05-25",
     "title": "BonsaiDb performance update: A deep-dive on file synchronization",
     "link": "https://bonsaidb.io/blog/durable-writes/"
   },
   {
+    "date": "2022-05-11",
+    "title": "This Week in Fluvio #32 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0032/"
+  },
+  {
+    "date": "2022-05-04",
+    "title": "This Week in Fluvio #31 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0031/"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "This Week in Fluvio #30 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0030/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "This Week in Fluvio #29 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0029/"
+  },
+  {
+    "date": "2022-04-13",
+    "title": "This Week in Fluvio #28 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0028/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "This Week in Fluvio #27 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0027/"
+  },
+  {
+    "date": "2022-03-30",
+    "title": "This Week in Fluvio #26 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0026/"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "This Week in Fluvio #25 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0025/"
+  },
+  {
+    "date": "2022-03-09",
+    "title": "This Week in Fluvio #24 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0024/"
+  },
+  {
+    "date": "2022-02-23",
+    "title": "This Week in Fluvio #23 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0023/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "This Week in Fluvio #22 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0022/"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "This Week in Fluvio #21 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0021/"
+  },
+  {
+    "date": "2022-02-02",
+    "title": "This Week in Fluvio #20 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0020/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "This Week in Fluvio #19 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0019/"
+  },
+  {
+    "date": "2022-01-05",
+    "title": "This Week in Fluvio #18 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0018/"
+  },
+  {
+    "date": "2021-12-22",
+    "title": "This Week in Fluvio #17 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0017/"
+  },
+  {
+    "date": "2021-12-15",
+    "title": "This Week in Fluvio #16 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0016/"
+  },
+  {
     "date": "2021-12-15",
     "title": "Introducing the new Relay compiler | Relay",
     "link": "https://relay.dev/blog/2021/12/08/introducing-the-new-relay-compiler/"
+  },
+  {
+    "date": "2021-12-01",
+    "title": "This Week in Fluvio #15 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0015/"
+  },
+  {
+    "date": "2021-11-24",
+    "title": "This Week in Fluvio #14 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0014/"
+  },
+  {
+    "date": "2021-11-17",
+    "title": "This Week in Fluvio #13 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0013/"
+  },
+  {
+    "date": "2021-11-10",
+    "title": "This Week in Fluvio #12 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0012/"
+  },
+  {
+    "date": "2021-11-03",
+    "title": "This Week in Fluvio #11 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0011/"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "This Week in Fluvio #10 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0010/"
+  },
+  {
+    "date": "2021-10-20",
+    "title": "This Week in Fluvio #9 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0009/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "This Week in Fluvio #8 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0008/"
+  },
+  {
+    "date": "2021-10-06",
+    "title": "This Week in Fluvio #7 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0007/"
+  },
+  {
+    "date": "2021-09-29",
+    "title": "This Week in Fluvio #6 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0006/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "This Week in Fluvio #5 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0005/"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "This Week in Fluvio #4 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0004/"
+  },
+  {
+    "date": "2021-08-25",
+    "title": "This Week in Fluvio #3 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0003/"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "This Week in Fluvio #2 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0002/"
+  },
+  {
+    "date": "2021-08-04",
+    "title": "This Week in Fluvio #1 | Fluvio",
+    "link": "https://www.fluvio.io/news/this-week-in-fluvio-0001/"
   },
   {
     "date": "2020-06-23",

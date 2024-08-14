@@ -5,16 +5,6 @@
     "link": "https://relm4.org/blog/posts/announcing_relm4_v0.7/"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
-    "date": "2023-02-22",
-    "title": "A long journey: Announcing Relm4 v0.5! | Relm4 blog",
-    "link": "https://relm4.org/blog/posts/announcing_relm4_v0.5"
-  },
-  {
     "date": "2022-09-07",
     "title": "One year of Relm4 | Relm4 blog",
     "link": "https://relm4.org/blog/posts/one_year_of_relm4/"

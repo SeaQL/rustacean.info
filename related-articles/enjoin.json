@@ -1,7 +1,0 @@
-[
-  {
-    "date": "2023-04-19",
-    "title": "A syntax-level async join macro supporting branching control flow and synchronous shared mutable borrowing | Wisha Wanichwecharungruang",
-    "link": "https://wishawa.github.io/posts/enjoin/"
-  }
-]

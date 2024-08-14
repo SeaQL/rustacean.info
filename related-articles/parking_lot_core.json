@@ -1,13 +1,13 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Why you should use Rust on the backend",
+    "link": "https://www.shuttle.rs/blog/2024/07/31/rust-on-the-backend"
+  },
+  {
     "date": "2023-12-13",
     "title": "Non-Send Futures When?",
     "link": "https://matklad.github.io/2023/12/10/nsfw.html"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "Pretty Rust backtraces in raw terminal mode | Andy Hippo",
-    "link": "https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/"
   },
   {
     "date": "2021-05-19",

@@ -20,13 +20,28 @@
     "link": "https://towardsdev.com/hitchikers-guide-to-lunatic-tcp-servers-in-ae44258750f1"
   },
   {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
     "date": "2021-08-18",
     "title": "Paul Butler – Calling WebAssembly from Rust",
     "link": "https://paulbutler.org/2021/calling-webassembly-from-rust/"
   },
   {
+    "date": "2021-04-14",
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
     "date": "2021-04-07",
     "title": "How I Used Rust + Lunatic to Build a TelNet Chat Server With WebAssembly | HackerNoon",
     "link": "https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
   }
 ]

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine - paavohtl's blog",
+    "link": "https://blog.paavo.me/demo-engine-part-1/"
+  },
+  {
     "date": "2024-07-03",
     "title": "The Minimal Rust-Wasm Setup for 2024 - dzfrias",
     "link": "https://dzfrias.dev/blog/rust-wasm-minimal-setup/"
@@ -195,6 +200,11 @@
     "link": "https://pci.github.io/blog/2021/10/advent-of-code-rust-wasm-and-js/"
   },
   {
+    "date": "2021-09-15",
+    "title": "Native Rust support on Cloudflare Workers",
+    "link": "https://blog.cloudflare.com/workers-rust-sdk/"
+  },
+  {
     "date": "2021-08-18",
     "title": "Tag input assistant for &lt;select&gt; elements in Rust/wasm - epilys blog",
     "link": "https://nessuent.xyz/posts/2021-08-14_tag-wasm-rust.html"
@@ -318,6 +328,21 @@
     "date": "2020-08-04",
     "title": "Rust for a Pythonista #1: Why and when?",
     "link": "https://dygalo.dev/blog/rust-for-a-pythonista-1/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Making a Game in 48 hours with Rust and WebAssembly",
+    "link": "https://ianjk.com/rust-gamejam/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Hello World with Rust and WebAssembly - blog.nodraak.fr",
+    "link": "https://blog.nodraak.fr/2020/07/rust-wasm-2-hello-world/"
+  },
+  {
+    "date": "2020-07-21",
+    "title": "My Bet on Rust has been Vindicated",
+    "link": "https://nbsoftsolutions.com/blog/my-bet-on-rust-has-been-vindicated.html"
   },
   {
     "date": "2020-07-14",

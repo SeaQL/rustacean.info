@@ -1,8 +1,18 @@
 [
   {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
+    "date": "2024-06-12",
+    "title": "How to build a Custom Benchmarking Harness in Rust | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/benchmarking/rust/custom-harness/"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "How to benchmark Rust code with Iai | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/benchmarking/rust/iai/"
+  },
+  {
+    "date": "2024-01-31",
+    "title": "How to benchmark Rust code with Criterion | Bencher - Continuous Benchmarking",
+    "link": "https://bencher.dev/learn/benchmarking/rust/criterion/"
   },
   {
     "date": "2018-05-22",

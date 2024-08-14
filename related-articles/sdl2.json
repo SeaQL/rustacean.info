@@ -10,11 +10,6 @@
     "link": "https://wiki.alopex.li/WritingAWaylandCompositorInRust"
   },
   {
-    "date": "2019-03-19",
-    "title": "Implementing a NES Emulator in Rust",
-    "link": "https://www.michaelburge.us/2019/03/18/nes-design.html"
-  },
-  {
     "date": "2016-10-18",
     "title": "Game of Life implemented in Rust-sdl2",
     "link": "http://pramode.in/2016/10/12/conway-game-of-life-rust-sdl2/"

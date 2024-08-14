@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-04-19",
-    "title": "BlogWerx: Improving build times for derive macros by 3x or more",
-    "link": "https://blog.kodewerx.org/2023/04/improving-build-times-for-derive-macros.html"
-  },
-  {
     "date": "2020-09-02",
     "title": "Rust serialization: What's ready for production today? - LogRocket Blog",
     "link": "https://blog.logrocket.com/rust-serialization-whats-ready-for-production-today/"

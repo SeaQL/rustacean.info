@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-02-01",
-    "title": "This Month in Rust GameDev #41 - December 2022 | Rust GameDev WG",
-    "link": "https://gamedev.rs/news/041/"
-  },
-  {
     "date": "2017-01-10",
     "title": "The image library is now pure Rust · Piston",
     "link": "http://blog.piston.rs/2017/01/08/the-image-library-is-now-pure-rust/"

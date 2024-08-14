@@ -15,11 +15,6 @@
     "link": "https://opensource.googleblog.com/2020/12/expanding-fuchsias-open-source-model.html"
   },
   {
-    "date": "2020-02-25",
-    "title": "Error NOT_FOUND",
-    "link": "https://fuchsia.googlesource.com/fuchsia/+/refs/heads/master/docs/project/policy/programming_languages.md"
-  },
-  {
     "date": "2019-10-15",
     "title": "AWS’ sponsorship of the Rust project | AWS Open Source Blog",
     "link": "https://aws.amazon.com/blogs/opensource/aws-sponsorship-of-the-rust-project/"

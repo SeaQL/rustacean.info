@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-02-14",
+    "title": "Rust in Production: Interview with FOSSA",
+    "link": "https://serokell.io/blog/rust-in-production-fossa"
+  },
+  {
     "date": "2021-12-22",
     "title": "Rust in Production: Astropad",
     "link": "https://serokell.io/blog/rust-in-production-astropad"
@@ -8,10 +13,5 @@
     "date": "2021-08-10",
     "title": "Rust in Production: Qovery",
     "link": "https://serokell.io/blog/rust-in-production-qovery"
-  },
-  {
-    "date": "2021-04-14",
-    "title": "Rust in Production: MeiliSearch",
-    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   }
 ]

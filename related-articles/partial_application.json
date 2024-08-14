@@ -1,27 +1,12 @@
 [
   {
-    "date": "2022-03-23",
-    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
-    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
-  },
-  {
-    "date": "2021-12-22",
-    "title": "Rust in Production: Astropad",
-    "link": "https://serokell.io/blog/rust-in-production-astropad"
-  },
-  {
-    "date": "2021-08-10",
-    "title": "Rust in Production: Qovery",
-    "link": "https://serokell.io/blog/rust-in-production-qovery"
-  },
-  {
     "date": "2021-04-14",
     "title": "Rust in Production: MeiliSearch",
     "link": "https://serokell.io/blog/rust-in-production-meilisearch"
   },
   {
-    "date": "2019-08-12",
-    "title": "Functional Programming Jargon in Rust",
-    "link": "https://functional.works-hub.com/learn/functional-programming-jargon-in-rust-1b555"
+    "date": "2021-01-27",
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
   }
 ]

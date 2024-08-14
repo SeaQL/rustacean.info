@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Fearless Concurrency with Rust Tickets, Tue, Aug 27, 2024 at 11:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/fearless-concurrency-with-rust-tickets-934569591807"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Fearless Concurrency with Rust Tickets, Tue, Aug 27, 2024 at 11:00 AM | Eventbrite",
+    "link": "https://www.eventbrite.com/e/fearless-concurrency-with-rust-tickets-934569591807?aff=erelexpmlt"
+  },
+  {
     "date": "2024-07-10",
     "title": "Research Computing With The Rust Programming Language Tickets, Thu, Jul 11, 2024 at 10:00 AM | Eventbrite",
     "link": "https://www.eventbrite.com/e/research-computing-with-the-rust-programming-language-tickets-908002037537?aff=ebdssbdestsearch&keep_tld=1"
@@ -115,11 +125,6 @@
     "link": "https://sentry.engineering/blog/locking-war-story"
   },
   {
-    "date": "2023-05-31",
-    "title": "Космическа Конференция - Пловдив | Space Conference - Plovdiv Tickets, Sat, Jun 3, 2023 at 10:00 AM | Eventbrite",
-    "link": "https://space-conference-plovdiv.eventbrite.com"
-  },
-  {
     "date": "2023-04-05",
     "title": "Rust Live: Asynchronous Rust Tickets, Tue 11 Apr 2023 at 16:00 | Eventbrite",
     "link": "https://www.eventbrite.com/e/rust-live-asynchronous-rust-tickets-575865518267?aff=ebdssbonlinesearch&keep_tld=1"
@@ -128,16 +133,6 @@
     "date": "2023-03-22",
     "title": "Flux: Ergonomic Verification of Rust Programs with Liquid Types Tickets, Mon, Mar 27, 2023 at 7:00 PM | Eventbrite",
     "link": "https://www.eventbrite.com/e/flux-ergonomic-verification-of-rust-programs-with-liquid-types-tickets-577742873487?aff=ebdssbonlinesearch"
-  },
-  {
-    "date": "2023-03-08",
-    "title": "Webinar online | Introduzione a Rust Biglietti, Mar, 14 mar 2023 alle 11:00 | Eventbrite",
-    "link": "https://www.eventbrite.com/e/biglietti-webinar-online-introduzione-a-rust-558594419947?aff=ebdssbonlinesearch&keep_tld=1"
-  },
-  {
-    "date": "2022-11-23",
-    "title": "MiniRust with Ralf Jung Tickets, Mon, Nov 28, 2022 at 7:00 PM | Eventbrite",
-    "link": "https://www.eventbrite.com/e/minirust-with-ralf-jung-tickets-460741328717"
   },
   {
     "date": "2022-11-16",
@@ -230,19 +225,9 @@
     "link": "https://blog.sentry.io/2016/10/19/fixing-python-performance-with-rust.html"
   },
   {
-    "date": "2016-09-06",
-    "title": "Mozilla Rust Seattle Meetup Tickets, Mon, Aug 11, 2014 at 7:00 PM | Eventbrite",
-    "link": "https://www.eventbrite.com/e/mozilla-rust-seattle-meetup-tickets-12222326307?aff=erelexporg"
-  },
-  {
     "date": "2016-06-06",
     "title": "Rust Belt Rust Conference Registration, Thu, Oct 27, 2016 at 8:30 AM | Eventbrite",
     "link": "https://rust-belt-rust.eventbrite.com/"
-  },
-  {
-    "date": "2016-01-04",
-    "title": "Mozilla Rust Seattle Meetup Tickets, Mon, Aug 11, 2014 at 7:00 PM | Eventbrite",
-    "link": "https://www.eventbrite.com/e/mozilla-rust-seattle-meetup-tickets-12222326307"
   },
   {
     "date": "2015-06-08",
@@ -278,10 +263,5 @@
     "date": "2015-01-12",
     "title": "Rust meet-up in Beijing Tickets, Sat, Jan 17, 2015 at 2:00 PM | Eventbrite",
     "link": "https://www.eventbrite.com/e/rust-meet-up-in-beijing-tickets-14905925023"
-  },
-  {
-    "date": "2014-02-09",
-    "title": "Eventbrite",
-    "link": "http://www.eventbrite.fr/e/billets-rust-paris-meetup-10528169037"
   }
 ]

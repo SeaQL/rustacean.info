@@ -1,5 +1,10 @@
 [
   {
+    "date": "2020-08-11",
+    "title": "First impressions of Rust",
+    "link": "https://john-millikin.com/first-impressions-of-rust"
+  },
+  {
     "date": "2014-12-22",
     "title": "24 days of Rust - FUSE filesystems, part 1 | siciarz.net",
     "link": "https://siciarz.net/24-days-of-rust-fuse-filesystems-part-1/"

@@ -5,6 +5,11 @@
     "link": "https://gregoryszorc.com/blog/2022/08/08/achieving-a-completely-open-source-implementation-of-apple-code-signing-and-notarization/"
   },
   {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
+  },
+  {
     "date": "2021-04-14",
     "title": "Gregory Szorc's Digital Home\n  | Rust is for Professionals",
     "link": "https://gregoryszorc.com/blog/2021/04/13/rust-is-for-professionals/"

@@ -60,16 +60,6 @@
     "link": "https://blog.railway.app/p/rust-cli-rewrite"
   },
   {
-    "date": "2023-03-01",
-    "title": "Rust language exercises for programmers",
-    "link": "https://www.hyperexponential.com/blog/rust-language-exercises-at-hx"
-  },
-  {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
-  },
-  {
     "date": "2023-02-22",
     "title": "winnow = toml_edit + combine + nom",
     "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"

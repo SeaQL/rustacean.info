@@ -1,10 +1,5 @@
 [
   {
-    "date": "2021-11-24",
-    "title": "A Tale of Three Rust Codebases",
-    "link": "https://blog.convex.dev/a-tale-of-three-codebases/"
-  },
-  {
     "date": "2020-01-21",
     "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"

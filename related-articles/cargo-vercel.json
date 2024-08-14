@@ -35,18 +35,8 @@
     "link": "https://blog.meilisearch.com/meilisearch-raised-5meu-seed-fundraising/"
   },
   {
-    "date": "2021-12-29",
-    "title": "Announcing NAPI-RS v2 – NAPI-RS",
-    "link": "https://napi.rs/blog/announce-v2"
-  },
-  {
     "date": "2021-07-28",
     "title": "Rust and WebAssembly Serverless Functions in Vercel - The New Stack",
     "link": "https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/"
-  },
-  {
-    "date": "2021-01-06",
-    "title": "Home – NAPI-RS",
-    "link": "https://napi.rs"
   }
 ]

@@ -25,6 +25,11 @@
     "link": "https://manishearth.github.io/blog/2022/08/03/zero-copy-1-not-a-yoking-matter/"
   },
   {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
+  },
+  {
     "date": "2021-04-07",
     "title": "A Tour of Safe Tracing GC Designs in Rust - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/"

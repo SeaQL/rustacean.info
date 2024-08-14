@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "0.14.1, tracking change detection, and more rendering examples",
+    "link": "https://thisweekinbevy.com/issue/2024-08-05-0141-tracking-change-detection-and-more-rendering-examples"
+  },
+  {
     "date": "2024-07-24",
     "title": "Bevy Jam 5, Radiance Cascades, and Calculators in many ui kits",
     "link": "https://thisweekinbevy.com/issue/2024-07-22-bevy-jam-5-radiance-cascades-and-calculators-in-many-ui-kits"
@@ -210,11 +215,6 @@
     "link": "https://gamedev.rs/news/044/"
   },
   {
-    "date": "2023-05-03",
-    "title": "Affan Shahid · Learning Game Dev - Building a platformer with Bevy #1",
-    "link": "https://affanshahid.dev/posts/learning-game-dev-bevy-1/"
-  },
-  {
     "date": "2023-03-15",
     "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/043/"
@@ -228,11 +228,6 @@
     "date": "2023-03-01",
     "title": "This Month in Rust GameDev #42 - January 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/042/"
-  },
-  {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
   },
   {
     "date": "2023-02-01",
@@ -285,6 +280,11 @@
     "link": "https://bevyengine.org/news/bevy-0-9/"
   },
   {
+    "date": "2022-10-26",
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
     "date": "2022-10-19",
     "title": "Magical handler functions in Rust | Lunatic",
     "link": "https://lunatic.solutions/blog/magic-handler-functions-in-rust/"
@@ -318,11 +318,6 @@
     "date": "2022-08-31",
     "title": "The Bombercrab Challenge 💥💣🦀 | tonari blog",
     "link": "https://blog.tonari.no/rust-game-hack-2022"
-  },
-  {
-    "date": "2022-08-17",
-    "title": "Get Started with Rust: Structs",
-    "link": "https://serokell.io/blog/structs-in-rust"
   },
   {
     "date": "2022-08-17",
@@ -368,6 +363,11 @@
     "date": "2022-04-13",
     "title": "This Month in Rust GameDev #32 - March 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/032/"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
   },
   {
     "date": "2022-03-16",
@@ -423,6 +423,11 @@
     "date": "2021-10-13",
     "title": "This Month in Rust GameDev #26 - September 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/026/"
+  },
+  {
+    "date": "2021-09-15",
+    "title": "Introducing Matchbox",
+    "link": "https://johanhelsing.studio/posts/introducing-matchbox"
   },
   {
     "date": "2021-09-08",
@@ -536,13 +541,13 @@
   },
   {
     "date": "2020-08-25",
-    "title": "Announcing the Rapier physics engine | Dimforge",
-    "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
-  },
-  {
-    "date": "2020-08-25",
     "title": "Scaling Bevy",
     "link": "https://bevyengine.org/news/scaling-bevy/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
   },
   {
     "date": "2020-06-23",

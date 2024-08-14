@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Async Rust Challenges in Iroh - Iroh",
+    "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"
+  },
+  {
     "date": "2024-07-24",
     "title": "iroh 0.21.0 - Fix, clean &amp; polish - Iroh",
     "link": "https://iroh.computer/blog/iroh-0-21-fix-clean-polish"

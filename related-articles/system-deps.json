@@ -3,10 +3,5 @@
     "date": "2024-07-17",
     "title": "The missing parts in Cargo | Life is a refactoring process without tests",
     "link": "https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/"
-  },
-  {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
   }
 ]

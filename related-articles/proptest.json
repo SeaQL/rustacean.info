@@ -20,11 +20,6 @@
     "link": "https://tzemanovic.gitlab.io/posts/state-machine-testing-with-proptest/"
   },
   {
-    "date": "2023-03-01",
-    "title": "When Rust hurts",
-    "link": "https://mmapped.blog/posts/15-when-rust-hurts.html"
-  },
-  {
     "date": "2021-09-08",
     "title": "Writing software that's reliable enough for production",
     "link": "https://pythonspeed.com/fil/docs/fil4prod/reliable.html"

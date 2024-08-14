@@ -13,10 +13,5 @@
     "date": "2016-12-27",
     "title": "24 days of Rust - lettre | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-lettre/"
-  },
-  {
-    "date": "2015-07-20",
-    "title": "404 error | Twilio",
-    "link": "https://www.twilio.com/blog/2015/07/building-a-random-friend-dialer-part-1-getting-started-with-rust-and-iron.html"
   }
 ]

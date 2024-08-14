@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Announcing SeaORM 1.0 🐚 | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-08-04-sea-orm-1.0/"
+  },
+  {
     "date": "2024-05-29",
     "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
     "link": "https://bencher.dev/learn/case-study/diesel/"
@@ -41,7 +46,7 @@
   },
   {
     "date": "2023-08-16",
-    "title": "Announcing SeaORM 0.12 🐚 | SeaQL",
+    "title": "Announcing SeaORM 0.12 | SeaQL",
     "link": "https://www.sea-ql.org/blog/2023-08-12-announcing-seaorm-0.12/"
   },
   {
@@ -68,11 +73,6 @@
     "date": "2023-01-18",
     "title": "Rails developers write some Rust: a review of Axum 0.6",
     "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"
-  },
-  {
-    "date": "2023-01-04",
-    "title": "Building a Simple DB in Rust - Part 1 - Parsing | John's Codes",
-    "link": "https://johns.codes/blog/build-a-db/part01"
   },
   {
     "date": "2022-11-02",

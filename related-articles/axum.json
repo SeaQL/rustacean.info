@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Rob Ede - Actix Web, Life as an Open Source Maintainer, Supply-chain Security - timClicks (Tim McNamara)",
+    "link": "https://timclicks.dev/podcast/rob-ede/"
+  },
+  {
     "date": "2024-07-10",
     "title": "Writing production Rust macros with macro_rules!",
     "link": "https://www.howtocodeit.com/articles/writing-production-rust-macros-with-macro-rules"
@@ -51,7 +56,7 @@
   },
   {
     "date": "2024-03-13",
-    "title": "Season Finale - Rust in Production Podcast | corrode Rust Consulting",
+    "title": "Season 1 - Finale - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e07-season-finale/"
   },
   {
@@ -130,11 +135,6 @@
     "link": "https://www.shuttle.rs/blog/2023/11/15/ssg-in-rust"
   },
   {
-    "date": "2023-11-08",
-    "title": "Rust for JavaScript Developers: An Overview of Testing",
-    "link": "https://www.shuttle.rs/blog/2023/11/08/testing-in-rust"
-  },
-  {
     "date": "2023-10-11",
     "title": "Diagnostic namespace - Weiznich's Blog",
     "link": "https://blog.weiznich.de/blog/diagnostic-namespace-10-23/"
@@ -180,11 +180,6 @@
     "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
   },
   {
-    "date": "2023-08-30",
-    "title": "TulipeMoutarde.be",
-    "link": "https://tulipemoutarde.be/posts/2023-08-20-depencency-injection-rust-axum/"
-  },
-  {
     "date": "2023-08-23",
     "title": "Distributed Tracing in Rust, Episode 2: tracing basics",
     "link": "https://heikoseeberger.de/2023-08-18-dist-tracing-2/"
@@ -218,11 +213,6 @@
     "date": "2023-04-26",
     "title": "Logan Keenan - Integrating the Rust Axum Framework with Cloudflare Workers",
     "link": "https://logankeenan.com/posts/rust-axum-and-cloudflare-workers/"
-  },
-  {
-    "date": "2023-03-29",
-    "title": "ngrok blog: Introducing ngrok-rs - safe and portable network ingress to your Rust apps 🦀",
-    "link": "https://ngrok.com/blog-post/ngrok-rs"
   },
   {
     "date": "2023-03-01",

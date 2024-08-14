@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-08-02",
-    "title": "How to write Rust unit tests for your Compute application | Fastly",
-    "link": "https://www.fastly.com/blog/how-to-write-rust-unit-tests-for-your-compute-edge-application"
-  },
-  {
     "date": "2022-12-14",
     "title": "Sending Emails from the Edge with Rust | Mainmatter",
     "link": "https://mainmatter.com/blog/2022/12/09/sending-emails-from-the-edge-with-rust/"

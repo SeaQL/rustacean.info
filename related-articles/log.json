@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Jan Veen",
+    "link": "https://j.njsm.de/blog/tracing-rs/"
+  },
+  {
     "date": "2024-01-31",
     "title": "Arroyo with Micah Wylde - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e04-arroyo"
@@ -55,24 +60,9 @@
     "link": "https://medium.com/nikmas-group/advanced-logging-in-rust-with-log4rs-2d712bb322de"
   },
   {
-    "date": "2022-03-02",
-    "title": "Integrating Rust With Android Development | by Kofi Otuo | Level Up Coding",
-    "link": "https://blog.devgenius.io/integrating-rust-with-android-development-ef341c2f9cca"
-  },
-  {
     "date": "2021-10-20",
     "title": "Custom Logging in Rust Using tracing and tracing-subscriber | Bryan Burgers",
     "link": "https://burgers.io/custom-logging-in-rust-using-tracing"
-  },
-  {
-    "date": "2021-08-25",
-    "title": "Models of Generics and Metaprogramming: Go, Rust, Swift, D and More - Tristan Hume",
-    "link": "https://thume.ca/2019/07/14/a-tour-of-metaprogramming-models-for-generics/"
-  },
-  {
-    "date": "2021-07-14",
-    "title": "A Rust controller for Kubernetes",
-    "link": "https://blog.frankel.ch/start-rust/6/"
   },
   {
     "date": "2021-04-07",
@@ -153,10 +143,5 @@
     "date": "2018-01-09",
     "title": "#Rust2018 : Don’t be the new Haskell | by Tibo Delor | HackerNoon.com | Medium",
     "link": "https://medium.com/@tibotz/rust-2018-dont-be-the-new-haskell-a383dbd74481"
-  },
-  {
-    "date": "2017-09-05",
-    "title": "5 Tips for Writing Small CLI Tools in Rust - Pascal’s Scribbles",
-    "link": "https://deterministic.space/rust-cli-tips.html"
   }
 ]

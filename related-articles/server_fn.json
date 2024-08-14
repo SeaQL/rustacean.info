@@ -35,11 +35,6 @@
     "link": "https://wayofthecrab.com/episodes/005/"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
     "date": "2023-03-29",
     "title": "Introducing Kobold",
     "link": "https://maciej.codes/2023-03-23-kobold.html"

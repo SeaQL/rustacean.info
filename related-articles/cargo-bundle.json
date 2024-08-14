@@ -1,12 +1,12 @@
 [
   {
-    "date": "2024-07-17",
-    "title": "How to make Rust Desktop App with Egui and ChatGPT - OnlyCoiners",
-    "link": "https://www.onlycoiners.com/user/steadylearner/blog/how-to-make-rust-desktop-app-with-egui-and-chatgpt"
-  },
-  {
     "date": "2024-06-19",
     "title": "Using Tauri to build a cross-platform security app",
     "link": "https://www.firezone.dev/blog/using-tauri"
+  },
+  {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
   }
 ]

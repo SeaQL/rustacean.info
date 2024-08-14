@@ -18,5 +18,10 @@
     "date": "2021-04-28",
     "title": "Rust Notebooks with Evcxr - by Josh Kuhn",
     "link": "https://blog.abor.dev/p/evcxr"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Giving Rust Another Shot in 2020 | Mathias Lafeldt",
+    "link": "https://sharpend.io/giving-rust-another-shot-in-2020/"
   }
 ]

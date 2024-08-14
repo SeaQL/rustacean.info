@@ -13,5 +13,10 @@
     "date": "2020-11-18",
     "title": "The Big Picture - gfx-rs nuts and bolts",
     "link": "https://gfx-rs.github.io/2020/11/16/big-picture.html"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Making a Game in 48 hours with Rust and WebAssembly",
+    "link": "https://ianjk.com/rust-gamejam/"
   }
 ]

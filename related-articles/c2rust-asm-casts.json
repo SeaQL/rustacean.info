@@ -5,6 +5,11 @@
     "link": "https://simonask.github.io/libyaml-safer/"
   },
   {
+    "date": "2023-03-15",
+    "title": "Emitting Safer Rust with C2Rust :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2023/03/lifting/"
+  },
+  {
     "date": "2022-09-21",
     "title": "Precursor - Bringing Up TLS on Precursor | Crowd Supply",
     "link": "https://www.crowdsupply.com/sutajio-kosagi/precursor/updates/bringing-up-tls-on-precursor"
@@ -45,6 +50,11 @@
     "link": "https://immunant.com/jobs"
   },
   {
+    "date": "2020-09-02",
+    "title": "Refactoring Rust Transpiled from C :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2020/09/transpiled_c_safety/"
+  },
+  {
     "date": "2020-01-28",
     "title": "Bitfields Forever: Why we need a C-compatible Rust Crate :: Immunant, Inc",
     "link": "https://immunant.com/blog/2020/01/bitfields/"
@@ -60,8 +70,18 @@
     "link": "https://immunant.com/blog/2019/11/rust2020/"
   },
   {
+    "date": "2019-09-17",
+    "title": "Improved C Variadics in Rust and C2Rust :: Immunant, Inc",
+    "link": "https://immunant.com/blog/2019/09/variadics/"
+  },
+  {
     "date": "2019-08-27",
     "title": "Introduction to C2Rust :: Immunant, Inc",
     "link": "https://immunant.com/blog/2019/08/introduction-to-c2rust/"
+  },
+  {
+    "date": "2018-10-16",
+    "title": "Wiki - PortingCToRust",
+    "link": "https://wiki.alopex.li/PortingCToRust"
   }
 ]

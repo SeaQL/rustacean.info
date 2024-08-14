@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Why you should use Rust on the backend",
+    "link": "https://www.shuttle.rs/blog/2024/07/31/rust-on-the-backend"
+  },
+  {
     "date": "2024-01-24",
     "title": "My Best and Worst Deadlock in Rust",
     "link": "https://www.snoyman.com/blog/2024/01/best-worst-deadlock-rust/"
@@ -18,11 +23,6 @@
     "date": "2023-11-08",
     "title": "This Month in Rust OSDev: October 2023 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2023-10/"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "Pretty Rust backtraces in raw terminal mode | Andy Hippo",
-    "link": "https://werat.dev/blog/pretty-rust-backtraces-in-raw-terminal-mode/"
   },
   {
     "date": "2022-06-29",
@@ -70,11 +70,6 @@
     "link": "https://radekvit.medium.com/making-concurrency-fearless-with-rust-for-c-developers-d5d8da50a452"
   },
   {
-    "date": "2020-09-30",
-    "title": "Optimization - Making Rust Code Go Brrrr",
-    "link": "https://aspenuwu.me/posts/rust-optimization.html"
-  },
-  {
     "date": "2020-06-23",
     "title": "3K, 60fps, 130ms: achieving it with Rust | tonari blog",
     "link": "https://blog.tonari.no/why-we-love-rust?ref=twtr"
@@ -108,10 +103,5 @@
     "date": "2019-11-05",
     "title": "Rust concurrency patterns: condvars and locks | by Gregory Terzian | Medium",
     "link": "https://medium.com/@polyglot_factotum/rust-concurrency-patterns-condvars-and-locks-e278f18db74f"
-  },
-  {
-    "date": "2019-06-25",
-    "title": "swym: Are we lock-free yet?",
-    "link": "https://mtak-blog.github.io/are-we-lock-free-yet"
   }
 ]

@@ -15,11 +15,6 @@
     "link": "https://www.brycevandyk.com/debug-rust-on-windows-with-visual-studio-code-and-the-msvc-debugger/"
   },
   {
-    "date": "2017-02-28",
-    "title": "Deploying Rust in a large codebase | by Ralph Giles | Mozilla Tech | Medium",
-    "link": "https://medium.com/@rillian/deploying-rust-in-a-large-codebase-7e50328074e8"
-  },
-  {
     "date": "2017-01-31",
     "title": "Mitigating Underhandedness: Clippy! - In Pursuit of Laziness",
     "link": "https://manishearth.github.io/blog/2017/01/21/mitigating-underhandedness-clippy/"

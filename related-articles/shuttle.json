@@ -5,36 +5,6 @@
     "link": "https://itsallaboutthebit.com/logic-errors-in-rust/"
   },
   {
-    "date": "2023-07-26",
-    "title": "Welcome to Shuttle's Docs - Start Building Backends Fast - Shuttle",
-    "link": "https://docs.shuttle.rs/tutorials/rest-http-service-with-axum"
-  },
-  {
-    "date": "2022-08-31",
-    "title": "Building an authentication system in Rust using session tokens",
-    "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
-  },
-  {
-    "date": "2022-06-29",
-    "title": "Generative metatag images in Rust",
-    "link": "https://www.shuttle.rs/blog/2022/06/23/generative-metatag-images"
-  },
-  {
-    "date": "2022-06-08",
-    "title": "Hyper vs Rocket - Low Level vs Batteries included",
-    "link": "https://www.shuttle.rs/blog/2022/06/01/hyper-vs-rocket"
-  },
-  {
-    "date": "2022-04-27",
-    "title": "DevLog[0]: Building a serverless platform for Rust in 4 weeks",
-    "link": "https://www.shuttle.rs/blog/2022/04/22/dev-log-0"
-  },
-  {
-    "date": "2022-04-20",
-    "title": "Building and Deploying a URL shortener with Rust in 10 minutes or less",
-    "link": "https://www.shuttle.rs/blog/2022/03/13/url-shortener"
-  },
-  {
     "date": "2021-06-09",
     "title": "Automatic Rust verification tools (2021) – Alastair Reid – Researcher at Intel",
     "link": "https://alastairreid.github.io/automatic-rust-verification-tools-2021/"

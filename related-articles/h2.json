@@ -15,6 +15,11 @@
     "link": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep"
   },
   {
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
+  },
+  {
     "date": "2019-08-12",
     "title": "Tokio alpha release with async &amp; await | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2019-08-alphas/"

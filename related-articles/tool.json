@@ -1,15 +1,5 @@
 [
   {
-    "date": "2020-01-21",
-    "title": "Allocator Designs | Writing an OS in Rust",
-    "link": "https://os.phil-opp.com/allocator-designs/"
-  },
-  {
-    "date": "2019-04-09",
-    "title": "Arenas vs. Indices — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2019/04/06/arena.html"
-  },
-  {
     "date": "2018-08-21",
     "title": "2306-convert-id - The Rust RFC Book",
     "link": "https://rust-lang.github.io/rfcs/2306-convert-id.html"

@@ -1,12 +1,7 @@
 [
   {
-    "date": "2023-04-19",
-    "title": "Brane Dump: Rutie and Magnus, Two Good Ways to Build Ruby Extensions in Rust",
-    "link": "https://www.hezmatt.org/~mpalmer/blog/2023/04/18/rutie-magnus-rust-extensions-for-ruby.html"
-  },
-  {
     "date": "2022-12-14",
-    "title": "Shopify Embraces Rust for Systems Programming",
+    "title": "Shopify Embraces Rust for Systems Programming - Shopify",
     "link": "https://shopify.engineering/shopify-rust-systems-programming"
   }
 ]

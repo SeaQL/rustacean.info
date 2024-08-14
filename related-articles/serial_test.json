@@ -3,5 +3,10 @@
     "date": "2022-12-21",
     "title": "dhat - Rust",
     "link": "https://docs.rs/dhat"
+  },
+  {
+    "date": "2020-11-4-",
+    "title": "Rust Design-for-Testability: a survey – Alastair Reid – Researcher at Intel",
+    "link": "https://alastairreid.github.io/rust-testability/"
   }
 ]

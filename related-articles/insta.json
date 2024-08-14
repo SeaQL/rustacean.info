@@ -10,11 +10,6 @@
     "link": "https://lucumr.pocoo.org/2024/3/26/rust-cdo/"
   },
   {
-    "date": "2023-05-31",
-    "title": "Serving dynamic social preview images with rust and serverless functions",
-    "link": "https://traits-crates-and-awaits.ghost.io/serving-dynamic-social-preview-images-with-rust-and-serverless-functions/"
-  },
-  {
     "date": "2023-05-10",
     "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
     "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
@@ -25,14 +20,14 @@
     "link": "https://ochagavia.nl/blog/the-birth-of-a-package-manager/"
   },
   {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
-  },
-  {
     "date": "2023-01-04",
     "title": "How to Test",
     "link": "https://matklad.github.io/2021/05/31/how-to-test.html"
+  },
+  {
+    "date": "2022-10-26",
+    "title": "Writing Better Integration Tests with RAII",
+    "link": "https://notado.substack.com/p/writing-better-integration-tests"
   },
   {
     "date": "2022-06-15",
@@ -43,11 +38,6 @@
     "date": "2021-11-17",
     "title": "Rust Adventures: Abusing Serde | Armin Ronacher's Thoughts and Writings",
     "link": "https://lucumr.pocoo.org/2021/11/14/abusing-serde/"
-  },
-  {
-    "date": "2021-08-18",
-    "title": "Word Segmentation with Rust | Instant Domains",
-    "link": "https://instantdomainsearch.com/engineering/instant-word-segmentation-with-rust"
   },
   {
     "date": "2021-01-06",

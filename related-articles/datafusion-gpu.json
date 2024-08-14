@@ -43,5 +43,10 @@
     "date": "2020-11-4-",
     "title": "Apache Arrow 2.0.0 Rust Highlights | Apache Arrow",
     "link": "https://arrow.apache.org/blog/2020/10/27/rust-2.0.0-release/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Ballista Distributed Compute: One Year Later",
+    "link": "https://andygrove.io/2020/07/ballista-one-year-on/"
   }
 ]

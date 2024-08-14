@@ -38,15 +38,5 @@
     "date": "2020-03-10",
     "title": "ExpressJS vs Actix-Web. It is exactly what you think | by Maxim Vorobjov | Medium",
     "link": "https://medium.com/@maxsparr0w/performance-of-node-js-compared-to-actix-web-37f20810fb1a"
-  },
-  {
-    "date": "2016-05-30",
-    "title": "Connecting a webservice to a database in Rust",
-    "link": "http://hermanradtke.com/2016/05/23/connecting-webservice-database-rust.html"
-  },
-  {
-    "date": "2014-12-15",
-    "title": "24 days of Rust - postgres | siciarz.net",
-    "link": "https://siciarz.net/24-days-of-rust-postgres/"
   }
 ]

@@ -1,6 +1,6 @@
 [
   {
-    "date": "2024-07-24",
+    "date": "2024-08-07",
     "title": "Berline.rs",
     "link": "https://berline.rs/"
   },
@@ -153,6 +153,11 @@
     "date": "2021-05-12",
     "title": "Rust Hack and Learn - Berline.rs",
     "link": "https://berline.rs/2021/05/13/rust-hack-and-learn.html"
+  },
+  {
+    "date": "2021-01-27",
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
   },
   {
     "date": "2020-11-11",

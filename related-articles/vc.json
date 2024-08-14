@@ -1,7 +1,0 @@
-[
-  {
-    "date": "2018-12-25",
-    "title": "Using C libraries in Rust: make a sys crate",
-    "link": "https://kornel.ski/rust-sys-crate"
-  }
-]

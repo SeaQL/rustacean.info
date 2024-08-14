@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "SBOM support in Rust  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/stackable-client/"
+  },
+  {
     "date": "2024-07-17",
     "title": "The missing parts in Cargo | Life is a refactoring process without tests",
     "link": "https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/"
@@ -23,6 +28,11 @@
     "date": "2024-03-20",
     "title": "SemVer in Rust: Tooling, Breakage, and Edge Cases — FOSDEM 2024",
     "link": "https://predr.ag/blog/semver-in-rust-tooling-breakage-and-edge-cases/"
+  },
+  {
+    "date": "2024-02-21",
+    "title": "uv: Python packaging in Rust",
+    "link": "https://astral.sh/blog/uv"
   },
   {
     "date": "2024-02-14",
@@ -95,19 +105,9 @@
     "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"
   },
   {
-    "date": "2023-05-24",
-    "title": "Pavex, progress report #4: performance is a feature | Luca Palmieri",
-    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-04/"
-  },
-  {
     "date": "2023-05-03",
     "title": "Going beyond build.rs: introducing cargo-px | Luca Palmieri",
     "link": "https://www.lpalmieri.com/posts/cargo-px/"
-  },
-  {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
   },
   {
     "date": "2023-03-22",
@@ -196,7 +196,7 @@
   },
   {
     "date": "2022-05-18",
-    "title": "Our Experience Porting the YJIT Ruby Compiler to Rust",
+    "title": "Our Experience Porting the YJIT Ruby Compiler to Rust - Shopify",
     "link": "https://shopify.engineering/porting-yjit-ruby-compiler-to-rust"
   },
   {
@@ -270,6 +270,11 @@
     "link": "https://www.rohanjain.in/cargo-cross/"
   },
   {
+    "date": "2021-05-19",
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  },
+  {
     "date": "2021-05-12",
     "title": "Google Online Security Blog: Integrating Rust Into the Android Open Source Project",
     "link": "https://security.googleblog.com/2021/05/integrating-rust-into-android-open.html"
@@ -308,6 +313,11 @@
     "date": "2020-12-16",
     "title": "This Month in Rust OSDev (November 2020) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2020-11/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Notes on cross-compiling Rust",
+    "link": "https://john-millikin.com/notes-on-cross-compiling-rust"
   },
   {
     "date": "2020-11-11",
@@ -375,6 +385,11 @@
     "link": "https://endler.dev/2020/rust-compile-times/"
   },
   {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
     "date": "2020-06-10",
     "title": "This Month in Rust OSDev (May 2020) | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2020-05/"
@@ -388,6 +403,11 @@
     "date": "2020-05-12",
     "title": "A no_std Rust binary",
     "link": "https://fasterthanli.me/blog/2020/a-no-std-rust-binary/"
+  },
+  {
+    "date": "2020-05-05",
+    "title": "Create a blazingly fast REST API in Rust (Part 1/2) | Qovery",
+    "link": "https://docs.qovery.com/guides/tutorial/create-a-blazingly-fast-api-in-rust-part-1/"
   },
   {
     "date": "2020-04-29",
@@ -435,6 +455,11 @@
     "link": "https://os.phil-opp.com/testing/"
   },
   {
+    "date": "2019-04-30",
+    "title": "10 Key Learnings in Rust after 30,000 Lines of Code | by Dotan Nahum | Medium",
+    "link": "https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19"
+  },
+  {
     "date": "2019-03-12",
     "title": "Intro to Web Development with Rust for NodeJS Developers | by Bastian Gruber | Level Up Coding",
     "link": "https://medium.com/@gruberbastian/intro-to-web-programming-in-rust-for-nodejs-developers-1a9c048c4de1"
@@ -448,6 +473,26 @@
     "date": "2018-05-08",
     "title": "Encapsulating Lifetime of the Field",
     "link": "https://matklad.github.io/2018/05/04/encapsulating-lifetime-of-the-field.html"
+  },
+  {
+    "date": "2018-04-24",
+    "title": "Hello wasm-pack! - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2018/04/hello-wasm-pack/"
+  },
+  {
+    "date": "2018-01-30",
+    "title": "📦 Parcel v1.5.0 released: Source Maps, WebAssembly, Rust, and more! 🚀 | by devongovett | Medium",
+    "link": "https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95"
+  },
+  {
+    "date": "2017-12-05",
+    "title": "The Rise of Rust in DevOps | D2iQ",
+    "link": "https://mesosphere.com/blog/rust-devops/"
+  },
+  {
+    "date": "2017-10-31",
+    "title": "Alternative Registries",
+    "link": "https://boats.gitlab.io/blog/post/2017-10-28-alternative-registries/"
   },
   {
     "date": "2017-08-29",
@@ -468,6 +513,11 @@
     "date": "2017-07-25",
     "title": "jbp.io :: Measuring test coverage of Rust libraries",
     "link": "https://jbp.io/2017/07/19/measuring-test-coverage-of-rust-programs"
+  },
+  {
+    "date": "2017-07-11",
+    "title": "How Rust is tested",
+    "link": "https://brson.github.io/2017/07/10/how-rust-is-tested"
   },
   {
     "date": "2017-05-23",
@@ -495,6 +545,11 @@
     "link": "https://siciarz.net/24-days-rust-cargo-subcommands/"
   },
   {
+    "date": "2016-11-15",
+    "title": "Rapid prototyping C applications with Rust – Rust Leipzig",
+    "link": "https://rust-leipzig.github.io/cargo/2016/11/13/rapid-prototyping-c-applications/"
+  },
+  {
     "date": "2016-10-11",
     "title": "Bare Minimum Crates.io Mirror Plus One",
     "link": "http://integer32.com/2016/10/08/bare-minimum-crates-io-mirror-plus-one.html"
@@ -513,6 +568,11 @@
     "date": "2016-05-02",
     "title": "Myths and Legends about Integer Overflow in Rust |  Huon on the internet",
     "link": "https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/"
+  },
+  {
+    "date": "2016-04-04",
+    "title": "https://fnordig.de/2016/03/29/releasing-rust-projects-the-automatic-way/",
+    "link": "https://fnordig.de/2016/03/29/releasing-rust-projects-the-automatic-way/"
   },
   {
     "date": "2016-02-01",

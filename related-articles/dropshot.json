@@ -8,5 +8,10 @@
     "date": "2023-11-29",
     "title": "Investigating crazy compile times",
     "link": "https://blog.adamchalmers.com/crazy-compile-time/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Exploring the top Rust web frameworks - LogRocket Blog",
+    "link": "https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/"
   }
 ]

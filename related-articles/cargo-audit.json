@@ -25,11 +25,6 @@
     "link": "https://www.shuttle.rs/blog/2024/02/15/best-rust-tooling"
   },
   {
-    "date": "2024-02-14",
-    "title": "Rust in Production: Interview with FOSSA",
-    "link": "https://serokell.io/blog/rust-in-production-fossa"
-  },
-  {
     "date": "2023-11-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"
@@ -38,11 +33,6 @@
     "date": "2023-08-30",
     "title": "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs - Orhun's Blog",
     "link": "https://blog.orhun.dev/ratatui-0-23-0/"
-  },
-  {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
   },
   {
     "date": "2023-01-11",
@@ -121,11 +111,6 @@
   },
   {
     "date": "2021-01-27",
-    "title": "24 Awesome Open-Source Rust Projects",
-    "link": "https://serokell.io/blog/open-source-rust"
-  },
-  {
-    "date": "2021-01-27",
     "title": "Unsafe Rust: How and when (not) to use it - LogRocket Blog",
     "link": "https://blog.logrocket.com/unsafe-rust-how-and-when-not-to-use-it/"
   },
@@ -133,6 +118,11 @@
     "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "date": "2020-08-04",
+    "title": "Tiemoko Ballo",
+    "link": "https://tiemoko.com/blog/blue-team-rust/"
   },
   {
     "date": "2020-01-21",

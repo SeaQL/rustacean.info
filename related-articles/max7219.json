@@ -1,15 +1,5 @@
 [
   {
-    "date": "2022-10-26",
-    "title": "Rust Embedded Graphics with the MAX7219",
-    "link": "https://apollolabsblog.hashnode.dev/rust-embedded-graphics-with-the-max7219"
-  },
-  {
-    "date": "2022-10-19",
-    "title": "Platform Agnostic Drivers in Rust: Publishing to Crates.io",
-    "link": "https://apollolabsblog.hashnode.dev/platform-agnostic-drivers-in-rust-publishing-to-cratesio"
-  },
-  {
     "date": "2020-02-04",
     "title": "Rust Embedded Working Group",
     "link": "https://rust-embedded.github.io/blog/newsletter-23/"

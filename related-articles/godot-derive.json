@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-01-03",
-    "title": "2023 in Review: Establishing Rust as a Godot 4 language",
-    "link": "https://godot-rust.github.io/dev/godot-rust-2023-review/"
-  },
-  {
     "date": "2022-10-19",
     "title": "This Month in Rust GameDev #38 - September 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/038/"

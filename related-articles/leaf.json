@@ -1,15 +1,5 @@
 [
   {
-    "date": "2022-02-16",
-    "title": "This Month in Rust GameDev #30 - January 2022 | Rust GameDev WG",
-    "link": "https://gamedev.rs/news/030/"
-  },
-  {
-    "date": "2021-02-24",
-    "title": "Building an OpenStreetMap app in Rust, Part III | by Tor Hovland | Bekk",
-    "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-iii-ab9ad4b83bd8"
-  },
-  {
     "date": "2019-05-14",
     "title": "The State of Machine Learning in Rust - Ehsan's Blog",
     "link": "https://ehsanmkermani.com/2019/05/13/state-of-machine-learning-in-rust/"

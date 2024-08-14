@@ -3,5 +3,10 @@
     "date": "2020-09-16",
     "title": "Building devserver: An Ultra-Tiny Rust Server",
     "link": "https://ianjk.com/devserver/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "Making a Game in 48 hours with Rust and WebAssembly",
+    "link": "https://ianjk.com/rust-gamejam/"
   }
 ]

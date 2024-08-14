@@ -10,11 +10,6 @@
     "link": "https://www.thecodedmessage.com/posts/erased-serde/"
   },
   {
-    "date": "2022-05-11",
-    "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
-    "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
-  },
-  {
     "date": "2021-05-26",
     "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2021-05-valuable"

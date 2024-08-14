@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "v0.28.0 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v028/"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "tracing tokio resources - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/tracing-tokio-resources/"
+  },
+  {
     "date": "2024-05-15",
     "title": "Long-term Rust Project Maintenance | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/long-term-rust-maintenance/"
@@ -45,11 +55,6 @@
     "link": "https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/"
   },
   {
-    "date": "2023-05-10",
-    "title": "Breaking semver in Rust by adding a private type, or by adding an import",
-    "link": "https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/"
-  },
-  {
     "date": "2023-03-08",
     "title": "Re-exporting an enum with a type alias is breaking, but not major",
     "link": "https://predr.ag/blog/re-exporting-enum-with-type-alias-breaking-change-not-major/"
@@ -88,10 +93,5 @@
     "date": "2022-12-28",
     "title": "Rust 2023 (by Yosh)",
     "link": "https://blog.yoshuawuyts.com/rust-2023/"
-  },
-  {
-    "date": "2022-08-31",
-    "title": "Toward fearless cargo update",
-    "link": "https://predr.ag/blog/toward-fearless-cargo-update/"
   }
 ]

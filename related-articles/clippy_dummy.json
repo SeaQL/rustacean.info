@@ -45,11 +45,6 @@
     "link": "https://wayofthecrab.com/episodes/005/"
   },
   {
-    "date": "2023-03-01",
-    "title": "What I learned from contributing to Rust's linter • Krishna's blog",
-    "link": "https://blog.nindalf.com/posts/clippy/"
-  },
-  {
     "date": "2022-10-26",
     "title": "Nine Rules for Creating Procedural Macros in Rust | by Carl M. Kadie | Towards Data Science",
     "link": "https://towardsdatascience.com/nine-rules-for-creating-procedural-macros-in-rust-595aa476a7ff"
@@ -93,11 +88,6 @@
     "date": "2022-01-26",
     "title": "On Rust in Webdev · @radekmie’s take on IT and stuff",
     "link": "https://radekmie.github.io/blog/on-rust-in-webdev/"
-  },
-  {
-    "date": "2022-01-26",
-    "title": "Rust: detect unsigned integer underflow | blog frehberg",
-    "link": "https://frehberg.com/2022/01/rust-detect-unsigned-integer-underflow/"
   },
   {
     "date": "2021-12-22",

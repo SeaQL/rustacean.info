@@ -5,6 +5,16 @@
     "link": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2"
   },
   {
+    "date": "2022-10-26",
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
     "date": "2022-02-16",
     "title": "How to build a custom blockchain implementation in Rust using Substrate - LogRocket Blog",
     "link": "https://blog.logrocket.com/how-to-build-a-custom-blockchain-implementation-in-rust-using-substrate/"
@@ -25,14 +35,19 @@
     "link": "https://rustinblockchain.org/newsletters/rib-newsletter-27/"
   },
   {
-    "date": "2021-06-02",
-    "title": "A Polkadot Postmortem - 24.05.2021",
-    "link": "https://polkadot.network/a-polkadot-postmortem-24-05-2021/"
-  },
-  {
     "date": "2021-03-31",
     "title": "A look back at asynchronous Rust. In 2013, I discovered the Rust… | by tomaka | Medium",
     "link": "https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c"
+  },
+  {
+    "date": "2021-01-27",
+    "title": "24 Awesome Open-Source Rust Projects",
+    "link": "https://serokell.io/blog/open-source-rust"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "Rust in Production: 1Password",
+    "link": "https://serokell.io/blog/rust-in-production-1password"
   },
   {
     "date": "2020-12-16",
@@ -48,6 +63,11 @@
     "date": "2020-09-02",
     "title": "RiB Newsletter #15 – Turbofish in the Blocksea - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-09-02-turbofish-in-the-blocksea/"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
   },
   {
     "date": "2020-08-11",

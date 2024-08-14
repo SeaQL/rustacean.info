@@ -20,11 +20,6 @@
     "link": "https://hecatia-elegua.github.io/blog/no-more-bit-fiddling/"
   },
   {
-    "date": "2023-04-19",
-    "title": "Building a GStreamer plugin in Rust with meson instead of cargo – coaxion.net – slomo's blog",
-    "link": "https://coaxion.net/blog/2023/04/building-a-gstreamer-plugin-in-rust-with-meson-instead-of-cargo/"
-  },
-  {
     "date": "2023-02-22",
     "title": "Changelog #169",
     "link": "https://rust-analyzer.github.io/thisweek/2023/02/20/changelog-169.html"

@@ -10,9 +10,14 @@
     "link": "https://dioxuslabs.com/blog/release-050"
   },
   {
-    "date": "2023-03-01",
-    "title": "Dioxus | An elegant GUI library for Rust",
-    "link": "https://dioxuslabs.com/blog/release-030/"
+    "date": "2024-01-17",
+    "title": "Let's Make an Information Display Part 2: Frontend",
+    "link": "https://blog.stillinbeta.com/2024-01-06-let's-make-an-information-display-part-2.html"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "Catch 22! Rust in Review — Llogiq on stuff",
+    "link": "https://llogiq.github.io/2022/12/11/catch22.html"
   },
   {
     "date": "2022-12-14",

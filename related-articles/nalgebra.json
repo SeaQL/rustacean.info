@@ -76,6 +76,11 @@
   },
   {
     "date": "2021-04-14",
+    "title": "Integrating const-generics to nalgebra 0.26 | Dimforge",
+    "link": "https://www.dimforge.com/blog/2021/04/12/integrating-const-generics-to-nalgebra/"
+  },
+  {
+    "date": "2021-04-14",
     "title": "Using Rust for Scientific Numerical applications: Learning from Past Experiences | by Felipe | Netherlands eScience Center",
     "link": "https://blog.esciencecenter.nl/using-rust-for-scientific-numerical-applications-learning-from-past-experiences-798665d9f9f0"
   },
@@ -105,19 +110,9 @@
     "link": "https://iantayler.com/2020/11/22/fbsim-football-playing-ai-agents-in-rust/"
   },
   {
-    "date": "2020-10-07",
-    "title": "This month in Dimforge \\#1 (September 2020) | Dimforge",
-    "link": "https://www.dimforge.com/blog/2020/10/01/this-month-in-dimforge/"
-  },
-  {
     "date": "2020-09-16",
     "title": "Taming nalgebra's Rustdoc",
     "link": "https://jack.wrenn.fyi/blog/rustdocing-nalgebra/"
-  },
-  {
-    "date": "2020-08-25",
-    "title": "Announcing the Rapier physics engine | Dimforge",
-    "link": "https://www.dimforge.com/blog/2020/08/25/announcing-the-rapier-physics-engine/"
   },
   {
     "date": "2020-08-25",

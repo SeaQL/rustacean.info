@@ -45,11 +45,6 @@
     "link": "https://ncameron.org/blog/what-is-an-async-runtime/"
   },
   {
-    "date": "2020-06-23",
-    "title": "Pont",
-    "link": "http://www.mattkeeter.com/projects/pont/"
-  },
-  {
     "date": "2020-03-17",
     "title": "Rewriting the heart of our sync engine - Dropbox",
     "link": "https://dropbox.tech/infrastructure/rewriting-the-heart-of-our-sync-engine"

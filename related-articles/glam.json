@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine - paavohtl's blog",
+    "link": "https://blog.paavo.me/demo-engine-part-1/"
+  },
+  {
     "date": "2024-06-19",
     "title": "Meshlets, Stable Interpolation, and Generalized ECS Reactivity with Observers!",
     "link": "https://thisweekinbevy.com/issue/2024-06-17-meshlets-stable-interpolation-and-generalized-ecs-reactivity-with-observers"

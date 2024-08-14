@@ -50,49 +50,14 @@
     "link": "https://www.shuttle.rs/blog/2023/09/27/rust-vs-go-comparison"
   },
   {
-    "date": "2023-08-23",
-    "title": "Distributed Tracing in Rust, Episode 2: tracing basics",
-    "link": "https://heikoseeberger.de/2023-08-18-dist-tracing-2/"
-  },
-  {
-    "date": "2023-08-09",
-    "title": "Instrumenting Axum projects",
-    "link": "https://determinate.systems/posts/instrumenting-axum"
-  },
-  {
     "date": "2023-07-26",
     "title": "tower - Rust",
     "link": "https://docs.rs/tower"
   },
   {
-    "date": "2023-04-12",
-    "title": "Flexible Tracing with Rust and OpenTelemetry OTLP",
-    "link": "https://broch.tech/posts/rust-tracing-opentelemetry/"
-  },
-  {
-    "date": "2022-12-28",
-    "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
-    "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
-  },
-  {
-    "date": "2022-12-14",
-    "title": "Composing an observable Rust application - LogRocket Blog",
-    "link": "https://blog.logrocket.com/composing-underpinnings-observable-rust-application/"
-  },
-  {
     "date": "2022-11-30",
     "title": "Announcing axum 0.6.0 | Tokio - An asynchronous Rust runtime",
     "link": "https://tokio.rs/blog/2022-11-25-announcing-axum-0-6-0"
-  },
-  {
-    "date": "2022-11-30",
-    "title": "Migrating from warp to axum",
-    "link": "https://fasterthanli.me/series/updating-fasterthanli-me-for-2022/part-2"
-  },
-  {
-    "date": "2022-08-31",
-    "title": "Building an authentication system in Rust using session tokens",
-    "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
   },
   {
     "date": "2022-08-10",
@@ -145,11 +110,6 @@
     "link": "https://www.fpcomplete.com/blog/axum-hyper-tonic-tower-part3"
   },
   {
-    "date": "2021-09-01",
-    "title": "Combining Axum, Hyper, Tonic, and Tower for hybrid web/gRPC apps: Part 1",
-    "link": "https://www.fpcomplete.com/blog/axum-hyper-tonic-tower-part1/"
-  },
-  {
     "date": "2021-08-25",
     "title": "nailgun: DNS benchmarking tool",
     "link": "https://leshow.github.io/post/nailgun/"
@@ -185,14 +145,9 @@
     "link": "https://tokio.rs/blog/2020-12-tokio-1-0"
   },
   {
-    "date": "2020-07-21",
-    "title": "Benchmarking gRPC in Rust &amp; Go. Some background | by Rustler | Medium",
-    "link": "https://medium.com/@Rustling_gopher/benchmarking-grpc-in-rust-go-184545e7688a"
-  },
-  {
-    "date": "2020-06-16",
-    "title": "Understanding the Rust Ecosystem",
-    "link": "https://joeprevite.com/rust-lang-ecosystem"
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
   },
   {
     "date": "2020-05-05",

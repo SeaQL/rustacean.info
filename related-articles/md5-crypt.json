@@ -3,5 +3,10 @@
     "date": "2022-08-31",
     "title": "Building an authentication system in Rust using session tokens",
     "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "Announcing BonsaiDb 0.1.0: A Rust NoSQL database that grows with you",
+    "link": "https://bonsaidb.io/blog/announcing-bonsaidb-alpha/"
   }
 ]

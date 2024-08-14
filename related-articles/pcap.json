@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-07-31",
+    "title": "Debugging distributed database mysteries with Rust, packet capture and Polars",
+    "link": "https://questdb.io/blog/debugging-distributed-database-mysteries-with-rust-pcap-and-polars/"
+  },
+  {
     "date": "2022-03-02",
     "title": "Modern Telecom Network Tracing - OXIO",
     "link": "https://oxio.com/blog/modern-telecom-network-tracing/"

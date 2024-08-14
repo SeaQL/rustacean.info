@@ -30,6 +30,11 @@
     "link": "https://umccr.org/blog/aws-bioinformatics-rust/"
   },
   {
+    "date": "2020-08-11",
+    "title": "Using Rust Lambdas in Production",
+    "link": "https://www.cvpartner.com/blog/using-rust-lambdas-in-production"
+  },
+  {
     "date": "2018-12-04",
     "title": "Rust Runtime for AWS Lambda | AWS Open Source Blog",
     "link": "https://aws.amazon.com/blogs/opensource/rust-runtime-for-aws-lambda/"

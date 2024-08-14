@@ -15,11 +15,6 @@
     "link": "https://epage.github.io/blog/2023/03/clap-v4-2/"
   },
   {
-    "date": "2023-03-01",
-    "title": "Rust language exercises for programmers",
-    "link": "https://www.hyperexponential.com/blog/rust-language-exercises-at-hx"
-  },
-  {
     "date": "2023-02-01",
     "title": "How to Build gRPC APIs with Rust  | Kong Inc.",
     "link": "https://konghq.com/blog/building-grpc-apis-with-rust"
@@ -63,6 +58,11 @@
     "date": "2022-02-23",
     "title": "clap 3.1: A step towards 4.0",
     "link": "https://epage.github.io/blog/2022/02/clap-31-a-step-towards-40/"
+  },
+  {
+    "date": "2021-09-08",
+    "title": "Fast Rust Builds",
+    "link": "https://matklad.github.io/2021/09/04/fast-rust-builds.html"
   },
   {
     "date": "2021-06-02",
@@ -110,6 +110,11 @@
     "link": "https://rodarmor.com/blog/tour-de-just"
   },
   {
+    "date": "2020-02-25",
+    "title": "Filtering Duplicates on the Command Line: 30x Faster than sort|uniq | by Karolin Varner | Adobe Tech Blog",
+    "link": "https://medium.com/adobetech/filtering-duplicates-on-the-command-line-30x-faster-than-sort-uniq-96ca5f7b4277"
+  },
+  {
     "date": "2019-12-10",
     "title": "Inside Rust at Embark 🦀. A peek inside our day-to-day work with… | by Ari V | Embark Studios | Medium",
     "link": "https://medium.com/embarkstudios/inside-rust-at-embark-b82c06d1d9f4"
@@ -130,6 +135,11 @@
     "link": "https://cetra3.github.io/blog/face-detection-with-tensorflow-rust/"
   },
   {
+    "date": "2018-08-14",
+    "title": "How to alleviate the pain of Rust compile times",
+    "link": "https://vfoley.xyz/rust-compile-speed-tips/"
+  },
+  {
     "date": "2018-03-06",
     "title": "Why Rust Has Macros · Bloggedy blog",
     "link": "https://kasma1990.gitlab.io/2018/03/04/why-rust-has-macros/"
@@ -140,8 +150,18 @@
     "link": "https://clap.rs/2018/01/09/new-years-weight-loss/"
   },
   {
+    "date": "2017-09-05",
+    "title": "5 Tips for Writing Small CLI Tools in Rust - Pascal’s Scribbles",
+    "link": "https://deterministic.space/rust-cli-tips.html"
+  },
+  {
     "date": "2016-12-20",
     "title": "24 days of Rust - clap | siciarz.net",
     "link": "https://siciarz.net/24-days-rust-clap/"
+  },
+  {
+    "date": "2016-11-15",
+    "title": "Using Rust for ‘Scripting’ · Chris Krycho",
+    "link": "http://www.chriskrycho.com/2016/using-rust-for-scripting.html"
   }
 ]

@@ -1,27 +1,7 @@
 [
   {
-    "date": "2020-12-9-",
-    "title": "Subvisual | Real-time video processing with Rust, FFmpeg and OpenCV",
-    "link": "https://subvisual.com/blog/posts/real-time-video-processing-with-rust-ffmpeg-opencv/"
-  },
-  {
-    "date": "2020-10-21",
-    "title": "Three open source Sonos projects: efficient embedded development in Rust  | Sonos Tech Blog",
-    "link": "https://tech-blog.sonos.com/posts/three-open-source-sonos-projects-in-rust/"
-  },
-  {
     "date": "2020-06-10",
     "title": "RiB Newsletter #12 – ZK-Rustups - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-06-03-zk-rustups/"
-  },
-  {
-    "date": "2020-05-19",
-    "title": "Rust Closures in FFI · Michael-F-Bryan",
-    "link": "http://adventures.michaelfbryan.com/posts/rust-closures-in-ffi/"
-  },
-  {
-    "date": "2019-03-05",
-    "title": "Exposing FFI from the Rust library · svartalf",
-    "link": "https://svartalf.info/posts/2019-03-01-exposing-ffi-from-the-rust-library/"
   }
 ]

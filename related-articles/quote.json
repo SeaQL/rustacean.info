@@ -10,11 +10,6 @@
     "link": "https://docs.rs/parsel"
   },
   {
-    "date": "2023-06-14",
-    "title": "A Beginner’s Guide to Rust Procedural Macros: Creating a JSON Derive Macro | by Kofi Otuo | Dev Genius",
-    "link": "https://medium.com/@otukof/a-beginners-guide-to-rust-procedural-macros-creating-a-json-derive-macro-eb44279e7244"
-  },
-  {
     "date": "2023-06-07",
     "title": "graydon2 | The Rust I Wanted Had No Future",
     "link": "https://graydon2.dreamwidth.org/307291.html"

@@ -1,8 +1,33 @@
 [
   {
+    "date": "2023-09-27",
+    "title": "Why Not Rust Crypto?",
+    "link": "https://briansmith.org/why-not-rustcrypto"
+  },
+  {
+    "date": "2022-04-27",
+    "title": "How hard upgrading a Rust JWT library could be? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/upgrading-rust-jwt/"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "Cryptoxide perf (SHA2 / Blake2) - Vincent Hanquez",
+    "link": "https://vincenthz.github.io/cryptoxide-performance/"
+  },
+  {
     "date": "2016-02-01",
     "title": "Rust for the Web. RESTful API in Rust, impressions | by 🪄 OZ 🎩 | Medium",
     "link": "https://medium.com/@eugeniyoz/restful-api-in-rust-impressions-63250d611d15"
+  },
+  {
+    "date": "2015-12-07",
+    "title": "Language of the Month: Rust, the results - ClickedyClick",
+    "link": "https://gergely.imreh.net/blog/2015/12/lotm-rust-results/"
+  },
+  {
+    "date": "2015-03-02",
+    "title": "Lean Rust migrating a (very small) part of Camlistore",
+    "link": "http://learncamlirust.blogspot.de/"
   },
   {
     "date": "2014-12-22",

@@ -30,11 +30,6 @@
     "link": "https://blog.logrocket.com/rust-and-tui-building-a-command-line-interface-in-rust/"
   },
   {
-    "date": "2021-04-07",
-    "title": "How I Used Rust + Lunatic to Build a TelNet Chat Server With WebAssembly | HackerNoon",
-    "link": "https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg"
-  },
-  {
     "date": "2020-05-12",
     "title": "Porting North Korean Dictionaries with Rust – Digital NK",
     "link": "https://digitalnk.com/blog/2020/05/08/porting-north-korean-dictionaries-with-rust/"

@@ -5,13 +5,28 @@
     "link": "https://poignardazur.github.io/2024/05/25/report-on-rustnl-variadics/"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
     "date": "2023-03-15",
     "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/043/"
+  },
+  {
+    "date": "2022-07-20",
+    "title": "Advice for the next dozen Rust GUIs | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/07/15/next-dozen-guis.html"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Towards principled reactive UI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/druid/2020/09/25/principled-reactive-ui.html"
+  },
+  {
+    "date": "2019-11-26",
+    "title": "Towards a unified theory of reactive UI | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/ui/druid/2019/11/22/reactive-ui.html"
   }
 ]

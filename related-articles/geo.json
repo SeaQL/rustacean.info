@@ -1,25 +1,5 @@
 [
   {
-    "date": "2024-06-05",
-    "title": "layoutparser_ort - Rust",
-    "link": "https://docs.rs/layoutparser-ort"
-  },
-  {
-    "date": "2023-09-20",
-    "title": "Enhancing ClickHouse's Geospatial Support",
-    "link": "https://tech.marksblogg.com/clickhouse-gis-rust.html"
-  },
-  {
-    "date": "2022-12-28",
-    "title": "Rust visitor pattern and efficient DataFusion query federation | Splitgraph",
-    "link": "https://www.splitgraph.com/blog/datafusion-filter-expr-visitor"
-  },
-  {
-    "date": "2022-01-19",
-    "title": "Mapping my walks with OSRM and Rust",
-    "link": "https://blog.dend.ro/mapping-my-walks-osrm-rust/"
-  },
-  {
     "date": "2021-03-10",
     "title": "Building an OpenStreetMap app in Rust, Part V | by Tor Hovland | Bekk",
     "link": "https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-v-f14831e13e61"

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Jan Veen",
+    "link": "https://j.njsm.de/blog/tracing-rs/"
+  },
+  {
+    "date": "2024-07-31",
+    "title": "Why you should use Rust on the backend",
+    "link": "https://www.shuttle.rs/blog/2024/07/31/rust-on-the-backend"
+  },
+  {
     "date": "2024-05-29",
     "title": "Building Agentic RAG with Rust, Qdrant &amp; OpenAI",
     "link": "https://www.shuttle.rs/blog/2024/05/23/building-agentic-rag-rust-qdrant"
@@ -280,11 +290,6 @@
     "link": "https://blog.orhun.dev/blazingly-fast-file-sharing/"
   },
   {
-    "date": "2023-04-26",
-    "title": "Is Rust a worthy contender for web development?",
-    "link": "https://joshmo.hashnode.dev/can-rust-beat-javascript-in-2023"
-  },
-  {
     "date": "2023-04-19",
     "title": "Introducing Shuttle Batch 2.0",
     "link": "https://www.shuttle.rs/blog/2023/04/14/Shuttle-Batch-2"
@@ -295,11 +300,6 @@
     "link": "https://www.shuttle.rs/blog/2023/03/01/getting-started-with-rust-and-gpt"
   },
   {
-    "date": "2023-02-22",
-    "title": "Learn how to build and deploy a down detector Telegram bot in Rust.",
-    "link": "https://joshmo.hashnode.dev/building-deploying-a-down-detector-telegram-bot-in-rust"
-  },
-  {
     "date": "2022-10-12",
     "title": "zerocal - A Serverless Calendar App in Rust Running on shuttle.rs | Matthias Endler",
     "link": "https://endler.dev/2022/zerocal/"
@@ -308,11 +308,6 @@
     "date": "2022-08-31",
     "title": "Building an authentication system in Rust using session tokens",
     "link": "https://www.shuttle.rs/blog/2022/08/11/authentication-tutorial"
-  },
-  {
-    "date": "2022-08-10",
-    "title": "Build Backends. Fast.",
-    "link": "https://www.shuttle.rs/blog/2022/08/04/middleware"
   },
   {
     "date": "2022-08-03",

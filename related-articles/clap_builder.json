@@ -15,11 +15,6 @@
     "link": "https://epage.github.io/blog/2023/03/clap-v4-2/"
   },
   {
-    "date": "2023-03-01",
-    "title": "Rust language exercises for programmers",
-    "link": "https://www.hyperexponential.com/blog/rust-language-exercises-at-hx"
-  },
-  {
     "date": "2023-02-01",
     "title": "How to Build gRPC APIs with Rust  | Kong Inc.",
     "link": "https://konghq.com/blog/building-grpc-apis-with-rust"

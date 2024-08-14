@@ -1,27 +1,7 @@
 [
   {
-    "date": "2023-01-25",
-    "title": "domain-specific error macros",
-    "link": "https://blog.yoshuawuyts.com/ensure-macros/"
-  },
-  {
-    "date": "2021-09-08",
-    "title": "Rust programs written entirely in Rust · sunfishcode's blog",
-    "link": "https://blog.sunfishcode.online/rust-programs-entirely-in-rust/"
-  },
-  {
-    "date": "2021-04-07",
-    "title": "First-Class I/O · sunfishcode's blog",
-    "link": "https://blog.sunfishcode.online/first-class-io/"
-  },
-  {
     "date": "2021-01-06",
     "title": "Insta Snapshots",
     "link": "https://insta.rs/"
-  },
-  {
-    "date": "2019-06-04",
-    "title": "Poking the macOS IO Kit with Rust · svartalf",
-    "link": "https://svartalf.info/posts/2019-05-31-poking-the-macos-io-kit-with-rust/"
   }
 ]

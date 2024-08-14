@@ -30,11 +30,6 @@
     "link": "https://www.marcoieni.com/2023/08/rustship-a-new-rust-podcast/"
   },
   {
-    "date": "2023-05-10",
-    "title": "Breaking semver in Rust by adding a private type, or by adding an import",
-    "link": "https://predr.ag/blog/breaking-semver-in-rust-by-adding-private-type-or-import/"
-  },
-  {
     "date": "2023-02-08",
     "title": "Speeding up Rust semver-checking by over 2000x",
     "link": "https://predr.ag/blog/speeding-up-rust-semver-checking-by-over-2000x/"

@@ -1,15 +1,5 @@
 [
   {
-    "date": "2024-07-10",
-    "title": "Rust for filesystems [LWN.net]",
-    "link": "https://lwn.net/Articles/978738/"
-  },
-  {
-    "date": "2024-02-14",
-    "title": "Design safe collection API with compile-time reference stability in Rust - COCl2's blog home",
-    "link": "https://blog.cocl2.com/posts/rust-ref-stable-collection/"
-  },
-  {
     "date": "2022-06-29",
     "title": "(Ab)using Rust traits to write silly things",
     "link": "https://ihatereality.space/08-abusing-rust-traits-to-write-silly-things/"
@@ -18,10 +8,5 @@
     "date": "2022-06-08",
     "title": "Trivia About Rust Types: An (Authorized) Transcription of Jon Gjengset's Twitter Thread :: The Coded Message",
     "link": "https://www.thecodedmessage.com/posts/trivia-rust-types/"
-  },
-  {
-    "date": "2021-05-05",
-    "title": "Data Modelling in Rust Continued",
-    "link": "https://phazer99.blogspot.com/2021/05/data-modelling-in-rust-continued.html"
   }
 ]

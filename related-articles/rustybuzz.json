@@ -20,6 +20,11 @@
     "link": "https://rust-osdev.com/this-month/2022-10/"
   },
   {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
+  },
+  {
     "date": "2020-09-30",
     "title": "Rust 2021: GUI | Raph Levien’s blog",
     "link": "https://raphlinus.github.io/rust/druid/2020/09/28/rust-2021.html"

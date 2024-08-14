@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine - paavohtl's blog",
+    "link": "https://blog.paavo.me/demo-engine-part-1/"
+  },
+  {
     "date": "2023-04-26",
     "title": "A Basic Executable - GBA From Scratch With Ferris",
     "link": "https://lokathor.github.io/gba-from-scratch/ex1.html"

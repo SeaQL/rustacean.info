@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-12-20",
-    "title": "The rabbit hole of unsafe Rust bugs – notgull – The world's number one source of notgull",
-    "link": "https://notgull.net/cautionary-unsafe-tale/"
-  },
-  {
     "date": "2017-05-16",
     "title": "An Atomic Hash Table ·",
     "link": "https://ticki.github.io/blog/an-atomic-hash-table/"

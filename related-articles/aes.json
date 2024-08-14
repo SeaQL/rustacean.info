@@ -5,18 +5,8 @@
     "link": "https://vaktibabat.github.io/posts/Making_A_Secure_Chat_Rust_Crypto/"
   },
   {
-    "date": "2020-09-30",
-    "title": "Cucumber in Rust - Beginner's Tutorial - Florianrein's Blog",
-    "link": "https://www.florianreinhard.de/2020-08-16/cucumber-in-rust-beginners-tutorial/"
-  },
-  {
     "date": "2020-04-21",
     "title": "How I Reverse Engineered the LastPass CLI Tool · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/lastpass/"
-  },
-  {
-    "date": "2019-12-03",
-    "title": "Rust Embedded Working Group",
-    "link": "https://rust-embedded.github.io/blog/newsletter-21/"
   }
 ]

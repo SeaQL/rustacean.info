@@ -15,11 +15,6 @@
     "link": "https://wasmi-labs.github.io/blog/posts/wasmi-v0.32/"
   },
   {
-    "date": "2024-02-14",
-    "title": "Calling Rust FFI libraries from Go",
-    "link": "https://blog.arcjet.com/calling-rust-ffi-libraries-from-go/"
-  },
-  {
     "date": "2024-01-31",
     "title": "Arroyo with Micah Wylde - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e04-arroyo"
@@ -125,6 +120,11 @@
     "link": "https://lwn.net/SubscriberLink/889924/2f35f6746c3dd9b1/"
   },
   {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
+  },
+  {
     "date": "2022-03-09",
     "title": "WebAssembly-Runtime: Wasmer 2.2 liefert mehr Leistung im Singlepass Compiler | heise online",
     "link": "https://www.heise.de/news/WebAssembly-Runtime-Wasmer-2-2-liefert-mehr-Leistung-im-Singlepass-Compiler-6533165.html"
@@ -191,6 +191,11 @@
   },
   {
     "date": "2021-04-14",
+    "title": "Rust in Production: MeiliSearch",
+    "link": "https://serokell.io/blog/rust-in-production-meilisearch"
+  },
+  {
+    "date": "2021-04-14",
     "title": "Progress report on rustc_codegen_cranelift (April 2021) | bjorn3",
     "link": "https://bjorn3.github.io/2021/04/13/progress-report-april-2021.html"
   },
@@ -248,6 +253,11 @@
     "date": "2020-08-25",
     "title": "Writing a Test Case Generator for a Programming Language",
     "link": "https://fitzgeraldnick.com/2020/08/24/writing-a-test-case-generator.html"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
   },
   {
     "date": "2020-08-18",

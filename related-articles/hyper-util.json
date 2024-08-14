@@ -140,6 +140,11 @@
     "link": "https://daniel.haxx.se/blog/2020/10/09/rust-in-curl-with-hyper/"
   },
   {
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
+  },
+  {
     "date": "2020-06-16",
     "title": "Hyper Traps | Vorner’s random stuff",
     "link": "https://vorner.github.io/2020/04/13/hyper-traps.html"

@@ -5,11 +5,6 @@
     "link": "https://medium.com/@jacob_62353/introduction-365296716979"
   },
   {
-    "date": "2022-03-09",
-    "title": "Mint tokens on Solana using the Rust SDK | by 0xksure | Medium",
-    "link": "https://kristohb.medium.com/mint-tokens-on-solana-using-the-rust-sdk-3b05b07ca842"
-  },
-  {
     "date": "2021-11-10",
     "title": "Plugins in Rust: Reducing the Pain with Dependencies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-abi-stable/"
@@ -48,6 +43,11 @@
     "date": "2020-08-11",
     "title": "RiB Newsletter #14 – Are We Smart (Contract) Yet? - Rust in Blockchain ❤ rib.rs",
     "link": "https://rustinblockchain.org/newsletters/2020-08-05-are-we-smart-contract-yet/"
+  },
+  {
+    "date": "2020-07-28",
+    "title": "404: Not Found | Solana",
+    "link": "https://solana.com/frontend-eng-jd.pdf"
   },
   {
     "date": "2020-07-07",

@@ -1,10 +1,5 @@
 [
   {
-    "date": "2024-05-01",
-    "title": "Event driven Microservices using Kafka and Rust",
-    "link": "https://www.shuttle.rs/blog/2024/04/25/event-driven-services-using-kafka-rust"
-  },
-  {
     "date": "2021-10-06",
     "title": "Plugins in Rust: Diving into Dynamic Loading | NullDeref",
     "link": "https://nullderef.com/blog/plugin-dynload/"

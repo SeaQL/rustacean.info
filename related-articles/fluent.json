@@ -15,6 +15,11 @@
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
+    "date": "2021-08-18",
+    "title": "Rust GUI Infrastructure",
+    "link": "http://www.cmyr.net/blog/rust-gui-infra.html"
+  },
+  {
     "date": "2018-08-07",
     "title": "intl_pluralrules: A Rust Crate for Handling Plural Forms with CLDR Plural Rules – Mozilla L10N",
     "link": "https://blog.mozilla.org/l10n/2018/08/03/intl_pluralrules-a-rust-crate-for-handling-plural-forms-with-cldr-plural-rules/"

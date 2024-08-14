@@ -91,11 +91,6 @@
   },
   {
     "date": "2023-04-26",
-    "title": "Rust + Embedded: A Development Power Duo | by Juraj Sadel | The ESP Journal",
-    "link": "https://blog.espressif.com/rust-embedded-a-development-power-duo-db43dae21206"
-  },
-  {
-    "date": "2023-04-26",
     "title": "ESP32 Embedded Rust at the HAL: GPIO Button Controlled Blinking",
     "link": "https://apollolabsblog.hashnode.dev/esp32-embedded-rust-at-the-hal-gpio-button-controlled-blinking?ref=twitter-share"
   },

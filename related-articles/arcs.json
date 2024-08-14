@@ -1,10 +1,5 @@
 [
   {
-    "date": "2023-09-20",
-    "title": "Choosing a more optimal `String` type",
-    "link": "https://swatinem.de/blog/optimized-strings/"
-  },
-  {
     "date": "2020-02-25",
     "title": "Line Simplification with Ramer–Douglas–Peucker · Michael-F-Bryan",
     "link": "http://adventures.michaelfbryan.com/posts/line-simplification/"

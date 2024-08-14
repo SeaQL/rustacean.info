@@ -40,11 +40,6 @@
     "link": "https://boats.gitlab.io/blog/post/romio/"
   },
   {
-    "date": "2018-12-11",
-    "title": "blag.nemo157.com - Inside Rust's Async Transform",
-    "link": "https://blag.nemo157.com/2018/12/09/inside-rusts-async-transform.html"
-  },
-  {
     "date": "2018-11-27",
     "title": "Serverless HTTP. Throw down your main! Rustlang… | by Doug Tangren | Medium",
     "link": "https://medium.com/@softprops/serverless-http-9a58f9b2df60"

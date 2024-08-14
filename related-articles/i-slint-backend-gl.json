@@ -40,11 +40,6 @@
     "link": "https://rustacean-station.org/episode/tobias-hunger-slint-1.0/"
   },
   {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
     "date": "2023-04-05",
     "title": "Slint 1.0: The Next-Generation Native GUI Toolkit Matures — Slint Blog",
     "link": "https://slint-ui.com/blog/announcing-slint-1.0.html"

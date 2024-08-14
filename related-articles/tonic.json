@@ -75,6 +75,11 @@
     "link": "https://deislabs.io/posts/still-rusting-one-year-later/"
   },
   {
+    "date": "2020-07-28",
+    "title": "Under the hood of Linkerd's state-of-the-art Rust proxy, Linkerd2-proxy | Linkerd",
+    "link": "https://linkerd.io/2020/07/23/under-the-hood-of-linkerds-state-of-the-art-rust-proxy-linkerd2-proxy/"
+  },
+  {
     "date": "2020-07-21",
     "title": "Benchmarking gRPC in Rust &amp; Go. Some background | by Rustler | Medium",
     "link": "https://medium.com/@Rustling_gopher/benchmarking-grpc-in-rust-go-184545e7688a"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-07",
+    "title": "Tauri 2.0 Release Candidate | Tauri",
+    "link": "https://v2.tauri.app/blog/tauri-2-0-0-release-candidate/"
+  },
+  {
     "date": "2024-06-19",
     "title": "Using Tauri to build a cross-platform security app",
     "link": "https://www.firezone.dev/blog/using-tauri"
@@ -55,21 +60,6 @@
     "link": "https://gamedev.rs/news/046/"
   },
   {
-    "date": "2023-06-07",
-    "title": "Rust's cfg Attribute",
-    "link": "https://blog.parker-codes.dev/posts/rusts-cfg-attribute"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
-    "date": "2023-03-01",
-    "title": "Through the looking glass • Create a launchbar app w/ Tauri",
-    "link": "https://blog.spyglass.fyi/posts/2023/creating-a-launcher-in-tauri/"
-  },
-  {
     "date": "2023-02-22",
     "title": "Why is building a UI in Rust so hard?",
     "link": "https://www.warp.dev/blog/why-is-building-a-ui-in-rust-so-hard"
@@ -78,11 +68,6 @@
     "date": "2023-02-22",
     "title": "Lodestone with Wilbur Zhang, Peter Jiang, and Kevin Huang :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/lodestone/"
-  },
-  {
-    "date": "2023-02-22",
-    "title": "Rust in Rhymes II explainer — Llogiq on stuff",
-    "link": "https://llogiq.github.io/2023/02/19/rhymes2.html"
   },
   {
     "date": "2023-02-08",
@@ -100,6 +85,11 @@
     "link": "https://betterprogramming.pub/tauri-vs-electron-for-tray-apps-ed15974f35ce"
   },
   {
+    "date": "2022-10-26",
+    "title": "Enums and Pattern Matching in Rust",
+    "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
     "date": "2022-09-21",
     "title": "Announcing tauri-egui 0.1.0 | Tauri Apps",
     "link": "https://tauri.app/blog/2022/09/19/tauri-egui-0-1/"
@@ -108,11 +98,6 @@
     "date": "2022-08-24",
     "title": "Tauri + Async Rust Process",
     "link": "https://rfdonnelly.github.io/posts/tauri-async-rust-process/"
-  },
-  {
-    "date": "2022-08-17",
-    "title": "Get Started with Rust: Structs",
-    "link": "https://serokell.io/blog/structs-in-rust"
   },
   {
     "date": "2022-08-10",
@@ -133,6 +118,11 @@
     "date": "2022-07-13",
     "title": "Redirecting to: https://v2.tauri.app/blog/tauri-1-0",
     "link": "https://tauri.app/blog/tauri_1_0/"
+  },
+  {
+    "date": "2022-03-23",
+    "title": "Functional Futures: Live-Coding Rust with Tim McNamara",
+    "link": "https://serokell.io/blog/live-coding-rust-with-tim-mcnamara"
   },
   {
     "date": "2022-01-05",
@@ -163,5 +153,10 @@
     "date": "2021-01-20",
     "title": "Rust in Production: 1Password",
     "link": "https://serokell.io/blog/rust-in-production-1password"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Why You Should Use the Rust Programming Language",
+    "link": "https://serokell.io/blog/rust-guide"
   }
 ]

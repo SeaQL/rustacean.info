@@ -1,20 +1,5 @@
 [
   {
-    "date": "2024-01-17",
-    "title": "Let's Make an Information Display Part 2: Frontend",
-    "link": "https://blog.stillinbeta.com/2024-01-06-let's-make-an-information-display-part-2.html"
-  },
-  {
-    "date": "2023-05-03",
-    "title": "50 Shades of Rust, or emerging Rust GUIs in a WASM world",
-    "link": "https://monadical.com/posts/shades-of-rust-gui-library-list.html"
-  },
-  {
-    "date": "2022-11-30",
-    "title": "Threads and messages with Rust and WebAssembly - Tweag",
-    "link": "https://www.tweag.io/blog/2022-11-24-wasm-threads-and-messages/"
-  },
-  {
     "date": "2021-12-01",
     "title": "Implementing Raft for Browsers with Rust and WebRTC · Emanuel Evans",
     "link": "https://eevans.co/blog/wraft/"
