@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-SITEMAP: https://rustacean.info/sitemap.xml
+SITEMAP: https://rustacean.info/sitemap.xml.gz
