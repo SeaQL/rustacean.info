@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-23",
+    "title": "Hifitime version 4.0.0: A Leap Forward in Time Management - Nyx Space",
+    "link": "https://nyxspace.com/blog/2024/10/17/hifitime-version-400-a-leap-forward-in-time-management/"
+  },
+  {
     "date": "2023-04-12",
     "title": "How Kani helped find bugs in Hifitime | Kani Rust Verifier Blog",
     "link": "https://model-checking.github.io/kani-verifier-blog/2023/03/31/how-kani-helped-find-bugs-in-hifitime.html"

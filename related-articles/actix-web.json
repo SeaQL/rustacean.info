@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "Rust needs a web framework for lazy developers | nicole@web",
+    "link": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`) | Evan Schwartz",
+    "link": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Rob Ede - Actix Web, Life as an Open Source Maintainer, Supply-chain Security - timClicks (Tim McNamara)",
     "link": "https://timclicks.dev/podcast/rob-ede/"

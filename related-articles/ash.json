@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Optimizing a Rust GPU matmul kernel | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/optimizing-matmul/"
+  },
+  {
     "date": "2023-06-07",
     "title": "This Month in Rust GameDev #45 - April 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/045/"

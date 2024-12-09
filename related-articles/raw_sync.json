@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "IPC in Rust",
+    "link": "https://pranitha.rs/posts/rust-ipc-ping-pong/"
+  },
+  {
     "date": "2021-05-19",
     "title": "Plugins in Rust: The Technologies | NullDeref",
     "link": "https://nullderef.com/blog/plugin-tech/"

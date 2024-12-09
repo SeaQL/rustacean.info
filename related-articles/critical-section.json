@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "The Embedded Rustacean Issue #31",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-31"
+  },
+  {
+    "date": "2024-11-06",
+    "title": "Beginner Rust ESP32 development - Snake",
+    "link": "https://jamesmcm.github.io/blog/beginner-rust-esp32-lcdsnake/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Google Online Security Blog: Deploying Rust in Existing Firmware Codebases",
+    "link": "https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html"
+  },
+  {
     "date": "2022-03-16",
     "title": "Knurling-rs changelog #34  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/knurling-changelog-34/"

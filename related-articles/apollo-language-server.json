@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-01-17",
+    "title": "Apollo with Nicolas Moutschen - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s01e03-apollo/"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "Careers at Apollo GraphQL",
+    "link": "https://www.apollographql.com/careers/job/?id=afcdcb31-ce6b-4485-9987-3cc8bc361deb"
+  },
+  {
+    "date": "2021-11-03",
+    "title": "apollo-rs: spec-compliant GraphQL tools in Rust | Apollo GraphQL Blog",
+    "link": "https://www.apollographql.com/blog/announcement/tooling/apollo-rs-graphql-tools-in-rust/?utm_campaign=2021-11-01_apollo-rs&utm_medium=social&utm_source=twitter"
+  },
+  {
+    "date": "2016-07-12",
+    "title": "Coursera Engineering - Medium",
+    "link": "https://building.coursera.org/blog/2016/07/07/rust-docker-in-production-coursera/"
+  }
+]

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Fixing build times with rubicon",
+    "link": "https://sdr-podcast.com/episodes/dynamic-linking/"
+  },
+  {
+    "date": "2024-08-28",
+    "title": "MiniJinja: Learnings from Building a Template Engine in Rust | Armin Ronacher's Thoughts and Writings",
+    "link": "https://lucumr.pocoo.org/2024/8/27/minijinja/"
+  },
+  {
     "date": "2024-05-22",
     "title": "Using Rust Macros for Custom VTables | Armin Ronacher's Thoughts and Writings",
     "link": "https://lucumr.pocoo.org/2024/5/16/macro-vtable-magic/"

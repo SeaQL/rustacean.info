@@ -1,5 +1,95 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Bevy 0.15",
+    "link": "https://bevyengine.org/news/bevy-0-15/"
+  },
+  {
+    "date": "2024-11-27",
+    "title": "Unsafe for work",
+    "link": "https://oida.dev/unsafe-for-work/"
+  },
+  {
+    "date": "2024-11-20",
+    "title": "Virtual Geometry in Bevy 0.15",
+    "link": "https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Developer Voices",
+    "link": "https://pod.link/developer-voices/episode/c17465dd71701f9bea9a4a4acf52423e"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "rustunit",
+    "link": "https://rustunit.com/blog/2024/10-21-bevy-libgdx-atlas/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Animation Events, Curves, and no_std",
+    "link": "https://thisweekinbevy.com/issue/2024-10-14-animation-events-curves-and-nostd"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "What Are You Syncing About?",
+    "link": "https://sdr-podcast.com/episodes/syncing/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "OneVariable : Postcard 2.0: Looking for Sponsors!",
+    "link": "https://onevariable.com/blog/postcard-2-sponsors/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "Bevy Foundation is now a 501(c)(3) Public Charity",
+    "link": "https://bevyengine.org/news/bevy-foundation-501c3/"
+  },
+  {
+    "date": "2024-09-18",
+    "title": "I landed my dream job making a Rust game engine. Now what?",
+    "link": "https://bevyengine.org/news/dream-job/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Required Components, Curves, and the Bevy CLI Working Group",
+    "link": "https://thisweekinbevy.com/issue/2024-09-02-required-components-curves-and-the-bevy-cli-working-group"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "4 Years of Bevy",
+    "link": "https://bd103.github.io/blog/2024-08-18-4-years-of-bevy"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "I Was Wrong About Rust Build Times",
+    "link": "https://sdr-podcast.com/episodes/wrong-build-times/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Bevy's Fourth Birthday",
+    "link": "https://bevyengine.org/news/bevys-fourth-birthday/"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "0.14.1, tracking change detection, and more rendering examples",
+    "link": "https://thisweekinbevy.com/issue/2024-08-05-0141-tracking-change-detection-and-more-rendering-examples"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "Extending the #[diagnostic] tool attribute namespace - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/"
+  },
+  {
+    "date": "2024-07-24",
+    "title": "Bevy Jam 5, Radiance Cascades, and Calculators in many ui kits",
+    "link": "https://thisweekinbevy.com/issue/2024-07-22-bevy-jam-5-radiance-cascades-and-calculators-in-many-ui-kits"
+  },
+  {
+    "date": "2024-07-17",
+    "title": "Global Registration",
+    "link": "https://donsz.nl/blog/global-registration/"
+  },
+  {
     "date": "2024-07-10",
     "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
     "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"
@@ -18,6 +108,16 @@
     "date": "2024-06-26",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/128/rust-in-ten-years"
+  },
+  {
+    "date": "2024-06-19",
+    "title": "Meshlets, Stable Interpolation, and Generalized ECS Reactivity with Observers!",
+    "link": "https://thisweekinbevy.com/issue/2024-06-17-meshlets-stable-interpolation-and-generalized-ecs-reactivity-with-observers"
+  },
+  {
+    "date": "2024-06-12",
+    "title": "Bevy 0.14-rc.2, Powerglove, and Soup!",
+    "link": "https://thisweekinbevy.com/issue/2024-06-10-bevy-014-rc2-powerglove-and-soup"
   },
   {
     "date": "2024-06-12",
@@ -45,6 +145,16 @@
     "link": "https://thisweekinbevy.com/issue/2024-05-27-cyberpunk-ui-minecraft-simulation-and-volumetric-destruction"
   },
   {
+    "date": "2024-05-29",
+    "title": "Report on variadic generics discussion at RustNL. · PoignardAzur",
+    "link": "https://poignardazur.github.io/2024/05/25/report-on-rustnl-variadics/"
+  },
+  {
+    "date": "2024-05-15",
+    "title": "ClearCoat, new examples, and game updates",
+    "link": "https://thisweekinbevy.com/issue/2024-05-13-clearcoat-new-examples-and-game-updates"
+  },
+  {
     "date": "2024-05-01",
     "title": "Motion Blur, Visualizations, and beautiful renders",
     "link": "https://thisweekinbevy.com/issue/2024-04-29-motion-blur-visualizations-and-beautiful-renders"
@@ -60,9 +170,24 @@
     "link": "https://hachyderm.io/@bd103/112318610927827520"
   },
   {
+    "date": "2024-04-17",
+    "title": "New Meshes, New Examples, and Compute Shaders",
+    "link": "https://thisweekinbevy.com/issue/2024-04-15-new-meshes-new-examples-and-compute-shaders"
+  },
+  {
+    "date": "2024-04-10",
+    "title": "Bevy 0.13.2, Curves, Gizmos, and Games",
+    "link": "https://thisweekinbevy.com/issue/2024-04-08-bevy-0-13-2-curves-gizmos-and-games"
+  },
+  {
     "date": "2024-04-10",
     "title": "Oneiblog",
     "link": "https://oneirical.github.io/bevyrage"
+  },
+  {
+    "date": "2024-04-03",
+    "title": "2d Lighting, Particle Systems, Meshlets, and more",
+    "link": "https://thisweekinbevy.com/issue/2024-04-01-2d-lighting-particle-systems-meshlets-and-more"
   },
   {
     "date": "2024-04-03",
@@ -196,6 +321,11 @@
   },
   {
     "date": "2022-12-28",
+    "title": "A taste of pavex, an upcoming Rust web framework | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/"
+  },
+  {
+    "date": "2022-12-28",
     "title": "Capture The IP — Or a tiny story about how to over-engineer a simple project for the sake of learning Rust and other things about web services and binaries | markentier.tech",
     "link": "https://markentier.tech/posts/2022/12/capture-the-ip/"
   },
@@ -228,6 +358,16 @@
     "date": "2022-10-26",
     "title": "Enums and Pattern Matching in Rust",
     "link": "https://serokell.io/blog/enums-and-pattern-matching"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "Magical handler functions in Rust | Lunatic",
+    "link": "https://lunatic.solutions/blog/magic-handler-functions-in-rust/"
+  },
+  {
+    "date": "2022-10-19",
+    "title": "This Month in Rust GameDev #38 - September 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/038/"
   },
   {
     "date": "2022-09-28",
@@ -275,6 +415,11 @@
     "link": "https://gamedev.rs/news/035/"
   },
   {
+    "date": "2022-06-08",
+    "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/034/"
+  },
+  {
     "date": "2022-05-18",
     "title": "This Month in Rust GameDev #33 - April 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/033/"
@@ -310,6 +455,11 @@
     "link": "https://gamedev.rs/news/030/"
   },
   {
+    "date": "2022-01-26",
+    "title": "This Month in Rust GameDev #29 - December 2021 | Rust GameDev WG",
+    "link": "https://gamedev.rs/news/029/"
+  },
+  {
     "date": "2022-01-19",
     "title": "Tutorial: Writing a Tiny Rust Game Engine for Web",
     "link": "https://ianjk.com/game-engine-in-rust/"
@@ -338,6 +488,11 @@
     "date": "2021-11-10",
     "title": "This Month in Rust GameDev #27 - October 2021 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/027/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "tevps.net - Blog - Awesome Rust projects for Hacktoberfest",
+    "link": "https://tevps.net/blog/2021/10/10/awesome-rust-projects-hacktoberfest/"
   },
   {
     "date": "2021-10-13",
@@ -468,5 +623,10 @@
     "date": "2020-08-18",
     "title": "Why You Should Use the Rust Programming Language",
     "link": "https://serokell.io/blog/rust-guide"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
+    "link": "https://endler.dev/2020/rust-compile-times/"
   }
 ]

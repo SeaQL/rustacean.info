@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Ferrostar: Building a Cross-Platform Navigation SDK in Rust (Part 2 - iOS Packaging) | Stadia Maps",
+    "link": "https://stadiamaps.com/news/ferrostar-building-a-cross-platform-navigation-sdk-in-rust-part-2/"
+  },
+  {
+    "date": "2024-12-04",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/"
+  },
+  {
     "date": "2024-01-10",
     "title": "Rust Audio Programming with Ian Hobson | WolfTalk #016 | WolfSound",
     "link": "https://thewolfsound.com/talk016/"

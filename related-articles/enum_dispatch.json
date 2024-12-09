@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "dtype_dispatch: a most beautiful hack - Graph All The Things",
+    "link": "https://graphallthethings.com/posts/dtype-dispatch"
+  },
+  {
+    "date": "2024-09-11",
+    "title": "Optimizing rav1d, an AV1 Decoder in Rust - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rav1d-performance-optimization/"
+  },
+  {
     "date": "2022-08-03",
     "title": "Patterns with Rust types",
     "link": "https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types"

@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "Linebender in October 2024: resvg stewardship - Linebender",
+    "link": "https://linebender.org/blog/tmix-10/"
+  },
+  {
+    "date": "2024-09-18",
+    "title": "This Month in Xilem, August 2024 - Linebender",
+    "link": "https://linebender.org/blog/tmix-08/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "This Month in Xilem, July 2024 - Linebender",
+    "link": "https://linebender.org/blog/tmix-07/"
+  },
+  {
     "date": "2024-05-29",
     "title": "Report on variadic generics discussion at RustNL. · PoignardAzur",
     "link": "https://poignardazur.github.io/2024/05/25/report-on-rustnl-variadics/"

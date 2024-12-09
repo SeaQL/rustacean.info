@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Bevy 0.15",
+    "link": "https://bevyengine.org/news/bevy-0-15/"
+  },
+  {
     "date": "2024-07-10",
     "title": "Introducing Avian Physics 0.1 - Joona Aalto",
     "link": "https://joonaa.dev/blog/06/avian-0-1"

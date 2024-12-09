@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-06-21",
+    "title": "Building vector search in 200 lines of Rust",
+    "link": "https://fennel.ai/blog/vector-search-in-200-lines-of-rust/"
+  },
+  {
+    "date": "2023-01-18",
+    "title": "Song search in Rust using OpenAI",
+    "link": "https://gigapotential.dev/blog/song-search-in-rust-using-openai/"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Inside the Pinecone | Pinecone",
+    "link": "https://www.pinecone.io/learn/inside-the-pinecone/"
+  }
+]

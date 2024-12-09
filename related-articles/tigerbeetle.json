@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "Oxide with Steve Klabnik - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e03-oxide/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`) | Evan Schwartz",
+    "link": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+  },
+  {
     "date": "2024-07-10",
     "title": "Memory Safety in C++ vs Rust vs Zig | by B Shyam Sundar | Jul, 2024 | Medium",
     "link": "https://medium.com/@shyamsundarb/memory-safety-in-c-vs-rust-vs-zig-f78fa903f41e"

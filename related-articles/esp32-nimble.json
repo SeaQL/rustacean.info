@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "The Embedded Rustacean Issue #32",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-32"
+  },
+  {
     "date": "2024-04-03",
     "title": "Embedded Rust Bluetooth on ESP: BLE Client",
     "link": "https://apollolabsblog.hashnode.dev/embedded-rust-bluetooth-on-esp-ble-client"

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "Sqlx4k - Interoperability between Kotlin and Rust, using FFI (Part 1) | :: exploration and stuff ::",
+    "link": "https://smyrgeorge.github.io/posts/sqlx4k---interoperability-between-kotlin-and-rust-using-ffi-part-1/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "A small trick for simple Rust/C++ interop",
+    "link": "https://gaultier.github.io/blog/rust_c++_interop_trick.html"
+  },
+  {
     "date": "2024-07-10",
     "title": "Rust for filesystems [LWN.net]",
     "link": "https://lwn.net/Articles/978738/"

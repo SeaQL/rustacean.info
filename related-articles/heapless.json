@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "Building a Wifi-controlled car with Rust and ESP32",
+    "link": "https://jamesmcm.github.io/blog/esp32-wifi-tank/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Google Online Security Blog: Deploying Rust in Existing Firmware Codebases",
+    "link": "https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html"
+  },
+  {
     "date": "2024-01-24",
     "title": "How to work with !Sized types in Rust",
     "link": "https://sgued.fr/blog/heapless-howto/"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Systems Software for Linux with Rust - Interview with Zeeshan Ali Khan - timClicks (Tim McNamara)",
+    "link": "https://timclicks.dev/podcast/systems-software-for-linux-with-rust-interview-with-zeeshan-ali-khan/"
+  },
+  {
     "date": "2024-07-10",
     "title": "Network Manager and Rust's zbus",
     "link": "https://rbs.io/2024/07/network-manager-and-rusts-zbus/"

@@ -15,6 +15,11 @@
     "link": "https://briansmith.org/why-not-rustcrypto"
   },
   {
+    "date": "2023-08-30",
+    "title": "Leveraging Rust in our high-performance Java database | QuestDB",
+    "link": "https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/"
+  },
+  {
     "date": "2023-04-05",
     "title": "Rustls 0.21.0 Released With Exciting New Features - Prossimo",
     "link": "https://www.memorysafety.org/blog/rustls-new-features/"

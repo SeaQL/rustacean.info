@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Optimizing a Rust GPU matmul kernel | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/optimizing-matmul/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Rust GPU Transitions to Community Ownership | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/transition-announcement/"
+  },
+  {
     "date": "2023-01-18",
     "title": "Youmu | Finding Nice MD5s Using Rust",
     "link": "https://blog.youmu.moe/posts/finding-nice-md5s-using-rust/"

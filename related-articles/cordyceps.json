@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "What Are You Syncing About?",
+    "link": "https://sdr-podcast.com/episodes/syncing/"
+  },
+  {
     "date": "2022-10-12",
     "title": "This Month in Rust OSDev: September 2022 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2022-09/"

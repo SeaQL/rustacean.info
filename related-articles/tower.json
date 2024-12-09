@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Implementing the Tower Service Trait | Omar Abid - Personal Blog",
+    "link": "https://omarabid.com/tower-service"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Felix' Blog - Replacing nginx with axum",
+    "link": "https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html"
+  },
+  {
     "date": "2024-03-27",
     "title": "Why choose async/await over threads? – notgull – The world's number one source of notgull",
     "link": "https://notgull.net/why-not-threads/"

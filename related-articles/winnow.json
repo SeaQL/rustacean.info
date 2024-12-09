@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Developer Voices",
+    "link": "https://pod.link/developer-voices/episode/c17465dd71701f9bea9a4a4acf52423e"
+  },
+  {
     "date": "2024-05-29",
     "title": "Report on variadic generics discussion at RustNL. · PoignardAzur",
     "link": "https://poignardazur.github.io/2024/05/25/report-on-rustnl-variadics/"

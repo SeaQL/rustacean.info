@@ -1,7 +1,17 @@
 [
   {
+    "date": "2024-09-11",
+    "title": "How we Built 300μs Typo Detection for 1.3M Words in Rust — Trieve",
+    "link": "https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/"
+  },
+  {
     "date": "2024-02-21",
     "title": "Introducing Rust Client for Timeplus Proton",
     "link": "https://www.timeplus.com/post/rust-client-for-proton"
+  },
+  {
+    "date": "2023-09-20",
+    "title": "Enhancing ClickHouse's Geospatial Support",
+    "link": "https://tech.marksblogg.com/clickhouse-gis-rust.html"
   }
 ]

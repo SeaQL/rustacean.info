@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "One year of Rust in production - Dmitry Kudryavtsev",
+    "link": "https://yieldcode.blog/post/one-year-of-rust-in-production/"
+  },
+  {
     "date": "2023-12-27",
     "title": "Web development in Rust",
     "link": "https://rust.code-maven.com/web"

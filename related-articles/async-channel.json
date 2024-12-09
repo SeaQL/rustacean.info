@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "rustunit",
+    "link": "https://rustunit.com/blog/2024/11-15-bevy-channel-trigger/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Async Rust Challenges in Iroh - Iroh",
     "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "BTF, Rust, and the kernel toolchain [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/991719/3fecd51a9a75f011/"
+  },
+  {
     "date": "2024-07-17",
     "title": "Writing eBPF Tracepoint Program with Rust Aya: Tips and Example – Yuki Nakamura's Blog",
     "link": "https://yuki-nakamura.com/2024/07/06/writing-ebpf-tracepoint-program-with-rust-aya-tips-and-example/"

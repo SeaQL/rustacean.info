@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "A different serde",
+    "link": "https://sdr-podcast.com/episodes/a-different-serde/"
+  },
+  {
+    "date": "2024-11-06",
+    "title": "how big is your future? - hēg denu - Hayden\n\t\tStainsby",
+    "link": "https://hegdenu.net/posts/how-big-is-your-future/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Announcing Toasty, an async ORM for Rust | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2024-10-23-announcing-toasty"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Fixing build times with rubicon",
+    "link": "https://sdr-podcast.com/episodes/dynamic-linking/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Proposal: Deprecate Tokio's LocalSet · Issue #6741 · tokio-rs/tokio · GitHub",
     "link": "https://www.github.com/tokio-rs/tokio/issues/6741"

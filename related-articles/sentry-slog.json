@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Fixing build times with rubicon",
+    "link": "https://sdr-podcast.com/episodes/dynamic-linking/"
+  },
+  {
     "date": "2024-02-28",
     "title": "Sentry with Arpad Borsos - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e06-sentry/"

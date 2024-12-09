@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Tauri 2.0 Stable Release | Tauri",
+    "link": "https://v2.tauri.app/blog/tauri-20/"
+  },
+  {
     "date": "2024-06-19",
     "title": "Using Tauri to build a cross-platform security app",
     "link": "https://www.firezone.dev/blog/using-tauri"

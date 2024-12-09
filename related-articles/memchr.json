@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-28",
+    "title": "I sped up serde_json strings by 20% | purplesyringa's blog",
+    "link": "https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/"
+  },
+  {
     "date": "2024-01-24",
     "title": "Billion-row challenge: Rust walkthrough | AmineDiro",
     "link": "https://aminediro.com/posts/billion_row/"

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Implementing the Tower Service Trait | Omar Abid - Personal Blog",
+    "link": "https://omarabid.com/tower-service"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Code Generation with GraphQL in Rust | Omar Abid - Personal Blog",
+    "link": "https://omarabid.com/rust-graphql"
+  },
+  {
     "date": "2023-11-01",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/104/dealing-with-dependencies-in-rust"

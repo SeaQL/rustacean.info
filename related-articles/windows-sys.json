@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Making Rust a first-class citizen for Xen",
+    "link": "https://xcp-ng.org/blog/2024/11/26/making-rust-a-first-class-citizen-for-xen/"
+  },
+  {
     "date": "2024-04-24",
     "title": "Porting a cross-platform GUI application to Rust - Mozilla Hacks - the Web developer blog",
     "link": "https://hacks.mozilla.org/2024/04/porting-a-cross-platform-gui-application-to-rust/"

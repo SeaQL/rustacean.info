@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "A different serde",
+    "link": "https://sdr-podcast.com/episodes/a-different-serde/"
+  },
+  {
     "date": "2023-10-25",
     "title": "A fresh look on incremental zero copy serialization · udoprog",
     "link": "https://udoprog.github.io/rust/2023-10-19/musli-zerocopy.html"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "I compared 14 hashing algorithms on Rust using Criterion | BLOG.GOOSE.LOVE",
+    "link": "https://blog.goose.love/posts/rosetta-hashing/"
+  },
+  {
     "date": "2020-05-05",
     "title": "Learning embedded Rust by building RISC-V-powered robot - Part 4 - K155LA3",
     "link": "https://k155la3.blog/2020/04/19/learning-embedded-rust-by-building-riscv-powered-robot-part-4/"

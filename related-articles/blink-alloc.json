@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-21",
+    "title": "Arenas",
+    "link": "https://donsz.nl/blog/arenas/"
+  },
+  {
     "date": "2023-03-15",
     "title": "This Month in Rust GameDev #43 - February 2023 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/043/"

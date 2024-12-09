@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Making Rust a first-class citizen for Xen",
+    "link": "https://xcp-ng.org/blog/2024/11/26/making-rust-a-first-class-citizen-for-xen/"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Improving bindgen for the kernel [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/992693/d4d6587f6faaf524/"
+  },
+  {
     "date": "2024-07-17",
     "title": "Writing eBPF Tracepoint Program with Rust Aya: Tips and Example – Yuki Nakamura's Blog",
     "link": "https://yuki-nakamura.com/2024/07/06/writing-ebpf-tracepoint-program-with-rust-aya-tips-and-example/"

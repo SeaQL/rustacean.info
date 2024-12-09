@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2021-08-10",
+    "title": "Loading a Rust library as a Lua module in Neovim – kdheepak",
+    "link": "https://blog.kdheepak.com/loading-a-rust-library-as-a-lua-module-in-neovim.html"
+  },
+  {
+    "date": "2021-05-19",
+    "title": "Plugins in Rust: The Technologies | NullDeref",
+    "link": "https://nullderef.com/blog/plugin-tech/"
+  }
+]

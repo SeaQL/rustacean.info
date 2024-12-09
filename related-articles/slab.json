@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-21",
+    "title": "Arenas",
+    "link": "https://donsz.nl/blog/arenas/"
+  },
+  {
     "date": "2024-03-06",
     "title": "Designing an Async Runtime for WASI 0.2",
     "link": "https://blog.yoshuawuyts.com/building-an-async-runtime-for-wasi/"

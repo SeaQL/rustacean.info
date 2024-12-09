@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "RustLab | The International Conference on Rust in Florence",
+    "link": "https://rustlab.it/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Learn Rust, train doctors - Interview with Caroline Morton - timClicks (Tim McNamara)",
+    "link": "https://timclicks.dev/podcast/learn-rust-train-doctors-interview-with-caroline-morton"
+  },
+  {
     "date": "2024-08-07",
     "title": "The Hitchhiker’s Guide to Building a Distributed Filesystem in Rust. The continuation (part 2) | by Radu Marias | Aug, 2024 | System Weakness",
     "link": "https://medium.com/@xorio42/the-hitchhikers-guide-to-building-a-distributed-filesystem-in-rust-the-continuation-part-2-ad1fd8bc9cf8"

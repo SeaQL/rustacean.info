@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Learnings from Contributing to the Rust Project • Shriram Balaji's Blog",
+    "link": "https://blog.shrirambalaji.com/posts/oss/rust/learnings-from-contributing-to-the-rust-project"
+  },
+  {
     "date": "2023-02-22",
     "title": "winnow = toml_edit + combine + nom",
     "link": "https://epage.github.io/blog/2023/02/winnow-toml-edit-combine-nom/"

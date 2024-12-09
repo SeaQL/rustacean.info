@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "Google Online Security Blog: Eliminating Memory Safety Vulnerabilities at the Source",
+    "link": "https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html"
+  },
+  {
+    "date": "2024-09-18",
+    "title": "code.talks Tech Conference 2024 | Hamburg | September 19-20 2024 | code.talks",
+    "link": "https://codetalks.com/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Beyond Ctrl-C: The dark corners of Unix signal handling :: sunshowers",
+    "link": "https://sunshowers.io/posts/beyond-ctrl-c-signals/"
+  },
+  {
     "date": "2024-03-20",
     "title": "Lambda on hard mode: Inside Modal's web infrastructure | Modal Blog",
     "link": "https://modal.com/blog/serverless-http"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Felix' Blog - Replacing nginx with axum",
+    "link": "https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html"
+  },
+  {
     "date": "2023-11-22",
     "title": "hyper v1 - seanmonstar",
     "link": "https://seanmonstar.com/blog/hyper-v1/"

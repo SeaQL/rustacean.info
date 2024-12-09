@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-21",
+    "title": "Arenas",
+    "link": "https://donsz.nl/blog/arenas/"
+  },
+  {
     "date": "2024-02-07",
     "title": "Garbage Collection Without Unsafe Code",
     "link": "https://fitzgeraldnick.com/2024/02/06/safe-gc.html"

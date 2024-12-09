@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "November 2024 dev update",
+    "link": "https://godot-rust.github.io/dev/november-2024-update/"
+  },
+  {
     "date": "2024-06-26",
     "title": "June 2024 dev update",
     "link": "https://godot-rust.github.io/dev/june-2024-update/"

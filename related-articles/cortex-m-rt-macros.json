@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-01-10",
+    "title": "This Month in Rust OSDev: December 2023 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2023-12/"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "Nine Rules for Running Rust on the Web and on Embedded | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Rust on Apache NuttX OS",
+    "link": "https://lupyuen.github.io/articles/rust2"
+  },
+  {
     "date": "2021-12-29",
     "title": "Rust Embedded Working Group",
     "link": "https://blog.rust-embedded.org/this-year-in-embedded-rust-2021/"

@@ -1,0 +1,52 @@
+[
+  {
+    "date": "2024-04-10",
+    "title": "This month in Pavex, #10 | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/this-month-in-pavex-10/"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "This month in Pavex, #9 | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/this-month-in-pavex-09/"
+  },
+  {
+    "date": "2024-02-07",
+    "title": "Rust web frameworks have subpar error reporting | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/rust-web-frameworks-have-subpar-error-reporting/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Rustdoc JSON in 2023  ❧ Alona Enraght-Moony",
+    "link": "https://alona.page/posts/rustdoc-json-2023/"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Pavex DevLog #6: designing safe and ergonomic middlewares | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-06/"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "Best Rust Web Frameworks to Use in 2023",
+    "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "Pavex DevLog #5: redesigning our runtime types | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-05/"
+  },
+  {
+    "date": "2023-04-26",
+    "title": "Pavex, progress report #3: nested routes and borrow checking | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-03/"
+  },
+  {
+    "date": "2023-02-15",
+    "title": "Pavex, progress report #1: laying the foundations | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/pavex-progress-report-01/"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "A taste of pavex, an upcoming Rust web framework | Luca Palmieri",
+    "link": "https://www.lpalmieri.com/posts/a-taste-of-pavex-rust-web-framework/"
+  }
+]

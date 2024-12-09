@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "Oxide with Steve Klabnik - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e03-oxide/"
+  },
+  {
     "date": "2024-07-17",
     "title": "The missing parts in Cargo | Life is a refactoring process without tests",
     "link": "https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/"

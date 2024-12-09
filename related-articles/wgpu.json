@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Optimizing a Rust GPU matmul kernel | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/optimizing-matmul/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Rust GPU Transitions to Community Ownership | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/transition-announcement/"
+  },
+  {
     "date": "2024-08-07",
     "title": "0.14.1, tracking change detection, and more rendering examples",
     "link": "https://thisweekinbevy.com/issue/2024-08-05-0141-tracking-change-detection-and-more-rendering-examples"

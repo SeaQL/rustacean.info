@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2021-07-21",
+    "title": "05 - Basic CRUD with rust using tide - front-end with tera - Javier's personal blog",
+    "link": "https://javierviola.com/post/05-basic-crud-with-rust-using-tide-front-end-with-tera/"
+  },
+  {
+    "date": "2021-07-07",
+    "title": "butido - a Linux Package Building Tool in Rust — musicmatzes blog",
+    "link": "https://beyermatthias.de/butido-a-linux-package-building-tool-in-rust"
+  },
+  {
+    "date": "2021-05-26",
+    "title": "Announcing Valuable, a library for object-safe value inspection | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2021-05-valuable"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Understanding the Rust Ecosystem",
+    "link": "https://joeprevite.com/rust-lang-ecosystem"
+  },
+  {
+    "date": "2018-03-06",
+    "title": "Writing a Microservice in Rust – Peter Goldsborough",
+    "link": "http://www.goldsborough.me/rust/web/tutorial/2018/01/20/17-01-11-writing_a_microservice_in_rust/"
+  },
+  {
+    "date": "2016-09-13",
+    "title": "show_notes::bonus::_7 - Rust",
+    "link": "http://www.newrustacean.com/show_notes/bonus/_7/"
+  },
+  {
+    "date": "2016-07-19",
+    "title": "Rust for Node.js developers - Part 3 - Crates, Modules and the web",
+    "link": "http://fredrik.anderzon.se/rust-for-node-js-developers-part-3-crates-modules-and-the-web/"
+  }
+]

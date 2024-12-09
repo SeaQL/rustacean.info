@@ -1,5 +1,25 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Breakage! in the Cargo.toml — How Rust Package Features Work (And Break)",
+    "link": "https://predr.ag/blog/breakage-in-the-cargo-toml-how-rust-package-features-work/"
+  },
+  {
+    "date": "2024-11-27",
+    "title": "Clippy Lints",
+    "link": "https://rust-lang.github.io/rust-clippy/master/index.html#imprecise_flops"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "What's New in Rust 1.76, 1.77, and 1.78 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/rust-1.76-1.77-1.78"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "An update on gccrs development [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/991199/b109442b923b3909/"
+  },
+  {
     "date": "2024-07-31",
     "title": "SBOM support in Rust  - Ferrous Systems",
     "link": "https://ferrous-systems.com/blog/stackable-client/"

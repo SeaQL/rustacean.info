@@ -1,5 +1,65 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Making Rust a first-class citizen for Xen",
+    "link": "https://xcp-ng.org/blog/2024/11/26/making-rust-a-first-class-citizen-for-xen/"
+  },
+  {
+    "date": "2024-11-27",
+    "title": "Announcing Nio",
+    "link": "https://nurmohammed840.github.io/posts/announcing-nio/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Announcing Toasty, an async ORM for Rust | Tokio - An asynchronous Rust runtime",
+    "link": "https://tokio.rs/blog/2024-10-23-announcing-toasty"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Implementing the Tower Service Trait | Omar Abid - Personal Blog",
+    "link": "https://omarabid.com/tower-service"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Async Allocators",
+    "link": "https://sdr-podcast.com/episodes/async-allocators/"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Async Rust in Three Parts",
+    "link": "https://jacko.io/async_intro.html"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Zed with Conrad Irwin - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e01-zed/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Felix' Blog - Replacing nginx with axum",
+    "link": "https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "the spatula",
+    "link": "https://www.thespatula.io/rust/rust_io_uring_echo_server/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "How to deadlock Tokio application in Rust with just a single&nbsp;mutex",
+    "link": "https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`) | Evan Schwartz",
+    "link": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "Fixing Incorrect Tracing Parent Spans with Futures and JoinSet in Rust - chesedo",
+    "link": "https://chesedo.me/blog/rust-tracing-incorrect-parent-spans-async-futures-joinset/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Panic! At The Async Runtime Shutdown",
     "link": "https://www.mattkeeter.com/blog/2024-08-01-panic/"

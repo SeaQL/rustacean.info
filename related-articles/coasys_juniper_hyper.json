@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-04",
+    "title": "Code Generation with GraphQL in Rust | Omar Abid - Personal Blog",
+    "link": "https://omarabid.com/rust-graphql"
+  },
+  {
     "date": "2021-08-10",
     "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
     "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"

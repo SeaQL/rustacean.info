@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "codethoughts",
+    "link": "https://codethoughts.io/posts/2024-10-01-improved-turso-ergonomics-in-rust/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "One year of Rust in production - Dmitry Kudryavtsev",
+    "link": "https://yieldcode.blog/post/one-year-of-rust-in-production/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Announcing SeaORM 1.0 🐚 | SeaQL",
     "link": "https://www.sea-ql.org/blog/2024-08-04-sea-orm-1.0/"

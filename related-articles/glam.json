@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Optimizing a Rust GPU matmul kernel | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/optimizing-matmul/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine - paavohtl's blog",
     "link": "https://blog.paavo.me/demo-engine-part-1/"

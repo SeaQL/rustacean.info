@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Breakage! in the Cargo.toml — How Rust Package Features Work (And Break)",
+    "link": "https://predr.ag/blog/breakage-in-the-cargo-toml-how-rust-package-features-work/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Is this trait sealed, or not sealed — that is the question",
+    "link": "https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/"
+  },
+  {
     "date": "2024-08-07",
     "title": "v0.28.0 | Ratatui",
     "link": "https://ratatui.rs/highlights/v028/"

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Toward safe transmutation in Rust [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/994334/d43e27786ad96a50/"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Safety Goggles for Alchemists",
+    "link": "https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine - paavohtl's blog",
     "link": "https://blog.paavo.me/demo-engine-part-1/"

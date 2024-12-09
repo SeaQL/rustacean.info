@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Serde Trait - Part 3: Deserialization | My blog",
+    "link": "https://voelklmichael.github.io/Blog/serde-trait-part3.html"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Serde Trait - Part 2: Serialization | My blog",
+    "link": "https://voelklmichael.github.io/Blog/serde-trait-part2.html"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Serde Trait - Part 1: Overview | My blog",
+    "link": "https://voelklmichael.github.io/Blog/serde-trait-part1.html"
+  },
+  {
     "date": "2022-08-10",
     "title": "Fang, async background processing for Rust - The software engineer oasis",
     "link": "https://pxp9.github.io/rust/async-processing/"

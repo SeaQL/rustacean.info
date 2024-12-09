@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Clippy Lints",
+    "link": "https://rust-lang.github.io/rust-clippy/master/index.html#imprecise_flops"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Fixing build times with rubicon",
+    "link": "https://sdr-podcast.com/episodes/dynamic-linking/"
+  },
+  {
+    "date": "2024-09-11",
+    "title": "Optimizing rav1d, an AV1 Decoder in Rust - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rav1d-performance-optimization/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Rust's Mutex, Atomics and UnsafeCell – Spooky Action at a Distance? - Leon Schuermann",
+    "link": "https://leon.schuermann.io/blog/2024-08-07_rust-mutex-atomics-unsafecell_spooky-action-at-a-distance.html"
+  },
+  {
     "date": "2024-07-31",
     "title": "Why you should use Rust on the backend",
     "link": "https://www.shuttle.rs/blog/2024/07/31/rust-on-the-backend"

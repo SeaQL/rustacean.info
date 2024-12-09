@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Rust's Mutex, Atomics and UnsafeCell – Spooky Action at a Distance? - Leon Schuermann",
+    "link": "https://leon.schuermann.io/blog/2024-08-07_rust-mutex-atomics-unsafecell_spooky-action-at-a-distance.html"
+  },
+  {
     "date": "2024-01-24",
     "title": "Supporting LoRa on the SparkFun expLoRaBLE Thing Plus with Rust | Alistair’s GitHub IO",
     "link": "https://www.alistair23.me/2023/08/09/lora-on-sparkfun-board/"

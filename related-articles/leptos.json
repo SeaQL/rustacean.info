@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "Rust needs a web framework for lazy developers | nicole@web",
+    "link": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/"
+  },
+  {
     "date": "2024-05-29",
     "title": "Report on variadic generics discussion at RustNL. · PoignardAzur",
     "link": "https://poignardazur.github.io/2024/05/25/report-on-rustnl-variadics/"

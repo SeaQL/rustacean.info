@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "Rust Syn Crate Tutorial: Automate Builder Patterns with Custom Macros",
+    "link": "https://packetandpine.com/blog/rust-syn-crate-tutorial/"
+  },
+  {
     "date": "2023-04-26",
     "title": "Guide to Rust procedural macros | developerlife.com",
     "link": "https://developerlife.com/2022/03/30/rust-proc-macro/"

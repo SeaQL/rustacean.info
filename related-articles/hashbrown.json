@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Map Keys and Lifetimes",
+    "link": "https://blinsay.com/blog/compound-keys/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Designing A Fast Concurrent Hash Table",
+    "link": "https://ibraheem.ca/posts/designing-papaya/"
+  },
+  {
     "date": "2024-08-05",
     "title": "Frozen version of Rust standard library's hashbrown",
     "link": "https://github.com/tyt2y3/frozen-hashbrown"

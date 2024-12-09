@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-05-15",
+    "title": "Using build.rs to integrate rust applications with system libraries like a pro | The NeoSmart Files",
+    "link": "https://neosmart.net/blog/using-build-rs-to-integrate-rust-applications-with-system-libraries-like-a-pro/"
+  },
+  {
+    "date": "2024-01-03",
+    "title": "Open Source Applications written in Rust",
+    "link": "https://rust.code-maven.com/applications"
+  }
+]

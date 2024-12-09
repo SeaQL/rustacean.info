@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "hyper in curl Needs a Champion - seanmonstar",
+    "link": "https://seanmonstar.com/blog/hyper-in-curl-needs-a-champion/"
+  },
+  {
     "date": "2024-05-08",
     "title": "curl with Daniel Stenberg - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s02e01-curl/"

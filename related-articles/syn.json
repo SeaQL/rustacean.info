@@ -1,5 +1,25 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "Compile Time Crimes",
+    "link": "https://sdr-podcast.com/episodes/compile-time-crimes/"
+  },
+  {
+    "date": "2024-11-13",
+    "title": "Rust Syn Crate Tutorial: Automate Builder Patterns with Custom Macros",
+    "link": "https://packetandpine.com/blog/rust-syn-crate-tutorial/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Best Practices for Derive Macro Attributes in Rust",
+    "link": "https://w-graj.net/posts/rust-derive-attribute-macros/"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "pantheon: Parsing command line arguments",
+    "link": "https://traxys.me/sheshat_pantheon_3.html"
+  },
+  {
     "date": "2024-08-07",
     "title": "Debugging a rustc segfault on illumos :: sunshowers",
     "link": "https://sunshowers.io/posts/rustc-segfault-illumos/"

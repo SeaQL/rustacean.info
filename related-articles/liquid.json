@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Fixing build times with rubicon",
+    "link": "https://sdr-podcast.com/episodes/dynamic-linking/"
+  },
+  {
     "date": "2022-06-29",
     "title": "Generative metatag images in Rust",
     "link": "https://www.shuttle.rs/blog/2022/06/23/generative-metatag-images"

@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-11-13",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/136/rust-interop-in-practice-speaking-python-and-javascript"
+  },
+  {
+    "date": "2024-08-28",
+    "title": "Tweede golf",
+    "link": "https://tweedegolf.nl/en/blog/134/current-zlib-rs-performance"
+  }
+]

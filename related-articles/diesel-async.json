@@ -10,6 +10,11 @@
     "link": "https://bencher.dev/learn/case-study/diesel/"
   },
   {
+    "date": "2024-03-13",
+    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
+  },
+  {
     "date": "2023-09-06",
     "title": "Diesel Async 0.4 - Weiznich's Blog",
     "link": "https://blog.weiznich.de/blog/diesel-async-0-4/"

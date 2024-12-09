@@ -1,0 +1,122 @@
+[
+  {
+    "date": "2023-07-05",
+    "title": "Nine Rules for Running Rust on the Web and on Embedded | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-on-the-web-and-on-embedded-94462ef249a2"
+  },
+  {
+    "date": "2022-06-29",
+    "title": "Call for applications: Knurling-rs Summer of Code 2022 🦀  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-summer-of-code/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Knurling-rs changelog #34  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-34/"
+  },
+  {
+    "date": "2022-02-09",
+    "title": "Knurling-rs changelog #33  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-33/"
+  },
+  {
+    "date": "2021-10-13",
+    "title": "Knurling-rs changelog #32  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-32/"
+  },
+  {
+    "date": "2021-09-01",
+    "title": "Knurling-rs changelog #30  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-30/"
+  },
+  {
+    "date": "2021-07-07",
+    "title": "Knurling-rs changelog #28  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-28/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "Knurling-rs changelog #24  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-24/"
+  },
+  {
+    "date": "2021-04-21",
+    "title": "Knurling-rs changelog #23  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-23/"
+  },
+  {
+    "date": "2021-03-03",
+    "title": "Knurling-rs changelog #18  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-18/"
+  },
+  {
+    "date": "2021-02-24",
+    "title": "Knurling-rs changelog #17  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-17/"
+  },
+  {
+    "date": "2021-01-20",
+    "title": "Knurling-rs changelog #13  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-13/"
+  },
+  {
+    "date": "2021-01-13",
+    "title": "Knurling-rs changelog #12  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-12/"
+  },
+  {
+    "date": "2020-12-9-",
+    "title": "Knurling-rs changelog #9  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-9/"
+  },
+  {
+    "date": "2020-12-23",
+    "title": "Knurling-rs changelog #11  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-11/"
+  },
+  {
+    "date": "2020-12-2-",
+    "title": "Knurling-rs changelog #8  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-8/"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Knurling-rs changelog #10  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-10/"
+  },
+  {
+    "date": "2020-11-25",
+    "title": "Knurling-rs changelog #7  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-7/"
+  },
+  {
+    "date": "2020-11-18",
+    "title": "Knurling-rs changelog #6  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-6/"
+  },
+  {
+    "date": "2020-10-28",
+    "title": "Knurling-rs changelog #3  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-3/"
+  },
+  {
+    "date": "2020-10-07",
+    "title": "Getting Started with the nRF52840 in Rust – daschl writes. sometimes.",
+    "link": "https://nitschinger.at/Getting-Started-with-the-nRF52840-in-Rust/"
+  },
+  {
+    "date": "2020-09-30",
+    "title": "Knurling-rs changelog #2  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-2/"
+  },
+  {
+    "date": "2020-09-02",
+    "title": "Using `cargo test` for embedded testing with `panic-probe`  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/cargo-test-with-panic-probe/"
+  },
+  {
+    "date": "2020-08-25",
+    "title": "defmt, a highly efficient Rust logging framework for embedded devices  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/defmt/"
+  }
+]

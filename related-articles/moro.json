@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-04",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`) | Evan Schwartz",
+    "link": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+  },
+  {
     "date": "2024-02-21",
     "title": "FuturesUnordered and the order of futures",
     "link": "https://without.boats/blog/futures-unordered/"

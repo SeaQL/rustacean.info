@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Clippy Lints",
+    "link": "https://rust-lang.github.io/rust-clippy/master/index.html#imprecise_flops"
+  },
+  {
     "date": "2024-01-10",
     "title": "This Month in Rust OSDev: December 2023 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2023-12/"

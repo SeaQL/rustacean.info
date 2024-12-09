@@ -1,0 +1,192 @@
+[
+  {
+    "date": "2024-09-11",
+    "title": "RustConf 2024 - The largest annual gathering of the Rust-language community",
+    "link": "https://rustconf.com/"
+  },
+  {
+    "date": "2024-05-15",
+    "title": "VS Code Extensions and WebAssembly",
+    "link": "https://code.visualstudio.com/blogs/2024/05/08/wasm"
+  },
+  {
+    "date": "2024-04-03",
+    "title": "Fast Development In Rust, Part 2",
+    "link": "https://blog.sdf.com/p/fast-development-in-rust-part-2"
+  },
+  {
+    "date": "2024-03-06",
+    "title": "Czech Rust community index",
+    "link": "https://rustlang.cz/"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "SALT - Visual Studio Marketplace",
+    "link": "https://marketplace.visualstudio.com/items?itemName=kale-lab.salt"
+  },
+  {
+    "date": "2023-11-15",
+    "title": "Linux Plumbers Conference 2023  (13-15 November 2023): Rust MC · Indico",
+    "link": "https://lpc.events/event/17/sessions/170/"
+  },
+  {
+    "date": "2023-07-26",
+    "title": "Totality",
+    "link": "https://blog.yoshuawuyts.com/totality/"
+  },
+  {
+    "date": "2023-05-24",
+    "title": "Schedule Archive - RustConf 2024",
+    "link": "https://rustconf.com/schedule"
+  },
+  {
+    "date": "2022-09-07",
+    "title": "Linux Plumbers Conference 2022  (12-14 September 2022): Rust MC · Indico",
+    "link": "https://lpc.events/event/16/sessions/150/"
+  },
+  {
+    "date": "2022-08-31",
+    "title": "Conf42: online tech events",
+    "link": "https://www.conf42.com/"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Console devtools podcast with Michelle Lim &amp; Zach Lloyd",
+    "link": "https://console.dev/podcast/s02e10-terminal-tools-michell-lim-zach-lloyd-warp/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "Being Fair about Memory Safety and Performance :: The Coded Message",
+    "link": "https://www.thecodedmessage.com/posts/unsafe/"
+  },
+  {
+    "date": "2022-01-26",
+    "title": "Durability and Redo Logging",
+    "link": "http://justinjaffray.com/durability-and-redo-logging/"
+  },
+  {
+    "date": "2021-10-06",
+    "title": "SyRust: automatic testing of Rust libraries with semantic-aware program synthesis | Proceedings of the 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation",
+    "link": "https://dl.acm.org/doi/abs/10.1145/3453483.3454084"
+  },
+  {
+    "date": "2021-09-22",
+    "title": "Stream episode AWPY - 08 Jon Ferdinand Ronge Gjengset by AreWePodcastYet podcast | Listen online for free on SoundCloud",
+    "link": "https://soundcloud.com/arewepodcastyet/awpy-08-jon-ferdinand-ronge-gjengset"
+  },
+  {
+    "date": "2021-08-25",
+    "title": "Cross compiling Windows binaries from Linux",
+    "link": "https://jake-shadle.github.io/xwin/"
+  },
+  {
+    "date": "2021-07-28",
+    "title": "Stream episode AWPY - 07 Georg Semmler on Diesel ! by AreWePodcastYet podcast | Listen online for free on SoundCloud",
+    "link": "https://soundcloud.com/arewepodcastyet/awpy-07-georg-semmler-on-diesel"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "Rust on the Frontend and Backend - by Josh Kuhn",
+    "link": "https://blog.abor.dev/p/moonzoon"
+  },
+  {
+    "date": "2021-02-10",
+    "title": "Microsoft joins Rust Foundation - Microsoft Open Source Blog",
+    "link": "https://cloudblogs.microsoft.com/opensource/2021/02/08/microsoft-joins-rust-foundation/"
+  },
+  {
+    "date": "2021-01-06",
+    "title": "insta snapshots - Visual Studio Marketplace",
+    "link": "https://marketplace.visualstudio.com/items?itemName=mitsuhiko.insta"
+  },
+  {
+    "date": "2020-12-16",
+    "title": "Why Rust Has a Bright Future in the Cloud",
+    "link": "https://www.qovery.com/blog/why-rust-has-a-bright-future-in-the-cloud"
+  },
+  {
+    "date": "2020-08-18",
+    "title": "Stream episode AWPY - 06 Jonathan Turner by AreWePodcastYet podcast | Listen online for free on SoundCloud",
+    "link": "https://soundcloud.com/arewepodcastyet/awpy-06-jonathan-turner"
+  },
+  {
+    "date": "2020-06-30",
+    "title": "A Future is a Suspending Scheduler - Nikhil's blog",
+    "link": "https://nikhilism.com/post/2020/futures-suspending-scheduler/"
+  },
+  {
+    "date": "2020-06-23",
+    "title": "RustHorn: CHC-Based Verification for Rust Programs | SpringerLink",
+    "link": "https://link.springer.com/chapter/10.1007%2F978-3-030-44914-8_18"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Microsoft: Rust Is the Industry's 'Best Chance' at Safe Systems Programming - The New Stack",
+    "link": "https://thenewstack.io/microsoft-rust-is-the-industrys-best-chance-at-safe-systems-programming/"
+  },
+  {
+    "date": "2020-06-16",
+    "title": "Stream episode AWPY - 05 Tim McNamara (@timclicks) by AreWePodcastYet podcast | Listen online for free on SoundCloud",
+    "link": "https://soundcloud.com/arewepodcastyet/awpy-05-tim-mcnamara-timclicks"
+  },
+  {
+    "date": "2020-05-27",
+    "title": "Your home for Microsoft Build",
+    "link": "https://mybuild.microsoft.com/sessions/61de34c5-b111-4ece-928f-541854875862?source=sessions"
+  },
+  {
+    "date": "2019-03-05",
+    "title": "PaperCall.io - LambdAle 2019",
+    "link": "https://www.papercall.io/lambdale-2019"
+  },
+  {
+    "date": "2018-08-14",
+    "title": "RustConf 2024 - The largest annual gathering of the Rust-language community",
+    "link": "http://rustconf.com/"
+  },
+  {
+    "date": "2017-12-19",
+    "title": "Rust - Visual Studio Marketplace",
+    "link": "https://marketplace.visualstudio.com/items?itemName=DanielGriffen.Rust"
+  },
+  {
+    "date": "2017-11-07",
+    "title": "msvc-wine-rust.md · GitHub",
+    "link": "https://gist.github.com/est31/7235ab253554d33046873dfb64e7ecdc"
+  },
+  {
+    "date": "2017-04-11",
+    "title": "Visual Studio Code March 2017",
+    "link": "https://code.visualstudio.com/updates/v1_11#_text-search-improvements"
+  },
+  {
+    "date": "2016-10-11",
+    "title": "CodeLLDB - Visual Studio Marketplace",
+    "link": "https://marketplace.visualstudio.com/items?itemName=vadimcn.vscode-lldb"
+  },
+  {
+    "date": "2016-09-27",
+    "title": "ripgrep is faster than {grep, ag, git grep, ucg, pt, sift} - Andrew Gallant's Blog",
+    "link": "http://blog.burntsushi.net/ripgrep/"
+  },
+  {
+    "date": "2015-06-08",
+    "title": "Visual Studio Code July 2024",
+    "link": "https://code.visualstudio.com/Updates"
+  },
+  {
+    "date": "2015-02-16",
+    "title": "Naiad - Microsoft Research",
+    "link": "http://research.microsoft.com/en-us/projects/naiad/"
+  },
+  {
+    "date": "2014-06-10",
+    "title": "Shows | Microsoft Learn",
+    "link": "http://channel9.msdn.com/Events/Lang-NEXT/Lang-NEXT-2014/Panel-Systems-Programming-Languages-in-2014-and-Beyond"
+  },
+  {
+    "date": "2014-02-09",
+    "title": "968375 - Add msttcorefonts package to Servo buildbots",
+    "link": "https://bugzilla.mozilla.org/show_bug.cgi?id=968375"
+  }
+]

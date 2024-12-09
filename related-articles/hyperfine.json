@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-11",
+    "title": "Optimizing rav1d, an AV1 Decoder in Rust - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rav1d-performance-optimization/"
+  },
+  {
     "date": "2024-03-20",
     "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"

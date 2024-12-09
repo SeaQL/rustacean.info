@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2024-08-07",
+    "title": "Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine - paavohtl's blog",
+    "link": "https://blog.paavo.me/demo-engine-part-1/"
+  },
+  {
+    "date": "2023-02-22",
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/"
+  },
+  {
+    "date": "2023-02-15",
+    "title": "Rust to WebAssembly the hard way — surma.dev",
+    "link": "https://surma.dev/things/rust-to-webassembly/index.html"
+  },
+  {
+    "date": "2022-01-19",
+    "title": "Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!",
+    "link": "https://parceljs.org/blog/parcel-css/"
+  },
+  {
+    "date": "2022-01-12",
+    "title": "Could Rust be the Future of JavaScript Infrastructure? - The New Stack",
+    "link": "https://thenewstack.io/the-case-for-rust-as-the-future-of-javascript-infrastructure/"
+  },
+  {
+    "date": "2021-05-26",
+    "title": "Parcel 2 beta 3",
+    "link": "https://v2.parceljs.org/blog/beta3/"
+  },
+  {
+    "date": "2018-01-30",
+    "title": "📦 Parcel v1.5.0 released: Source Maps, WebAssembly, Rust, and more! 🚀 | by devongovett | Medium",
+    "link": "https://medium.com/@devongovett/parcel-v1-5-0-released-source-maps-webassembly-rust-and-more-3a6385e43b95"
+  }
+]

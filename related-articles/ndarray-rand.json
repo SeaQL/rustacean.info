@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-11",
+    "title": "Scientific Computing in Rust",
+    "link": "https://scientificcomputing.rs/monthly/2024-09"
+  },
+  {
     "date": "2022-02-09",
     "title": "Optimization story - quantum mechanics simulation speedup · Tinkering",
     "link": "https://tinkering.xyz/fmo-optimization-story/"

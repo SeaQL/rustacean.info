@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Rust 🦀 on the RP2040",
+    "link": "https://baileytownsend.dev/articles/getting-started-with-rust-an-rp2040"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "JP's Website · 2024-08-08 · RP2350 Launch Blog",
+    "link": "https://thejpster.org.uk/blog/blog-2024-08-08/"
+  },
+  {
     "date": "2024-07-03",
     "title": "OxidOS with Alexandru Radovici - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s02e05-oxidos/"

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring",
+    "link": "https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`) | Evan Schwartz",
+    "link": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+  },
+  {
     "date": "2024-05-29",
     "title": "Iggy.rs — one year of building the message streaming",
     "link": "https://blog.iggy.rs/posts/one-year-of-building-the-message-streaming/"

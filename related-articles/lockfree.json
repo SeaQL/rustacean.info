@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Rust's Mutex, Atomics and UnsafeCell – Spooky Action at a Distance? - Leon Schuermann",
+    "link": "https://leon.schuermann.io/blog/2024-08-07_rust-mutex-atomics-unsafecell_spooky-action-at-a-distance.html"
+  },
+  {
     "date": "2018-09-25",
     "title": "Incinerator: The ABA Problem and Concurrent Reclamation",
     "link": "https://bzim.gitlab.io/blog/posts/incinerator-the-aba-problem-and-concurrent-reclamation.html"

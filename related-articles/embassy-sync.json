@@ -1,5 +1,25 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Justin Beaurivage's Blog",
+    "link": "https://beaurivage.io/atsamd-hal-async/"
+  },
+  {
+    "date": "2024-12-04",
+    "title": "Rust 🦀 on the RP2040",
+    "link": "https://baileytownsend.dev/articles/getting-started-with-rust-an-rp2040"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "An experiment in async Rust | Adolfo Ochagavía",
+    "link": "https://ochagavia.nl/blog/an-experiment-in-async-rust/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "What Are You Syncing About?",
+    "link": "https://sdr-podcast.com/episodes/syncing/"
+  },
+  {
     "date": "2024-04-10",
     "title": "Zed Decoded: Async Rust",
     "link": "https://zed.dev/blog/zed-decoded-async-rust"

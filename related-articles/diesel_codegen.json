@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "René Klačan",
+    "link": "https://klacan.sk/posts/typed-ids-with-sea-orm/"
+  },
+  {
     "date": "2024-07-24",
     "title": "Diesel Async 0.5 - Weiznich's Blog",
     "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"

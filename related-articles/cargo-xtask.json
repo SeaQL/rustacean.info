@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "Oxide with Steve Klabnik - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e03-oxide/"
+  },
+  {
     "date": "2023-01-18",
     "title": "Rails developers write some Rust: a review of Axum 0.6",
     "link": "https://thoughtbot.com/blog/axum-from-a-rails-perspective"

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Trimming down a rust binary in half - Red Leaves",
+    "link": "https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Fear Not the Association of Types | Gavin Gray",
+    "link": "https://gavinleroy.com/writings/i-heart-assoc-types.html"
+  },
+  {
     "date": "2023-10-25",
     "title": "Analyzing Data 180,000x Faster with Rust",
     "link": "https://willcrichton.net/notes/k-corrset/"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-28",
+    "title": "UNIX History &amp; the `dc` Calculator",
+    "link": "https://howdytx.technology/unix-history-the-dc-calculator/"
+  },
+  {
     "date": "2018-06-26",
     "title": "What I Learned: Porting Dateutil Parser to Rust",
     "link": "https://speice.io/2018/06/dateutil-parser-to-rust.html"

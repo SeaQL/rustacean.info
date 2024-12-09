@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Best Practices for Derive Macro Attributes in Rust",
+    "link": "https://w-graj.net/posts/rust-derive-attribute-macros/"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Zed with Conrad Irwin - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e01-zed/"
+  },
+  {
     "date": "2024-06-19",
     "title": "Generated SDKs for Rust now available on the Buf Schema Registry - Buf",
     "link": "https://buf.build/blog/bsr-generated-sdks-for-rust"

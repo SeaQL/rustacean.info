@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Caio's Stuff",
+    "link": "https://c410-f3r.github.io/thoughts/securely-sending-dht22-sensor-data-from-an-esp32-board-to-postgresql/"
+  },
+  {
     "date": "2023-05-03",
     "title": "Rust on Espressif chips - 28-04-2023",
     "link": "https://mabez.dev/blog/posts/esp-rust-28-04-2023/"

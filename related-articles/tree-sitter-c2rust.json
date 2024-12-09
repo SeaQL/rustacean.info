@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-23",
+    "title": "Zed with Conrad Irwin - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e01-zed/"
+  },
+  {
     "date": "2024-06-19",
     "title": "GraphQL Server in the Browser using WebAssembly | Exograph",
     "link": "https://exograph.dev/blog/playground"

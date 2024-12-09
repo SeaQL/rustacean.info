@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "rustunit",
+    "link": "https://rustunit.com/blog/2024/11-15-bevy-channel-trigger/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Designing A Fast Concurrent Hash Table",
+    "link": "https://ibraheem.ca/posts/designing-papaya/"
+  },
+  {
     "date": "2023-11-22",
     "title": "A close encounter with false sharing | More Stina Blog!",
     "link": "https://morestina.net/blog/1976/a-close-encounter-with-false-sharing"

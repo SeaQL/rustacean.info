@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "What's new in SeaStreamer 0.5 | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-11-30-whats-new-in-sea-streamer-0.5/"
+  },
+  {
     "date": "2024-07-03",
     "title": "FizzBuzz Multithreaded - synchronization with rendezvous channels | FireDBG - 🔥 Time Travel Visual Debugger for Rust",
     "link": "https://firedbg.sea-ql.org/blog/2024-06-30-fizzbuzz-multithread/"

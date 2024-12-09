@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "I compared 14 hashing algorithms on Rust using Criterion | BLOG.GOOSE.LOVE",
+    "link": "https://blog.goose.love/posts/rosetta-hashing/"
+  },
+  {
     "date": "2021-12-15",
     "title": "A brutally effective hash function in Rust | Nicholas Nethercote",
     "link": "https://nnethercote.github.io/2021/12/08/a-brutally-effective-hash-function-in-rust.html"

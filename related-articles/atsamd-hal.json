@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Justin Beaurivage's Blog",
+    "link": "https://beaurivage.io/atsamd-hal-async/"
+  },
+  {
+    "date": "2024-11-13",
+    "title": "The Embedded Rustacean Issue #32",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-32"
+  },
+  {
+    "date": "2024-11-06",
+    "title": "The Embedded Rustacean Issue #31",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-31"
+  },
+  {
     "date": "2021-12-29",
     "title": "Bringing Rust to Space - Setting up a Rust ecosystem for the VA108XX MCU family - robs blog",
     "link": "https://robamu.github.io/post/rust-ecosystem/"

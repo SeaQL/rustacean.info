@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2020-09-30",
+    "title": "Porting EBU R128 audio loudness analysis from C to Rust – Porting Details – coaxion.net – slomo's blog",
+    "link": "https://coaxion.net/blog/2020/09/porting-ebu-r128-audio-loudness-analysis-from-c-to-rust-porting-details/"
+  },
+  {
+    "date": "2019-03-26",
+    "title": "Outreach/SummerOfCode/2019/Ideas - GNOME Wiki!",
+    "link": "https://wiki.gnome.org/Outreach/SummerOfCode/2019/Ideas"
+  },
+  {
+    "date": "2018-09-11",
+    "title": "Parallelizing PNG, part 5: choosing Rust for mtpng – brionv",
+    "link": "https://brionv.com/log/2018/09/09/parallelizing-png-part-5-choosing-rust-for-mtpng/"
+  }
+]

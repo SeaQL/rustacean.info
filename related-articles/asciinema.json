@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "Introducing Sled, a Rust Library for Creating Spatial LED Strip Lighting Effects",
+    "link": "https://davjcosby.github.io/all-published/miscellaneous-tech/Introducing%20Sled,%20a%20Rust%20Library%20for%20Creating%20Spatial%20LED%20Strip%20Lighting%20Effects.html"
+  },
+  {
     "date": "2024-05-15",
     "title": "Long-running backend async tasks in tauri v2 - sneaky crow",
     "link": "https://sneakycrow.dev/blog/2024-05-12-running-async-tasks-in-tauri-v2"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "What Are You Syncing About?",
+    "link": "https://sdr-podcast.com/episodes/syncing/"
+  },
+  {
     "date": "2024-07-10",
     "title": "Properly Testing Concurrent Data Structures",
     "link": "https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html"

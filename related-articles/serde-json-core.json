@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-04",
+    "title": "Google Online Security Blog: Deploying Rust in Existing Firmware Codebases",
+    "link": "https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html"
+  },
+  {
     "date": "2020-12-16",
     "title": "Connect devices to blockchains with Léger.",
     "link": "http://www.cyrilfougeray.com/2020/12/14/leger-rust-wallet-1.html"

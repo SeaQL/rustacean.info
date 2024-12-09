@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "The Embedded Rustacean Issue #32",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-32"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Meilisearch 1.11",
+    "link": "https://www.meilisearch.com/blog/meilisearch-1-11"
+  },
+  {
+    "date": "2024-08-28",
+    "title": "Meilisearch 1.10",
+    "link": "https://blog.meilisearch.com/meilisearch-1-10/"
+  },
+  {
     "date": "2024-06-19",
     "title": "Meshlets, Stable Interpolation, and Generalized ECS Reactivity with Observers!",
     "link": "https://thisweekinbevy.com/issue/2024-06-17-meshlets-stable-interpolation-and-generalized-ecs-reactivity-with-observers"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Nine Rules for Running Rust in the Browser | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-in-the-browser-8228353649d1"
+  },
+  {
     "date": "2024-05-15",
     "title": "Cushy v0.3: New widgets, offscreen capture, Plotters and Tokio integrations, and more",
     "link": "https://ecton.dev/cushy-v0-3/"

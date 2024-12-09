@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "What's new in SeaStreamer 0.5 | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-11-30-whats-new-in-sea-streamer-0.5/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`) | Evan Schwartz",
+    "link": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+  },
+  {
     "date": "2024-05-01",
     "title": "Tasks are the wrong abstraction",
     "link": "https://blog.yoshuawuyts.com/tasks-are-the-wrong-abstraction/"

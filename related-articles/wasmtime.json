@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "What Are You Syncing About?",
+    "link": "https://sdr-podcast.com/episodes/syncing/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "OneVariable : Postcard 2.0: Looking for Sponsors!",
+    "link": "https://onevariable.com/blog/postcard-2-sponsors/"
+  },
+  {
     "date": "2024-07-24",
     "title": "Plugins with Rust and WASI Preview 2",
     "link": "https://benw.is/posts/plugins-with-rust-and-wasi"

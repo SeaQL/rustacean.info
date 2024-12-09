@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Chevy Ray | How I Created 175 Fonts Using Rust",
+    "link": "https://chevyray.dev/blog/creating-175-fonts/"
+  },
+  {
     "date": "2024-06-05",
     "title": "layoutparser_ort - Rust",
     "link": "https://docs.rs/layoutparser-ort"

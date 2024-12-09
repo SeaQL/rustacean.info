@@ -1,5 +1,75 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "A different serde",
+    "link": "https://sdr-podcast.com/episodes/a-different-serde/"
+  },
+  {
+    "date": "2024-12-04",
+    "title": "Breakage! in the Cargo.toml — How Rust Package Features Work (And Break)",
+    "link": "https://predr.ag/blog/breakage-in-the-cargo-toml-how-rust-package-features-work/"
+  },
+  {
+    "date": "2024-12-04",
+    "title": "NonStop discussion around adding Rust to Git [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/998115/e9849d6de88348c6/"
+  },
+  {
+    "date": "2024-12-04",
+    "title": "Bevy 0.15",
+    "link": "https://bevyengine.org/news/bevy-0-15/"
+  },
+  {
+    "date": "2024-11-27",
+    "title": "Clippy Lints",
+    "link": "https://rust-lang.github.io/rust-clippy/master/index.html#imprecise_flops"
+  },
+  {
+    "date": "2024-11-27",
+    "title": "postcard - Rust",
+    "link": "https://docs.rs/postcard"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Best Practices for Derive Macro Attributes in Rust",
+    "link": "https://w-graj.net/posts/rust-derive-attribute-macros/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "What's New in Rust 1.76, 1.77, and 1.78 :: Rustacean Station",
+    "link": "https://rustacean-station.org/episode/rust-1.76-1.77-1.78"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Serde Trait - Part 3: Deserialization | My blog",
+    "link": "https://voelklmichael.github.io/Blog/serde-trait-part3.html"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Serde Trait - Part 2: Serialization | My blog",
+    "link": "https://voelklmichael.github.io/Blog/serde-trait-part2.html"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Serde Trait - Part 1: Overview | My blog",
+    "link": "https://voelklmichael.github.io/Blog/serde-trait-part1.html"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "An update on gccrs development [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/991199/b109442b923b3909/"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Code Generation in Rust vs C++26 | Barry's C++ Blog",
+    "link": "https://brevzin.github.io/c++/2024/09/30/annotations/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "You might not need Arc&lt;T&gt;",
+    "link": "https://sdr-podcast.com/episodes/arc/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Rob Ede - Actix Web, Life as an Open Source Maintainer, Supply-chain Security - timClicks (Tim McNamara)",
     "link": "https://timclicks.dev/podcast/rob-ede/"
@@ -173,6 +243,11 @@
     "date": "2023-08-30",
     "title": "This isn't the way to speed up Rust compile times - Xe Iaso",
     "link": "https://xeiaso.net/blog/serde-precompiled-stupid"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Tinkerer - Serde Errors When Deserializing Untagged Enums Are Bad - But Easy to Make Better",
+    "link": "https://www.gustavwengel.dk/serde-untagged-enum-errors-are-bad"
   },
   {
     "date": "2023-06-21",

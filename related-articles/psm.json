@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "A different serde",
+    "link": "https://sdr-podcast.com/episodes/a-different-serde/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Debugging a rustc segfault on illumos :: sunshowers",
     "link": "https://sunshowers.io/posts/rustc-segfault-illumos/"

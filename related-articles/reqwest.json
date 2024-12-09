@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "You don't (*always*) need async",
+    "link": "https://blog.veeso.dev/blog/en/you-dont-always-need-async/"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Nine Rules for Running Rust in the Browser | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-in-the-browser-8228353649d1"
+  },
+  {
     "date": "2024-06-19",
     "title": "Matic with Eric Seppanen - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s02e04-matic/"

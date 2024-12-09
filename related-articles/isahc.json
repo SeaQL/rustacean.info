@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-23",
+    "title": "Zed with Conrad Irwin - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e01-zed/"
+  },
+  {
     "date": "2021-05-12",
     "title": "My first Rust crate, pretend | Sfiet_Konstantin’s blog",
     "link": "https://sfietkonstantin.github.io/2021/05/10/First-Crate-Pretend.html"

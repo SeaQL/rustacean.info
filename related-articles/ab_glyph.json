@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Chevy Ray | How I Created 175 Fonts Using Rust",
+    "link": "https://chevyray.dev/blog/creating-175-fonts/"
+  },
+  {
     "date": "2022-12-14",
     "title": "State of GUI 2022 - KAS blog",
     "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"

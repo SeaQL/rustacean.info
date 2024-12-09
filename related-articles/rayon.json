@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "Beyond multi-core parallelism: faster Mandelbrot with SIMD",
+    "link": "https://pythonspeed.com/articles/optimizing-with-simd/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Chevy Ray | How I Created 175 Fonts Using Rust",
+    "link": "https://chevyray.dev/blog/creating-175-fonts/"
+  },
+  {
     "date": "2024-07-31",
     "title": "This month in Servo: console logging, parallel tables, OpenXR, and more! - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
     "link": "https://servo.org/blog/2024/07/31/this-month-in-servo/"

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "Building an email address parser in Rust with nom",
+    "link": "https://blog.arcjet.com/building-an-email-address-parser-in-rust-with-nom/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Developer Voices",
+    "link": "https://pod.link/developer-voices/episode/c17465dd71701f9bea9a4a4acf52423e"
+  },
+  {
     "date": "2024-07-17",
     "title": "Playing guitar tablatures in Rust",
     "link": "https://agourlay.github.io/ruxguitar-tablature-player/"

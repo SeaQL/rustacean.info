@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "Beginner Rust ESP32 development - Snake",
+    "link": "https://jamesmcm.github.io/blog/beginner-rust-esp32-lcdsnake/"
+  },
+  {
     "date": "2020-11-18",
     "title": "Writing an embedded display driver in Rust – daschl writes. sometimes.",
     "link": "https://nitschinger.at/Writing-an-embedded-display-driver-in-Rust/"

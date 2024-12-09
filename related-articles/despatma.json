@@ -1,0 +1,12 @@
+[
+  {
+    "date": "2024-10-02",
+    "title": "Mastering Dependency Injection in Rust: Despatma with Lifetimes - chesedo",
+    "link": "https://chesedo.me/blog/despatma-with-singleton-and-scoped-support/"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "Mastering Dependency Injection in Rust: Despatma basics - chesedo",
+    "link": "https://chesedo.me/blog/despatma-a-minimal-macro-for-dependency-injection/"
+  }
+]

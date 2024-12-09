@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Rethinking Builders... with Lazy Generics – Geo's Notepad – Mostly Programming and Math",
+    "link": "https://geo-ant.github.io/blog/2024/rust-rethinking-builders-lazy-generics/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Overview | Bon",
     "link": "https://elastio.github.io/bon/docs/guide/overview"

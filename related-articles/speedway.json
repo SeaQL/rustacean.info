@@ -1,5 +1,45 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Advent of Rust 2024 - Join the Advent of Code for Rustaceans",
+    "link": "https://www.rustfinity.com/advent-of-rust"
+  },
+  {
+    "date": "2024-11-06",
+    "title": "Macros, Safety, and SOA | Tim Harding",
+    "link": "https://tim-harding.github.io/blog/soa-rs/"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Schedule | SquiggleConf | Supercharging web devs and their tools",
+    "link": "https://2024.squiggleconf.com/schedule"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "SquiggleConf | Supercharging web devs and their tools",
+    "link": "https://2024.squiggleconf.com/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "Rust panics under the hood, and implementing them in .NET",
+    "link": "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "Bevy Foundation is now a 501(c)(3) Public Charity",
+    "link": "https://bevyengine.org/news/bevy-foundation-501c3/"
+  },
+  {
+    "date": "2024-09-18",
+    "title": "I landed my dream job making a Rust game engine. Now what?",
+    "link": "https://bevyengine.org/news/dream-job/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Bevy's Fourth Birthday",
+    "link": "https://bevyengine.org/news/bevys-fourth-birthday/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Proposal: Deprecate Tokio's LocalSet · Issue #6741 · tokio-rs/tokio · GitHub",
     "link": "https://www.github.com/tokio-rs/tokio/issues/6741"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Rust's Mutex, Atomics and UnsafeCell – Spooky Action at a Distance? - Leon Schuermann",
+    "link": "https://leon.schuermann.io/blog/2024-08-07_rust-mutex-atomics-unsafecell_spooky-action-at-a-distance.html"
+  },
+  {
     "date": "2020-07-28",
     "title": "Async/Await for AVR with Rust - Ben Schattinger",
     "link": "https://lights0123.com/blog/2020/07/25/async-await-for-avr-with-rust/"

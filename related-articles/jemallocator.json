@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Cyanide - Improve an algorithm performance step by step",
+    "link": "https://blog.mapotofu.org/blogs/rabitq-bench/"
+  },
+  {
     "date": "2024-05-08",
     "title": "What is in a Rust Allocator?",
     "link": "https://blog.sulami.xyz/posts/what-is-in-a-rust-allocator/"

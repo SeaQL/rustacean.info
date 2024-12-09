@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "Building a Wifi-controlled car with Rust and ESP32",
+    "link": "https://jamesmcm.github.io/blog/esp32-wifi-tank/"
+  },
+  {
     "date": "2023-07-12",
     "title": "Bevy 0.11",
     "link": "https://bevyengine.org/news/bevy-0-11/"

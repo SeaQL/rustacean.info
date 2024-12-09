@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Best Practices for Derive Macro Attributes in Rust",
+    "link": "https://w-graj.net/posts/rust-derive-attribute-macros/"
+  },
+  {
     "date": "2022-04-13",
     "title": "What I learned from making a DNS client in Rust",
     "link": "https://blog.adamchalmers.com/making-a-dns-client/"

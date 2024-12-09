@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "Beginner Rust ESP32 development - Snake",
+    "link": "https://jamesmcm.github.io/blog/beginner-rust-esp32-lcdsnake/"
+  },
+  {
     "date": "2023-09-06",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/101/are-we-embedded-yet"

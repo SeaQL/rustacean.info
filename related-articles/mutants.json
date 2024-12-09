@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Trimming down a rust binary in half - Red Leaves",
+    "link": "https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/"
+  },
+  {
     "date": "2023-07-19",
     "title": "https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2023/ISSTA-tool.pdf",
     "link": "https://www.doc.ic.ac.uk/~afd/homepages/papers/pdfs/2023/ISSTA-tool.pdf"

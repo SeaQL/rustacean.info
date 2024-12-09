@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Justin Beaurivage's Blog",
+    "link": "https://beaurivage.io/atsamd-hal-async/"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Blocking code is a leaky abstraction – notgull – The world's number one source of notgull",
+    "link": "https://notgull.net/blocking-leaky/"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Zed with Conrad Irwin - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e01-zed/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Async Rust Challenges in Iroh - Iroh",
     "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
     "date": "2022-09-28",
     "title": "Enabling Rapid Pulumi Prototyping with Rust | Pulumi Blog",
     "link": "https://www.pulumi.com/blog/pulumi-watch-mode-with-rust/"

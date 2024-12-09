@@ -3,5 +3,10 @@
     "date": "2024-04-10",
     "title": "Pavex with Luca Palmieri :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/luca-palmieri-pavex/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "A New AWS SDK for Rust – Alpha Launch | AWS Developer Tools Blog",
+    "link": "https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/"
   }
 ]

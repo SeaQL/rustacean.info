@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "Building Trustworthy Software: The Power of Testing in Rust | Tyler Weaver",
+    "link": "https://tylerjw.dev/posts/20241106-building-trustworthy-software/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Trimming down a rust binary in half - Red Leaves",
+    "link": "https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "A new approach to validating test suites [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/995276/298d2f5b0be5ac34/"
+  },
+  {
     "date": "2024-03-27",
     "title": "Everything you need to know about testing in Rust",
     "link": "https://www.shuttle.rs/blog/2024/03/21/testing-in-rust"

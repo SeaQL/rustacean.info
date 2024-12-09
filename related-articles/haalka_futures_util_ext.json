@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Animation Events, Curves, and no_std",
+    "link": "https://thisweekinbevy.com/issue/2024-10-14-animation-events-curves-and-nostd"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Bevy's Fourth Birthday",
+    "link": "https://bevyengine.org/news/bevys-fourth-birthday/"
+  },
+  {
     "date": "2024-07-24",
     "title": "Bevy Jam 5, Radiance Cascades, and Calculators in many ui kits",
     "link": "https://thisweekinbevy.com/issue/2024-07-22-bevy-jam-5-radiance-cascades-and-calculators-in-many-ui-kits"

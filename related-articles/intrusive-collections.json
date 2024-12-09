@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
     "date": "2021-12-22",
     "title": "Rust Pin 进阶 — Folyd",
     "link": "https://folyd.com/blog/rust-pin-advanced/"

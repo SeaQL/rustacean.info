@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
     "date": "2020-10-07",
     "title": "| TicTacToe in Valerie",
     "link": "https://blog.shortepic.com/blog/second/"

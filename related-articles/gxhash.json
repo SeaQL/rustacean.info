@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "I compared 14 hashing algorithms on Rust using Criterion | BLOG.GOOSE.LOVE",
+    "link": "https://blog.goose.love/posts/rosetta-hashing/"
+  },
+  {
     "date": "2024-06-12",
     "title": "This Month in Rust OSDev: May 2024 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2024-05/"

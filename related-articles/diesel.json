@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "René Klačan",
+    "link": "https://klacan.sk/posts/typed-ids-with-sea-orm/"
+  },
+  {
+    "date": "2024-09-11",
+    "title": "No More Unchecked Sqlx Queries |",
+    "link": "http://www.matildasmeds.com/posts/no-more-unchecked-sqlx-queries/"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "Extending the #[diagnostic] tool attribute namespace - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/"
+  },
+  {
     "date": "2024-07-24",
     "title": "Diesel Async 0.5 - Weiznich's Blog",
     "link": "https://blog.weiznich.de/blog/diesel-async-0-5/"

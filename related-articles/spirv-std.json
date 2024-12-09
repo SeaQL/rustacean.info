@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Rust GPU Transitions to Community Ownership | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/transition-announcement/"
+  },
+  {
     "date": "2023-06-07",
     "title": "Introducing posh: Type-Safe Graphics Programming with Functional Shaders in Rust | leod’s blog",
     "link": "https://leod.github.io/rust/gamedev/posh/2023/06/04/posh.html"

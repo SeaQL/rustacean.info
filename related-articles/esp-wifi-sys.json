@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "The Embedded Rustacean Issue #33",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-33"
+  },
+  {
     "date": "2023-10-11",
     "title": "Rust on Espressif chips - 29-09-2023",
     "link": "https://mabez.dev/blog/posts/esp-rust-29-09-2023/"

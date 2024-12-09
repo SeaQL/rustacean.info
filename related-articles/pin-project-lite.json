@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "The `Overwrite` trait and `Pin` · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2024/10/14/overwrite-and-pin"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Rewriting Rust",
+    "link": "https://josephg.com/blog/rewriting-rust/"
+  },
+  {
     "date": "2024-07-24",
     "title": "Pinned places",
     "link": "https://without.boats/blog/pinned-places/"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Bevy 0.15",
+    "link": "https://bevyengine.org/news/bevy-0-15/"
+  },
+  {
     "date": "2024-06-19",
     "title": "Meshlets, Stable Interpolation, and Generalized ECS Reactivity with Observers!",
     "link": "https://thisweekinbevy.com/issue/2024-06-17-meshlets-stable-interpolation-and-generalized-ecs-reactivity-with-observers"

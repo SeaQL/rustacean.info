@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Developing a Zellij plugin using Rust",
+    "link": "https://zellij.dev/tutorials/developing-a-rust-plugin/"
+  },
+  {
     "date": "2024-07-24",
     "title": "Plugins with Rust and WASI Preview 2",
     "link": "https://benw.is/posts/plugins-with-rust-and-wasi"

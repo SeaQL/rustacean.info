@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "Rust's Sneaky Deadlock With `if let` Blocks | Brooks Blog",
+    "link": "https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/"
+  },
+  {
     "date": "2024-06-26",
     "title": "Why WebAssembly came to the Backend (Wasm in the wild part 3) | Technology blog",
     "link": "https://www.jakobmeier.ch/wasm-road-2"

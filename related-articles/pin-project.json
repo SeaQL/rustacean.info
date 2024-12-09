@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "Why is std::pin::Pin so weird? – Sander Saares",
+    "link": "https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Rewriting Rust",
+    "link": "https://josephg.com/blog/rewriting-rust/"
+  },
+  {
     "date": "2024-02-07",
     "title": "AsyncWrite and a Tale of Four Implementations | by Razieh Behjati, PhD | ITNEXT",
     "link": "https://medium.com/@razieh.behjati/asyncwrite-and-a-tale-of-four-implementations-e63aef8397f7"

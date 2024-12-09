@@ -1,5 +1,25 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "\"German string\" optimizations in Spellbook",
+    "link": "https://the-mikedavis.github.io/posts/german-string-optimizations-in-spellbook/"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Zed with Conrad Irwin - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e01-zed/"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Coccinelle for Rust [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/991399/8bfb2ec24205dbaa/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Changelog #246",
+    "link": "https://rust-analyzer.github.io/thisweek/2024/08/12/changelog-246.html"
+  },
+  {
     "date": "2024-07-31",
     "title": "Changelog #244",
     "link": "https://rust-analyzer.github.io/thisweek/2024/07/29/changelog-244.html"

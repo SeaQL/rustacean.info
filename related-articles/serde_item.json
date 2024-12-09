@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "Code Generation in Rust vs C++26 | Barry's C++ Blog",
+    "link": "https://brevzin.github.io/c++/2024/09/30/annotations/"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "Extending the #[diagnostic] tool attribute namespace - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/"
+  },
+  {
     "date": "2024-05-15",
     "title": "Blazingly Fast Linked Lists",
     "link": "https://dygalo.dev/blog/blazingly-fast-linked-lists/"
@@ -18,6 +28,11 @@
     "date": "2023-07-12",
     "title": "Learning Rust - after one month",
     "link": "https://szabgab.com/learning-rust-after-one-month.html"
+  },
+  {
+    "date": "2023-06-28",
+    "title": "Tinkerer - Serde Errors When Deserializing Untagged Enums Are Bad - But Easy to Make Better",
+    "link": "https://www.gustavwengel.dk/serde-untagged-enum-errors-are-bad"
   },
   {
     "date": "2023-02-01",

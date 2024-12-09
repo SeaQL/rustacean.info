@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "Announcing Stable V8 Bindings for Rust",
+    "link": "https://deno.com/blog/rusty-v8-stabilized"
+  },
+  {
     "date": "2021-01-20",
     "title": "Deno in 2020",
     "link": "https://deno.land/posts/deno-in-2020"

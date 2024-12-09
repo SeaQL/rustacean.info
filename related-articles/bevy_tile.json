@@ -1,5 +1,50 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Bevy 0.15",
+    "link": "https://bevyengine.org/news/bevy-0-15/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Developer Voices",
+    "link": "https://pod.link/developer-voices/episode/c17465dd71701f9bea9a4a4acf52423e"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "rustunit",
+    "link": "https://rustunit.com/blog/2024/10-21-bevy-libgdx-atlas/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Animation Events, Curves, and no_std",
+    "link": "https://thisweekinbevy.com/issue/2024-10-14-animation-events-curves-and-nostd"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "Bevy Foundation is now a 501(c)(3) Public Charity",
+    "link": "https://bevyengine.org/news/bevy-foundation-501c3/"
+  },
+  {
+    "date": "2024-09-18",
+    "title": "I landed my dream job making a Rust game engine. Now what?",
+    "link": "https://bevyengine.org/news/dream-job/"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "4 Years of Bevy",
+    "link": "https://bd103.github.io/blog/2024-08-18-4-years-of-bevy"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "I Was Wrong About Rust Build Times",
+    "link": "https://sdr-podcast.com/episodes/wrong-build-times/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Bevy's Fourth Birthday",
+    "link": "https://bevyengine.org/news/bevys-fourth-birthday/"
+  },
+  {
     "date": "2024-07-10",
     "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
     "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "Rust's Sneaky Deadlock With `if let` Blocks | Brooks Blog",
+    "link": "https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/"
+  },
+  {
     "date": "2022-06-08",
     "title": "This Month in Rust GameDev #34 - May 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/034/"

@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "postcard - Rust",
+    "link": "https://docs.rs/postcard"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Zed with Conrad Irwin - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e01-zed/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "What Are You Syncing About?",
+    "link": "https://sdr-podcast.com/episodes/syncing/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "OneVariable : Postcard 2.0: Looking for Sponsors!",
+    "link": "https://onevariable.com/blog/postcard-2-sponsors/"
+  },
+  {
+    "date": "2024-09-18",
+    "title": "Talking to Microcontrollers with Postcard-RPC",
+    "link": "https://sdr-podcast.com/episodes/postcard-rpc/"
+  },
+  {
     "date": "2024-07-10",
     "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
     "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"

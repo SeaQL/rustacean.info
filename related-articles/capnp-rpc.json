@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "40-year-old hacker group prefers Rust - Rust.Careers Rust Blog",
+    "link": "https://blog.rust.careers/post/40y_old_hacking_group_rust_veilid/"
+  },
+  {
     "date": "2024-08-07",
     "title": "The Hitchhiker’s Guide to Building a Distributed Filesystem in Rust. The very beginning… | System Weakness",
     "link": "https://systemweakness.com/hitchhikers-guide-to-building-a-distributed-filesystem-in-rust-the-very-beginning-2c02eb7313e7"

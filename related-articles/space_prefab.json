@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Bevy's Fourth Birthday",
+    "link": "https://bevyengine.org/news/bevys-fourth-birthday/"
+  },
+  {
     "date": "2024-04-03",
     "title": "2d Lighting, Particle Systems, Meshlets, and more",
     "link": "https://thisweekinbevy.com/issue/2024-04-01-2d-lighting-particle-systems-meshlets-and-more"

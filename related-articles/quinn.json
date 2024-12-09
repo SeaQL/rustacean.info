@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-04",
+    "title": "iroh 0.24.0 - Upgrading to Quinn 11 - Iroh",
+    "link": "https://www.iroh.computer/blog/iroh-0-24-0-quinn-11"
+  },
+  {
     "date": "2024-07-31",
     "title": "Async Rust Challenges in Iroh - Iroh",
     "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"

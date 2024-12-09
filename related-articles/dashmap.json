@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Why You Shouldn't Arc&lt;Mutex&gt; a HashMap in Rust",
+    "link": "https://packetandpine.com/blog/arc-mutex-hashmap-rust/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Designing A Fast Concurrent Hash Table",
+    "link": "https://ibraheem.ca/posts/designing-papaya/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Why you should use Rust on the backend",
     "link": "https://www.shuttle.rs/blog/2024/07/31/rust-on-the-backend"

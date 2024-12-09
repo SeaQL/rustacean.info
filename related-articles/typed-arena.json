@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-21",
+    "title": "Arenas",
+    "link": "https://donsz.nl/blog/arenas/"
+  },
+  {
     "date": "2023-08-30",
     "title": "A JVM in Rust part 5 - Executing instructions · Andrea Bergia's Website",
     "link": "https://andreabergia.com/blog/2023/08/a-jvm-in-rust-part-5-executing-instructions/"

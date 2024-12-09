@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "I compared 14 hashing algorithms on Rust using Criterion | BLOG.GOOSE.LOVE",
+    "link": "https://blog.goose.love/posts/rosetta-hashing/"
+  },
+  {
     "date": "2023-12-27",
     "title": "The dark side of inlining and monomorphization",
     "link": "https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/"

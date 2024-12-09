@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-04",
+    "title": "Whither the Apple AGX graphics driver? [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Debugging a rustc segfault on illumos :: sunshowers",
     "link": "https://sunshowers.io/posts/rustc-segfault-illumos/"

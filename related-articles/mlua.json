@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-21",
+    "title": "Incorporating Lua with Livtet - Jacky Alciné",
+    "link": "https://www.jacky.wtf/essays/2024/using-lua-with-livtet/"
+  },
+  {
     "date": "2022-01-05",
     "title": "How a Single Line of Code Made a 24-core Server Slower Than a Laptop | Piotr Kołaczkowski",
     "link": "https://pkolaczk.github.io/server-slower-than-a-laptop/"

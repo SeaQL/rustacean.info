@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-21",
+    "title": "Arenas",
+    "link": "https://donsz.nl/blog/arenas/"
+  },
+  {
     "date": "2021-08-18",
     "title": "Renato Athaydes",
     "link": "https://renato.athaydes.com/posts/how-to-write-fast-rust-code.html"

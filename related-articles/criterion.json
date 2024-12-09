@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Optimizing a Rust GPU matmul kernel | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/optimizing-matmul/"
+  },
+  {
+    "date": "2024-11-20",
+    "title": "Futexes at Home",
+    "link": "https://specificprotagonist.net/jvm-futex.html"
+  },
+  {
+    "date": "2024-11-13",
+    "title": "Bringing faster exceptions to Rust | purplesyringa's blog",
+    "link": "https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Cyanide - Improve an algorithm performance step by step",
+    "link": "https://blog.mapotofu.org/blogs/rabitq-bench/"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Nine Rules for Running Rust on WASM WASI | by Carl M. Kadie | Towards Data Science",
+    "link": "https://medium.com/towards-data-science/nine-rules-for-running-rust-on-wasm-wasi-550cd14c252a"
+  },
+  {
     "date": "2024-07-17",
     "title": "Global Registration",
     "link": "https://donsz.nl/blog/global-registration/"

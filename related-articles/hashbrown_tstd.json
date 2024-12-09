@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Designing A Fast Concurrent Hash Table",
+    "link": "https://ibraheem.ca/posts/designing-papaya/"
+  },
+  {
     "date": "2024-05-29",
     "title": "When allocating unused memory boosts performance by 2x | Quickwit",
     "link": "https://quickwit.io/blog/performance-investigation"

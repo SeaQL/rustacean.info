@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-05-24",
+    "title": "Open sourcing our Rust crate audits | Google Open Source Blog",
+    "link": "https://opensource.googleblog.com/2023/05/open-sourcing-our-rust-crate-audits.html"
+  },
+  {
+    "date": "2022-09-21",
+    "title": "Bytecode Alliance — Wasmtime Reaches 1.0: Fast, Safe and Production Ready!",
+    "link": "https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready"
+  },
+  {
+    "date": "2022-09-14",
+    "title": "Bytecode Alliance — Security and Correctness in Wasmtime",
+    "link": "https://bytecodealliance.org/articles/security-and-correctness-in-wasmtime"
+  }
+]

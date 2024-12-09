@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2024-04-17",
+    "title": "v0.26.2 | Ratatui",
+    "link": "https://ratatui.rs/highlights/v0262/"
+  },
+  {
+    "date": "2024-04-10",
+    "title": "Ratatui Received Funding: What's Next? - Orhun's Blog",
+    "link": "https://blog.orhun.dev/open-source-funding-with-ratatui/"
+  },
+  {
+    "date": "2021-03-17",
+    "title": "libp2p tutorial: Build a peer-to-peer app in Rust - LogRocket Blog",
+    "link": "https://blog.logrocket.com/libp2p-tutorial-build-a-peer-to-peer-app-in-rust/"
+  },
+  {
+    "date": "2020-07-21",
+    "title": "Popol: Minimal non-blocking I/O with Rust ~ cloudhead.io",
+    "link": "https://cloudhead.io/popol/"
+  }
+]

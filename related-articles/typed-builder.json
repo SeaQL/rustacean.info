@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "Next-gen builder macro Bon 3.0 release. Revolutional typestate design 🚀 | Bon",
+    "link": "https://bon-rs.com/blog/bon-v3-release"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Rethinking Builders... with Lazy Generics – Geo's Notepad – Mostly Programming and Math",
+    "link": "https://geo-ant.github.io/blog/2024/rust-rethinking-builders-lazy-generics/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Next-gen builder macro Bon 2.1 release 🎉. Compilation is faster by 36% 🚀 | Bon",
+    "link": "https://elastio.github.io/bon/blog/bon-builder-v2-1-release"
+  },
+  {
     "date": "2024-07-31",
     "title": "Overview | Bon",
     "link": "https://elastio.github.io/bon/docs/guide/overview"

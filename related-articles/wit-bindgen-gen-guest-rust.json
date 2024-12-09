@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-23",
+    "title": "Life of a Zed Extension: Rust, WIT, Wasm",
+    "link": "https://zed.dev/blog/zed-decoded-extensions"
+  },
+  {
     "date": "2024-05-15",
     "title": "VS Code Extensions and WebAssembly",
     "link": "https://code.visualstudio.com/blogs/2024/05/08/wasm"

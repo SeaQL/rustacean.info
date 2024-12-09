@@ -1,5 +1,40 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "The Embedded Rustacean Issue #33",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-33"
+  },
+  {
+    "date": "2024-11-27",
+    "title": "Undroppable Types",
+    "link": "https://jack.wrenn.fyi/blog/undroppable/"
+  },
+  {
+    "date": "2024-11-13",
+    "title": "The Embedded Rustacean Issue #32",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-32"
+  },
+  {
+    "date": "2024-11-06",
+    "title": "The Embedded Rustacean Issue #31",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-31"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Toward safe transmutation in Rust [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/994334/d43e27786ad96a50/"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Safety Goggles for Alchemists",
+    "link": "https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/"
+  },
+  {
+    "date": "2024-09-11",
+    "title": "Porting C to Rust for a Fast and Safe AV1 Media Decoder - Prossimo",
+    "link": "https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/"
+  },
+  {
     "date": "2024-07-31",
     "title": "`repr(C)`: Clear, Simple and (Sometimes) Wrong",
     "link": "https://jack.wrenn.fyi/blog/repr-c-limitations/"

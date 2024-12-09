@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "Maelstrom Software",
+    "link": "https://maelstrom-software.com/blog/spawning-processes-on-linux/"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Fixing build times with rubicon",
+    "link": "https://sdr-podcast.com/episodes/dynamic-linking/"
+  },
+  {
     "date": "2022-05-04",
     "title": "Time For Crab 🦀",
     "link": "https://gatowololo.github.io/blog/cargo-patch/"

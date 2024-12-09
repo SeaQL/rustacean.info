@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "Google Online Security Blog: Eliminating Memory Safety Vulnerabilities at the Source",
+    "link": "https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html"
+  },
+  {
     "date": "2023-12-27",
     "title": "Can CppRef&lt;T&gt; be ergonomic?. In a previous post, I said that we… | by Adrian Taylor | Medium",
     "link": "https://medium.com/@adetaylor/can-cppref-t-be-ergonomic-c9cb1365bda1"

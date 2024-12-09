@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "The performance of the Rust compiler [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/995125/01e2791629e8f6bd/"
+  },
+  {
     "date": "2023-07-19",
     "title": "Rust vs Julia in scientific computing",
     "link": "https://mo8it.com/blog/rust-vs-julia/"

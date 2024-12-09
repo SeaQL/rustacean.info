@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-23",
+    "title": "Shuttle’s New Platform — Redefining Backend Development",
+    "link": "https://www.shuttle.dev/blog/2024/10/10/shuttle-redefining-backend-development"
+  },
+  {
+    "date": "2024-08-28",
+    "title": "Rust as My First Language",
+    "link": "https://www.shuttle.rs/blog/2024/08/23/rust-as-my-first-language"
+  },
+  {
     "date": "2024-07-31",
     "title": "Why you should use Rust on the backend",
     "link": "https://www.shuttle.rs/blog/2024/07/31/rust-on-the-backend"

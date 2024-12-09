@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Caio's Stuff",
+    "link": "https://c410-f3r.github.io/thoughts/building-a-real-time-chat-using-web-sockets-over-http2-streams"
+  },
+  {
+    "date": "2024-11-27",
+    "title": "Caio's Stuff",
+    "link": "https://c410-f3r.github.io/thoughts/securely-sending-dht22-sensor-data-from-an-esp32-board-to-postgresql/"
+  },
+  {
     "date": "2024-05-29",
     "title": "Diesel: Continuous Benchmarking Case Study | Bencher - Continuous Benchmarking",
     "link": "https://bencher.dev/learn/case-study/diesel/"

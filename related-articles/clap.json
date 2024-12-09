@@ -1,5 +1,50 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "Parsing arguments in Rust with no dependencies | nicole@web",
+    "link": "https://ntietz.com/blog/parsing-arguments-rust-no-deps/"
+  },
+  {
+    "date": "2024-11-06",
+    "title": "Parsing arguments in Rust with no dependencies | nicole@web",
+    "link": "https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Best Practices for Derive Macro Attributes in Rust",
+    "link": "https://w-graj.net/posts/rust-derive-attribute-macros/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Trimming down a rust binary in half - Red Leaves",
+    "link": "https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Felix' Blog - Replacing nginx with axum",
+    "link": "https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "pantheon: Parsing command line arguments",
+    "link": "https://traxys.me/sheshat_pantheon_3.html"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Code Generation in Rust vs C++26 | Barry's C++ Blog",
+    "link": "https://brevzin.github.io/c++/2024/09/30/annotations/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Whither the Apple AGX graphics driver? [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Chevy Ray | How I Created 175 Fonts Using Rust",
+    "link": "https://chevyray.dev/blog/creating-175-fonts/"
+  },
+  {
     "date": "2024-03-27",
     "title": "axo blog - It's a library AND a binary",
     "link": "https://blog.axo.dev/2024/03/its-a-lib-and-a-bin"

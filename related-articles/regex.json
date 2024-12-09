@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Clippy Lints",
+    "link": "https://rust-lang.github.io/rust-clippy/master/index.html#imprecise_flops"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Trimming down a rust binary in half - Red Leaves",
+    "link": "https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/"
+  },
+  {
+    "date": "2024-08-28",
+    "title": "Go wild: Wildcard support in Rules and a new open-source wildcard crate",
+    "link": "https://blog.cloudflare.com/wildcard-rules/"
+  },
+  {
     "date": "2024-03-20",
     "title": "What part of Rust compilation is the bottleneck? | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2024/03/15/rustc-what-takes-so-long.html"

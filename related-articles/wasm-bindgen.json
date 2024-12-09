@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "rustunit",
+    "link": "https://rustunit.com/blog/2024/11-15-bevy-channel-trigger/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Implementing the Tower Service Trait | Omar Abid - Personal Blog",
+    "link": "https://omarabid.com/tower-service"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Nine Rules for Running Rust in the Browser | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-in-the-browser-8228353649d1"
+  },
+  {
     "date": "2024-08-07",
     "title": "Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine - paavohtl's blog",
     "link": "https://blog.paavo.me/demo-engine-part-1/"

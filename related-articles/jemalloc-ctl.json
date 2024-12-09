@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Cyanide - Improve an algorithm performance step by step",
+    "link": "https://blog.mapotofu.org/blogs/rabitq-bench/"
+  },
+  {
     "date": "2020-12-9-",
     "title": "Measuring Memory Usage in Rust",
     "link": "https://rust-analyzer.github.io/blog/2020/12/04/measuring-memory-usage-in-rust.html"

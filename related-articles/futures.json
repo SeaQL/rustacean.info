@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Async Rust in Three Parts",
+    "link": "https://jacko.io/async_intro.html"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "What Are You Syncing About?",
+    "link": "https://sdr-podcast.com/episodes/syncing/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`) | Evan Schwartz",
+    "link": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+  },
+  {
+    "date": "2024-08-28",
+    "title": "Go wild: Wildcard support in Rules and a new open-source wildcard crate",
+    "link": "https://blog.cloudflare.com/wildcard-rules/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Async Rust Challenges in Iroh - Iroh",
     "link": "https://iroh.computer/blog/async-rust-challenges-in-iroh"

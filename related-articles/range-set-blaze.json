@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Master Embedded Development with Rust and no_std | Towards Data Science",
+    "link": "https://medium.com/towards-data-science/nine-rules-for-running-rust-on-embedded-systems-b0c247ee877e"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Nine Rules for Running Rust in the Browser | by Carl M. Kadie | Towards Data Science",
+    "link": "https://towardsdatascience.com/nine-rules-for-running-rust-in-the-browser-8228353649d1"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Nine Rules for Running Rust on WASM WASI | by Carl M. Kadie | Towards Data Science",
+    "link": "https://medium.com/towards-data-science/nine-rules-for-running-rust-on-wasm-wasi-550cd14c252a"
+  },
+  {
     "date": "2023-12-20",
     "title": "Boost Rust Code 7x with SIMD: Key Rules | Towards Data Science | Medium | Towards Data Science",
     "link": "https://medium.com/towards-data-science/nine-rules-for-simd-acceleration-of-your-rust-code-part-2-6a104b3be6f3"

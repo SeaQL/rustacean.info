@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "GitButler with Scott Chacon and Kiril Videlov - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e04-gitbutler/"
+  },
+  {
     "date": "2022-08-10",
     "title": "The State Of Rust In 2022 - De Programmatica Ipsum",
     "link": "https://deprogrammaticaipsum.com/the-state-of-rust-in-2022/"

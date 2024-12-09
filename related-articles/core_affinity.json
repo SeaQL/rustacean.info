@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "IPC in Rust",
+    "link": "https://pranitha.rs/posts/rust-ipc-ping-pong/"
+  },
+  {
     "date": "2024-07-10",
     "title": "How to configure CPU cores to be used in a Tokio application with core_affinity",
     "link": "https://blog.veeso.dev/blog/en/how-to-configure-cpu-cores-to-be-used-on-a-tokio-with-core--affinity/"

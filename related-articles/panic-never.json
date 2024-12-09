@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-23",
+    "title": "Async Allocators",
+    "link": "https://sdr-podcast.com/episodes/async-allocators/"
+  },
+  {
     "date": "2023-07-26",
     "title": "Totality",
     "link": "https://blog.yoshuawuyts.com/totality/"

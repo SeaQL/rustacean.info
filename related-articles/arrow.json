@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Smart pointers for the kernel [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/992055/104fe7d0d355faba/"
+  },
+  {
+    "date": "2024-08-28",
+    "title": "Using StringView / German Style Strings to Make Queries Faster: Part 1 - Reading Parquet | InfluxData",
+    "link": "https://www.influxdata.com/blog/faster-queries-with-stringview-part-one-influxdb/"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "Leveraging Rust in our high-performance Java database | QuestDB",
+    "link": "https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/"
+  },
+  {
     "date": "2022-05-25",
     "title": "Apache Arrow DataFusion 8.0.0 Release | Apache Arrow",
     "link": "https://arrow.apache.org/blog/2022/05/16/datafusion-8.0.0/"

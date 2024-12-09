@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "GitButler with Scott Chacon and Kiril Videlov - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e04-gitbutler/"
+  },
+  {
     "date": "2024-04-10",
     "title": "Ratatui Received Funding: What's Next? - Orhun's Blog",
     "link": "https://blog.orhun.dev/open-source-funding-with-ratatui/"

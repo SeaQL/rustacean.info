@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-18",
+    "title": "Blindsided by Rust's Subtyping and Variance | NullDeref",
+    "link": "https://nullderef.com/blog/rust-variance/"
+  },
+  {
     "date": "2023-01-18",
     "title": "https://blaz.is/blog/post/we-dont-need-a-stable-abi/",
     "link": "https://blaz.is/blog/post/we-dont-need-a-stable-abi/"

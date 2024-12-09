@@ -1,0 +1,27 @@
+[
+  {
+    "date": "2024-08-14",
+    "title": "JP's Website · 2024-08-08 · RP2350 Launch Blog",
+    "link": "https://thejpster.org.uk/blog/blog-2024-08-08/"
+  },
+  {
+    "date": "2022-04-20",
+    "title": "Including two versions of a Rust crate in a single project",
+    "link": "https://reltech.substack.com/p/including-two-versions-of-a-rust"
+  },
+  {
+    "date": "2022-03-16",
+    "title": "Knurling-rs changelog #34  - Ferrous Systems",
+    "link": "https://ferrous-systems.com/blog/knurling-changelog-34/"
+  },
+  {
+    "date": "2021-12-08",
+    "title": "Getting Started with Rust on a Raspberry Pi Pico (Part 3)",
+    "link": "https://reltech.substack.com/p/getting-started-with-rust-on-a-raspberry-a88"
+  },
+  {
+    "date": "2021-10-27",
+    "title": "Getting Started with Rust on a Raspberry Pi Pico (Part 1)",
+    "link": "https://reltech.substack.com/p/getting-started-with-rust-on-a-raspberry"
+  }
+]

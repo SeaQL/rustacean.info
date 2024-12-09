@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Developing a Zellij plugin using Rust",
+    "link": "https://zellij.dev/tutorials/developing-a-rust-plugin/"
+  },
+  {
     "date": "2023-06-28",
     "title": "Build Zellij WebAssembly (Rust) Plugins for your Terminal",
     "link": "https://zellij.dev/news/new-plugin-system/"

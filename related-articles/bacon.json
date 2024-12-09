@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Bacon",
+    "link": "https://dystroy.org/bacon"
+  },
+  {
     "date": "2023-07-19",
     "title": "Generating terminal user interfaces with Ratatui + ChatGPT - Orhun's Blog",
     "link": "https://blog.orhun.dev/ratatui-0-22-0/"

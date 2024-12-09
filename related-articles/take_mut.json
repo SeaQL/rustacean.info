@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Clippy Lints",
+    "link": "https://rust-lang.github.io/rust-clippy/master/index.html#imprecise_flops"
+  },
+  {
     "date": "2019-07-30",
     "title": "Unsafe as a Human-Assisted Type System",
     "link": "https://matklad.github.io/2019/07/25/unsafe-as-a-type-system.html"

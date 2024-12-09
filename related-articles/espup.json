@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "The Embedded Rustacean Issue #32",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-32"
+  },
+  {
     "date": "2024-03-20",
     "title": "Using Rust on ESP32 from Windows. Building on Windows for the ESP32… | by Ryan L. Kopf | Medium",
     "link": "https://kopf1988.medium.com/using-rust-on-esp32-from-windows-b6814fd09928"

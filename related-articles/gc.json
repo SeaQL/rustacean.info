@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-21",
+    "title": "Arenas",
+    "link": "https://donsz.nl/blog/arenas/"
+  },
+  {
     "date": "2021-07-28",
     "title": "My experience crafting an interpreter with Rust – Manuel Cerón",
     "link": "https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/"

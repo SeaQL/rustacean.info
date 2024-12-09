@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Bevy 0.15",
+    "link": "https://bevyengine.org/news/bevy-0-15/"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "4 Years of Bevy",
+    "link": "https://bd103.github.io/blog/2024-08-18-4-years-of-bevy"
+  },
+  {
     "date": "2024-07-10",
     "title": "Bevy 0.14's Release, Cosmic Text, and water reflections",
     "link": "https://thisweekinbevy.com/issue/2024-07-08-bevy-014s-release-cosmic-text-and-water-reflections"

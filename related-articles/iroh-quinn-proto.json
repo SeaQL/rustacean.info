@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-04",
+    "title": "iroh 0.24.0 - Upgrading to Quinn 11 - Iroh",
+    "link": "https://www.iroh.computer/blog/iroh-0-24-0-quinn-11"
+  },
+  {
     "date": "2024-07-03",
     "title": "sans-IO: The secret to effective Rust for network services",
     "link": "https://www.firezone.dev/blog/sans-io"

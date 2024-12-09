@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "Rust Meetup in Paris Tickets, Wed, Nov 6, 2024 at 7:30 PM | Eventbrite",
+    "link": "https://www.eventbrite.fr/e/rust-meetup-in-paris-tickets-1037795553437"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Fixing build times with rubicon",
+    "link": "https://sdr-podcast.com/episodes/dynamic-linking/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Rust Circle Meetup Tickets, Multiple Dates | Eventbrite",
+    "link": "https://www.eventbrite.com/e/rust-circle-meetup-tickets-628763176587/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Fearless Concurrency with Rust Tickets, Tue, Aug 27, 2024 at 11:00 AM | Eventbrite",
     "link": "https://www.eventbrite.com/e/fearless-concurrency-with-rust-tickets-934569591807"

@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Animation Events, Curves, and no_std",
+    "link": "https://thisweekinbevy.com/issue/2024-10-14-animation-events-curves-and-nostd"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Bevy's Fourth Birthday",
+    "link": "https://bevyengine.org/news/bevys-fourth-birthday/"
+  },
+  {
     "date": "2022-10-05",
     "title": "Async UI: a Rust UI Library where Everything is a Future | Wisha Wanichwecharungruang",
     "link": "https://wishawa.github.io/posts/async-ui-intro/"

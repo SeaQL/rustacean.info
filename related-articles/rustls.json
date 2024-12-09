@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "rustls: Measuring and Improving rustls's Multithreaded Performance",
+    "link": "https://rustls.dev/perf/2024-11-28-threading/"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Rustls Outperforms OpenSSL and BoringSSL - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rustls-performance-outperforms/"
+  },
+  {
     "date": "2024-05-08",
     "title": "curl with Daniel Stenberg - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s02e01-curl/"
@@ -43,6 +53,11 @@
     "date": "2023-09-06",
     "title": "Becoming a contractor | Adolfo Ochagavía",
     "link": "https://ochagavia.nl/blog/becoming-a-contractor/"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "Leveraging Rust in our high-performance Java database | QuestDB",
+    "link": "https://questdb.io/blog/leveraging-rust-in-our-high-performance-java-database/"
   },
   {
     "date": "2023-04-05",

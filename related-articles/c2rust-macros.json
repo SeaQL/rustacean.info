@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "FFI type mismatches in Rust for Linux [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/993163/3c2b06af07814cd2/"
+  },
+  {
+    "date": "2024-09-11",
+    "title": "Optimizing rav1d, an AV1 Decoder in Rust - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rav1d-performance-optimization/"
+  },
+  {
+    "date": "2024-08-28",
+    "title": "Can DARPA’s TRACTOR Pull C to Rust for Memory-Safe Overhaul? - The New Stack",
+    "link": "https://thenewstack.io/can-darpas-tractor-pull-c-to-rust-for-memory-safe-overhaul/"
+  },
+  {
     "date": "2024-02-14",
     "title": "libyaml-safer",
     "link": "https://simonask.github.io/libyaml-safer/"

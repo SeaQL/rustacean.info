@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Introducing Uniffi for React Native: Rust-Powered Turbo Modules - Mozilla Hacks - the Web developer blog",
+    "link": "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/"
+  },
+  {
     "date": "2021-01-06",
     "title": "Home – NAPI-RS",
     "link": "https://napi.rs"

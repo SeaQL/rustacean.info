@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Supercharging Python Tooling - An Interview with Charlie Marsh - timClicks (Tim McNamara)",
+    "link": "https://timclicks.dev/podcast/supercharging-python-tooling-an-interview-with-charlie-marsh/"
+  },
+  {
     "date": "2024-02-21",
     "title": "uv: Python packaging in Rust",
     "link": "https://astral.sh/blog/uv"

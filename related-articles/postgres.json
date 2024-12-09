@@ -10,6 +10,11 @@
     "link": "https://bencher.dev/learn/case-study/diesel/"
   },
   {
+    "date": "2024-03-13",
+    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
+  },
+  {
     "date": "2023-01-18",
     "title": "Using Rust to write a Data Pipeline. Thoughts. Musings. - Confessions of a Data Guy",
     "link": "https://www.confessionsofadataguy.com/using-rust-to-write-a-data-pipeline-thoughts-musings/"

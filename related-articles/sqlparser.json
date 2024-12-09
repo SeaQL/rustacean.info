@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "codethoughts",
+    "link": "https://codethoughts.io/posts/2024-10-01-improved-turso-ergonomics-in-rust/"
+  },
+  {
     "date": "2023-01-25",
     "title": "Building a Simple DB in Rust - Part 2 - Basic Execution | John's Codes",
     "link": "https://johns.codes/blog/build-a-db/part02"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Justin Beaurivage's Blog",
+    "link": "https://beaurivage.io/atsamd-hal-async/"
+  },
+  {
     "date": "2024-03-20",
     "title": "The Embedded Rustacean Issue #15",
     "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-15"

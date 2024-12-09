@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "regalloc III",
+    "link": "https://d-sonuga.netlify.app/gsoc/regalloc-iii/"
+  },
+  {
     "date": "2024-06-19",
     "title": "Path Generics in Rust: A Sketch Proposal for Simplicity and Generality",
     "link": "https://cfallin.org/blog/2024/06/12/rust-path-generics/"

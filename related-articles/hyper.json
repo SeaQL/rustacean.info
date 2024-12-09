@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "hyper in curl Needs a Champion - seanmonstar",
+    "link": "https://seanmonstar.com/blog/hyper-in-curl-needs-a-champion/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`) | Evan Schwartz",
+    "link": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+  },
+  {
     "date": "2024-06-19",
     "title": "I ported h2spec to Rust (also: codegen!)",
     "link": "https://fasterthanli.me/videos/h2spec-to-rust"

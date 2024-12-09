@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "postcard - Rust",
+    "link": "https://docs.rs/postcard"
+  },
+  {
     "date": "2024-02-14",
     "title": "Tweede golf",
     "link": "https://tweedegolf.nl/en/blog/113/rust-for-hardware-vendors"

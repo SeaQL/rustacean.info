@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-08-14",
+    "title": "Migration Guide (v3 to v4) - The Aura User Guide",
+    "link": "https://fosskers.github.io/aura/migration.html"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "FAQ - The Aura User Guide",
+    "link": "https://fosskers.github.io/aura/faq.html#why-did-you-rewrite-aura-in-rust"
+  },
+  {
     "date": "2020-08-18",
     "title": "Colin Woodbury - Software Development Languages: Rust",
     "link": "https://www.fosskers.ca/en/blog/rust-software-dev"

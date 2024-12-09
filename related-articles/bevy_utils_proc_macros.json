@@ -1,8 +1,68 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Bevy 0.15",
+    "link": "https://bevyengine.org/news/bevy-0-15/"
+  },
+  {
+    "date": "2024-11-27",
+    "title": "Unsafe for work",
+    "link": "https://oida.dev/unsafe-for-work/"
+  },
+  {
+    "date": "2024-11-20",
+    "title": "Virtual Geometry in Bevy 0.15",
+    "link": "https://jms55.github.io/posts/2024-11-14-virtual-geometry-bevy-0-15/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Animation Events, Curves, and no_std",
+    "link": "https://thisweekinbevy.com/issue/2024-10-14-animation-events-curves-and-nostd"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "What Are You Syncing About?",
+    "link": "https://sdr-podcast.com/episodes/syncing/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "OneVariable : Postcard 2.0: Looking for Sponsors!",
+    "link": "https://onevariable.com/blog/postcard-2-sponsors/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "Bevy Foundation is now a 501(c)(3) Public Charity",
+    "link": "https://bevyengine.org/news/bevy-foundation-501c3/"
+  },
+  {
+    "date": "2024-09-18",
+    "title": "I landed my dream job making a Rust game engine. Now what?",
+    "link": "https://bevyengine.org/news/dream-job/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Required Components, Curves, and the Bevy CLI Working Group",
+    "link": "https://thisweekinbevy.com/issue/2024-09-02-required-components-curves-and-the-bevy-cli-working-group"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "4 Years of Bevy",
+    "link": "https://bd103.github.io/blog/2024-08-18-4-years-of-bevy"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Bevy's Fourth Birthday",
+    "link": "https://bevyengine.org/news/bevys-fourth-birthday/"
+  },
+  {
     "date": "2024-08-07",
     "title": "0.14.1, tracking change detection, and more rendering examples",
     "link": "https://thisweekinbevy.com/issue/2024-08-05-0141-tracking-change-detection-and-more-rendering-examples"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "Extending the #[diagnostic] tool attribute namespace - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/"
   },
   {
     "date": "2024-07-24",

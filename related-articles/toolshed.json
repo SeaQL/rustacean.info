@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Performance | The JavaScript Oxidation Compiler",
+    "link": "https://oxc.rs/docs/learn/performance.html"
+  },
+  {
     "date": "2020-01-21",
     "title": "Allocator Designs | Writing an OS in Rust",
     "link": "https://os.phil-opp.com/allocator-designs/"

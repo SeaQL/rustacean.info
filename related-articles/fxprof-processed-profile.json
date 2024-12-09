@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Cyanide - Improve an algorithm performance step by step",
+    "link": "https://blog.mapotofu.org/blogs/rabitq-bench/"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "regalloc III",
+    "link": "https://d-sonuga.netlify.app/gsoc/regalloc-iii/"
+  },
+  {
     "date": "2024-01-24",
     "title": "Billion-row challenge: Rust walkthrough | AmineDiro",
     "link": "https://aminediro.com/posts/billion_row/"

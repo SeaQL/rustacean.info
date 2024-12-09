@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "One year of Rust in production - Dmitry Kudryavtsev",
+    "link": "https://yieldcode.blog/post/one-year-of-rust-in-production/"
+  },
+  {
     "date": "2023-12-20",
     "title": "Getting Started with Actix Web in Rust",
     "link": "https://www.shuttle.rs/blog/2023/12/15/using-actix-rust"

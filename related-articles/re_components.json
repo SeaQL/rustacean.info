@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "Geospatial data and full H.264 support — Rerun",
+    "link": "https://rerun.io/blog/maps"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "Exploiting column chunks for faster ingestion and lower memory use — Rerun",
+    "link": "https://rerun.io/blog/column-chunks"
+  },
+  {
     "date": "2024-07-10",
     "title": "Defaults and overrides for any data — Rerun",
     "link": "https://rerun.io/blog/blueprint-overrides"

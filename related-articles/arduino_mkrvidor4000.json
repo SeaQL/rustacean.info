@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Justin Beaurivage's Blog",
+    "link": "https://beaurivage.io/atsamd-hal-async/"
+  },
+  {
     "date": "2021-01-13",
     "title": "Testing Hardware Using Rust",
     "link": "https://www.jaredwolff.com/testing-hardware-using-rust/"

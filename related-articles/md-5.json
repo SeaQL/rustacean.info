@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Trimming down a rust binary in half - Red Leaves",
+    "link": "https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/"
+  },
+  {
     "date": "2023-04-05",
     "title": "Follow up on cracking ZIP archives in Rust",
     "link": "https://agourlay.github.io/follow-up-cracking-zip-rust/"

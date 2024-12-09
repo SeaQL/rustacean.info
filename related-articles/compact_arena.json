@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-21",
+    "title": "Arenas",
+    "link": "https://donsz.nl/blog/arenas/"
+  },
+  {
     "date": "2020-05-27",
     "title": "How to organize your Rust tests - LogRocket Blog",
     "link": "https://blog.logrocket.com/how-to-organize-your-rust-tests/"

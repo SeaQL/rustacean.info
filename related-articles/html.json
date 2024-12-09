@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-21",
+    "title": "Incorporating Lua with Livtet - Jacky Alciné",
+    "link": "https://www.jacky.wtf/essays/2024/using-lua-with-livtet/"
+  },
+  {
     "date": "2023-02-08",
     "title": "Using HTML as a compile target",
     "link": "https://blog.yoshuawuyts.com/compiled-html/"

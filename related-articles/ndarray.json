@@ -1,5 +1,20 @@
 [
   {
+    "date": "2024-09-11",
+    "title": "Porting C to Rust for a Fast and Safe AV1 Media Decoder - Prossimo",
+    "link": "https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/"
+  },
+  {
+    "date": "2024-09-11",
+    "title": "Scientific Computing in Rust",
+    "link": "https://scientificcomputing.rs/monthly/2024-09"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Whither the Apple AGX graphics driver? [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
+  },
+  {
     "date": "2023-05-03",
     "title": "Fun and Hackable Tensors in Rust, From Scratch - by Kurt",
     "link": "https://getcode.substack.com/p/fun-and-hackable-tensors-in-rust"

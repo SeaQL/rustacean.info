@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Optimizing a Rust GPU matmul kernel | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/optimizing-matmul/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Rust GPU Transitions to Community Ownership | Rust GPU",
+    "link": "https://rust-gpu.github.io/blog/transition-announcement/"
+  },
+  {
     "date": "2024-07-24",
     "title": "Bevy Jam 5, Radiance Cascades, and Calculators in many ui kits",
     "link": "https://thisweekinbevy.com/issue/2024-07-22-bevy-jam-5-radiance-cascades-and-calculators-in-many-ui-kits"

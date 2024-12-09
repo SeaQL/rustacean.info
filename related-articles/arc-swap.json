@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "You might not need Arc&lt;T&gt;",
+    "link": "https://sdr-podcast.com/episodes/arc/"
+  },
+  {
     "date": "2022-08-17",
     "title": "Comparing Rust's and C++'s Concurrency Library - Mara's Blog",
     "link": "https://blog.m-ou.se/rust-cpp-concurrency/"

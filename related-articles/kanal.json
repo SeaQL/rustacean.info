@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Unsafe Rust Is Harder Than C | Chad Austin",
+    "link": "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
+  },
+  {
     "date": "2022-11-30",
     "title": "Kanal with Khashayar Fereidani :: Rustacean Station",
     "link": "https://rustacean-station.org/episode/khashayar-fereidani/"

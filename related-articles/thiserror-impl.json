@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "GitButler with Scott Chacon and Kiril Videlov - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e04-gitbutler/"
+  },
+  {
+    "date": "2024-11-20",
+    "title": "This Month in Rust OSDev: October 2024 | Rust OSDev",
+    "link": "https://rust-osdev.com/this-month/2024-10/"
+  },
+  {
     "date": "2023-06-21",
     "title": "How we built the Grafbase local development experience in Rust",
     "link": "https://grafbase.com/blog/how-we-built-the-grafbase-cli-in-rust"

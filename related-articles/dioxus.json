@@ -1,13 +1,53 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "GitButler with Scott Chacon and Kiril Videlov - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e04-gitbutler/"
+  },
+  {
+    "date": "2024-10-23",
+    "title": "Zed with Conrad Irwin - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e01-zed/"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Rust needs a web framework for lazy developers | nicole@web",
+    "link": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "Bevy's Fourth Birthday",
+    "link": "https://bevyengine.org/news/bevys-fourth-birthday/"
+  },
+  {
+    "date": "2024-06-26",
+    "title": "Claiming, auto and otherwise · baby steps",
+    "link": "https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/"
+  },
+  {
     "date": "2024-05-29",
     "title": "Report on variadic generics discussion at RustNL. · PoignardAzur",
     "link": "https://poignardazur.github.io/2024/05/25/report-on-rustnl-variadics/"
   },
   {
+    "date": "2024-05-01",
+    "title": "LogLog Games",
+    "link": "https://loglog.games/blog/leaving-rust-gamedev/"
+  },
+  {
     "date": "2024-04-03",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/release-050"
+  },
+  {
+    "date": "2024-02-28",
+    "title": "This month in Servo: gamepad support, font fallback, Space Jam, and more! - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
+    "link": "https://servo.org/blog/2024/02/28/gamepads-font-fallback-space-jam/"
+  },
+  {
+    "date": "2024-01-17",
+    "title": "Xilem 2024 plans - Linebender",
+    "link": "https://linebender.org/blog/xilem-2024/"
   },
   {
     "date": "2024-01-17",
@@ -20,9 +60,44 @@
     "link": "https://rust.code-maven.com/web"
   },
   {
+    "date": "2023-11-22",
+    "title": "Ferrostar: Building a Cross-Platform Navigation SDK in Rust (Part 1) | Stadia Maps",
+    "link": "https://stadiamaps.com/news/ferrostar-building-a-cross-platform-navigation-sdk-in-rust-part-1/"
+  },
+  {
+    "date": "2023-09-27",
+    "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
+    "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"
+  },
+  {
+    "date": "2023-09-06",
+    "title": "Announcing Freya GUI library",
+    "link": "https://marc0.hashnode.dev/freya"
+  },
+  {
+    "date": "2023-07-05",
+    "title": "Introduction - Rust Full Stack Workshop",
+    "link": "https://bcnrust.github.io/devbcn-workshop/"
+  },
+  {
+    "date": "2023-03-29",
+    "title": "Introducing Kobold",
+    "link": "https://maciej.codes/2023-03-23-kobold.html"
+  },
+  {
+    "date": "2022-12-28",
+    "title": "Rust in 2023 - GBurghoorn",
+    "link": "https://gburghoorn.com/posts/rust-in-2023/"
+  },
+  {
     "date": "2022-12-14",
     "title": "Catch 22! Rust in Review — Llogiq on stuff",
     "link": "https://llogiq.github.io/2022/12/11/catch22.html"
+  },
+  {
+    "date": "2022-12-14",
+    "title": "State of GUI 2022 - KAS blog",
+    "link": "https://kas-gui.github.io/blog/state-of-GUI-2022.html"
   },
   {
     "date": "2022-12-14",
@@ -30,13 +105,48 @@
     "link": "https://dioxuslabs.com/blog/templates-diffing/"
   },
   {
+    "date": "2022-08-03",
+    "title": "Bevy 0.8",
+    "link": "https://bevyengine.org/news/bevy-0-8/"
+  },
+  {
+    "date": "2022-05-11",
+    "title": "Xilem: an architecture for UI in Rust | Raph Levien’s blog",
+    "link": "https://raphlinus.github.io/rust/gui/2022/05/07/ui-architecture.html"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "A Rust web server / frontend setup like it's 2022 (with axum and yew) | Robert Krahn",
+    "link": "https://robert.kra.hn/posts/2022-04-03_rust-web-wasm/"
+  },
+  {
     "date": "2022-03-16",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/release-020"
   },
   {
+    "date": "2022-02-23",
+    "title": "Checking Tailwind Class Names at Compile Time with Rust - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2022/02/21/checking-tailwind-class-names-at-compile-time-with-rust/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "Frontend Rust Without Node - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2022/02/14/frontend-rust-without-node/"
+  },
+  {
+    "date": "2022-02-16",
+    "title": "My Rust Frontend Experiences - House Absolute(ly Pointless)",
+    "link": "https://blog.urth.org/2022/02/08/my-rust-frontend-experiences/"
+  },
+  {
     "date": "2022-01-05",
     "title": "Dioxus | An elegant GUI library for Rust",
     "link": "https://dioxuslabs.com/blog/introducing-dioxus/"
+  },
+  {
+    "date": "2021-03-31",
+    "title": "Exploring the top Rust web frameworks - LogRocket Blog",
+    "link": "https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/"
   }
 ]

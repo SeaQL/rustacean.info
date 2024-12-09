@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "What's new in SeaStreamer 0.5 | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-11-30-whats-new-in-sea-streamer-0.5/"
+  },
+  {
+    "date": "2024-08-14",
+    "title": "GraphQL based Admin Dashboard with Loco and Seaography | SeaQL",
+    "link": "https://www.sea-ql.org/blog/2024-08-08-graphql-admin-dashboard-with-loco-seaography/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Announcing SeaORM 1.0 🐚 | SeaQL",
     "link": "https://www.sea-ql.org/blog/2024-08-04-sea-orm-1.0/"

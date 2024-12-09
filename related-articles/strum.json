@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Best Practices for Derive Macro Attributes in Rust",
+    "link": "https://w-graj.net/posts/rust-derive-attribute-macros/"
+  },
+  {
     "date": "2023-08-30",
     "title": "From tui-rs to Ratatui: 6 Months of Cooking Up Rust TUIs - Orhun's Blog",
     "link": "https://blog.orhun.dev/ratatui-0-23-0/"

@@ -1,5 +1,45 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "Oxide with Steve Klabnik - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e03-oxide/"
+  },
+  {
+    "date": "2024-11-06",
+    "title": "Simple way to make i18n support in Rust with with examples and tests - OnlyCoiners",
+    "link": "https://www.onlycoiners.com/user/onlycoiners/blog/simple-way-to-make-i18n-support-in-rust-with-with-examples-a"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Felix' Blog - Replacing nginx with axum",
+    "link": "https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html"
+  },
+  {
+    "date": "2024-10-02",
+    "title": "Rust needs a web framework for lazy developers | nicole@web",
+    "link": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "You might not need Arc&lt;T&gt;",
+    "link": "https://sdr-podcast.com/episodes/arc/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Defeating Coherence in Rust with Tacit Trait Parameters",
+    "link": "https://willcrichton.net/notes/defeating-coherence-rust/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Async Rust can be a pleasure to work with (without `Send + Sync + 'static`) | Evan Schwartz",
+    "link": "https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/"
+  },
+  {
+    "date": "2024-08-07",
+    "title": "Extending the #[diagnostic] tool attribute namespace - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Rob Ede - Actix Web, Life as an Open Source Maintainer, Supply-chain Security - timClicks (Tim McNamara)",
     "link": "https://timclicks.dev/podcast/rob-ede/"
@@ -178,6 +218,11 @@
     "date": "2023-08-30",
     "title": "Best Rust Web Frameworks to Use in 2023",
     "link": "https://www.shuttle.rs/blog/2023/08/23/rust-web-framework-comparison"
+  },
+  {
+    "date": "2023-08-30",
+    "title": "TulipeMoutarde.be",
+    "link": "https://tulipemoutarde.be/posts/2023-08-20-depencency-injection-rust-axum/"
   },
   {
     "date": "2023-08-23",

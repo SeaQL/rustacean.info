@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "Serde Trait - Part 1: Overview | My blog",
+    "link": "https://voelklmichael.github.io/Blog/serde-trait-part1.html"
+  },
+  {
     "date": "2023-12-27",
     "title": "The dark side of inlining and monomorphization",
     "link": "https://nickb.dev/blog/the-dark-side-of-inlining-and-monomorphization/"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "Linebender in October 2024: resvg stewardship - Linebender",
+    "link": "https://linebender.org/blog/tmix-10/"
+  },
+  {
     "date": "2023-09-27",
     "title": "Adding runtime benchmarks to the Rust compiler benchmark suite | Kobzol’s blog",
     "link": "https://kobzol.github.io/rust/rustc/2023/09/23/rustc-runtime-benchmarks.html"

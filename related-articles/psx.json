@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Bevy 0.15",
+    "link": "https://bevyengine.org/news/bevy-0-15/"
+  },
+  {
     "date": "2022-11-16",
     "title": "This Month in Rust GameDev #39 - October 2022 | Rust GameDev WG",
     "link": "https://gamedev.rs/news/039/"

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Trimming down a rust binary in half - Red Leaves",
+    "link": "https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/"
+  },
+  {
     "date": "2020-06-23",
     "title": "Tips For Faster Rust Compile Times | corrode Rust Consulting",
     "link": "https://endler.dev/2020/rust-compile-times/"

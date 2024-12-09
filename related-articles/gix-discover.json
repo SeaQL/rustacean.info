@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "NonStop discussion around adding Rust to Git [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/998115/e9849d6de88348c6/"
+  },
+  {
     "date": "2024-04-10",
     "title": "Ratatui Received Funding: What's Next? - Orhun's Blog",
     "link": "https://blog.orhun.dev/open-source-funding-with-ratatui/"

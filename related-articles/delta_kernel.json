@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-08-28",
+    "title": "Using StringView / German Style Strings to Make Queries Faster: Part 1 - Reading Parquet | InfluxData",
+    "link": "https://www.influxdata.com/blog/faster-queries-with-stringview-part-one-influxdb/"
+  },
+  {
     "date": "2024-05-15",
     "title": "Error Handling for Large Rust Projects - A Deep Dive into GreptimeDB's Practices | Greptime",
     "link": "https://greptime.com/blogs/2024-05-07-error-rust"

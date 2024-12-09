@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "Select HTML Components in Declarative Rust | Ideas Reifying",
+    "link": "https://ideas.reify.ing/en/blog/select-html-declarative-rust/"
+  },
+  {
     "date": "2024-07-03",
     "title": "Polars — Announcing Polars 1.0",
     "link": "https://pola.rs/posts/announcing-polars-1/"

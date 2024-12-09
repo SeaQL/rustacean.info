@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "On Rust in enterprise kernels [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/993337/68c7e5af573545e6/"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "Arenas",
+    "link": "https://donsz.nl/blog/arenas/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Crafting Interpreters with Rust: On Garbage Collection | Tung Le Vo",
     "link": "https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/"

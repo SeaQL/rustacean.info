@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Making Rust a first-class citizen for Xen",
+    "link": "https://xcp-ng.org/blog/2024/11/26/making-rust-a-first-class-citizen-for-xen/"
+  },
+  {
     "date": "2024-02-14",
     "title": "Tech Notes: Cross compiling Rust to win32",
     "link": "https://neugierig.org/software/blog/2024/02/cross-compile.html"

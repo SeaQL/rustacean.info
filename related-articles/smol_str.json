@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Performance | The JavaScript Oxidation Compiler",
+    "link": "https://oxc.rs/docs/learn/performance.html"
+  },
+  {
+    "date": "2024-09-11",
+    "title": "An Optimization That's Impossible in Rust! | ltungv",
+    "link": "https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/"
+  },
+  {
     "date": "2023-09-20",
     "title": "Choosing a more optimal `String` type",
     "link": "https://swatinem.de/blog/optimized-strings/"

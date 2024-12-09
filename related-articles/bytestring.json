@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "Rust needs a web framework for lazy developers | nicole@web",
+    "link": "https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/"
+  },
+  {
     "date": "2024-07-31",
     "title": "Rob Ede - Actix Web, Life as an Open Source Maintainer, Supply-chain Security - timClicks (Tim McNamara)",
     "link": "https://timclicks.dev/podcast/rob-ede/"
@@ -273,6 +278,11 @@
     "date": "2020-01-21",
     "title": "Smoke-testing Rust HTTP clients. Back in 2014 I was fetching frontpages… | by Sergey \"Shnatsel\" Davidoff | Medium",
     "link": "https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6"
+  },
+  {
+    "date": "2019-10-08",
+    "title": "Tonic: gRPC has come to async/await!",
+    "link": "https://luciofran.co/tonic-grpc-has-come-to-async-await/"
   },
   {
     "date": "2019-04-09",

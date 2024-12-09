@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "GitButler with Scott Chacon and Kiril Videlov - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e04-gitbutler/"
+  },
+  {
     "date": "2023-03-15",
     "title": "Why Turborepo is migrating from Go to Rust – Vercel",
     "link": "https://vercel.com/blog/turborepo-migration-go-rust"

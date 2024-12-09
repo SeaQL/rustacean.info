@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-11-06",
+    "title": "Difference Between iter() and into_iter() in Rust - crustc",
+    "link": "https://crustc.com/difference-iter-and-into_iter/"
+  },
+  {
+    "date": "2024-10-16",
+    "title": "Reading a Remote File Using Rust - crustc",
+    "link": "https://crustc.com/reading-a-remote-file-rust/"
+  },
+  {
     "date": "2024-07-17",
     "title": "Build with Naz : Box and Pin exploration in Rust | developerlife.com",
     "link": "https://developerlife.com/2024/07/16/pin-box-dynamic-duo"

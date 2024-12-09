@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "The Embedded Rustacean Issue #32",
+    "link": "https://www.theembeddedrustacean.com/p/the-embedded-rustacean-issue-32"
+  },
+  {
     "date": "2024-01-10",
     "title": "This Month in Rust OSDev: December 2023 | Rust OSDev",
     "link": "https://rust-osdev.com/this-month/2023-12/"

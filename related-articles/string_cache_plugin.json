@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Performance | The JavaScript Oxidation Compiler",
+    "link": "https://oxc.rs/docs/learn/performance.html"
+  },
+  {
     "date": "2017-06-20",
     "title": "This Week In Servo 104 - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine",
     "link": "https://blog.servo.org/2017/06/12/twis-104/"

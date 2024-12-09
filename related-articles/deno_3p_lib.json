@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "Caio's Stuff",
+    "link": "https://c410-f3r.github.io/thoughts/building-a-real-time-chat-using-web-sockets-over-http2-streams"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "Announcing Stable V8 Bindings for Rust",
+    "link": "https://deno.com/blog/rusty-v8-stabilized"
+  },
+  {
     "date": "2024-05-29",
     "title": "How We Migrated Our Static Analyzer From Java to Rust | Datadog",
     "link": "https://www.datadoghq.com/blog/engineering/how-we-migrated-our-static-analyzer-from-java-to-rust/"

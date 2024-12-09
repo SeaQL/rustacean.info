@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Trimming down a rust binary in half - Red Leaves",
+    "link": "https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/"
+  },
+  {
     "date": "2024-01-31",
     "title": "Where Does the Time Go? Rust's Problem with Slow Compiles - The New Stack",
     "link": "https://thenewstack.io/where-does-the-time-go-rusts-problem-with-slow-compiles/"

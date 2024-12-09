@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-12-04",
+    "title": "GitButler with Scott Chacon and Kiril Videlov - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e04-gitbutler/"
+  },
+  {
     "date": "2024-07-24",
     "title": "Slint 1.7 Released with New Widgets, Multi-Window Support, and Live-Preview Redesign — Slint Blog",
     "link": "https://slint.dev/blog/slint-1.7-released"

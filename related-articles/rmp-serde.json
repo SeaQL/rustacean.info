@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-23",
+    "title": "Zed with Conrad Irwin - Rust in Production Podcast | corrode Rust Consulting",
+    "link": "https://corrode.dev/podcast/s03e01-zed/"
+  },
+  {
     "date": "2023-06-07",
     "title": "MsgPacker: Enhancing performance and security – Victor Lopez – A Rust flavored crypto perspective.",
     "link": "https://vlopes11.github.io/msgpacker-refactor/"

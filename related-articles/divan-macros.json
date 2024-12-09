@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "IPC in Rust",
+    "link": "https://pranitha.rs/posts/rust-ipc-ping-pong/"
+  },
+  {
     "date": "2024-06-19",
     "title": "IPC in Rust - a Ping Pong Comparison",
     "link": "https://3tilley.github.io/posts/simple-ipc-ping-pong/"

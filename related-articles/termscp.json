@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-11-20",
+    "title": "You don't (*always*) need async",
+    "link": "https://blog.veeso.dev/blog/en/you-dont-always-need-async/"
+  },
+  {
+    "date": "2024-11-06",
+    "title": "Reached the recursion limit... at build time?",
+    "link": "https://blog.veeso.dev/blog/en/reached-the-recursion-limit-at-build-time/"
+  },
+  {
+    "date": "2024-10-30",
+    "title": "Dyn Box Vs. Generics",
+    "link": "https://blog.veeso.dev/blog/en/dyn-box-vs-generics-in-rust/"
+  },
+  {
+    "date": "2024-10-09",
+    "title": "Announcing termscp 0.15.0",
+    "link": "https://blog.veeso.dev/blog/en/announcing-termscp-015/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "Hey Rustaceans: Rust freelancers do exist!",
+    "link": "https://blog.veeso.dev/blog/en/hey-rustaceans-rust-freelancers-do-exist/"
+  },
+  {
     "date": "2024-07-17",
     "title": "Implementing a generic range parser in Rust",
     "link": "https://blog.veeso.dev/blog/en/implementing-a-generic-range-parser-in-rust/"

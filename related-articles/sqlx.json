@@ -1,5 +1,30 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "codethoughts",
+    "link": "https://codethoughts.io/posts/2024-10-01-improved-turso-ergonomics-in-rust/"
+  },
+  {
+    "date": "2024-09-25",
+    "title": "One year of Rust in production - Dmitry Kudryavtsev",
+    "link": "https://yieldcode.blog/post/one-year-of-rust-in-production/"
+  },
+  {
+    "date": "2024-09-11",
+    "title": "No More Unchecked Sqlx Queries |",
+    "link": "http://www.matildasmeds.com/posts/no-more-unchecked-sqlx-queries/"
+  },
+  {
+    "date": "2024-09-04",
+    "title": "FreeBSD considers Rust in the base system [LWN.net]",
+    "link": "https://lwn.net/Articles/985210/"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "FreeBSD considers Rust in the base system [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/"
+  },
+  {
     "date": "2024-08-07",
     "title": "Announcing SeaORM 1.0 🐚 | SeaQL",
     "link": "https://www.sea-ql.org/blog/2024-08-04-sea-orm-1.0/"
@@ -23,6 +48,11 @@
     "date": "2024-03-13",
     "title": "Season 1 - Finale - Rust in Production Podcast | corrode Rust Consulting",
     "link": "https://corrode.dev/podcast/s01e07-season-finale/"
+  },
+  {
+    "date": "2024-03-13",
+    "title": "Problems around modelling an asynchronous API for database transaction in Rust - Weiznich's Blog",
+    "link": "https://blog.weiznich.de/blog/async-transaction-problem/"
   },
   {
     "date": "2024-03-13",

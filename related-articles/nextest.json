@@ -1,0 +1,17 @@
+[
+  {
+    "date": "2023-05-10",
+    "title": "A guide to test\nparametrization in Rust - Markus Unterwaditzer",
+    "link": "https://unterwaditzer.net/2023/rust-test-parametrization.html"
+  },
+  {
+    "date": "2022-11-02",
+    "title": "Rustdoc doctests need fixing",
+    "link": "https://swatinem.de/blog/fix-rustdoc/"
+  },
+  {
+    "date": "2022-02-23",
+    "title": "Nextest - cargo-nextest",
+    "link": "https://nexte.st"
+  }
+]

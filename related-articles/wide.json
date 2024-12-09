@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-13",
+    "title": "Using portable SIMD in stable Rust",
+    "link": "https://pythonspeed.com/articles/simd-stable-rust/"
+  },
+  {
     "date": "2020-04-07",
     "title": "This month in rustsim #10 (March 2020) · The rustsim organization",
     "link": "https://www.rustsim.org/blog/2020/04/01/this-month-in-rustsim/"

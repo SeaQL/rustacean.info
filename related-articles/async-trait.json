@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-02",
+    "title": "Rewriting Rust",
+    "link": "https://josephg.com/blog/rewriting-rust/"
+  },
+  {
+    "date": "2024-08-21",
+    "title": "Fixing Incorrect Tracing Parent Spans with Futures and JoinSet in Rust - chesedo",
+    "link": "https://chesedo.me/blog/rust-tracing-incorrect-parent-spans-async-futures-joinset/"
+  },
+  {
     "date": "2024-05-22",
     "title": "Let's build a Load Balancer in Rust - Part 2 | Marco Bacis",
     "link": "https://marcobacis.com/blog/load-balancer-rust-2/"

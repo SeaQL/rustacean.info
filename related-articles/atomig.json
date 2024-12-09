@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-09-11",
+    "title": "Optimizing rav1d, an AV1 Decoder in Rust - Prossimo",
+    "link": "https://www.memorysafety.org/blog/rav1d-performance-optimization/"
+  },
+  {
+    "date": "2024-09-11",
+    "title": "Porting C to Rust for a Fast and Safe AV1 Media Decoder - Prossimo",
+    "link": "https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/"
+  },
+  {
     "date": "2019-12-31",
     "title": "Interior mutability patterns – Paul Dicker – Some random Rust-related thoughts",
     "link": "https://pitdicker.github.io/Interior-mutability-patterns/"

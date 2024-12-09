@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-30",
+    "title": "Trimming down a rust binary in half - Red Leaves",
+    "link": "https://tech.dreamleaves.org/trimming-down-a-rust-binary-in-half/"
+  },
+  {
     "date": "2023-06-14",
     "title": "Iterating on Testing in Rust",
     "link": "https://epage.github.io/blog/2023/06/iterating-on-test/"

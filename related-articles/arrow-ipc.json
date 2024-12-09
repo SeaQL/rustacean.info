@@ -1,5 +1,15 @@
 [
   {
+    "date": "2024-10-09",
+    "title": "Smart pointers for the kernel [LWN.net]",
+    "link": "https://lwn.net/SubscriberLink/992055/104fe7d0d355faba/"
+  },
+  {
+    "date": "2024-08-28",
+    "title": "Using StringView / German Style Strings to Make Queries Faster: Part 1 - Reading Parquet | InfluxData",
+    "link": "https://www.influxdata.com/blog/faster-queries-with-stringview-part-one-influxdb/"
+  },
+  {
     "date": "2021-10-20",
     "title": "ROAPI: An API Server for Static Datasets",
     "link": "https://tech.marksblogg.com/roapi-rust-data-api.html"

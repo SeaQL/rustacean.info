@@ -1,0 +1,37 @@
+[
+  {
+    "date": "2024-01-17",
+    "title": "Highlights of 2023 for cargo-semver-checks",
+    "link": "https://predr.ag/blog/highlights-of-2023-for-cargo-semver-checks/"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Create a Lambda in Rust using Terraform - maahl.net",
+    "link": "https://maahl.net/blog/rust-aws-lambda/"
+  },
+  {
+    "date": "2023-11-29",
+    "title": "Announcing general availability of the AWS SDK for Rust | AWS Developer Tools Blog",
+    "link": "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-rust/"
+  },
+  {
+    "date": "2022-04-06",
+    "title": "Improving Python S3 Client Performance with Rust | by Joshua Robinson | Medium",
+    "link": "https://joshua-robinson.medium.com/improving-python-s3-client-performance-with-rust-e9639359072f"
+  },
+  {
+    "date": "2021-12-08",
+    "title": "AWS SDK for Rust (Developer Preview)",
+    "link": "https://aws.amazon.com/about-aws/whats-new/2021/12/aws-sdk-rust-developer-preview/"
+  },
+  {
+    "date": "2021-08-10",
+    "title": "Rust で Web バックエンド開発をはじめる | CyberAgent Developers Blog",
+    "link": "https://developers.cyberagent.co.jp/blog/archives/31110/"
+  },
+  {
+    "date": "2021-05-12",
+    "title": "A New AWS SDK for Rust – Alpha Launch | AWS Developer Tools Blog",
+    "link": "https://aws.amazon.com/blogs/developer/a-new-aws-sdk-for-rust-alpha-launch/"
+  }
+]

@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-09-25",
+    "title": "You might not need Arc&lt;T&gt;",
+    "link": "https://sdr-podcast.com/episodes/arc/"
+  },
+  {
     "date": "2023-09-20",
     "title": "The State of Async Rust: Runtimes | corrode Rust Consulting",
     "link": "https://corrode.dev/blog/async/"

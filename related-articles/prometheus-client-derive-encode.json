@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-10-16",
+    "title": "Cyanide - Improve an algorithm performance step by step",
+    "link": "https://blog.mapotofu.org/blogs/rabitq-bench/"
+  },
+  {
     "date": "2024-01-31",
     "title": "Introducing Foundations - our open source Rust service foundation library",
     "link": "https://blog.cloudflare.com/introducing-foundations-our-open-source-rust-service-foundation-library"

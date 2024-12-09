@@ -1,5 +1,10 @@
 [
   {
+    "date": "2024-11-27",
+    "title": "Making Rust a first-class citizen for Xen",
+    "link": "https://xcp-ng.org/blog/2024/11/26/making-rust-a-first-class-citizen-for-xen/"
+  },
+  {
     "date": "2023-11-15",
     "title": "Blog - Tracking the current active process in Windows with Rust · Hello Code.",
     "link": "https://hellocode.co/blog/post/tracking-active-process-windows-rust/"
