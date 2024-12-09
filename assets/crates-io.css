@@ -310,7 +310,6 @@ ul._quick-links_1unvv5 > * + * {
     }
 
 ._bytes_1nmwg6 {
-    font-feature-settings: "tnum";
     font-variant-numeric: tabular-nums;
 }
 
@@ -2771,7 +2770,6 @@ noscript {
     overflow: hidden;
     margin-right: var(--space-s);
     font-weight: 500;
-    font-feature-settings: "tnum";
     font-variant-numeric: tabular-nums;
     color: var(--fg-color);
     background-color: var(--bg-color);
@@ -2818,7 +2816,6 @@ noscript {
     overflow: hidden;
     color: var(--fg-color);
     font-weight: 500;
-    font-feature-settings: "tnum";
     font-variant-numeric: tabular-nums;
     outline: none;
 }
@@ -2926,7 +2923,6 @@ noscript {
     }
 
 ._bytes_1hx43t {
-    font-feature-settings: "tnum";
     font-variant-numeric: tabular-nums;
     text-transform: none;
 }
@@ -3214,7 +3210,6 @@ noscript {
     margin-right: var(--space-s);
     min-width: 100px;
     color: var(--range-color);
-    font-feature-settings: "tnum";
     font-variant: tabular-nums;
 }
 
@@ -3833,7 +3828,6 @@ noscript {
     color: var(--grey600);
     font-size: 16px;
     font-weight: 500;
-    font-feature-settings: "tnum";
     font-variant: tabular-nums;
 }
 
@@ -4316,7 +4310,6 @@ noscript {
     overflow: hidden;
     margin-right: var(--space-s);
     font-weight: 500;
-    font-feature-settings: "tnum";
     font-variant-numeric: tabular-nums;
     color: var(--fg-color);
     background-color: var(--bg-color);
@@ -4363,7 +4356,6 @@ noscript {
     overflow: hidden;
     color: var(--fg-color);
     font-weight: 500;
-    font-feature-settings: "tnum";
     font-variant-numeric: tabular-nums;
     outline: none;
 }
@@ -4471,7 +4463,6 @@ noscript {
     }
 
 ._bytes_ofj1qe {
-    font-feature-settings: "tnum";
     font-variant-numeric: tabular-nums;
     text-transform: none;
 }
