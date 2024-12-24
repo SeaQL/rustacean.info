@@ -1,0 +1,23 @@
+[
+    {
+        "title": "SeaORM README",
+        "markdown": "https://raw.githubusercontent.com/SeaQL/sea-orm/refs/heads/master/README.md",
+        "author_name": "SeaQL",
+        "author_thumbnail": "https://avatars.githubusercontent.com/u/73226408",
+        "updated_at": "2024-12-21"
+    },
+    {
+        "title": "SeaQuery README",
+        "markdown": "https://raw.githubusercontent.com/SeaQL/sea-query/refs/heads/master/README.md",
+        "author_name": "SeaQL",
+        "author_thumbnail": "https://avatars.githubusercontent.com/u/73226408",
+        "updated_at": "2024-12-22"
+    },
+    {
+        "title": "SeaSchema README",
+        "markdown": "https://raw.githubusercontent.com/SeaQL/sea-schema/refs/heads/master/README.md",
+        "author_name": "SeaQL",
+        "author_thumbnail": "https://avatars.githubusercontent.com/u/73226408",
+        "updated_at": "2024-12-23"
+    }
+]
