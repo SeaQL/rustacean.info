@@ -25,5 +25,14 @@
         "author_link": "https://github.com/SeaQL",
         "author_thumbnail": "https://avatars.githubusercontent.com/u/73226408",
         "updated_at": "2024-12-23"
+    },
+    "sea-streamer-readme": {
+        "title": "SeaStreamer README",
+        "description": "🌊 Stream processing toolkit for Redis & Kafka",
+        "markdown": "https://raw.githubusercontent.com/SeaQL/sea-streamer/refs/heads/main/README.md",
+        "author_name": "SeaQL",
+        "author_link": "https://github.com/SeaQL",
+        "author_thumbnail": "https://avatars.githubusercontent.com/u/73226408",
+        "updated_at": "2024-12-24"
     }
 }
