@@ -1,0 +1,1 @@
+{"version":3,"sources":["../rewritten-packages/@embroider/synthesized-vendor/vendor/qunit.css"],"sourcesContent":["[data-app-test] .ember-application {\n  background-color: var(--header-bg-color);\n}\n"],"names":[],"mappings":"AAAA;AACA;AACA;","file":"test-support.css"}
