@@ -1508,6 +1508,102 @@ noscript {
 
 ._tan-button_1u6878 {
 }
+/* styles for crates-io/styles/blog-post.module.css */
+._heading_1p551g {
+    display: flex;
+    align-items: baseline;
+    margin: 0;
+}
+
+._blog-row_1p551g {
+    --csstools-light-dark-toggle--9: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--9, #232321);
+
+    padding: var(--space-s-m) var(--space-m-l);
+    background-color: var(--header-bg-color);
+    border-radius: var(--space-3xs);
+    box-shadow: var(--shadow);
+}
+
+._blog-row_1p551g * {
+    --csstools-light-dark-toggle--9: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--9, #232321);
+}
+
+._title_1p551g {
+    color: var(--main-color);
+    font-weight: bold;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    font-size: 120%;
+    overflow-wrap: break-word;
+}
+
+._description_1p551g {
+    margin-top: var(--space-xs);
+    line-height: 1.5em;
+}
+
+._description-clipped_1p551g {
+    height: 4.5em;
+    overflow: clip;
+}
+
+._footer_1p551g {
+    margin-top: var(--space-xs);
+}
+
+._footer_1p551g, ._footer_1p551g > * {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+
+._name_1p551g {
+    font-weight: bold;
+}
+
+._avatar_1p551g {
+    margin-right: 10px;
+    border-radius: 50%;
+    background: white;
+    box-shadow: 1px 2px 2px 0 hsla(51, 50%, 44%, .35);
+    padding: 1px;
+}
+
+._updated-at_1p551g {
+    color: var(--main-color-light);
+}
+
+._content_1p551g {
+    --csstools-light-dark-toggle--30: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--30, #232321);
+
+    margin-bottom: var(--space-l);
+    padding: var(--space-m) var(--space-l);
+    background-color: var(--main-bg-dark);
+    border-radius: var(--space-3xs);
+    box-shadow: var(--shadow);
+}
+
+._content_1p551g * {
+    --csstools-light-dark-toggle--30: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--30, #232321);
+}
+
+@media only screen and (max-width: 550px) {
+
+._content_1p551g {
+        margin-left: calc(var(--main-layout-padding) * -1);
+        margin-right: calc(var(--main-layout-padding) * -1);
+        border-radius: 0;
+}
+    }
+
+/* @media only screen and (min-width: 890px) {
+        margin-bottom: 0;
+    } */
+
 /* styles for crates-io/styles/catch-all.module.css */
 ._wrapper_1keoc8 {
     height: 100%;
@@ -1561,8 +1657,8 @@ noscript {
 ._list_3a7a8o {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--30: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--30, #232321);
+    --csstools-light-dark-toggle--31: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--31, #232321);
     margin-bottom: var(--space-s);
 }
 
@@ -1571,8 +1667,8 @@ noscript {
     }
 
 ._list_3a7a8o > * + * {
-        --csstools-light-dark-toggle--31: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--31, #424242);
+        --csstools-light-dark-toggle--32: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--32, #424242);
     }
 
 ._crate-count_3a7a8o {
@@ -1602,8 +1698,8 @@ noscript {
 ._subcategories_1tl449 {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--32: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--32, #232321);
+    --csstools-light-dark-toggle--33: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--33, #232321);
     margin-bottom: var(--space-s);
 }
 
@@ -1612,8 +1708,8 @@ noscript {
     }
 
 ._subcategories_1tl449 > * + * {
-        --csstools-light-dark-toggle--33: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--33, #424242);
+        --csstools-light-dark-toggle--34: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--34, #424242);
     }
 
 ._crate-count_1tl449,
@@ -1677,8 +1773,8 @@ noscript {
     padding: var(--space-s) var(--space-m);
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--9: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--9, #232321);
+    --csstools-light-dark-toggle--10: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--10, #232321);
 }
 
 ._email-input-label_ill4ud {
@@ -1695,8 +1791,8 @@ noscript {
 ._list_ill4ud {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--34: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--34, #232321);
+    --csstools-light-dark-toggle--35: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--35, #232321);
 }
 
 ._list_ill4ud > * {
@@ -1708,8 +1804,8 @@ noscript {
     }
 
 ._list_ill4ud > * + * {
-        --csstools-light-dark-toggle--35: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--35, #232321);
+        --csstools-light-dark-toggle--36: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--36, #232321);
     }
 
 ._email-column_ill4ud {
@@ -1729,8 +1825,8 @@ noscript {
     }
 
 ._docs_1ph5zq {
-    --csstools-light-dark-toggle--36: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--36, #232321);
+    --csstools-light-dark-toggle--37: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--37, #232321);
 
     margin-bottom: var(--space-l);
     padding: var(--space-m) var(--space-l);
@@ -1740,8 +1836,8 @@ noscript {
 }
 
 ._docs_1ph5zq * {
-    --csstools-light-dark-toggle--36: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--36, #232321);
+    --csstools-light-dark-toggle--37: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--37, #232321);
 }
 
 @media only screen and (max-width: 550px) {
@@ -2040,8 +2136,8 @@ noscript {
 ._feed_10qjad {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--10: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--10, #232321);
+    --csstools-light-dark-toggle--11: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--11, #232321);
     margin: var(--space-s) 0;
 }
 
@@ -2058,8 +2154,8 @@ noscript {
     }
 
 ._feed-list_10qjad > * + * {
-        --csstools-light-dark-toggle--37: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--37, #232321);
+        --csstools-light-dark-toggle--38: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--38, #232321);
     }
 
 ._feed-version_10qjad {
@@ -2072,8 +2168,8 @@ noscript {
 
 ._load-more_10qjad {
     padding: var(--space-s);
-    --csstools-light-dark-toggle--38: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-    border-top: 1px solid var(--csstools-light-dark-toggle--38, #232321);
+    --csstools-light-dark-toggle--39: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+    border-top: 1px solid var(--csstools-light-dark-toggle--39, #232321);
 }
 
 ._load-more_10qjad button {
@@ -2083,14 +2179,14 @@ noscript {
         padding: var(--space-2xs);
         outline: 0;
         border: 0;
-        --csstools-light-dark-toggle--39: var(--csstools-color-scheme--dark) #dbd9cf;
-        background-color: var(--csstools-light-dark-toggle--39, #202023);
+        --csstools-light-dark-toggle--40: var(--csstools-color-scheme--dark) #dbd9cf;
+        background-color: var(--csstools-light-dark-toggle--40, #202023);
         color: white;
     }
 
 ._load-more_10qjad button:hover, ._load-more_10qjad button:focus {
-            --csstools-light-dark-toggle--40: var(--csstools-color-scheme--dark) #c5c2b2;
-            background-color: var(--csstools-light-dark-toggle--40, #26262b);
+            --csstools-light-dark-toggle--41: var(--csstools-color-scheme--dark) #c5c2b2;
+            background-color: var(--csstools-light-dark-toggle--41, #26262b);
         }
 
 /* styles for crates-io/styles/index.module.css */
@@ -2268,8 +2364,8 @@ noscript {
 ._list_gf7abo {
     background-color: var(--header-bg-color);
     border-radius: var(--space-3xs);
-    --csstools-light-dark-toggle--41: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--41, #232321);
+    --csstools-light-dark-toggle--42: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--42, #232321);
     margin-bottom: var(--space-s);
 }
 
@@ -2278,8 +2374,8 @@ noscript {
     }
 
 ._list_gf7abo > * + * {
-        --csstools-light-dark-toggle--42: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
-        border-top: 1px solid var(--csstools-light-dark-toggle--42, #424242);
+        --csstools-light-dark-toggle--43: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .25);
+        border-top: 1px solid var(--csstools-light-dark-toggle--43, #424242);
     }
 
 ._crate-count_gf7abo {
@@ -2409,15 +2505,15 @@ noscript {
 
 ._help-link_6v2mdb {
     flex-shrink: 0;
-    --csstools-light-dark-toggle--43: var(--csstools-color-scheme--dark) var(--grey600);
-    color: var(--csstools-light-dark-toggle--43, var(--grey700));
+    --csstools-light-dark-toggle--44: var(--csstools-color-scheme--dark) var(--grey600);
+    color: var(--csstools-light-dark-toggle--44, var(--grey700));
     padding: var(--space-3xs);
     margin: calc(-1 * var(--space-3xs));
 }
 
 ._help-link_6v2mdb:hover {
-        --csstools-light-dark-toggle--44: var(--csstools-color-scheme--dark) var(--grey700);
-        color: var(--csstools-light-dark-toggle--44, var(--grey600));
+        --csstools-light-dark-toggle--45: var(--csstools-color-scheme--dark) var(--grey700);
+        color: var(--csstools-light-dark-toggle--45, var(--grey600));
     }
 
 ._help-link_6v2mdb svg {
@@ -2449,8 +2545,8 @@ noscript {
 }
 
 ._base-input_6v2mdb[aria-invalid="true"] {
-        --csstools-light-dark-toggle--45: var(--csstools-color-scheme--dark) #fff2f2;
-        background: var(--csstools-light-dark-toggle--45, #170808);
+        --csstools-light-dark-toggle--46: var(--csstools-color-scheme--dark) #fff2f2;
+        background: var(--csstools-light-dark-toggle--46, #170808);
         border-color: red;
     }
 
@@ -2489,8 +2585,8 @@ noscript {
 }
 
 ._scopes-list_6v2mdb._invalid_6v2mdb {
-        --csstools-light-dark-toggle--46: var(--csstools-color-scheme--dark) #fff2f2;
-        background: var(--csstools-light-dark-toggle--46, #170808);
+        --csstools-light-dark-toggle--47: var(--csstools-color-scheme--dark) #fff2f2;
+        background: var(--csstools-light-dark-toggle--47, #170808);
         border-color: red;
     }
 
@@ -2556,8 +2652,8 @@ noscript {
     }
 
 ._crates-scope_6v2mdb._invalid_6v2mdb input {
-        --csstools-light-dark-toggle--47: var(--csstools-color-scheme--dark) #fff2f2;
-        background: var(--csstools-light-dark-toggle--47, #170808);
+        --csstools-light-dark-toggle--48: var(--csstools-color-scheme--dark) #fff2f2;
+        background: var(--csstools-light-dark-toggle--48, #170808);
         border-color: red;
     }
 
@@ -2574,10 +2670,10 @@ noscript {
     }
 
 ._crates-scope_6v2mdb > button:hover {
-            --csstools-light-dark-toggle--48: var(--csstools-color-scheme--dark) var(--grey200);
-            background: var(--csstools-light-dark-toggle--48, #333333);
-            --csstools-light-dark-toggle--49: var(--csstools-color-scheme--dark) var(--grey900);
-            color: var(--csstools-light-dark-toggle--49, white);
+            --csstools-light-dark-toggle--49: var(--csstools-color-scheme--dark) var(--grey200);
+            background: var(--csstools-light-dark-toggle--49, #333333);
+            --csstools-light-dark-toggle--50: var(--csstools-color-scheme--dark) var(--grey900);
+            color: var(--csstools-light-dark-toggle--50, white);
         }
 
 ._crates-scope_6v2mdb > button svg {
@@ -2615,8 +2711,8 @@ noscript {
 }
 
 ._crates-pattern-button_6v2mdb button:hover {
-        --csstools-light-dark-toggle--50: var(--csstools-color-scheme--dark) var(--grey200);
-        background: var(--csstools-light-dark-toggle--50, #333333);
+        --csstools-light-dark-toggle--51: var(--csstools-color-scheme--dark) var(--grey200);
+        background: var(--csstools-light-dark-toggle--51, #333333);
     }
 
 ._generate-button_6v2mdb {
@@ -2713,14 +2809,14 @@ noscript {
 
 /* styles for crates-io/components/article-list/row.module.css */
 ._row_1hx43t {
-    --csstools-light-dark-toggle--51: var(--csstools-color-scheme--dark) var(--grey200);
-    --bg-color: var(--csstools-light-dark-toggle--51, #242422);
-    --csstools-light-dark-toggle--52: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--52, hsl(204, 3%, 11%));
-    --csstools-light-dark-toggle--53: var(--csstools-color-scheme--dark) var(--grey700);
-    --fg-color: var(--csstools-light-dark-toggle--53, #ccc);
-    --csstools-light-dark-toggle--54: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--54, #232321);
+    --csstools-light-dark-toggle--52: var(--csstools-color-scheme--dark) var(--grey200);
+    --bg-color: var(--csstools-light-dark-toggle--52, #242422);
+    --csstools-light-dark-toggle--53: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--53, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--54: var(--csstools-color-scheme--dark) var(--grey700);
+    --fg-color: var(--csstools-light-dark-toggle--54, #ccc);
+    --csstools-light-dark-toggle--55: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--55, #232321);
 
     display: flex;
     flex-direction: column;
@@ -2729,27 +2825,27 @@ noscript {
     font-size: 18px;
     padding: var(--space-s) var(--space-m);
     background-color: var(--header-bg-color);
-    --csstools-light-dark-toggle--55: var(--csstools-color-scheme--dark) #525252;
-    color: var(--csstools-light-dark-toggle--55, #f9f7ec);
+    --csstools-light-dark-toggle--56: var(--csstools-color-scheme--dark) #525252;
+    color: var(--csstools-light-dark-toggle--56, #f9f7ec);
     border-radius: var(--space-3xs);
     box-shadow: var(--shadow);
     transition: all var(--transition-slow);
 }
 ._row_1hx43t * {
-    --csstools-light-dark-toggle--51: var(--csstools-color-scheme--dark) var(--grey200);
-    --bg-color: var(--csstools-light-dark-toggle--51, #242422);
+    --csstools-light-dark-toggle--52: var(--csstools-color-scheme--dark) var(--grey200);
+    --bg-color: var(--csstools-light-dark-toggle--52, #242422);
 }
 ._row_1hx43t * {
-    --csstools-light-dark-toggle--52: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--52, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--53: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--53, hsl(204, 3%, 11%));
 }
 ._row_1hx43t * {
-    --csstools-light-dark-toggle--53: var(--csstools-color-scheme--dark) var(--grey700);
-    --fg-color: var(--csstools-light-dark-toggle--53, #ccc);
+    --csstools-light-dark-toggle--54: var(--csstools-color-scheme--dark) var(--grey700);
+    --fg-color: var(--csstools-light-dark-toggle--54, #ccc);
 }
 ._row_1hx43t * {
-    --csstools-light-dark-toggle--54: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--54, #232321);
+    --csstools-light-dark-toggle--55: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--55, #232321);
 }
 ._row_1hx43t:hover, ._row_1hx43t._focused_1hx43t {
         color: var(--yellow500);
@@ -2759,64 +2855,64 @@ noscript {
         box-shadow: 0 0 0 3px var(--yellow500), var(--shadow);
     }
 ._row_1hx43t._latest_1hx43t {
-        --csstools-light-dark-toggle--56: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
-        --bg-color: var(--csstools-light-dark-toggle--56, hsl(136, 67%, 11%));
-        --csstools-light-dark-toggle--57: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--57, hsl(109, 10%, 11%));
-        --csstools-light-dark-toggle--58: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
-        --fg-color: var(--csstools-light-dark-toggle--58, hsl(109, 75%, 87%));
+        --csstools-light-dark-toggle--57: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
+        --bg-color: var(--csstools-light-dark-toggle--57, hsl(136, 67%, 11%));
+        --csstools-light-dark-toggle--58: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--58, hsl(109, 10%, 11%));
+        --csstools-light-dark-toggle--59: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
+        --fg-color: var(--csstools-light-dark-toggle--59, hsl(109, 75%, 87%));
     }
 ._row_1hx43t._latest_1hx43t * {
-        --csstools-light-dark-toggle--56: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
-        --bg-color: var(--csstools-light-dark-toggle--56, hsl(136, 67%, 11%));
+        --csstools-light-dark-toggle--57: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
+        --bg-color: var(--csstools-light-dark-toggle--57, hsl(136, 67%, 11%));
 }
 ._row_1hx43t._latest_1hx43t * {
-        --csstools-light-dark-toggle--57: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--57, hsl(109, 10%, 11%));
+        --csstools-light-dark-toggle--58: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--58, hsl(109, 10%, 11%));
 }
 ._row_1hx43t._latest_1hx43t * {
-        --csstools-light-dark-toggle--58: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
-        --fg-color: var(--csstools-light-dark-toggle--58, hsl(109, 75%, 87%));
+        --csstools-light-dark-toggle--59: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
+        --fg-color: var(--csstools-light-dark-toggle--59, hsl(109, 75%, 87%));
 }
 ._row_1hx43t._prerelease_1hx43t {
-        --csstools-light-dark-toggle--59: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
-        --bg-color: var(--csstools-light-dark-toggle--59, hsl(39, 71%, 15%));
-        --csstools-light-dark-toggle--60: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--60, hsl(39, 10%, 11%));
-        --csstools-light-dark-toggle--61: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
-        --fg-color: var(--csstools-light-dark-toggle--61, hsl(39, 100%, 91%));
+        --csstools-light-dark-toggle--60: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
+        --bg-color: var(--csstools-light-dark-toggle--60, hsl(39, 71%, 15%));
+        --csstools-light-dark-toggle--61: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--61, hsl(39, 10%, 11%));
+        --csstools-light-dark-toggle--62: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
+        --fg-color: var(--csstools-light-dark-toggle--62, hsl(39, 100%, 91%));
     }
 ._row_1hx43t._prerelease_1hx43t * {
-        --csstools-light-dark-toggle--59: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
-        --bg-color: var(--csstools-light-dark-toggle--59, hsl(39, 71%, 15%));
+        --csstools-light-dark-toggle--60: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
+        --bg-color: var(--csstools-light-dark-toggle--60, hsl(39, 71%, 15%));
 }
 ._row_1hx43t._prerelease_1hx43t * {
-        --csstools-light-dark-toggle--60: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--60, hsl(39, 10%, 11%));
+        --csstools-light-dark-toggle--61: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--61, hsl(39, 10%, 11%));
 }
 ._row_1hx43t._prerelease_1hx43t * {
-        --csstools-light-dark-toggle--61: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
-        --fg-color: var(--csstools-light-dark-toggle--61, hsl(39, 100%, 91%));
+        --csstools-light-dark-toggle--62: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
+        --fg-color: var(--csstools-light-dark-toggle--62, hsl(39, 100%, 91%));
 }
 ._row_1hx43t._yanked_1hx43t {
-        --csstools-light-dark-toggle--62: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
-        --bg-color: var(--csstools-light-dark-toggle--62, hsl(0, 84%, 12%));
-        --csstools-light-dark-toggle--63: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--63, hsl(0, 10%, 11%));
-        --csstools-light-dark-toggle--64: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
-        --fg-color: var(--csstools-light-dark-toggle--64, hsl(0, 92%, 90%));
+        --csstools-light-dark-toggle--63: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
+        --bg-color: var(--csstools-light-dark-toggle--63, hsl(0, 84%, 12%));
+        --csstools-light-dark-toggle--64: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--64, hsl(0, 10%, 11%));
+        --csstools-light-dark-toggle--65: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
+        --fg-color: var(--csstools-light-dark-toggle--65, hsl(0, 92%, 90%));
     }
 ._row_1hx43t._yanked_1hx43t * {
-        --csstools-light-dark-toggle--62: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
-        --bg-color: var(--csstools-light-dark-toggle--62, hsl(0, 84%, 12%));
+        --csstools-light-dark-toggle--63: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
+        --bg-color: var(--csstools-light-dark-toggle--63, hsl(0, 84%, 12%));
 }
 ._row_1hx43t._yanked_1hx43t * {
-        --csstools-light-dark-toggle--63: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--63, hsl(0, 10%, 11%));
+        --csstools-light-dark-toggle--64: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--64, hsl(0, 10%, 11%));
 }
 ._row_1hx43t._yanked_1hx43t * {
-        --csstools-light-dark-toggle--64: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
-        --fg-color: var(--csstools-light-dark-toggle--64, hsl(0, 92%, 90%));
+        --csstools-light-dark-toggle--65: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
+        --fg-color: var(--csstools-light-dark-toggle--65, hsl(0, 92%, 90%));
 }
 ._row_1hx43t [title], ._row_1hx43t .ember-tooltip-target {
         position: relative;
@@ -2853,8 +2949,8 @@ noscript {
     font-variant-numeric: tabular-nums;
     color: var(--fg-color);
     background-color: var(--bg-color);
-    --csstools-light-dark-toggle--65: var(--csstools-color-scheme--dark) white;
-    border: 1px solid var(--csstools-light-dark-toggle--65, #808080);
+    --csstools-light-dark-toggle--66: var(--csstools-color-scheme--dark) white;
+    border: 1px solid var(--csstools-light-dark-toggle--66, #808080);
     border-radius: 50%;
     transition: all var(--transition-fast);
 }
@@ -2865,10 +2961,10 @@ noscript {
     }
 
 ._row_1hx43t:hover ._release-track_1hx43t, ._row_1hx43t._focused_1hx43t ._release-track_1hx43t {
-        --csstools-light-dark-toggle--66: var(--csstools-color-scheme--dark) white;
-        border: var(--space-4xs) solid var(--csstools-light-dark-toggle--66, #bfbfbf);
-        --csstools-light-dark-toggle--67: var(--csstools-color-scheme--dark) var(--fg-color);
-        box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--67, #232321);
+        --csstools-light-dark-toggle--67: var(--csstools-color-scheme--dark) white;
+        border: var(--space-4xs) solid var(--csstools-light-dark-toggle--67, #bfbfbf);
+        --csstools-light-dark-toggle--68: var(--csstools-color-scheme--dark) var(--fg-color);
+        box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--68, #232321);
     }
 
 @media only screen and (max-width: 550px) {
@@ -2916,8 +3012,8 @@ noscript {
 ._metadata_1hx43t {
     flex-grow: 1;
     margin-top: var(--space-3xs);
-    --csstools-light-dark-toggle--68: var(--csstools-color-scheme--dark) var(--grey600);
-    color: var(--csstools-light-dark-toggle--68, #d1cfc7);
+    --csstools-light-dark-toggle--69: var(--csstools-color-scheme--dark) var(--grey600);
+    color: var(--csstools-light-dark-toggle--69, #d1cfc7);
     text-transform: uppercase;
     letter-spacing: .7px;
     font-size: 13px;
@@ -2929,8 +3025,8 @@ noscript {
     }
 
 ._metadata_1hx43t a:hover {
-            --csstools-light-dark-toggle--69: var(--csstools-color-scheme--dark) var(--grey900);
-            color: var(--csstools-light-dark-toggle--69, #f5f3e9);
+            --csstools-light-dark-toggle--70: var(--csstools-color-scheme--dark) var(--grey900);
+            color: var(--csstools-light-dark-toggle--70, #f5f3e9);
         }
 
 ._metadata_1hx43t a:focus-visible {
@@ -3025,6 +3121,19 @@ noscript {
 }
     }
 
+/* styles for crates-io/components/breadcrumb.module.css */
+._breadcrumb_1ikt7z {
+    margin-bottom: 18px;
+}
+
+._sep_1ikt7z {
+    margin: 0px 8px;
+}
+
+._link_1ikt7z {
+    color: white;
+}
+
 /* styles for crates-io/components/crate-downloads-list.module.css */
 ._list_1msd3z {
     list-style: none;
@@ -3036,10 +3145,10 @@ noscript {
     }
 
 ._link_1msd3z {
-    --csstools-light-dark-toggle--11: var(--csstools-color-scheme--dark) #525252;
-    color: var(--csstools-light-dark-toggle--11, #999999);
-    --csstools-light-dark-toggle--12: var(--csstools-color-scheme--dark) #edebdd;
-    background-color: var(--csstools-light-dark-toggle--12, #141413);
+    --csstools-light-dark-toggle--12: var(--csstools-color-scheme--dark) #525252;
+    color: var(--csstools-light-dark-toggle--12, #999999);
+    --csstools-light-dark-toggle--13: var(--csstools-color-scheme--dark) #edebdd;
+    background-color: var(--csstools-light-dark-toggle--13, #141413);
     font-size: 90%;
     padding: var(--space-s) var(--space-xs);
     display: flex;
@@ -3214,15 +3323,15 @@ noscript {
 /* styles for crates-io/components/dependency-list/row.module.css */
 ._row_vcihpv {
     --bg-color: var(--grey200);
-    --csstools-light-dark-toggle--70: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--70, hsl(204, 3%, 11%));
-    --csstools-light-dark-toggle--71: var(--csstools-color-scheme--dark) var(--grey900);
-    --range-color: var(--csstools-light-dark-toggle--71, #d1cfc7);
-    --csstools-light-dark-toggle--72: var(--csstools-color-scheme--dark) var(--grey700);
-    --crate-color: var(--csstools-light-dark-toggle--72, #d1cfc7);
+    --csstools-light-dark-toggle--71: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--71, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--72: var(--csstools-color-scheme--dark) var(--grey900);
+    --range-color: var(--csstools-light-dark-toggle--72, #d1cfc7);
+    --csstools-light-dark-toggle--73: var(--csstools-color-scheme--dark) var(--grey700);
+    --crate-color: var(--csstools-light-dark-toggle--73, #d1cfc7);
     --placeholder-opacity: 0.35;
-    --csstools-light-dark-toggle--73: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--73, #232321);
+    --csstools-light-dark-toggle--74: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--74, #232321);
 
     display: flex;
     align-items: center;
@@ -3235,20 +3344,20 @@ noscript {
     transition: all var(--transition-slow);
 }
 ._row_vcihpv * {
-    --csstools-light-dark-toggle--70: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--70, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--71: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--71, hsl(204, 3%, 11%));
 }
 ._row_vcihpv * {
-    --csstools-light-dark-toggle--71: var(--csstools-color-scheme--dark) var(--grey900);
-    --range-color: var(--csstools-light-dark-toggle--71, #d1cfc7);
+    --csstools-light-dark-toggle--72: var(--csstools-color-scheme--dark) var(--grey900);
+    --range-color: var(--csstools-light-dark-toggle--72, #d1cfc7);
 }
 ._row_vcihpv * {
-    --csstools-light-dark-toggle--72: var(--csstools-color-scheme--dark) var(--grey700);
-    --crate-color: var(--csstools-light-dark-toggle--72, #d1cfc7);
+    --csstools-light-dark-toggle--73: var(--csstools-color-scheme--dark) var(--grey700);
+    --crate-color: var(--csstools-light-dark-toggle--73, #d1cfc7);
 }
 ._row_vcihpv * {
-    --csstools-light-dark-toggle--73: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--73, #232321);
+    --csstools-light-dark-toggle--74: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--74, #232321);
 }
 ._row_vcihpv:hover, ._row_vcihpv._focused_vcihpv {
         background-color: var(--hover-bg-color);
@@ -3258,19 +3367,19 @@ noscript {
         box-shadow: 0 0 0 3px var(--yellow500), var(--shadow);
     }
 ._row_vcihpv._optional_vcihpv {
-        --csstools-light-dark-toggle--74: var(--csstools-color-scheme--dark) var(--grey600);
-        --range-color: var(--csstools-light-dark-toggle--74, var(--grey600));
         --csstools-light-dark-toggle--75: var(--csstools-color-scheme--dark) var(--grey600);
-        --crate-color: var(--csstools-light-dark-toggle--75, var(--grey600));
+        --range-color: var(--csstools-light-dark-toggle--75, var(--grey600));
+        --csstools-light-dark-toggle--76: var(--csstools-color-scheme--dark) var(--grey600);
+        --crate-color: var(--csstools-light-dark-toggle--76, var(--grey600));
         --placeholder-opacity: 0.15;
     }
 ._row_vcihpv._optional_vcihpv * {
-        --csstools-light-dark-toggle--74: var(--csstools-color-scheme--dark) var(--grey600);
-        --range-color: var(--csstools-light-dark-toggle--74, var(--grey600));
+        --csstools-light-dark-toggle--75: var(--csstools-color-scheme--dark) var(--grey600);
+        --range-color: var(--csstools-light-dark-toggle--75, var(--grey600));
 }
 ._row_vcihpv._optional_vcihpv * {
-        --csstools-light-dark-toggle--75: var(--csstools-color-scheme--dark) var(--grey600);
-        --crate-color: var(--csstools-light-dark-toggle--75, var(--grey600));
+        --csstools-light-dark-toggle--76: var(--csstools-color-scheme--dark) var(--grey600);
+        --crate-color: var(--csstools-light-dark-toggle--76, var(--grey600));
 }
 ._row_vcihpv [title], ._row_vcihpv .ember-tooltip-target {
         position: relative;
@@ -3485,13 +3594,13 @@ noscript {
 
 /* styles for crates-io/components/front-page-list/item.module.css */
 ._link_1k20sr a {
-    --csstools-light-dark-toggle--13: var(--csstools-color-scheme--dark) #525252;
-    color: var(--csstools-light-dark-toggle--13, #f9f7ec);
+    --csstools-light-dark-toggle--14: var(--csstools-color-scheme--dark) #525252;
+    color: var(--csstools-light-dark-toggle--14, #f9f7ec);
 }
 
 ._link_1k20sr {
-    --csstools-light-dark-toggle--76: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--76, #232321);
+    --csstools-light-dark-toggle--77: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--77, #232321);
 
     display: flex;
     align-items: center;
@@ -3499,8 +3608,8 @@ noscript {
     height: var(--space-2xl);
     padding: 0 var(--space-s);
     background-color: var(--header-bg-color);
-    --csstools-light-dark-toggle--77: var(--csstools-color-scheme--dark) #525252;
-    color: var(--csstools-light-dark-toggle--77, #f9f7ec);
+    --csstools-light-dark-toggle--78: var(--csstools-color-scheme--dark) #525252;
+    color: var(--csstools-light-dark-toggle--78, #f9f7ec);
     -webkit-text-decoration: none;
     -webkit-text-decoration: none;
     text-decoration: none;
@@ -3510,8 +3619,8 @@ noscript {
 }
 
 ._link_1k20sr * {
-    --csstools-light-dark-toggle--76: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--76, #232321);
+    --csstools-light-dark-toggle--77: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--77, #232321);
 }
 
 ._link_1k20sr:focus-visible {
@@ -3547,8 +3656,8 @@ noscript {
 ._subtitle_1k20sr {
     margin-top: var(--space-3xs);
     font-size: 13px;
-    --csstools-light-dark-toggle--14: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
-    color: var(--csstools-light-dark-toggle--14, #cccac2);
+    --csstools-light-dark-toggle--15: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
+    color: var(--csstools-light-dark-toggle--15, #cccac2);
 }
 
 ._right_1k20sr {
@@ -3556,18 +3665,18 @@ noscript {
     height: var(--space-s);
     width: auto;
     margin-left: var(--space-xs);
-    --csstools-light-dark-toggle--15: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
-    color: var(--csstools-light-dark-toggle--15, #cccac2);
+    --csstools-light-dark-toggle--16: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
+    color: var(--csstools-light-dark-toggle--16, #cccac2);
 }
 
 /* styles for crates-io/components/front-page-list/item/placeholder.module.css */
 ._link_kq6lyo {
-    --csstools-light-dark-toggle--16: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--16, #232321);
-    --csstools-light-dark-toggle--17: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 1.0);
-    --placeholder-bg: var(--csstools-light-dark-toggle--17, hsl(60, 14%, 85%));
-    --csstools-light-dark-toggle--18: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 0.7);
-    --placeholder-bg2: var(--csstools-light-dark-toggle--18, hsla(59, 5%, 50%, 0.7));
+    --csstools-light-dark-toggle--17: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--17, #232321);
+    --csstools-light-dark-toggle--18: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 1.0);
+    --placeholder-bg: var(--csstools-light-dark-toggle--18, hsl(60, 14%, 85%));
+    --csstools-light-dark-toggle--19: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 0.7);
+    --placeholder-bg2: var(--csstools-light-dark-toggle--19, hsla(59, 5%, 50%, 0.7));
 
     display: flex;
     align-items: center;
@@ -3576,23 +3685,23 @@ noscript {
     margin: 8px 0;
     padding: 0 var(--space-s);
     background-color: var(--header-bg-color);
-    --csstools-light-dark-toggle--19: var(--csstools-color-scheme--dark) #525252;
-    color: var(--csstools-light-dark-toggle--19, #f9f7ec);
+    --csstools-light-dark-toggle--20: var(--csstools-color-scheme--dark) #525252;
+    color: var(--csstools-light-dark-toggle--20, #f9f7ec);
     border-radius: var(--space-3xs);
     box-shadow: var(--shadow);
     cursor: wait;
 }
 ._link_kq6lyo * {
-    --csstools-light-dark-toggle--16: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--16, #232321);
+    --csstools-light-dark-toggle--17: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
+    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--17, #232321);
 }
 ._link_kq6lyo * {
-    --csstools-light-dark-toggle--17: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 1.0);
-    --placeholder-bg: var(--csstools-light-dark-toggle--17, hsl(60, 14%, 85%));
+    --csstools-light-dark-toggle--18: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 1.0);
+    --placeholder-bg: var(--csstools-light-dark-toggle--18, hsl(60, 14%, 85%));
 }
 ._link_kq6lyo * {
-    --csstools-light-dark-toggle--18: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 0.7);
-    --placeholder-bg2: var(--csstools-light-dark-toggle--18, hsla(59, 5%, 50%, 0.7));
+    --csstools-light-dark-toggle--19: var(--csstools-color-scheme--dark) hsla(59, 19%, 50%, 0.7);
+    --placeholder-bg2: var(--csstools-light-dark-toggle--19, hsla(59, 5%, 50%, 0.7));
 }
 
 ._left_kq6lyo {
@@ -3620,8 +3729,8 @@ noscript {
     height: var(--space-s);
     width: auto;
     margin-left: var(--space-xs);
-    --csstools-light-dark-toggle--20: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
-    color: var(--csstools-light-dark-toggle--20, #cccac2);
+    --csstools-light-dark-toggle--21: var(--csstools-color-scheme--dark) rgb(118, 131, 138);
+    color: var(--csstools-light-dark-toggle--21, #cccac2);
 }
 
 /* styles for crates-io/components/nav-tabs.module.css */
@@ -3820,13 +3929,13 @@ noscript {
 
 /* styles for crates-io/components/rev-dep-row.module.css */
 ._row_qc6rd8 {
-    --csstools-light-dark-toggle--78: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--78, hsl(204, 3%, 11%));
-    --csstools-light-dark-toggle--79: var(--csstools-color-scheme--dark) var(--grey700);
-    --crate-color: var(--csstools-light-dark-toggle--79, var(--grey600));
+    --csstools-light-dark-toggle--79: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--79, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--80: var(--csstools-color-scheme--dark) var(--grey700);
+    --crate-color: var(--csstools-light-dark-toggle--80, var(--grey600));
     --placeholder-opacity: 0.35;
-    --csstools-light-dark-toggle--80: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--80, #232321);
+    --csstools-light-dark-toggle--81: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--81, #232321);
 
     position: relative;
     font-size: 18px;
@@ -3837,16 +3946,16 @@ noscript {
     transition: all var(--transition-slow);
 }
 ._row_qc6rd8 * {
-    --csstools-light-dark-toggle--78: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--78, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--79: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--79, hsl(204, 3%, 11%));
 }
 ._row_qc6rd8 * {
-    --csstools-light-dark-toggle--79: var(--csstools-color-scheme--dark) var(--grey700);
-    --crate-color: var(--csstools-light-dark-toggle--79, var(--grey600));
+    --csstools-light-dark-toggle--80: var(--csstools-color-scheme--dark) var(--grey700);
+    --crate-color: var(--csstools-light-dark-toggle--80, var(--grey600));
 }
 ._row_qc6rd8 * {
-    --csstools-light-dark-toggle--80: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--80, #232321);
+    --csstools-light-dark-toggle--81: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--81, #232321);
 }
 ._row_qc6rd8:hover, ._row_qc6rd8._focused_qc6rd8 {
         background-color: var(--hover-bg-color);
@@ -3993,8 +4102,8 @@ noscript {
 }
 
 ._active_15zaly:hover {
-        --csstools-light-dark-toggle--81: var(--csstools-color-scheme--dark) #e5e1cd;
-        background-color: var(--csstools-light-dark-toggle--81, #262522);
+        --csstools-light-dark-toggle--82: var(--csstools-color-scheme--dark) #e5e1cd;
+        background-color: var(--csstools-light-dark-toggle--82, #262522);
     }
 
 /* styles for crates-io/components/sort-dropdown.module.css */
@@ -4073,15 +4182,15 @@ noscript {
         display: block;
         overflow-x: auto;
         padding: var(--space-xs);
-        --csstools-light-dark-toggle--82: var(--csstools-color-scheme--dark) #f6f8fa;
-        background-color: var(--csstools-light-dark-toggle--82, #161b22);
+        --csstools-light-dark-toggle--83: var(--csstools-color-scheme--dark) #f6f8fa;
+        background-color: var(--csstools-light-dark-toggle--83, #161b22);
         font-size: 85%;
         border-radius: var(--space-3xs);
     }
 
 ._wrapper_g1cur3 p code, ._wrapper_g1cur3 li code {
-            --csstools-light-dark-toggle--83: var(--csstools-color-scheme--dark) #f6f8fa;
-            background-color: var(--csstools-light-dark-toggle--83, #383836);
+            --csstools-light-dark-toggle--84: var(--csstools-color-scheme--dark) #f6f8fa;
+            background-color: var(--csstools-light-dark-toggle--84, #383836);
             border-radius: var(--space-3xs);
             font-size: 85%;
             margin: 0;
@@ -4158,16 +4267,16 @@ noscript {
     ._wrapper_g1cur3 .hljs-template-variable,
     ._wrapper_g1cur3 .hljs-type,
     ._wrapper_g1cur3 .hljs-variable.language_ {
-        --csstools-light-dark-toggle--84: var(--csstools-color-scheme--dark) #d73a49;
-        color: var(--csstools-light-dark-toggle--84, #ff7b72);
+        --csstools-light-dark-toggle--85: var(--csstools-color-scheme--dark) #d73a49;
+        color: var(--csstools-light-dark-toggle--85, #ff7b72);
     }
 
 ._wrapper_g1cur3 .hljs-title,
     ._wrapper_g1cur3 .hljs-title.class_,
     ._wrapper_g1cur3 .hljs-title.class_.inherited__,
     ._wrapper_g1cur3 .hljs-title.function_ {
-        --csstools-light-dark-toggle--85: var(--csstools-color-scheme--dark) #6f42c1;
-        color: var(--csstools-light-dark-toggle--85, #d2a8ff);
+        --csstools-light-dark-toggle--86: var(--csstools-color-scheme--dark) #6f42c1;
+        color: var(--csstools-light-dark-toggle--86, #d2a8ff);
     }
 
 ._wrapper_g1cur3 .hljs-attr,
@@ -4180,90 +4289,90 @@ noscript {
     ._wrapper_g1cur3 .hljs-selector-attr,
     ._wrapper_g1cur3 .hljs-selector-class,
     ._wrapper_g1cur3 .hljs-selector-id {
-        --csstools-light-dark-toggle--86: var(--csstools-color-scheme--dark) #005cc5;
-        color: var(--csstools-light-dark-toggle--86, #79c0ff);
+        --csstools-light-dark-toggle--87: var(--csstools-color-scheme--dark) #005cc5;
+        color: var(--csstools-light-dark-toggle--87, #79c0ff);
     }
 
 ._wrapper_g1cur3 .hljs-regexp,
     ._wrapper_g1cur3 .hljs-string,
     ._wrapper_g1cur3 .hljs-meta .hljs-string {
-        --csstools-light-dark-toggle--87: var(--csstools-color-scheme--dark) #032f62;
-        color: var(--csstools-light-dark-toggle--87, #a5d6ff);
+        --csstools-light-dark-toggle--88: var(--csstools-color-scheme--dark) #032f62;
+        color: var(--csstools-light-dark-toggle--88, #a5d6ff);
     }
 
 ._wrapper_g1cur3 .hljs-built_in,
     ._wrapper_g1cur3 .hljs-symbol {
-        --csstools-light-dark-toggle--88: var(--csstools-color-scheme--dark) #e36209;
-        color: var(--csstools-light-dark-toggle--88, #ffa657);
+        --csstools-light-dark-toggle--89: var(--csstools-color-scheme--dark) #e36209;
+        color: var(--csstools-light-dark-toggle--89, #ffa657);
     }
 
 ._wrapper_g1cur3 .hljs-comment,
     ._wrapper_g1cur3 .hljs-code,
     ._wrapper_g1cur3 .hljs-formula {
-        --csstools-light-dark-toggle--89: var(--csstools-color-scheme--dark) #6a737d;
-        color: var(--csstools-light-dark-toggle--89, #8b949e);
+        --csstools-light-dark-toggle--90: var(--csstools-color-scheme--dark) #6a737d;
+        color: var(--csstools-light-dark-toggle--90, #8b949e);
     }
 
 ._wrapper_g1cur3 .hljs-name,
     ._wrapper_g1cur3 .hljs-quote,
     ._wrapper_g1cur3 .hljs-selector-tag,
     ._wrapper_g1cur3 .hljs-selector-pseudo {
-        --csstools-light-dark-toggle--90: var(--csstools-color-scheme--dark) #22863a;
-        color: var(--csstools-light-dark-toggle--90, #7ee787);
+        --csstools-light-dark-toggle--91: var(--csstools-color-scheme--dark) #22863a;
+        color: var(--csstools-light-dark-toggle--91, #7ee787);
     }
 
 ._wrapper_g1cur3 .hljs-subst {
-        --csstools-light-dark-toggle--91: var(--csstools-color-scheme--dark) #24292e;
-        color: var(--csstools-light-dark-toggle--91, #c9d1d9);
+        --csstools-light-dark-toggle--92: var(--csstools-color-scheme--dark) #24292e;
+        color: var(--csstools-light-dark-toggle--92, #c9d1d9);
     }
 
 ._wrapper_g1cur3 .hljs-section {
-        --csstools-light-dark-toggle--92: var(--csstools-color-scheme--dark) #005cc5;
-        color: var(--csstools-light-dark-toggle--92, #1f6feb);
+        --csstools-light-dark-toggle--93: var(--csstools-color-scheme--dark) #005cc5;
+        color: var(--csstools-light-dark-toggle--93, #1f6feb);
         font-weight: bold
     }
 
 ._wrapper_g1cur3 .hljs-bullet {
-        --csstools-light-dark-toggle--93: var(--csstools-color-scheme--dark) #735c0f;
-        color: var(--csstools-light-dark-toggle--93, #f2cc60);
+        --csstools-light-dark-toggle--94: var(--csstools-color-scheme--dark) #735c0f;
+        color: var(--csstools-light-dark-toggle--94, #f2cc60);
     }
 
 ._wrapper_g1cur3 .hljs-emphasis {
-        --csstools-light-dark-toggle--94: var(--csstools-color-scheme--dark) #24292e;
-        color: var(--csstools-light-dark-toggle--94, #c9d1d9);
+        --csstools-light-dark-toggle--95: var(--csstools-color-scheme--dark) #24292e;
+        color: var(--csstools-light-dark-toggle--95, #c9d1d9);
         font-style: italic
     }
 
 ._wrapper_g1cur3 .hljs-strong {
-        --csstools-light-dark-toggle--95: var(--csstools-color-scheme--dark) #24292e;
-        color: var(--csstools-light-dark-toggle--95, #c9d1d9);
+        --csstools-light-dark-toggle--96: var(--csstools-color-scheme--dark) #24292e;
+        color: var(--csstools-light-dark-toggle--96, #c9d1d9);
         font-weight: bold
     }
 
 ._wrapper_g1cur3 .hljs-addition {
-        --csstools-light-dark-toggle--96: var(--csstools-color-scheme--dark) #22863a;
-        color: var(--csstools-light-dark-toggle--96, #aff5b4);
-        --csstools-light-dark-toggle--97: var(--csstools-color-scheme--dark) #f0fff4;
-        background-color: var(--csstools-light-dark-toggle--97, #033a16);
+        --csstools-light-dark-toggle--97: var(--csstools-color-scheme--dark) #22863a;
+        color: var(--csstools-light-dark-toggle--97, #aff5b4);
+        --csstools-light-dark-toggle--98: var(--csstools-color-scheme--dark) #f0fff4;
+        background-color: var(--csstools-light-dark-toggle--98, #033a16);
     }
 
 ._wrapper_g1cur3 .hljs-deletion {
-        --csstools-light-dark-toggle--98: var(--csstools-color-scheme--dark) #b31d28;
-        color: var(--csstools-light-dark-toggle--98, #ffdcd7);
-        --csstools-light-dark-toggle--99: var(--csstools-color-scheme--dark) #ffeef0;
-        background-color: var(--csstools-light-dark-toggle--99, #67060c);
+        --csstools-light-dark-toggle--99: var(--csstools-color-scheme--dark) #b31d28;
+        color: var(--csstools-light-dark-toggle--99, #ffdcd7);
+        --csstools-light-dark-toggle--100: var(--csstools-color-scheme--dark) #ffeef0;
+        background-color: var(--csstools-light-dark-toggle--100, #67060c);
     }
 
 /* styles for crates-io/components/version-list/row.module.css */
 ._row_ofj1qe {
-    --csstools-light-dark-toggle--100: var(--csstools-color-scheme--dark) var(--grey200);
-    --bg-color: var(--csstools-light-dark-toggle--100, #242422);
-    --csstools-light-dark-toggle--101: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--101, hsl(204, 3%, 11%));
-    --csstools-light-dark-toggle--102: var(--csstools-color-scheme--dark) var(--grey700);
-    --fg-color: var(--csstools-light-dark-toggle--102, #ccc);
-    --csstools-light-dark-toggle--103: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--103, #232321);
+    --csstools-light-dark-toggle--101: var(--csstools-color-scheme--dark) var(--grey200);
+    --bg-color: var(--csstools-light-dark-toggle--101, #242422);
+    --csstools-light-dark-toggle--102: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--102, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--103: var(--csstools-color-scheme--dark) var(--grey700);
+    --fg-color: var(--csstools-light-dark-toggle--103, #ccc);
+    --csstools-light-dark-toggle--104: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--104, #232321);
 
     display: flex;
     align-items: center;
@@ -4276,20 +4385,20 @@ noscript {
     transition: all var(--transition-slow);
 }
 ._row_ofj1qe * {
-    --csstools-light-dark-toggle--100: var(--csstools-color-scheme--dark) var(--grey200);
-    --bg-color: var(--csstools-light-dark-toggle--100, #242422);
+    --csstools-light-dark-toggle--101: var(--csstools-color-scheme--dark) var(--grey200);
+    --bg-color: var(--csstools-light-dark-toggle--101, #242422);
 }
 ._row_ofj1qe * {
-    --csstools-light-dark-toggle--101: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
-    --hover-bg-color: var(--csstools-light-dark-toggle--101, hsl(204, 3%, 11%));
+    --csstools-light-dark-toggle--102: var(--csstools-color-scheme--dark) hsl(217, 37%, 98%);
+    --hover-bg-color: var(--csstools-light-dark-toggle--102, hsl(204, 3%, 11%));
 }
 ._row_ofj1qe * {
-    --csstools-light-dark-toggle--102: var(--csstools-color-scheme--dark) var(--grey700);
-    --fg-color: var(--csstools-light-dark-toggle--102, #ccc);
+    --csstools-light-dark-toggle--103: var(--csstools-color-scheme--dark) var(--grey700);
+    --fg-color: var(--csstools-light-dark-toggle--103, #ccc);
 }
 ._row_ofj1qe * {
-    --csstools-light-dark-toggle--103: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--103, #232321);
+    --csstools-light-dark-toggle--104: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
+    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--104, #232321);
 }
 ._row_ofj1qe:hover, ._row_ofj1qe._focused_ofj1qe {
         background-color: var(--hover-bg-color);
@@ -4299,64 +4408,64 @@ noscript {
         box-shadow: 0 0 0 3px var(--yellow500), var(--shadow);
     }
 ._row_ofj1qe._latest_ofj1qe {
-        --csstools-light-dark-toggle--104: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
-        --bg-color: var(--csstools-light-dark-toggle--104, hsl(136, 67%, 11%));
-        --csstools-light-dark-toggle--105: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--105, hsl(109, 10%, 11%));
-        --csstools-light-dark-toggle--106: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
-        --fg-color: var(--csstools-light-dark-toggle--106, hsl(109, 75%, 87%));
+        --csstools-light-dark-toggle--105: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
+        --bg-color: var(--csstools-light-dark-toggle--105, hsl(136, 67%, 11%));
+        --csstools-light-dark-toggle--106: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--106, hsl(109, 10%, 11%));
+        --csstools-light-dark-toggle--107: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
+        --fg-color: var(--csstools-light-dark-toggle--107, hsl(109, 75%, 87%));
     }
 ._row_ofj1qe._latest_ofj1qe * {
-        --csstools-light-dark-toggle--104: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
-        --bg-color: var(--csstools-light-dark-toggle--104, hsl(136, 67%, 11%));
+        --csstools-light-dark-toggle--105: var(--csstools-color-scheme--dark) hsl(109, 75%, 87%);
+        --bg-color: var(--csstools-light-dark-toggle--105, hsl(136, 67%, 11%));
 }
 ._row_ofj1qe._latest_ofj1qe * {
-        --csstools-light-dark-toggle--105: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--105, hsl(109, 10%, 11%));
+        --csstools-light-dark-toggle--106: var(--csstools-color-scheme--dark) hsl(109, 75%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--106, hsl(109, 10%, 11%));
 }
 ._row_ofj1qe._latest_ofj1qe * {
-        --csstools-light-dark-toggle--106: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
-        --fg-color: var(--csstools-light-dark-toggle--106, hsl(109, 75%, 87%));
+        --csstools-light-dark-toggle--107: var(--csstools-color-scheme--dark) hsl(136, 67%, 38%);
+        --fg-color: var(--csstools-light-dark-toggle--107, hsl(109, 75%, 87%));
 }
 ._row_ofj1qe._prerelease_ofj1qe {
-        --csstools-light-dark-toggle--107: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
-        --bg-color: var(--csstools-light-dark-toggle--107, hsl(39, 71%, 15%));
-        --csstools-light-dark-toggle--108: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--108, hsl(39, 10%, 11%));
-        --csstools-light-dark-toggle--109: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
-        --fg-color: var(--csstools-light-dark-toggle--109, hsl(39, 100%, 91%));
+        --csstools-light-dark-toggle--108: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
+        --bg-color: var(--csstools-light-dark-toggle--108, hsl(39, 71%, 15%));
+        --csstools-light-dark-toggle--109: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--109, hsl(39, 10%, 11%));
+        --csstools-light-dark-toggle--110: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
+        --fg-color: var(--csstools-light-dark-toggle--110, hsl(39, 100%, 91%));
     }
 ._row_ofj1qe._prerelease_ofj1qe * {
-        --csstools-light-dark-toggle--107: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
-        --bg-color: var(--csstools-light-dark-toggle--107, hsl(39, 71%, 15%));
+        --csstools-light-dark-toggle--108: var(--csstools-color-scheme--dark) hsl(39, 100%, 91%);
+        --bg-color: var(--csstools-light-dark-toggle--108, hsl(39, 71%, 15%));
 }
 ._row_ofj1qe._prerelease_ofj1qe * {
-        --csstools-light-dark-toggle--108: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--108, hsl(39, 10%, 11%));
+        --csstools-light-dark-toggle--109: var(--csstools-color-scheme--dark) hsl(39, 100%, 97%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--109, hsl(39, 10%, 11%));
 }
 ._row_ofj1qe._prerelease_ofj1qe * {
-        --csstools-light-dark-toggle--109: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
-        --fg-color: var(--csstools-light-dark-toggle--109, hsl(39, 100%, 91%));
+        --csstools-light-dark-toggle--110: var(--csstools-color-scheme--dark) hsl(39, 71%, 45%);
+        --fg-color: var(--csstools-light-dark-toggle--110, hsl(39, 100%, 91%));
 }
 ._row_ofj1qe._yanked_ofj1qe {
-        --csstools-light-dark-toggle--110: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
-        --bg-color: var(--csstools-light-dark-toggle--110, hsl(0, 84%, 12%));
-        --csstools-light-dark-toggle--111: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--111, hsl(0, 10%, 11%));
-        --csstools-light-dark-toggle--112: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
-        --fg-color: var(--csstools-light-dark-toggle--112, hsl(0, 92%, 90%));
+        --csstools-light-dark-toggle--111: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
+        --bg-color: var(--csstools-light-dark-toggle--111, hsl(0, 84%, 12%));
+        --csstools-light-dark-toggle--112: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--112, hsl(0, 10%, 11%));
+        --csstools-light-dark-toggle--113: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
+        --fg-color: var(--csstools-light-dark-toggle--113, hsl(0, 92%, 90%));
     }
 ._row_ofj1qe._yanked_ofj1qe * {
-        --csstools-light-dark-toggle--110: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
-        --bg-color: var(--csstools-light-dark-toggle--110, hsl(0, 84%, 12%));
+        --csstools-light-dark-toggle--111: var(--csstools-color-scheme--dark) hsl(0, 92%, 90%);
+        --bg-color: var(--csstools-light-dark-toggle--111, hsl(0, 84%, 12%));
 }
 ._row_ofj1qe._yanked_ofj1qe * {
-        --csstools-light-dark-toggle--111: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
-        --hover-bg-color: var(--csstools-light-dark-toggle--111, hsl(0, 10%, 11%));
+        --csstools-light-dark-toggle--112: var(--csstools-color-scheme--dark) hsl(0, 92%, 98%);
+        --hover-bg-color: var(--csstools-light-dark-toggle--112, hsl(0, 10%, 11%));
 }
 ._row_ofj1qe._yanked_ofj1qe * {
-        --csstools-light-dark-toggle--112: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
-        --fg-color: var(--csstools-light-dark-toggle--112, hsl(0, 92%, 90%));
+        --csstools-light-dark-toggle--113: var(--csstools-color-scheme--dark) hsl(0, 84%, 32%);
+        --fg-color: var(--csstools-light-dark-toggle--113, hsl(0, 92%, 90%));
 }
 ._row_ofj1qe [title], ._row_ofj1qe .ember-tooltip-target {
         position: relative;
@@ -4393,8 +4502,8 @@ noscript {
     font-variant-numeric: tabular-nums;
     color: var(--fg-color);
     background-color: var(--bg-color);
-    --csstools-light-dark-toggle--113: var(--csstools-color-scheme--dark) white;
-    border: 1px solid var(--csstools-light-dark-toggle--113, #808080);
+    --csstools-light-dark-toggle--114: var(--csstools-color-scheme--dark) white;
+    border: 1px solid var(--csstools-light-dark-toggle--114, #808080);
     border-radius: 50%;
     transition: all var(--transition-fast);
 }
@@ -4405,10 +4514,10 @@ noscript {
     }
 
 ._row_ofj1qe:hover ._release-track_ofj1qe, ._row_ofj1qe._focused_ofj1qe ._release-track_ofj1qe {
-        --csstools-light-dark-toggle--114: var(--csstools-color-scheme--dark) white;
-        border: var(--space-4xs) solid var(--csstools-light-dark-toggle--114, #bfbfbf);
-        --csstools-light-dark-toggle--115: var(--csstools-color-scheme--dark) var(--fg-color);
-        box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--115, #232321);
+        --csstools-light-dark-toggle--115: var(--csstools-color-scheme--dark) white;
+        border: var(--space-4xs) solid var(--csstools-light-dark-toggle--115, #bfbfbf);
+        --csstools-light-dark-toggle--116: var(--csstools-color-scheme--dark) var(--fg-color);
+        box-shadow: 0 1px 3px var(--csstools-light-dark-toggle--116, #232321);
     }
 
 @media only screen and (max-width: 550px) {
@@ -4456,8 +4565,8 @@ noscript {
 ._metadata_ofj1qe {
     flex-grow: 1;
     margin-left: var(--space-m);
-    --csstools-light-dark-toggle--116: var(--csstools-color-scheme--dark) var(--grey600);
-    color: var(--csstools-light-dark-toggle--116, #d1cfc7);
+    --csstools-light-dark-toggle--117: var(--csstools-color-scheme--dark) var(--grey600);
+    color: var(--csstools-light-dark-toggle--117, #d1cfc7);
     text-transform: uppercase;
     letter-spacing: .7px;
     font-size: 13px;
@@ -4469,8 +4578,8 @@ noscript {
     }
 
 ._metadata_ofj1qe a:hover {
-            --csstools-light-dark-toggle--117: var(--csstools-color-scheme--dark) var(--grey900);
-            color: var(--csstools-light-dark-toggle--117, #f5f3e9);
+            --csstools-light-dark-toggle--118: var(--csstools-color-scheme--dark) var(--grey900);
+            color: var(--csstools-light-dark-toggle--118, #f5f3e9);
         }
 
 ._metadata_ofj1qe a:focus-visible {
@@ -4564,102 +4673,6 @@ noscript {
         display: none;
 }
     }
-
-/* styles for crates-io/styles/blog-post.module.css */
-._heading_1p551g {
-    display: flex;
-    align-items: baseline;
-    margin: 0;
-}
-
-._blog-row_1p551g {
-    --csstools-light-dark-toggle--21: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--21, #232321);
-
-    padding: var(--space-s-m) var(--space-m-l);
-    background-color: var(--header-bg-color);
-    border-radius: var(--space-3xs);
-    box-shadow: var(--shadow);
-}
-
-._blog-row_1p551g * {
-    --csstools-light-dark-toggle--21: var(--csstools-color-scheme--dark) hsla(51, 90%, 42%, .35);
-    --shadow: 0 1px 3px var(--csstools-light-dark-toggle--21, #232321);
-}
-
-._title_1p551g {
-    color: var(--main-color);
-    font-weight: bold;
-    -webkit-text-decoration: none;
-    text-decoration: none;
-    font-size: 120%;
-    overflow-wrap: break-word;
-}
-
-._description_1p551g {
-    margin-top: var(--space-xs);
-    line-height: 1.5em;
-}
-
-._description-clipped_1p551g {
-    height: 4.5em;
-    overflow: clip;
-}
-
-._footer_1p551g {
-    margin-top: var(--space-xs);
-}
-
-._footer_1p551g, ._footer_1p551g > * {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-    }
-
-._name_1p551g {
-    font-weight: bold;
-}
-
-._avatar_1p551g {
-    margin-right: 10px;
-    border-radius: 50%;
-    background: white;
-    box-shadow: 1px 2px 2px 0 hsla(51, 50%, 44%, .35);
-    padding: 1px;
-}
-
-._updated-at_1p551g {
-    color: var(--main-color-light);
-}
-
-._content_1p551g {
-    --csstools-light-dark-toggle--118: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--118, #232321);
-
-    margin-bottom: var(--space-l);
-    padding: var(--space-m) var(--space-l);
-    background-color: var(--main-bg-dark);
-    border-radius: var(--space-3xs);
-    box-shadow: var(--shadow);
-}
-
-._content_1p551g * {
-    --csstools-light-dark-toggle--118: var(--csstools-color-scheme--dark) hsla(51, 50%, 44%, .35);
-    --shadow: 0 2px 3px var(--csstools-light-dark-toggle--118, #232321);
-}
-
-@media only screen and (max-width: 550px) {
-
-._content_1p551g {
-        margin-left: calc(var(--main-layout-padding) * -1);
-        margin-right: calc(var(--main-layout-padding) * -1);
-        border-radius: 0;
-}
-    }
-
-/* @media only screen and (min-width: 890px) {
-        margin-bottom: 0;
-    } */
 
 /* styles for crates-io/styles/blog.module.css */
 ._list_nfah8o {
